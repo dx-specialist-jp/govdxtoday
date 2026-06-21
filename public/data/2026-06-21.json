@@ -3,70 +3,45 @@
   "date_ja": "2026年6月21日（日）",
   "security_alerts": [],
   "hero_article": {
-    "section_name": "🤖 行政AI最前線",
-    "title": "生成AIガイドライン2.0版 施行まで2か月 ─ デジタル庁が各府省向け説明資料を公開",
-    "summary": "デジタル庁は、2026年9月1日施行予定の「生成AI活用ガイドライン2.0版」に向けた各府省向け説明資料を公開した。PMO/PJMOは特に第3章「プロジェクト管理への生成AI活用」（pp.28-45）と、CAIO設置・運用要件（第5章）を優先的に確認することが求められる。6月末までに各府省でのCAIO設置完了と、利用ログ管理体制の整備が必要。",
-    "source_name": "デジタル庁 新着情報",
-    "source_url": "https://www.digital.go.jp/",
+    "section_name": "🔒 セキュリティ速報",
+    "title": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）のお知らせ",
+    "summary": "",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/maintenance20260615.html",
     "pub_date": "2026-06-21"
   },
   "sub_articles": [
     {
-      "section_name": "🤖 行政AI最前線",
-      "title": "ガバメントAI「源内」月間利用件数が100万件を突破",
-      "summary": "全府省庁合計の「源内」月間利用件数が2026年5月実績で100万件を初めて突破。利用上位は文書要約(31%)・ドラフト作成(28%)・Q&A(22%)。PJMOでの「審査意見書ドラフト生成」活用事例も紹介された。",
-      "source_name": "デジタル庁 note",
-      "source_url": "https://digital-gov.note.jp/",
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC Eyes「ツール分析結果シートのアップデート」",
+      "summary": "",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
       "pub_date": "2026-06-21"
     },
     {
-      "section_name": "🏛️ 行政DXトピックス",
-      "title": "経済産業省、AIシステム調達ガイドブック2026年版を公表 ─ AIエージェント調達フローを新設",
-      "summary": "経産省がAIシステムの政府調達における評価基準・仕様書策定指針の2026年版を公表。AIエージェントシステムの調達フローと評価基準が新設された。来年度のAI調達計画にこの基準を反映することが望ましい。",
-      "source_name": "経済産業省",
-      "source_url": "https://www.meti.go.jp/",
-      "pub_date": "2026-06-20"
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年1～3月）」",
+      "summary": "",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://blogs.jpcert.or.jp/ja/2026/06/tsubame-overflow20260103.html",
+      "pub_date": "2026-06-21"
+    },
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC インターネット定点観測レポート［2026年1月1日～2026年3月31日］",
+      "summary": "",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://www.jpcert.or.jp/tsubame/report/report202601-03.html",
+      "pub_date": "2026-06-21"
     }
   ],
-  "news_topics": [
-    {
-      "category": "AI活用",
-      "title": "大阪市、生成AIによる申請書類審査支援を本格運用 ── 処理時間50%削減",
-      "summary": "大阪市が生成AIを活用した書類審査支援システムを本格導入。申請処理時間が平均50%削減され、職員の業務負担軽減に成功した。",
-      "relevance": "中央省庁での類似システム調達検討の際の先行事例として活用可能。",
-      "source": "ZDNet Japan",
-      "url": "https://japan.zdnet.com/"
-    },
-    {
-      "category": "制度/ガイドライン",
-      "title": "EU AI法の本格適用まで6週間 ── 日本政府・企業の対応状況を解説",
-      "summary": "2026年8月2日のEU AI法本格適用開始に向け、高リスクAIシステムの定義と日本の対応状況を特集した記事が掲載された。",
-      "relevance": "EU域との連携システムを持つ府省のPMO担当者は自システムのリスク区分確認が必要。",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/"
-    },
-    {
-      "category": "セキュリティ",
-      "title": "Microsoft 6月パッチチューズデー ── Windows Serverの重要脆弱性(CVE-2026-30511)を修正",
-      "summary": "マイクロソフトが6月月例セキュリティ更新で特権昇格脆弱性（重要度:緊急）を修正。政府情報システムでの早急なパッチ適用が推奨される。",
-      "relevance": "ガバメントクラウド・オンプレを問わず、運用担当への確認・適用指示が必要。",
-      "source": "@IT",
-      "url": "https://www.atmarkit.co.jp/"
-    },
-    {
-      "category": "クラウド/インフラ",
-      "title": "AWS、ガバメントクラウド認定リージョン（大阪）でAmazon Bedrock対応を拡大",
-      "summary": "AWSが大阪リージョンでのガバメントクラウド対応を強化。Amazon BedrockがG区分認定対象となる可能性が示唆された。",
-      "relevance": "ガバメントクラウド上でのAI基盤構築を検討中のPJMOは動向を注視すること。",
-      "source": "クラウド Watch",
-      "url": "https://cloud.watch.impress.co.jp/"
-    }
-  ],
+  "news_topics": [],
   "dx_tip": {
-    "title": "PMO審査でのAI活用チェックポイント",
-    "body": "プロジェクトにAI（特に生成AI）を導入する場合、PMOは以下3点を必ず確認しましょう。\n\n① データの機密性区分と入力制御：機密性2以上のデータを外部AI APIに送信していないか確認。\n② ハルシネーション対策：AI出力に人間によるレビュー（Human-in-the-Loop）が組み込まれているか。\n③ 運用後の精度モニタリング計画：定期的な品質評価の仕組みがプロジェクト計画に含まれているか。\n\n生成AIガイドライン2.0版の付属チェックリスト（第7章）も合わせて活用してください。",
-    "reference": "デジタル庁「生成AI活用ガイドライン 2.0版」第7章チェックリスト",
-    "reference_url": "https://www.digital.go.jp/policies/ai/"
+    "title": "デジタル行財政改革で変わる政府システム調",
+    "body": "デジタル行財政改革で変わる政府システム調達の最新動向整理について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
+    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
+    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
   },
-  "generated_at": "2026-06-21T03:15:00+09:00"
+  "generated_at": "2026-06-21T10:04:20.694Z"
 }

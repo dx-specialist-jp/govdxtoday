@@ -1,92 +1,46 @@
 {
   "tags": {
-    "AI活用": [
-      {
-        "date": "2026-06-21",
-        "date_ja": "2026年6月21日（日）",
-        "title": "大阪市、生成AIによる申請書類審査支援を本格運用 ── 処理時間50%削減",
-        "summary": "大阪市が生成AIを活用した書類審査支援システムを本格導入。申請処理時間が平均50%削減され、職員の業務負担軽減に成功した。",
-        "source": "ZDNet Japan",
-        "url": "https://japan.zdnet.com/",
-        "relevance": "中央省庁での類似システム調達検討の際の先行事例として活用可能。",
-        "type": "news"
-      }
-    ],
-    "制度/ガイドライン": [
-      {
-        "date": "2026-06-21",
-        "date_ja": "2026年6月21日（日）",
-        "title": "EU AI法の本格適用まで6週間 ── 日本政府・企業の対応状況を解説",
-        "summary": "2026年8月2日のEU AI法本格適用開始に向け、高リスクAIシステムの定義と日本の対応状況を特集した記事が掲載された。",
-        "source": "ITmedia NEWS",
-        "url": "https://www.itmedia.co.jp/news/",
-        "relevance": "EU域との連携システムを持つ府省のPMO担当者は自システムのリスク区分確認が必要。",
-        "type": "news"
-      }
-    ],
     "セキュリティ": [
       {
         "date": "2026-06-21",
         "date_ja": "2026年6月21日（日）",
-        "title": "Microsoft 6月パッチチューズデー ── Windows Serverの重要脆弱性(CVE-2026-30511)を修正",
-        "summary": "マイクロソフトが6月月例セキュリティ更新で特権昇格脆弱性（重要度:緊急）を修正。政府情報システムでの早急なパッチ適用が推奨される。",
-        "source": "@IT",
-        "url": "https://www.atmarkit.co.jp/",
-        "relevance": "ガバメントクラウド・オンプレを問わず、運用担当への確認・適用指示が必要。",
-        "type": "news"
-      }
-    ],
-    "クラウド/インフラ": [
-      {
-        "date": "2026-06-21",
-        "date_ja": "2026年6月21日（日）",
-        "title": "AWS、ガバメントクラウド認定リージョン（大阪）でAmazon Bedrock対応を拡大",
-        "summary": "AWSが大阪リージョンでのガバメントクラウド対応を強化。Amazon BedrockがG区分認定対象となる可能性が示唆された。",
-        "source": "クラウド Watch",
-        "url": "https://cloud.watch.impress.co.jp/",
-        "relevance": "ガバメントクラウド上でのAI基盤構築を検討中のPJMOは動向を注視すること。",
-        "type": "news"
-      }
-    ],
-    "行政AI": [
-      {
-        "date": "2026-06-21",
-        "date_ja": "2026年6月21日（日）",
-        "title": "生成AIガイドライン2.0版 施行まで2か月 ─ デジタル庁が各府省向け説明資料を公開",
-        "summary": "デジタル庁は、2026年9月1日施行予定の「生成AI活用ガイドライン2.0版」に向けた各府省向け説明資料を公開した。PMO/PJMOは特に第3章と第5章を優先的に確認することが求められる。",
-        "source": "デジタル庁 新着情報",
-        "url": "https://www.digital.go.jp/",
+        "title": "お知らせ：JPCERT/CC インターネット定点観測レポート［2026年1月1日～2026年3月31日］",
+        "summary": "",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/tsubame/report/report202601-03.html",
         "type": "government"
       },
       {
         "date": "2026-06-21",
         "date_ja": "2026年6月21日（日）",
-        "title": "ガバメントAI「源内」月間利用件数が100万件を突破",
-        "summary": "全府省庁合計の「源内」月間利用件数が2026年5月実績で100万件を初めて突破。",
-        "source": "デジタル庁 note",
-        "url": "https://digital-gov.note.jp/",
+        "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年1～3月）」",
+        "summary": "",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/06/tsubame-overflow20260103.html",
         "type": "government"
-      }
-    ],
-    "行政DX": [
+      },
       {
         "date": "2026-06-21",
         "date_ja": "2026年6月21日（日）",
-        "title": "経済産業省、AIシステム調達ガイドブック2026年版を公表 ─ AIエージェント調達フローを新設",
-        "summary": "経産省がAIシステムの政府調達における評価基準・仕様書策定指針の2026年版を公表。AIエージェントシステムの調達フローと評価基準が新設された。",
-        "source": "経済産業省",
-        "url": "https://www.meti.go.jp/",
+        "title": "お知らせ：JPCERT/CC Eyes「ツール分析結果シートのアップデート」",
+        "summary": "",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-21",
+        "date_ja": "2026年6月21日（日）",
+        "title": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）のお知らせ",
+        "summary": "",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/maintenance20260615.html",
         "type": "government"
       }
     ]
   },
   "tag_counts": {
-    "AI活用": 1,
-    "制度/ガイドライン": 1,
-    "セキュリティ": 1,
-    "クラウド/インフラ": 1,
-    "行政AI": 2,
-    "行政DX": 1
+    "セキュリティ": 4
   },
-  "updated_at": "2026-06-21T03:15:00+09:00"
+  "updated_at": "2026-06-21T10:04:20.696Z"
 }
