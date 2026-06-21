@@ -137,6 +137,7 @@ export default function AboutPage() {
             <ul>
               <li>毎日<strong>日本時間 0:00</strong>（UTC 15:00）にGitHub Actionsによる自動更新を実施します</li>
               <li>政府公式RSSフィード（15ソース）・無料ニュースメディア（11ソース）から前日24時間分の記事を収集します</li>
+              <li>RSSHub連携が有効な場合、政府機関・ITニュースのX（Twitter）公式アカウント（最大10アカウント）も巡回します</li>
               <li>Google Gemini AIによる要約・フィルタリング・重要度判定を経て自動公開します</li>
               <li>API障害・ネットワーク障害等により更新が遅延または欠落する場合があります</li>
               <li>過去90日分のアーカイブを保持します</li>
@@ -146,9 +147,9 @@ export default function AboutPage() {
 
           {/* 情報源 — 最新ソース一覧に更新 */}
           <section className="about-section" aria-labelledby="sources-heading">
-            <h2 className="about-section-title" id="sources-heading">📡 収集対象の情報源（全26ソース）</h2>
+            <h2 className="about-section-title" id="sources-heading">📡 収集対象の情報源（常時26ソース＋X連携時最大10アカウント）</h2>
 
-            <p><strong>政府・公的機関（15ソース）</strong></p>
+            <p><strong>政府・公的機関 RSS（15ソース）</strong></p>
             <ul>
               <li><strong>セキュリティ:</strong> JPCERT/CC・IPA（情報処理推進機構）・NISC（内閣サイバーセキュリティセンター）・警察庁サイバー警察局</li>
               <li><strong>デジタル庁:</strong> 新着情報・note・政府CIOポータル</li>
@@ -156,7 +157,7 @@ export default function AboutPage() {
               <li><strong>自治体基盤:</strong> J-LIS（地方公共団体情報システム機構）</li>
             </ul>
 
-            <p style={{ marginTop: '14px' }}><strong>無料ニュースメディア（11ソース）</strong></p>
+            <p style={{ marginTop: '14px' }}><strong>無料ニュースメディア RSS（11ソース）</strong></p>
             <ul>
               <li><strong>ITmedia系:</strong> NEWS / AI+ / エンタープライズ / @IT</li>
               <li><strong>インプレス系:</strong> Internet Watch / クラウド Watch / IT Leaders</li>
@@ -165,9 +166,16 @@ export default function AboutPage() {
               <li><strong>公共放送:</strong> NHKニュース（科学・IT）</li>
             </ul>
 
+            <p style={{ marginTop: '14px' }}><strong>X（Twitter）公式アカウント（RSSHub連携時・最大10アカウント）</strong></p>
+            <ul>
+              <li><strong>政府機関:</strong> デジタル庁・JPCERT/CC・IPA・総務省・経済産業省・内閣官房・NISC</li>
+              <li><strong>ITニュース:</strong> ITmedia NEWS・ZDNet Japan・クラウド Watch</li>
+            </ul>
+
             <p style={{ marginTop: '12px', fontSize: '13px', color: 'var(--text-muted)' }}>
               ※ 有料会員限定（ペイウォール）記事は自動的に除外します。<br />
-              ※ 各ソースのRSSフィード状況により収集件数は変動します。
+              ※ 各ソースのRSSフィード状況により収集件数は変動します。<br />
+              ※ X（Twitter）連携はRSSHub設定時のみ有効です。X社のAPI制限により取得できない場合もあります。
             </p>
           </section>
 

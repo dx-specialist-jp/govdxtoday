@@ -116,37 +116,41 @@ export default function TagPage() {
               <p className="tag-group-label">
                 {group.date_ja || group.date}
               </p>
-              {group.items.map((article, i) => (
-                <article key={i} className="tag-article-card">
-                  <h2 className="tag-article-title">{article.title}</h2>
-                  {article.summary && (
-                    <p className="tag-article-summary">{article.summary}</p>
-                  )}
-                  <div className="tag-article-meta">
-                    {article.source && <span>{article.source}</span>}
-                    {article.source && <span aria-hidden="true">·</span>}
-                    <Link
-                      to={`/day/${article.date}`}
-                      className="tag-article-daylink"
-                    >
-                      {article.date} のダイジェストを見る
-                    </Link>
-                    {article.url && (
-                      <>
-                        <span aria-hidden="true">·</span>
+              {group.items.map((article, i) => {
+                const hasUrl = article.url && article.url.startsWith('http');
+                return (
+                  <article key={i} className="tag-article-card">
+                    <h2>
+                      {hasUrl ? (
                         <a
                           href={article.url}
+                          className="tag-article-title article-title-link"
                           target="_blank"
                           rel="noopener noreferrer"
-                          style={{ color: 'var(--secondary)', fontSize: '11.5px' }}
+                          aria-label={`${article.title}（外部サイトへ）`}
                         >
-                          出典 ↗
+                          {article.title}
                         </a>
-                      </>
+                      ) : (
+                        <span className="tag-article-title">{article.title}</span>
+                      )}
+                    </h2>
+                    {article.summary && (
+                      <p className="tag-article-summary">{article.summary}</p>
                     )}
-                  </div>
-                </article>
-              ))}
+                    <div className="tag-article-meta">
+                      {article.source && <span>{article.source}</span>}
+                      {article.source && <span aria-hidden="true">·</span>}
+                      <Link
+                        to={`/day/${article.date}`}
+                        className="tag-article-daylink"
+                      >
+                        {article.date} のダイジェストを見る
+                      </Link>
+                    </div>
+                  </article>
+                );
+              })}
             </div>
           ))
         )}
