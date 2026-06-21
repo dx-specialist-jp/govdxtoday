@@ -120,6 +120,25 @@ const DX_TIP_TOPICS = [
   'DX人材育成計画の作り方：デジタルスキル標準（DSS）を活用したロードマップ',
 ];
 
+// ── X (Twitter) アカウント — RSSHub経由で巡回 ────────────────────────
+// RSSHUB_BASE_URL が設定されていない場合はスキップ
+// ※ Twitter API制限強化(2023〜)によりパブリックRSSHubでは取得できない場合あり
+//    自前のRSSHubインスタンスまたはTwitter対応インスタンスを推奨
+const X_SOURCES = [
+  // 中央省庁・公的機関
+  { name: 'デジタル庁 (@digital_jpn)',      handle: 'digital_jpn',    type: 'ai_government' },
+  { name: 'JPCERT/CC (@JPCERT_CC)',          handle: 'JPCERT_CC',      type: 'security' },
+  { name: 'IPA (@IPA_NPA)',                  handle: 'IPA_NPA',        type: 'security' },
+  { name: '総務省 (@MIC_Japan)',             handle: 'MIC_Japan',      type: 'dx' },
+  { name: '経済産業省 (@meti_NIPPON)',       handle: 'meti_NIPPON',    type: 'dx' },
+  { name: '内閣官房 (@kantei)',             handle: 'kantei',         type: 'dx' },
+  { name: 'NISC (@NISC_Japan)',              handle: 'NISC_Japan',     type: 'security' },
+  // ITニュース
+  { name: 'ITmedia NEWS (@ITmedia_News)',    handle: 'ITmedia_News',   type: 'dx' },
+  { name: 'ZDNet Japan (@ZDNetJapan)',       handle: 'ZDNetJapan',     type: 'dx' },
+  { name: 'クラウド Watch (@cloud_watch)',   handle: 'cloud_watch',    type: 'dx' },
+];
+
 // ── ペイウォールキーワード ────────────────────────────────────────────
 const PAYWALL_KEYWORDS = ['会員限定', '有料会員', 'プレミアム会員', '有料記事', '会員専用'];
 
@@ -141,6 +160,15 @@ function getDayOfYear(dateStr) {
   const d = new Date(dateStr + 'T00:00:00+09:00');
   const start = new Date(d.getFullYear(), 0, 0);
   return Math.floor((d - start) / 86400000);
+}
+
+// ── URL バリデーション ─────────────────────────────────────────────────
+function isValidUrl(url) {
+  if (!url || typeof url !== 'string') return false;
+  try {
+    const u = new URL(url);
+    return u.protocol === 'http:' || u.protocol === 'https:';
+  } catch { return false; }
 }
 
 // ── XML パーサ ────────────────────────────────────────────────────────
@@ -517,6 +545,25 @@ async function main() {
   }
   console.log(`[INFO] ニュース記事合計: ${newsArticlesRaw.length}件`);
 
+  // ② b. X (Twitter) アカウントを巡回（RSSHub経由）
+  const rsshubBase = process.env.RSSHUB_BASE_URL;
+  if (rsshubBase) {
+    console.log(`[INFO] X（Twitter）アカウントを収集中... (RSSHub: ${rsshubBase})`);
+    for (const src of X_SOURCES) {
+      const feedUrl = `${rsshubBase}/twitter/user/${src.handle}`;
+      const items = await fetchFeed(feedUrl, src.name);
+      if (items.length > 0) {
+        items.forEach((a) => govArticlesRaw.push({ ...a, articleType: src.type }));
+        console.log(`[INFO]   @${src.handle}: ${items.length}件`);
+      } else {
+        console.log(`[INFO]   @${src.handle}: 0件（Twitter API制限またはRSSHub未対応の可能性）`);
+      }
+    }
+    console.log(`[INFO] X収集後の記事合計: ${govArticlesRaw.length}件`);
+  } else {
+    console.log('[INFO] RSSHUB_BASE_URL 未設定 → X (Twitter) 収集をスキップ');
+  }
+
   let summarizedGov = [];
   let newsTopics = [];
   let dxTip = null;
@@ -564,14 +611,33 @@ async function main() {
     .filter((a) => !a.is_security_alert)
     .sort((a, b) => b.importance_score - a.importance_score);
 
-  const buildArticleContext = (a) => ({
-    section_name: SECTION_MAP[a.articleType] || SECTION_MAP.dx,
-    title: a.title,
-    summary: a.summary || a.description.slice(0, 150),
-    source_name: a.sourceName,
-    source_url: a.url,
-    pub_date: a.pubDate ? a.pubDate.slice(0, 10) : targetDate,
+  const buildArticleContext = (a) => {
+    const sourceUrl = isValidUrl(a.url) ? a.url : '';
+    if (!sourceUrl) console.warn(`[WARN] 無効なURL除外: "${a.url}" (${a.title?.slice(0, 40)})`);
+    return {
+      section_name: SECTION_MAP[a.articleType] || SECTION_MAP.dx,
+      title: a.title,
+      summary: a.summary || a.description.slice(0, 150),
+      source_name: a.sourceName,
+      source_url: sourceUrl,
+      pub_date: a.pubDate ? a.pubDate.slice(0, 10) : targetDate,
+    };
+  };
+
+  // newsTopics の URL バリデーション
+  newsTopics = newsTopics.map((t) => {
+    if (!isValidUrl(t.url)) {
+      console.warn(`[WARN] ニュースURL無効: "${t.url}" → クリア`);
+      return { ...t, url: '' };
+    }
+    return t;
   });
+
+  // DX Tips の reference_url バリデーション
+  if (dxTip && !isValidUrl(dxTip.reference_url)) {
+    console.warn(`[WARN] DX Tips参照URL無効: "${dxTip.reference_url}" → クリア`);
+    dxTip = { ...dxTip, reference_url: '' };
+  }
 
   const heroArticle = nonSecurity[0] ? buildArticleContext(nonSecurity[0]) : null;
   const subArticles = nonSecurity.slice(1, 4).map(buildArticleContext);
