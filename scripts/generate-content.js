@@ -7,7 +7,7 @@
  *
  * 環境変数:
  *   GEMINI_API_KEY  - Google Gemini API キー（必須）
- *   GEMINI_MODEL    - 使用モデル（省略時: gemini-1.5-flash）
+ *   GEMINI_MODEL    - 使用モデル（省略時: gemini-2.0-flash）
  *   TARGET_DATE     - 対象日 YYYY-MM-DD（省略時: 今日 JST）
  */
 
@@ -519,7 +519,7 @@ function updateIndex(date, summaryShort, articleCount, hasSecurityAlert) {
 // ── メイン ────────────────────────────────────────────────────────────
 async function main() {
   const targetDate = process.env.TARGET_DATE || getTodayJST();
-  const model = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
+  const model = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
   const hasApiKey = Boolean(process.env.GEMINI_API_KEY);
 
   console.log(`[INFO] 対象日: ${targetDate} / モデル: ${model}`);
