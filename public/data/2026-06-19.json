@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-19",
+  "date_ja": "2026年6月19日（金）",
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "🔒 セキュリティ速報",
+    "title": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）のお知らせ",
+    "summary": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）のお知らせ",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/maintenance20260615.html",
+    "pub_date": "2026-06-19"
+  },
+  "sub_articles": [
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC Eyes「ツール分析結果シートのアップデート」",
+      "summary": "お知らせ：JPCERT/CC Eyes「ツール分析結果シートのアップデート」",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
+      "pub_date": "2026-06-19"
+    },
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年1～3月）」",
+      "summary": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年1～3月）」",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://blogs.jpcert.or.jp/ja/2026/06/tsubame-overflow20260103.html",
+      "pub_date": "2026-06-19"
+    },
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "お知らせ：JPCERT/CC インターネット定点観測レポート［2026年1月1日～2026年3月31日］",
+      "summary": "お知らせ：JPCERT/CC インターネット定点観測レポート［2026年1月1日～2026年3月31日］",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://www.jpcert.or.jp/tsubame/report/report202601-03.html",
+      "pub_date": "2026-06-19"
+    }
+  ],
+  "news_topics": [],
+  "dx_tip": {
+    "title": "政府IT調達の変化点：競争的対話方式・ア",
+    "body": "政府IT調達の変化点：競争的対話方式・アジャイル型仕様書の実務について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
+    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
+    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
+  },
+  "generated_at": "2026-06-21T16:31:43.367Z"
+}
