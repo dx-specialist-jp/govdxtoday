@@ -2,8 +2,8 @@ export default function NewsTopics({ topics }) {
   if (!topics || topics.length === 0) return null;
 
   return (
-    <section className="digest-section" aria-labelledby="news-label">
-      <p className="section-label" id="news-label">🗞️ 今日のニューストピック</p>
+    <div className="digest-section">
+      <p className="section-label">🗞 今日のニューストピック</p>
       <div className="news-topics" role="list">
         {topics.map((topic, i) => (
           <article key={i} className="news-topic" role="listitem">
@@ -28,6 +28,6 @@ export default function NewsTopics({ topics }) {
           </article>
         ))}
       </div>
-    </section>
+    </div>
   );
 }

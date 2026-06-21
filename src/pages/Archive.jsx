@@ -10,9 +10,6 @@ function ArchiveItem({ item }) {
 
   return (
     <Link to={`/day/${item.date}`} className="date-list-item">
-      {item.has_security_alert && (
-        <span className="security-dot" title="セキュリティ速報あり" aria-label="セキュリティ速報あり" />
-      )}
       <div className="date-badge" aria-hidden="true">
         <div className="date-badge-month">{month}</div>
         <div className="date-badge-day">{day}</div>
@@ -21,9 +18,12 @@ function ArchiveItem({ item }) {
         <div className="date-list-title">{item.summary_short}</div>
         <div className="date-list-meta">
           {item.date}
-          {item.article_count > 0 && ` ・ ${item.article_count}件の記事`}
+          {item.article_count > 0 && ` · ${item.article_count}件の記事`}
         </div>
       </div>
+      {item.has_security_alert && (
+        <span className="security-pill" aria-label="セキュリティ速報あり">⚠ 速報</span>
+      )}
       <span className="date-list-arrow" aria-hidden="true">›</span>
     </Link>
   );
@@ -35,50 +35,55 @@ export default function Archive() {
 
   useEffect(() => {
     fetch(`${BASE}data/index.json`)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
+      .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
       .then(setIndex)
       .catch((e) => setError(e.message));
   }, []);
 
   if (error) {
     return (
-      <div className="main-content">
-        <div className="error-box">読み込みエラー: {error}</div>
-      </div>
+      <>
+        <div className="archive-header">
+          <div className="archive-header-inner">
+            <p className="archive-eyebrow">Archive</p>
+            <h1 className="archive-title">アーカイブ</h1>
+          </div>
+        </div>
+        <div className="main-content">
+          <div className="error-box">読み込みエラー: {error}</div>
+        </div>
+      </>
     );
   }
 
-  if (!index) {
-    return <div className="loading">読み込み中...</div>;
-  }
+  if (!index) return <div className="loading">読み込み中</div>;
 
   const dates = [...(index.dates || [])].sort((a, b) => b.date.localeCompare(a.date));
 
   return (
-    <div className="main-content">
-      <div className="date-header">
-        <p className="date-label">バックナンバー</p>
-        <h1 className="date-heading">アーカイブ</h1>
+    <>
+      <div className="archive-header">
+        <div className="archive-header-inner">
+          <p className="archive-eyebrow">Archive</p>
+          <h1 className="archive-title">アーカイブ</h1>
+          <p className="archive-count">{dates.length > 0 ? `過去 ${dates.length} 日分` : 'データなし'}</p>
+        </div>
       </div>
 
-      {dates.length === 0 ? (
-        <div className="empty-state">
-          <strong>まだコンテンツがありません</strong>
-          <p>夜間バッチが実行されると、ここに日付が表示されます。</p>
-        </div>
-      ) : (
-        <>
-          <p className="archive-intro">過去 {dates.length} 日分のダイジェストを閲覧できます。</p>
+      <div className="main-content">
+        {dates.length === 0 ? (
+          <div className="empty-state">
+            <strong>まだコンテンツがありません</strong>
+            <p>夜間バッチが実行されると、ここに日付が表示されます。</p>
+          </div>
+        ) : (
           <nav className="date-list" aria-label="日付一覧">
             {dates.map((item) => (
               <ArchiveItem key={item.date} item={item} />
             ))}
           </nav>
-        </>
-      )}
-    </div>
+        )}
+      </div>
+    </>
   );
 }

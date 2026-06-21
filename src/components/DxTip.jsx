@@ -2,8 +2,8 @@ export default function DxTip({ tip }) {
   if (!tip) return null;
 
   return (
-    <section className="digest-section" aria-labelledby="tips-label">
-      <p className="section-label" id="tips-label">💡 今日のDX Tips</p>
+    <div className="digest-section">
+      <p className="section-label">💡 今日のDX Tips</p>
       <div className="tips-card">
         <div className="tips-header">
           <span className="tips-icon" aria-hidden="true">💡</span>
@@ -23,6 +23,6 @@ export default function DxTip({ tip }) {
           </div>
         )}
       </div>
-    </section>
+    </div>
   );
 }

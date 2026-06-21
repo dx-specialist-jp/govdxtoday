@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import DigestView from '../components/DigestView.jsx';
 
 const BASE = import.meta.env.BASE_URL;
@@ -13,12 +13,8 @@ export default function DayPage() {
     if (!date) return;
     setData(null);
     setError(null);
-
     fetch(`${BASE}data/${date}.json`)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
+      .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
       .then(setData)
       .catch((e) => setError(e.message));
   }, [date]);
@@ -26,7 +22,6 @@ export default function DayPage() {
   if (error) {
     return (
       <div className="main-content">
-        <Link to="/archive" className="back-link">← アーカイブに戻る</Link>
         <div className="error-box">
           データが見つかりません（{date}）: {error}
         </div>
@@ -34,16 +29,7 @@ export default function DayPage() {
     );
   }
 
-  if (!data) {
-    return <div className="loading">読み込み中...</div>;
-  }
+  if (!data) return <div className="loading">読み込み中</div>;
 
-  return (
-    <>
-      <DigestView data={data} />
-      <div style={{ maxWidth: 'var(--max-width)', margin: '0 auto', padding: '0 24px 40px' }}>
-        <Link to="/archive" className="back-link">← アーカイブに戻る</Link>
-      </div>
-    </>
-  );
+  return <DigestView data={data} showBackLink={true} />;
 }
