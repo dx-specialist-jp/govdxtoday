@@ -697,6 +697,183 @@ a:hover { color: var(--accent); }
 .tag-nav-pill-count { font-size: 11px; opacity: 0.75; }
 
 /* ══════════════════════════════════════════
+   CALENDAR ARCHIVE
+══════════════════════════════════════════ */
+.cal-wrapper {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.cal-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.cal-nav-btn {
+  width: 32px; height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-size: 18px;
+  line-height: 1;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.cal-nav-btn:hover:not(:disabled) { background: var(--accent-light); color: var(--accent); border-color: var(--accent); }
+.cal-nav-btn:disabled { opacity: 0.3; cursor: default; }
+
+.cal-nav-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--primary);
+  letter-spacing: 0.02em;
+}
+
+.cal-legend {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 8px 20px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+.cal-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.cal-legend-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.cal-legend-normal { background: var(--accent); }
+.cal-legend-alert  { background: var(--alert); }
+.cal-legend-today-sample {
+  width: 18px; height: 18px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+
+/* カレンダーグリッド */
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.cal-header {
+  text-align: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.cal-header.cal-sun { color: var(--alert); }
+.cal-header.cal-sat { color: var(--secondary); }
+
+/* 日曜・土曜列の着色 (7n+1=日, 7n=土) */
+.cal-day:nth-child(7n+8)  { --col-color: var(--alert); }     /* 日曜列（ヘッダー7個後の最初） */
+.cal-day:nth-child(7n+14) { --col-color: var(--secondary); } /* 土曜列 */
+
+.cal-day {
+  min-height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  position: relative;
+  gap: 3px;
+  color: var(--text-muted);
+}
+.cal-day:nth-child(7n+7) { border-right: none; } /* 最終列（7の倍数）= ヘッダー含む7+7=14... */
+
+/* グリッド内ですべての7n番目 */
+.cal-grid > *:nth-child(7n) { border-right: none; }
+
+.cal-day.cal-empty {
+  background: var(--bg);
+  opacity: 0.5;
+}
+
+/* Link として機能する日付セル */
+a.cal-day {
+  text-decoration: none;
+  transition: background 0.1s;
+  cursor: pointer;
+}
+a.cal-day:hover { background: var(--accent-light); text-decoration: none; }
+a.cal-day:focus-visible { outline: var(--focus-ring); outline-offset: -2px; border-radius: 0; }
+
+.cal-day-num {
+  font-size: 14px;
+  line-height: 1;
+  color: var(--text-muted);
+}
+
+/* 記事あり */
+.cal-day.cal-available .cal-day-num {
+  font-weight: 700;
+  color: var(--secondary);
+}
+
+/* 今日 */
+.cal-day.cal-today .cal-day-num {
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+
+/* セキュリティ速報あり */
+.cal-day.cal-alert .cal-day-num { color: var(--alert); }
+
+.cal-day-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+.cal-day.cal-alert .cal-day-dot { background: var(--alert); }
+
+/* 日曜（8番目以降の7n+8）を赤に */
+.cal-grid > a.cal-day:nth-child(7n+8) .cal-day-num,
+.cal-grid > div.cal-day:nth-child(7n+8) .cal-day-num { color: var(--alert); }
+.cal-grid > a.cal-day.cal-today:nth-child(7n+8) .cal-day-num { color: #fff; }
+
+/* 土曜（7n+14）を青に */
+.cal-grid > a.cal-day:nth-child(7n+7) .cal-day-num,
+.cal-grid > div.cal-day:nth-child(7n+7) .cal-day-num { color: var(--secondary); }
+.cal-grid > a.cal-day.cal-today:nth-child(7n+7) .cal-day-num { color: #fff; }
+
+@media (max-width: 480px) {
+  .cal-day { min-height: 40px; }
+  .cal-day-num { font-size: 13px; }
+  .cal-today .cal-day-num { width: 24px; height: 24px; }
+  .cal-legend { gap: 10px; }
+}
+
+/* ══════════════════════════════════════════
    ARCHIVE
 ══════════════════════════════════════════ */
 .date-list { display: flex; flex-direction: column; gap: 6px; }

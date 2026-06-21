@@ -20,49 +20,104 @@ const ROOT = resolve(__dirname, '..');
 const DATA_DIR = resolve(ROOT, 'public', 'data');
 
 // ── 政府公式 RSS ソース ────────────────────────────────────────────────
+// 中央省庁PMO/PJMO担当者が最低限押さえるべき公式情報源
 const GOV_SOURCES = [
-  { name: 'JPCERT/CC 注意喚起',      url: 'https://www.jpcert.or.jp/rss/jpcert-all.rdf',             type: 'security' },
-  { name: 'IPA 重要なセキュリティ情報', url: 'https://www.ipa.go.jp/security/security-alert/rss.rdf',  type: 'security' },
-  { name: 'NISC 新着情報',            url: 'https://www.nisc.go.jp/rss/nisc_alert.rdf',              type: 'security' },
-  { name: 'デジタル庁 新着情報',       url: 'https://www.digital.go.jp/feed',                         type: 'ai_government' },
-  { name: 'デジタル庁 note',           url: 'https://digital-gov.note.jp/rss',                        type: 'ai_government' },
-  { name: '総務省 報道発表',           url: 'https://www.soumu.go.jp/rss/topics.rdf',                 type: 'dx' },
-  { name: '経済産業省 AI関連',         url: 'https://www.meti.go.jp/press/rss.rdf',                   type: 'dx' },
-  { name: '政府CIOポータル',           url: 'https://cio.go.jp/rss.xml',                              type: 'dx' },
-  { name: '金融庁 新着情報',           url: 'https://www.fsa.go.jp/rss.xml',                          type: 'dx' },
+  // ── セキュリティ（優先度最高）
+  { name: 'JPCERT/CC 注意喚起',        url: 'https://www.jpcert.or.jp/rss/jpcert-all.rdf',              type: 'security' },
+  { name: 'IPA 重要なセキュリティ情報', url: 'https://www.ipa.go.jp/security/security-alert/rss.rdf',   type: 'security' },
+  { name: 'NISC 新着情報',             url: 'https://www.nisc.go.jp/rss/nisc_alert.rdf',               type: 'security' },
+  { name: '警察庁 サイバー警察局',      url: 'https://www.npa.go.jp/rss.xml',                           type: 'security' },
+
+  // ── デジタル庁（DX政策の中核）
+  { name: 'デジタル庁 新着情報',        url: 'https://www.digital.go.jp/feed',                          type: 'ai_government' },
+  { name: 'デジタル庁 note',            url: 'https://digital-gov.note.jp/rss',                         type: 'ai_government' },
+  { name: '政府CIOポータル',            url: 'https://cio.go.jp/rss.xml',                               type: 'ai_government' },
+
+  // ── 各省庁 DX・AI関連
+  { name: '総務省 報道発表',            url: 'https://www.soumu.go.jp/rss/topics.rdf',                  type: 'dx' },
+  { name: '経済産業省 新着情報',        url: 'https://www.meti.go.jp/press/rss.rdf',                    type: 'dx' },
+  { name: '内閣府 新着情報',            url: 'https://www.cao.go.jp/rss.rdf',                           type: 'dx' },
+  { name: '内閣官房 新着情報',          url: 'https://www.cas.go.jp/rss.rdf',                           type: 'dx' },
+  { name: '国土交通省 新着情報',        url: 'https://www.mlit.go.jp/rss.xml',                          type: 'dx' },
+  { name: '厚生労働省 新着情報',        url: 'https://www.mhlw.go.jp/rss/topics.rdf',                  type: 'dx' },
+  { name: '文部科学省 新着情報',        url: 'https://www.mext.go.jp/b_menu/list/rss.rdf',              type: 'dx' },
+  { name: '金融庁 新着情報',            url: 'https://www.fsa.go.jp/rss.xml',                           type: 'dx' },
+
+  // ── 自治体標準化・地方DX（横展開参考事例）
+  { name: 'J-LIS 地方公共団体情報システム機構', url: 'https://www.j-lis.go.jp/rss.xml',               type: 'dx' },
 ];
 
 // ── 無料ニュース RSS ソース ───────────────────────────────────────────
+// PMO/PJMO視点で行政DX・AI・セキュリティに絞った無料媒体
 const NEWS_SOURCES = [
-  { name: 'ITmedia NEWS',         url: 'https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml', paywall: false },
-  { name: 'ITmedia AI+',         url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml',      paywall: false },
-  { name: 'ITmedia エンタープライズ', url: 'https://rss.itmedia.co.jp/rss/2.0/enterprise.xml', paywall: false },
-  { name: 'Internet Watch',       url: 'https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf', paywall: false },
-  { name: 'クラウド Watch',        url: 'https://cloud.watch.impress.co.jp/data/rss/1.0/cw/feed.rdf',   paywall: false },
-  { name: '@IT',                  url: 'https://rss.itmedia.co.jp/rss/2.0/ait.xml',        paywall: false },
-  { name: 'ZDNet Japan',          url: 'https://japan.zdnet.com/rss/index.xml',             paywall: false },
-  { name: 'CNET Japan',           url: 'https://japan.cnet.com/rss/index.xml',              paywall: false },
-  { name: 'NHKニュース 科学・IT',  url: 'https://www.nhk.or.jp/rss/news/cat3.xml',           paywall: false },
-  { name: 'Yahoo!ニュース IT',    url: 'https://news.yahoo.co.jp/rss/topics/it.xml',        paywall: false },
+  // ITmedia系（網羅性高い、無料）
+  { name: 'ITmedia NEWS',            url: 'https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml',              paywall: false },
+  { name: 'ITmedia AI+',             url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml',                   paywall: false },
+  { name: 'ITmedia エンタープライズ', url: 'https://rss.itmedia.co.jp/rss/2.0/enterprise.xml',               paywall: false },
+  { name: '@IT',                     url: 'https://rss.itmedia.co.jp/rss/2.0/ait.xml',                      paywall: false },
+
+  // インプレス系（クラウド・IT業界）
+  { name: 'Internet Watch',          url: 'https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf',  paywall: false },
+  { name: 'クラウド Watch',           url: 'https://cloud.watch.impress.co.jp/data/rss/1.0/cw/feed.rdf',    paywall: false },
+  { name: 'IT Leaders',              url: 'https://it.impress.com/rss/topNews.rdf',                          paywall: false },
+
+  // 専門IT媒体
+  { name: 'ZDNet Japan',             url: 'https://japan.zdnet.com/rss/index.xml',                           paywall: false },
+  { name: 'TechCrunch Japan',        url: 'https://jp.techcrunch.com/feed/',                                 paywall: false },
+
+  // 自治体・行政DX専門
+  { name: '自治体通信',               url: 'https://jichitai.works/feed/',                                    paywall: false },
+
+  // 公共放送（政策・社会的文脈）
+  { name: 'NHKニュース 科学・IT',     url: 'https://www.nhk.or.jp/rss/news/cat3.xml',                        paywall: false },
 ];
 
 // ── DX Tips テーマ一覧 ───────────────────────────────────────────────
+// 中央省庁PMO/PJMO担当者が実務で役立てられるテーマ（30日間ローテーション）
 const DX_TIP_TOPICS = [
-  'PMOによるプロジェクト審査でのAI活用チェックポイント（データ機密性・ハルシネーション対策・モニタリング）',
-  'ガバメントクラウド移行計画策定の5ステップ（対象範囲・スケジュール・リスク・調達・体制）',
-  '生成AI利用時のデータ機密性管理の基本（機密性区分と入力制御）',
-  '政府情報システムにおけるリスク管理とBCP策定のポイント',
-  'PJMO向け：AIシステム調達仕様書での要件記述方法',
-  '情報セキュリティポリシーの年次見直しチェックリスト',
-  'ガバメントAI「源内」の利用ガイドラインと注意点まとめ',
-  'プロジェクト管理ツール活用：Teams・SharePointの効果的な使い方',
-  'AI導入前に確認すべき個人情報保護法とシステム設計の接点',
-  '政府標準ガイドライン「GCAS」の重要ポイント整理',
-  'ITダッシュボードの読み方：プロジェクト進捗を可視化するコツ',
-  'マイナンバー利活用拡大に伴うシステム改修の留意点',
-  'ゼロトラストセキュリティの政府システムへの適用方法',
-  'RPA・AI-OCRを活用した業務自動化のPOC設計ポイント',
-  'デジタル行財政改革で変わる政府システム調達の最新動向',
+  // プロジェクト管理・PMO
+  'PMO審査でのAI活用チェックポイント：データ機密性・ハルシネーション対策・Human-in-the-Loop',
+  '政府情報システム開発プロジェクトのリスク管理とエスカレーション基準',
+  'ITダッシュボードの活用：プロジェクト進捗を定量的に可視化するKPI設計',
+  'アジャイル開発と政府標準ガイドライン（PJMGv3）の整合のとり方',
+  'ステークホルダー管理：複数府省にまたがるプロジェクトの合意形成技法',
+
+  // AI活用・倫理
+  'ガバメントAI「源内」効果的な活用法：業務別プロンプト設計のコツ',
+  '生成AI導入前に確認すべきデータ機密性区分と入力制御の実装',
+  'AIシステム調達仕様書の書き方：評価基準・性能要件・倫理条項',
+  '行政手続きへのAI適用可否判断フレームワーク（高リスク・要注意・適用可）',
+  'AI出力の品質管理：バリデーション設計とモニタリング計画の作り方',
+
+  // セキュリティ
+  'ゼロトラストセキュリティの政府システムへの段階的適用ロードマップ',
+  '情報セキュリティポリシー年次見直しチェックリスト（デジタル庁準拠）',
+  'サイバーインシデント発生時のPMO対応手順：報告ライン・BCP発動判断',
+  'ガバメントクラウド上のシステムに求められるセキュリティ要件整理',
+  'フィッシング・標的型攻撃から組織を守る職員教育プログラム設計',
+
+  // クラウド・インフラ
+  'ガバメントクラウド移行計画策定の5ステップ（対象・スケジュール・リスク・調達・体制）',
+  'クラウドコスト最適化：政府システムでのFinOps実践ポイント',
+  'オンプレミスからクラウドへの段階移行設計：データ移行のリスク低減手法',
+  'マルチクラウド環境でのデータ主権・ロックイン回避策',
+
+  // 制度・調達
+  '政府IT調達の変化点：競争的対話方式・アジャイル型仕様書の実務',
+  'PJMO向け：公共調達における契約変更・仕様変更の手続きと記録',
+  'デジタル行財政改革で変わる政府システム調達の最新動向整理',
+  '政府標準ガイドライン（GCAS）の主要ポイントと実プロジェクトへの適用',
+
+  // データ連携・業務改革
+  'マイナンバー利活用拡大に対応するシステム改修の設計留意点',
+  'ベース・レジストリ活用：行政データ連携の標準化とAPIセキュリティ',
+  'RPA・AI-OCRを活用した定型業務自動化のPoC設計から本番展開まで',
+  '行政手続きのデジタル完結（Fax・押印廃止）推進の実務チェックリスト',
+  '個人情報保護法改正対応：政府情報システムの設計見直しポイント',
+
+  // 組織・人材
+  'CAIO（最高AI責任者）設置・運用の実務：役割定義と省内連携体制',
+  'DX人材育成計画の作り方：デジタルスキル標準（DSS）を活用したロードマップ',
 ];
 
 // ── ペイウォールキーワード ────────────────────────────────────────────
@@ -76,8 +131,10 @@ function getTodayJST() {
 
 function formatDateJa(dateStr) {
   const weekdays = ['日', '月', '火', '水', '木', '金', '土'];
-  const d = new Date(dateStr + 'T00:00:00+09:00');
-  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+  // YYYY-MM-DD を直接パースして getDay() のタイムゾーンずれを回避
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const dow = new Date(y, m - 1, d).getDay(); // ローカルミッドナイト → タイムゾーン不問
+  return `${y}年${m}月${d}日（${weekdays[dow]}）`;
 }
 
 function getDayOfYear(dateStr) {
