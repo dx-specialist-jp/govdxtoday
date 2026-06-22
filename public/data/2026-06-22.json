@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-22",
+  "date_ja": "2026年6月22日（月）",
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "🔒 セキュリティ速報",
+    "title": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+    "summary": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/solicitation/",
+    "pub_date": "2026-06-22"
+  },
+  "sub_articles": [
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "令和７年における山岳遭難・水難の概況等について",
+      "summary": "令和７年における山岳遭難・水難の概況等について",
+      "source_name": "警察庁 サイバー警察局",
+      "source_url": "http://www.npa.go.jp/newlyarrived/2026/20260610001.html",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "令和８年中の月別自殺者数について（５月末の暫定値）",
+      "summary": "令和８年中の月別自殺者数について（５月末の暫定値）",
+      "source_name": "警察庁 サイバー警察局",
+      "source_url": "http://www.npa.go.jp/newlyarrived/2026/20260610002.html",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "こども霞ヶ関見学デーのごあんない",
+      "summary": "こども霞ヶ関見学デーのごあんない",
+      "source_name": "警察庁 サイバー警察局",
+      "source_url": "http://www.npa.go.jp/newlyarrived/2026/20260612001.html",
+      "pub_date": "2026-06-22"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
+      "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
+      "score": 0
+    },
+    {
+      "title": "会社の機材をネット転売、全業務を1人で握り架空売上 アイサンテクノロジー子会社で不正会計 取締役解任",
+      "summary": "測量ソフトなどを手掛けるアイサンテクノロジーは6月19日、子会社・有限会社秋測の取締役が架空売上の計上や会社資産の着服などの不正を単独で行っていたと発表した。連結営業利益への累積の損失影響額は約4900万円に上る。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news113.html",
+      "score": 0
+    },
+    {
+      "title": "パナソニックHDの株価が年初の2倍超、一時4510円の高値 楠見社長「一過性でない」",
+      "summary": "パナソニックホールディングス（HD）の株価が上昇している。データセンター向け蓄電システムの需要拡大を背景に、1月の年初来安値2003円から2倍超の水準で推移し、今月22日は一時4510円の高値をつけた。大阪市内で同日開かれた定時株主総会で楠見雄規社長は、株価上昇について一過性ではないとの認識を示した。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news145.html",
+      "score": 0
+    },
+    {
+      "title": "KDDI、“物価高”に伴い手数料値上げ 店頭は3850円→4950円に WebのeSIM発行は無料化",
+      "summary": "KDDIと沖縄セルラー電話は6月22日、物価高に伴う費用上昇を理由に、auとUQ mobileの事務手数料などを8月1日から引き上げる。店頭の主な手続きが4950円となる一方、WebでのeSIM発行手数料は無料化する。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
+      "score": 0
+    },
+    {
+      "title": "みずほが“脱ハンコ”へ 書類の「朱肉押印」を順次廃止、書類発送がより早く",
+      "summary": "みずほ銀行とみずほ信託銀行は6月19日、両行名義の各種書類における銀行名義の「朱肉を用いた押印」を順次廃止すると発表した。電子印影や押印のない書式に切り替えることで事務作業を減らし、書類を顧客に届けるまでの時間短縮につなげる。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news136.html",
+      "score": 0
+    }
+  ],
+  "dx_tip": {
+    "title": "政府標準ガイドライン（GCAS）の主要ポ",
+    "body": "政府標準ガイドライン（GCAS）の主要ポイントと実プロジェクトへの適用について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
+    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
+    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
+  },
+  "generated_at": "2026-06-22T14:39:19.743Z"
+}
