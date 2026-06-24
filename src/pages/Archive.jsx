@@ -160,7 +160,7 @@ export default function Archive() {
       <div className="main-content">
         {/* カレンダー */}
         <div className="digest-section">
-          <p className="section-label">📅 日付から選ぶ</p>
+          <p className="section-label">日付から選ぶ</p>
           <div className="cal-wrapper">
             {/* 月ナビゲーション */}
             <div className="cal-nav">
@@ -231,7 +231,7 @@ export default function Archive() {
                       </div>
                     </div>
                     {item.has_security_alert && (
-                      <span className="security-pill" aria-label="セキュリティ速報あり">⚠ 速報</span>
+                      <span className="security-pill" aria-label="セキュリティ速報あり">速報</span>
                     )}
                     <span className="date-list-arrow" aria-hidden="true">›</span>
                   </Link>

@@ -23,7 +23,7 @@ export default function AboutPage() {
 
           {/* 目的 */}
           <section className="about-section" aria-labelledby="purpose-heading">
-            <h2 className="about-section-title" id="purpose-heading">🎯 サイトの目的</h2>
+            <h2 className="about-section-title" id="purpose-heading">サイトの目的</h2>
             <p>
               GovDX Today は、中央省庁・地方公共団体の
               <strong>PMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者</strong>
@@ -38,7 +38,7 @@ export default function AboutPage() {
 
           {/* 掲載方針 */}
           <section className="about-section" aria-labelledby="policy-heading">
-            <h2 className="about-section-title" id="policy-heading">📋 掲載方針</h2>
+            <h2 className="about-section-title" id="policy-heading">掲載方針</h2>
             <ul>
               <li>掲載情報は<strong>すべて公開情報</strong>（政府・省庁の公式発表、無料で閲覧可能なニュース記事等）に限定しています</li>
               <li>ペイウォール（有料会員限定）記事は収集・掲載対象外としています</li>
@@ -51,7 +51,7 @@ export default function AboutPage() {
 
           {/* AIによる要約 */}
           <section className="about-section" aria-labelledby="ai-heading">
-            <h2 className="about-section-title" id="ai-heading">🤖 AIによる要約・フィルタリングについて</h2>
+            <h2 className="about-section-title" id="ai-heading">AIによる要約・フィルタリングについて</h2>
             <p>
               記事の要約・優先度判定・カテゴリ分類にはGoogle Gemini API
               （<code>gemini-2.0-flash</code>、無料枠使用）を利用しています。
@@ -68,7 +68,7 @@ export default function AboutPage() {
 
           {/* 免責事項 */}
           <section className="about-section" aria-labelledby="disclaimer-heading">
-            <h2 className="about-section-title" id="disclaimer-heading">⚖️ 免責事項</h2>
+            <h2 className="about-section-title" id="disclaimer-heading">免責事項</h2>
             <p>
               本サイトの情報を利用することにより生じたいかなる損害についても、
               運営者は一切の責任を負いません。
@@ -85,7 +85,7 @@ export default function AboutPage() {
 
           {/* 著作権・引用 */}
           <section className="about-section" aria-labelledby="copyright-heading">
-            <h2 className="about-section-title" id="copyright-heading">©️ 著作権・引用について</h2>
+            <h2 className="about-section-title" id="copyright-heading">著作権・引用について</h2>
             <p>
               掲載されている各記事・情報の著作権は、それぞれの出典元（政府機関・報道機関等）に帰属します。
               本サイトは報道・批評・研究目的での引用（著作権法第32条）の範囲内での情報提供を行っています。
@@ -102,7 +102,7 @@ export default function AboutPage() {
 
           {/* 非営利・非商業宣言 */}
           <section className="about-section" aria-labelledby="nonprofit-heading">
-            <h2 className="about-section-title" id="nonprofit-heading">🏳️ 非営利・非商業宣言</h2>
+            <h2 className="about-section-title" id="nonprofit-heading">非営利・非商業宣言</h2>
             <ul>
               <li>本サイトは<strong>一切の商業目的を持たない</strong>個人運営のサイトです</li>
               <li>広告掲載、アフィリエイト、スポンサーシップ等による収益化は行っていません</li>
@@ -115,7 +115,7 @@ export default function AboutPage() {
 
           {/* プライバシー */}
           <section className="about-section" aria-labelledby="privacy-heading">
-            <h2 className="about-section-title" id="privacy-heading">🔒 プライバシーについて</h2>
+            <h2 className="about-section-title" id="privacy-heading">プライバシーについて</h2>
             <p>
               本サイトはGitHub Pagesによる<strong>完全静的サイト</strong>です。
               閲覧者の個人情報・アクセスログの独自収集・分析は行っていません。
@@ -133,7 +133,7 @@ export default function AboutPage() {
 
           {/* 更新ポリシー */}
           <section className="about-section" aria-labelledby="update-heading">
-            <h2 className="about-section-title" id="update-heading">🔄 更新ポリシー</h2>
+            <h2 className="about-section-title" id="update-heading">更新ポリシー</h2>
             <ul>
               <li>毎日<strong>日本時間 23:00</strong>（UTC 14:00）にGitHub Actionsによる自動更新を実施します</li>
               <li>政府公式RSSフィード（11ソース）・無料ニュースメディア（7ソース）からその日の記事を収集します</li>
@@ -147,7 +147,7 @@ export default function AboutPage() {
 
           {/* 情報源 — 最新ソース一覧に更新 */}
           <section className="about-section" aria-labelledby="sources-heading">
-            <h2 className="about-section-title" id="sources-heading">📡 収集対象の情報源（常時18ソース＋X連携時最大10アカウント）</h2>
+            <h2 className="about-section-title" id="sources-heading">収集対象の情報源</h2>
 
             <p><strong>政府・公的機関 RSS（11ソース）</strong></p>
             <ul>

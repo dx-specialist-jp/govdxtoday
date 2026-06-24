@@ -4,7 +4,7 @@ export default function SectionNav({ hasSecurityAlert }) {
   const [active, setActive] = useState('sec-pickup');
 
   const sections = [
-    ...(hasSecurityAlert ? [{ id: 'sec-security', label: '⚠ 速報', alert: true }] : []),
+    ...(hasSecurityAlert ? [{ id: 'sec-security', label: '速報', alert: true }] : []),
     { id: 'sec-pickup', label: 'ピックアップ' },
     { id: 'sec-news', label: 'ニュース' },
     { id: 'sec-tips', label: 'DX Tips' },

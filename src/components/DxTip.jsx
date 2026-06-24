@@ -3,10 +3,9 @@ export default function DxTip({ tip }) {
 
   return (
     <div className="digest-section">
-      <p className="section-label">💡 今日のDX Tips</p>
+      <p className="section-label">今日のDX Tips</p>
       <div className="tips-card">
         <div className="tips-header">
-          <span className="tips-icon" aria-hidden="true">💡</span>
           <h3 className="tips-title">{tip.title}</h3>
         </div>
         <p className="tips-body">{tip.body}</p>

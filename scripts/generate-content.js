@@ -215,9 +215,9 @@ async function fetchFeed(url, name, charset = null) {
 
 // ── セクション名マッピング ────────────────────────────────────────────
 const SECTION_MAP = {
-  security:      '🔒 セキュリティ速報',
-  ai_government: '🤖 行政AI最前線',
-  dx:            '🏛️ 行政DXトピックス',
+  security:      'セキュリティ速報',
+  ai_government: '行政AI最前線',
+  dx:            '行政DXトピックス',
 };
 
 // ── フォールバック記事生成（Gemini 未使用時）────────────────────────────

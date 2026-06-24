@@ -3,7 +3,7 @@ export default function NewsTopics({ topics }) {
 
   return (
     <div className="digest-section">
-      <p className="section-label">🗞 今日のニューストピック</p>
+      <p className="section-label">今日のニューストピック</p>
       <div className="news-topics" role="list">
         {topics.map((topic, i) => {
           const hasUrl = topic.url && topic.url.startsWith('http');

@@ -4,15 +4,15 @@ import { Link, useParams } from 'react-router-dom';
 const BASE = import.meta.env.BASE_URL;
 
 const ALL_TAGS = [
-  { label: 'AI活用',          icon: '🤖' },
-  { label: 'セキュリティ',     icon: '🔒' },
-  { label: '行政AI',          icon: '🏛️' },
-  { label: '行政DX',          icon: '🗂️' },
-  { label: 'クラウド/インフラ', icon: '☁️' },
-  { label: '制度/ガイドライン', icon: '📋' },
-  { label: '自治体DX事例',     icon: '🏙️' },
-  { label: '調達・契約',       icon: '📝' },
-  { label: '働き方/業務改革',  icon: '💼' },
+  'AI活用',
+  'セキュリティ',
+  '行政AI',
+  '行政DX',
+  'クラウド/インフラ',
+  '制度/ガイドライン',
+  '自治体DX事例',
+  '調達・契約',
+  '働き方/業務改革',
 ];
 
 function groupByDate(articles) {
@@ -40,7 +40,6 @@ export default function TagPage() {
       .catch((e) => setError(e.message));
   }, []);
 
-  const tagInfo = ALL_TAGS.find((t) => t.label === decodedTag);
   const articles = (tagsData?.tags?.[decodedTag]) || [];
   const groups = groupByDate(articles);
   const counts = tagsData?.tag_counts || {};
@@ -71,10 +70,7 @@ export default function TagPage() {
             <Link to="/" style={{ color: '#5A9FD4', textDecoration: 'none' }}>今日</Link>
             {' › '}タグ
           </p>
-          <h1 className="page-dark-title">
-            {tagInfo?.icon && <span aria-hidden="true">{tagInfo.icon} </span>}
-            {decodedTag}
-          </h1>
+          <h1 className="page-dark-title">{decodedTag}</h1>
           <p className="page-dark-subtitle">
             {articles.length > 0 ? `${articles.length}件の記事` : '記事なし'}
           </p>
@@ -86,14 +82,13 @@ export default function TagPage() {
         <div className="digest-section">
           <p className="section-label">他のタグで探す</p>
           <nav className="all-tags-grid" aria-label="タグナビゲーション">
-            {ALL_TAGS.map(({ label, icon }) => (
+            {ALL_TAGS.map((label) => (
               <Link
                 key={label}
                 to={`/tag/${encodeURIComponent(label)}`}
                 className={`tag-nav-pill${label === decodedTag ? ' active' : ''}`}
                 aria-current={label === decodedTag ? 'page' : undefined}
               >
-                <span aria-hidden="true">{icon}</span>
                 {label}
                 {counts[label] > 0 && (
                   <span className="tag-nav-pill-count" aria-label={`${counts[label]}件`}>

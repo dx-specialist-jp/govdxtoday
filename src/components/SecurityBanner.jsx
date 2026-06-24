@@ -5,7 +5,6 @@ export default function SecurityBanner({ alerts }) {
     <div className="security-banner" role="alert" aria-label="セキュリティ速報">
       {alerts.map((alert, i) => (
         <div key={i} className="security-banner-inner">
-          <span aria-hidden="true">🔒</span>
           <span className="security-banner-label">セキュリティ速報</span>
           <div>
             <span className="security-banner-title">{alert.title}</span>

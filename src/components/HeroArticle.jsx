@@ -19,7 +19,7 @@ export default function HeroArticle({ article }) {
 
   return (
     <div className="digest-section">
-      <p className="section-label">📌 今日のピックアップ</p>
+      <p className="section-label">今日のピックアップ</p>
       <article className="hero-card">
         {article.section_name && (
           <span className="article-section-tag">{article.section_name}</span>
