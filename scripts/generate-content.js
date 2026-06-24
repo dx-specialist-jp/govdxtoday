@@ -99,24 +99,6 @@ const DX_TIP_TOPICS = [
   'DX人材育成計画の作り方：デジタルスキル標準（DSS）を活用したロードマップ',
 ];
 
-// ── X (Twitter) アカウント — RSSHub経由で巡回 ────────────────────────
-// RSSHUB_BASE_URL が設定されていない場合はスキップ
-// ※ Twitter API制限強化(2023〜)によりパブリックRSSHubでは取得できない場合あり
-//    自前のRSSHubインスタンスまたはTwitter対応インスタンスを推奨
-const X_SOURCES = [
-  // 中央省庁・公的機関
-  { name: 'デジタル庁 (@digital_jpn)',      handle: 'digital_jpn',    type: 'ai_government' },
-  { name: 'JPCERT/CC (@JPCERT_CC)',          handle: 'JPCERT_CC',      type: 'security' },
-  { name: 'IPA (@IPA_NPA)',                  handle: 'IPA_NPA',        type: 'security' },
-  { name: '総務省 (@MIC_Japan)',             handle: 'MIC_Japan',      type: 'dx' },
-  { name: '経済産業省 (@meti_NIPPON)',       handle: 'meti_NIPPON',    type: 'dx' },
-  { name: '内閣官房 (@kantei)',             handle: 'kantei',         type: 'dx' },
-  { name: 'NISC (@NISC_Japan)',              handle: 'NISC_Japan',     type: 'security' },
-  // ITニュース
-  { name: 'ITmedia NEWS (@ITmedia_News)',    handle: 'ITmedia_News',   type: 'dx' },
-  { name: 'ZDNet Japan (@ZDNetJapan)',       handle: 'ZDNetJapan',     type: 'dx' },
-  { name: 'クラウド Watch (@cloud_watch)',   handle: 'cloud_watch',    type: 'dx' },
-];
 
 // ── ペイウォールキーワード ────────────────────────────────────────────
 const PAYWALL_KEYWORDS = ['会員限定', '有料会員', 'プレミアム会員', '有料記事', '会員専用'];
@@ -580,24 +562,6 @@ async function main() {
   console.log(`[INFO] Google Alerts 記事合計: ${newsArticlesRaw.length}件 → 重複排除後: ${newsDeduped.length}件`);
 
   // ② b. X (Twitter) アカウントを巡回（RSSHub経由）
-  const rsshubBase = process.env.RSSHUB_BASE_URL;
-  if (rsshubBase) {
-    console.log(`[INFO] X（Twitter）アカウントを収集中... (RSSHub: ${rsshubBase})`);
-    for (const src of X_SOURCES) {
-      const feedUrl = `${rsshubBase}/twitter/user/${src.handle}`;
-      const items = await fetchFeed(feedUrl, src.name);
-      if (items.length > 0) {
-        items.forEach((a) => govArticlesRaw.push({ ...a, articleType: src.type }));
-        console.log(`[INFO]   @${src.handle}: ${items.length}件`);
-      } else {
-        console.log(`[INFO]   @${src.handle}: 0件（Twitter API制限またはRSSHub未対応の可能性）`);
-      }
-    }
-    console.log(`[INFO] X収集後の記事合計: ${govArticlesRaw.length}件`);
-  } else {
-    console.log('[INFO] RSSHUB_BASE_URL 未設定 → X (Twitter) 収集をスキップ');
-  }
-
   let summarizedGov = [];
   let newsTopics = [];
   let dxTip = null;
