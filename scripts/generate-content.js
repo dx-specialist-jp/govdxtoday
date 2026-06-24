@@ -32,7 +32,6 @@ const GOV_SOURCES = [
   { name: 'デジタル庁 note',            url: 'https://digital-gov.note.jp/rss',                           type: 'ai_government' },
 
   // ── 各省庁 DX・AI関連
-  { name: '総務省 報道発表',            url: 'https://www.soumu.go.jp/news.rdf', charset: 'shift_jis',   type: 'dx' },
   { name: '経済産業省 新着情報',        url: 'https://www.meti.go.jp/press/rss.rdf',                     type: 'dx' },
   { name: '内閣府 新着情報',            url: 'https://www.cao.go.jp/rss/news.rdf',                       type: 'dx' },
   { name: '厚生労働省 新着情報',        url: 'https://www.mhlw.go.jp/stf/news.rdf',                      type: 'dx' },
