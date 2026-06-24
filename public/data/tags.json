@@ -117,50 +117,20 @@
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "見過ごされるAIの脅威：オーナー不在のシステムがもたらす危険 - Forbes JAPAN",
-        "summary": "助言と行動は別物だ. ほとんどの企業にとって、AIは主に生成ツールだった。 &middot; 失敗は映画のようには起こらない。それは退屈なものだ &middot; ガバナンスは法務部門を離れ ...",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://forbesjapan.com/articles/detail/99703",
+        "title": "Claude Fable 5復活の兆し？ 問題の本質は技術ではなく政治か：進むAI規制の駆け引き - ＠IT",
+        "summary": "だが停止問題を巡っては、単なる脱獄対策では説明し切れない新たな情報も浮上している。NSAによる非公開説明や政府のAI事前審査構想をたどると、米政府と ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "生成AIアプリケーションの業務利用を、組織として安全に見守る。ファイアウォール ...",
-        "summary": "Citadel Radar は、こうした生成AIアプリケーション特有のモニタリング課題に対応し、組織横断のAIガバナンスを実運用に落とし込むためのファイアウォール・ ...",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://news.nicovideo.jp/watch/nw19461807?news_ref=top_newComments",
-        "relevance": "",
-        "type": "news"
-      },
-      {
-        "date": "2026-06-24",
-        "date_ja": "2026年6月24日（水）",
-        "title": "【6月25日- 26日／幕張メッセ】AIセキュリティ、AWS Summit Japan2026登壇決定｜AI時代の ...",
-        "summary": "診断から技術実装まで一気通貫で解決する、実効性ある AIガバナンスへの実践アプローチを解説～. AIセキュリティ. 2026年6月24日 10時00分. いいね！",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://prtimes.jp/main/html/rd/p/000000026.000166898.html",
-        "relevance": "",
-        "type": "news"
-      },
-      {
-        "date": "2026-06-24",
-        "date_ja": "2026年6月24日（水）",
-        "title": "自律的に行動するAIが求める、新しいガバナンスの設計図 - Forbes JAPAN",
-        "summary": "エリック・レイシン氏は、より説明責任があり信頼できる市場の実現に取り組む非営利団体BBBナショナル・プログラムズの社長兼最高経営責任者（CEO）である。",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://forbesjapan.com/articles/detail/99708",
-        "relevance": "",
-        "type": "news"
-      },
-      {
-        "date": "2026-06-24",
-        "date_ja": "2026年6月24日（水）",
-        "title": "サイバーリスクガバナンスSaaS「CISOaaS」で「AIガバナンス成熟度評価」の提供を開始",
-        "summary": "本フレームワークは、企業におけるAIガバナンスの実践状況を評価するために、NIST AI Risk Management Framework（AI RMF 1.0）および ISO/IEC 42001:2023 に ...",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://news.nicovideo.jp/watch/nw19461954?news_ref=watch_60_nw18971646",
+        "title": "NRIセキュア、未公表の脆弱性を「Mythosと同等のレベルで」検出する診断サービス提供",
+        "summary": "米AnthropicのClaude Mythos Previewと同等のレベルで未公表の脆弱性を検出できる」のが売り。Anthropicの日本法人代表も新サービスにコメントを寄せて ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://newspicks.com/news/16940065/?ref=user",
         "relevance": "",
         "type": "news"
       },
@@ -168,49 +138,79 @@
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
         "title": "政府認定の“Claude Code導入支援事業者”に株式会社Walkersが登録されました【最大450万円補助】",
-        "summary": "株式会社Walkers（東京都文京区、代表：渡邊 敦司）は、中小企業がAIツール「Claude Code」を最大450万円の補助を活用して導入し、日々の業務効率化を実現する ...",
+        "summary": "株式会社Walkers □背景 この1～2年で生成AIの認知は急速に広がりました。一方で、多くの中小企業では、依然として「個人がチャットで質問してみる」という ...",
         "source": "Google Alert: AI×行政",
-        "url": "https://prtimes.jp/main/html/rd/p/000000033.000089712.html",
+        "url": "https://news.livedoor.com/pr_topics/detail/31630790/",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project ...",
-        "summary": "Anthropicは高度なサイバー攻撃が可能なほどの高性能AIモデル「Claude Mythos Preview」のアップデート版となる「Claude Mythos 5」と「Claude Fable 5」 ...",
+        "title": "クロードは公式の身分証明書を要求でき、ユーザーも顔写真を求められる - VOI.id",
+        "summary": "Anthropicは、ユーザーにClaudeに政府の公式文書をアップロードして年齢と身元を確認するよう依頼できます。このルールは、同社の最新のプライバシー ...",
         "source": "Google Alert: AI×行政",
-        "url": "https://gigazine.net/news/20260622-mythos-still-access/",
+        "url": "https://voi.id/ja/amp/581285",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "Claude「Fable 5」停止の背景 Anthropicが主張する“米国政府の誤解”とは - Yahoo!ニュース",
-        "summary": "生成AIツール「Claude」を手掛けるAnthropicが2026年6月12日（現地時間）、最新のAIモデル「Fable 5」と、研究者向けに限定提供していた上位モデル「Mythos ...",
+        "title": "AnthropicがSlackでエージェントClaude Tagの導入を開始、企業向けAI競争を加速",
+        "summary": "2026年6月23日、アントロピックは Salesforce の Slack アプリ内で自社のAIエージェント「クロード・タグ」を正式公開した。新しいツールは業務ワークフロー ...",
         "source": "Google Alert: AI×行政",
-        "url": "https://news.yahoo.co.jp/articles/5d9a52752d80a3b9e0475e64351f5d9ee5fccd5b",
+        "url": "https://mezha.net/jp/bukvy/b3dded80_anthropic_launches_claude/",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "Claudeユーザーに身分証提示が求められる可能性：アンソロピックがプライバシーポリシーに明記",
-        "summary": "アンソロピック（Anthropic）が公開したプライバシーポリシーの最新版によれば、同社は7月8日以降、Claudeのユーザーに対して政府発行の身元確認書類の ...",
+        "title": "AI利用に身分証提出を義務化——OpenAIとAnthropicが本人確認を全面導入",
+        "summary": "AnthropicとOpenAIなど主要AI企業が、利用者に政府発行の身分証明書の提出を求め始めた。表向きは未成年者保護と不正アカウントの遮断が目的だが、AIが国家 ...",
         "source": "Google Alert: AI×行政",
-        "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/46314/",
+        "url": "https://finance.biggo.jp/news/8a80ee69-32df-4aa8-93c9-a7c443389505",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-06-24",
         "date_ja": "2026年6月24日（水）",
-        "title": "Claude Fable 5復活の兆し？ 問題の本質は技術ではなく政治か：進むAI規制の駆け引き - ＠IT",
-        "summary": "だが停止問題を巡っては、単なる脱獄対策では説明し切れない新たな情報も浮上している。NSAによる非公開説明や政府のAI事前審査構想をたどると、米政府と ...",
+        "title": "トランプがAI規制に転換？強まる「安全保障」ファクター、今後を見据える４つの焦点（Wedge）",
+        "summary": "米国東部時間2026年６月12日17時21分、生成AI「Claude（クロード）」を展開するAnthropic（アンソロピック）は米政府からの書簡を受け取った。書簡は ...",
         "source": "Google Alert: AI×行政",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html",
+        "url": "https://topics.smt.docomo.ne.jp/article/wedge/world/wedge_40768",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "Geminiで校務効率化、全国3都市で無料セミナー…ミカサ商事 | 教育業界ニュース「ReseEd ...",
+        "summary": "対象は自治体・教育関係者限定。 「先生の課題を今すぐ解決！Geminiで校務＆授業大改革セミナー」は、教育機関向けにGoogle for Educationの ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://reseed.resemom.jp/article/2026/06/24/13528.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "政府や企業に壊滅的なサイバー攻撃をもたらすAIモデルが「数カ月以内」に登場する恐れ",
+        "summary": "サイバー攻撃で工場が止まる、顧客情報が流出する、行政サービスが ... アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gigazine.net/news/20260623-ai-shift-cyber-risk/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "Claudeで障害発生＝政府向けサービスは稼働継続",
+        "summary": "claude.ai、API、Claude Code、Console、Coworkでエラーの発生率が上昇している。 Claude for Governmentは過去90日間の稼働率が99.93％で最も高い。",
+        "source": "Google Alert: AI×行政",
+        "url": "https://jp.beincrypto.com/claude-outage-government-tier-stays-online/",
         "relevance": "",
         "type": "news"
       },
@@ -949,5 +949,5 @@
     "行政AI": 13,
     "行政DX": 14
   },
-  "updated_at": "2026-06-24T01:59:56.184Z"
+  "updated_at": "2026-06-24T03:44:41.777Z"
 }
