@@ -37,50 +37,10 @@
     },
     {
       "section_name": "🤖 行政AI最前線",
-      "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
-      "summary": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "🤖 行政AI最前線",
-      "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
-      "summary": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "🤖 行政AI最前線",
-      "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
-      "summary": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "🤖 行政AI最前線",
       "title": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
       "summary": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
       "source_name": "デジタル庁 新着情報",
       "source_url": "https://www.digital.go.jp/procurement",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "🤖 行政AI最前線",
-      "title": "松本大臣記者会見（令和8年6月22日）要旨を掲載しました",
-      "summary": "松本大臣記者会見（令和8年6月22日）要旨を掲載しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/speech/minister-260622-01",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "🤖 行政AI最前線",
-      "title": "OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました",
-      "summary": "OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125",
       "pub_date": "2026-06-23"
     },
     {
@@ -93,100 +53,14 @@
     },
     {
       "section_name": "🏛️ 行政DXトピックス",
-      "title": "令和8年度地方財政審議会（6月19日）議事要旨",
-      "summary": "令和8年度地方財政審議会（6月19日）議事要旨",
-      "source_name": "総務省 報道発表",
-      "source_url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00929.html",
-      "pub_date": "2026-06-22"
-    },
-    {
-      "section_name": "🏛️ 行政DXトピックス",
-      "title": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
-      "summary": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
-      "source_name": "総務省 報道発表",
-      "source_url": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu_visit_2019.html",
-      "pub_date": "2026-06-22"
-    },
-    {
-      "section_name": "🏛️ 行政DXトピックス",
       "title": "「自動運転時代の“次世代の ITS 通信”研究会 第3期報告書」の公表",
       "summary": "「自動運転時代の“次世代の ITS 通信”研究会 第3期報告書」の公表",
       "source_name": "総務省 報道発表",
       "source_url": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000788.html",
       "pub_date": "2026-06-22"
-    },
-    {
-      "section_name": "🏛️ 行政DXトピックス",
-      "title": "陸上無線通信委員会報告（案）に対する意見募集の結果",
-      "summary": "陸上無線通信委員会報告（案）に対する意見募集の結果",
-      "source_name": "総務省 報道発表",
-      "source_url": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000789.html",
-      "pub_date": "2026-06-22"
-    },
-    {
-      "section_name": "🏛️ 行政DXトピックス",
-      "title": "衛星通信システム委員会報告（案）に対する意見募集の結果",
-      "summary": "衛星通信システム委員会報告（案）に対する意見募集の結果",
-      "source_name": "総務省 報道発表",
-      "source_url": "https://www.soumu.go.jp/menu_news/s-news/01kiban15_02000329.html",
-      "pub_date": "2026-06-22"
     }
   ],
   "news_topics": [
-    {
-      "title": "GiGOアプリの“大規模BAN”で運営謝罪 「ルール周知や事前説明が不十分だった」 停止措置を一時解除",
-      "summary": "ゲームセンターチェーン「GiGO」の公式アプリで発生したアカウントの大規模利用停止について、運営元のGENDA GiGO Entertainmentが謝罪した。違反利用対策として実施したものだったが、事前の案内やユーザーの利用実態への配慮が不十分だったため、不正の意図なく利用していた一部のユーザーまで停止対象に含めてしまったとしている。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
-      "score": 0
-    },
-    {
-      "title": "スパコン世界ランキング、中国が8年半ぶり首位奪還 「LineShine」1位に 富岳は9位",
-      "summary": "スーパーコンピュータの性能を競う世界ランキング「TOP500」が6月22日（現地時間）に発表され、中国の「LineShine」が首位を取った。日本の「富岳」は9位だった。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news135.html",
-      "score": 0
-    },
-    {
-      "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に 「Apps in ChatGPT」に公式アプリ",
-      "summary": "メルカリは6月23日、米OpenAIの「Apps in ChatGPT」で、フリマアプリ「メルカリ」の公式アプリの提供を始めたと発表した。「ChatGPT」と会話しながら、メルカリの商品を探せるほか、出品時の説明文の下書きも作れる。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
-      "score": 0
-    },
-    {
-      "title": "DRAM高騰が直撃した“悲劇のハード”、「Steam Machine」発売の裏で起きていたこと",
-      "summary": "米Valveが発売した「Steam Machine」は、2025年夏以降に始まったDRAMやSSDの高騰の影響を真正面から受けた悲劇のハードだった。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news131.html",
-      "score": 0
-    },
-    {
-      "title": "走行禁止区域に進入→強制停止 Luup、京都・鴨川沿いで「GPS走行制御」導入",
-      "summary": "Luupは6月23日、京都府および京都府警と連携し、鴨川沿いの走行禁止区域で電動キックボードを自動停止させる「地域みまもりストップ機能」を導入すると発表した。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news126.html",
-      "score": 0
-    },
-    {
-      "title": "国産AI「Sakana Fugu」なぜドル建て？ 円建てニーズ「受け止める」とSakana AI",
-      "summary": "円建てプランへのニーズは「日本のユーザーの皆様からいただくご意見・ご要望として、引き続きしっかりと受け止める」という。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news117.html",
-      "score": 0
-    },
     {
       "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
       "summary": "KDDIが、ISP事業者向けに提供しているメールシステムが不正アクセスを受け、顧客が作成したメールアドレスやパスワード最大1422万件が漏洩した可能性があると発表した。",
@@ -215,24 +89,6 @@
       "score": 0
     },
     {
-      "title": "FBIが作った「偽の町」 病院もデータセンターもまるで本物 約2000平米の巨大空間でサイバー捜査を訓練",
-      "summary": "米FBIが、住宅や病院、電力会社などを屋内に再現したサイバー捜査の訓練施設「Kinetic Cyber Range」を運用している。約2000平方メートルの偽の町で、2025年2月の開設以降1400人超を訓練してきた。各区画には実際に動くシステムを組み込み、現実の捜査さながらの実習を行う。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news094.html",
-      "score": 0
-    },
-    {
-      "title": "“全編AI制作”でコスト9割減を実現したViglooに聞く韓国ショートドラマ事情 「視聴者は制作方法で作品を選ばない」",
-      "summary": "SFXは100％、音響効果は85％──。韓国のショートドラマ配信「Vigloo」は制作のほぼ全工程に生成AIを取り入れ、費用を9割超・期間を3分の1に圧縮した。AIディレクターへの取材と、配信中のフルAI作品を実際に観て見えてきた“現在地”とは。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news137.html",
-      "score": 0
-    },
-    {
       "title": "あなたは解ける？ IPAが新試験「データマネジメント試験」のサンプル問題を初公開 実施は27年度から",
       "summary": "IPAは6月22日、2027年度から始まる情報処理技術者試験の新試験制度で新設する「データマネジメント試験」（仮称）のサンプル問題を公開した。",
       "relevance": "",
@@ -242,111 +98,12 @@
       "score": 0
     },
     {
-      "title": "「Steam Machine」発売、国内では約19万円から 2TB版は約25万円",
-      "summary": "KOMODOは23日、米Valveのゲームコンソール「Steam Machine」を日本でも販売すると発表した。価格は512GB版の18万9980円から。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news090.html",
-      "score": 0
-    },
-    {
-      "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
-      "summary": "「家に不在の時、『明日、家におらん』と言うことがありますか？」「ノートを使い切った時、『ノートが詰まった』と言うことがありますか？」",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news087.html",
-      "score": 0
-    },
-    {
-      "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上 アルツハイマー病治療に期待",
-      "summary": "オーストラリアのモナシュ大学などに所属する研究者らが査読付きの学術誌ACS Chemical Neuroscienceに発表した論文「Cu(ATSM) Restores Blood-Brain Barrier Abundance of P-Glycoprotein and Improves Cognitive Function in the APP/PS1 Mouse Model of Alzheimer’s Disease」は、銅をベースにした薬剤がアルツハイマー病の原因となる有毒タンパク質の蓄積を減らし、マウスの実験において記憶力を回復させることを示した研究報告だ。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
-      "score": 0
-    },
-    {
-      "title": "新幹線車内で一晩過ごす「ルミエールエクスプレス」夏に初運行 夜東京発、翌朝新大阪着",
-      "summary": "途中の岐阜羽島駅で停車し、深夜0時から6時ごろまで車内で一夜を過ごす。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news080.html",
-      "score": 0
-    },
-    {
-      "title": "SpaceX、初のシニア無担保社債を発行 AI投資加速に向け資金調達を本格化",
-      "summary": "SpaceXは、同社初となるシニア無担保社債の発行を開始した。調達資金はブリッジローンの返済や一般的な事業目的に充てられる。同社はあわせて、新興AI企業のReflection AIと提携し、データセンター「Colossus 2」の計算資源を2029年まで提供することも判明した。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
-      "score": 0
-    },
-    {
-      "title": "OpenAI、Getty Imagesと複数年契約 ChatGPTの検索結果にライセンス画像を直接表示",
-      "summary": "Getty Imagesは、OpenAIと複数年契約の表示提携を締結した。同社が保有するライセンス済み画像ライブラリが、ChatGPT内の検索や発見機能で表示されるようになり、視覚的な情報提供が強化される。過去にAI企業を提訴してきた同社だが、近年は提携を拡大している。今回の発表では学習利用についての言及はない。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
-      "score": 0
-    },
-    {
-      "title": "「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ",
-      "summary": "上司には言えない若手IT人材たちのホンネを匿名取材で暴く。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news043.html",
-      "score": 0
-    },
-    {
-      "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
-      "summary": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
-      "score": 0
-    },
-    {
       "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
       "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
       "relevance": "",
       "category": "その他",
       "source": "ITmedia NEWS",
       "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
-      "score": 0
-    },
-    {
-      "title": "会社の機材をネット転売、全業務を1人で握り架空売上 アイサンテクノロジー子会社で不正会計 取締役解任",
-      "summary": "測量ソフトなどを手掛けるアイサンテクノロジーは6月19日、子会社・有限会社秋測の取締役が架空売上の計上や会社資産の着服などの不正を単独で行っていたと発表した。連結営業利益への累積の損失影響額は約4900万円に上る。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news113.html",
-      "score": 0
-    },
-    {
-      "title": "パナソニックHDの株価が年初の2倍超、一時4510円の高値 楠見社長「一過性でない」",
-      "summary": "パナソニックホールディングス（HD）の株価が上昇している。データセンター向け蓄電システムの需要拡大を背景に、1月の年初来安値2003円から2倍超の水準で推移し、今月22日は一時4510円の高値をつけた。大阪市内で同日開かれた定時株主総会で楠見雄規社長は、株価上昇について一過性ではないとの認識を示した。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news145.html",
-      "score": 0
-    },
-    {
-      "title": "KDDI、“物価高”に伴い手数料値上げ 店頭は3850円→4950円に WebのeSIM発行は無料化",
-      "summary": "KDDIと沖縄セルラー電話は6月22日、物価高に伴う費用上昇を理由に、auとUQ mobileの事務手数料などを8月1日から引き上げる。店頭の主な手続きが4950円となる一方、WebでのeSIM発行手数料は無料化する。",
-      "relevance": "",
-      "category": "その他",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
       "score": 0
     }
   ],
