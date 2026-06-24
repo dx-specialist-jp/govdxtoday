@@ -2,6 +2,51 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "JVN: Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU90386605/",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "JVN: FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU98582044/",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "JVN: 横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+        "summary": "横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU96872547/",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "注意喚起: Fortinet製品に関連する認証情報の漏えいに関する注意喚起 (公開)",
+        "summary": "注意喚起: Fortinet製品に関連する認証情報の漏えいに関する注意喚起 (公開)",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/at/2026/at260019.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+        "summary": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/solicitation/",
+        "type": "government"
+      },
+      {
         "date": "2026-06-21",
         "date_ja": "2026年6月21日（日）",
         "title": "お知らせ：JPCERT/CC インターネット定点観測レポート［2026年1月1日～2026年3月31日］",
@@ -37,10 +82,969 @@
         "url": "https://www.jpcert.or.jp/maintenance20260615.html",
         "type": "government"
       }
+    ],
+    "その他": [
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "<b>AI</b>関連株3選 生成<b>AI</b>普及を支えるインフラと業務自動化に注目 - Simply Wall St",
+        "summary": "ワークフロー自動化と<b>AIガバナンス</b>を兼ね備えたAIプラットフォームは、IBMやNVIDIA、Microsoft、Google Cloudなど大手との提携や導入事例の広がりとともに存在感 ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://simplywall.st/ja/stocks/us/software/nasdaq-mara/mara-holdings/news/3664d496d249393f/amp&amp;ct=ga&amp;cd=CAIyHGU4NDhlMTMyMzAzODM3Yjc6Y28uanA6amE6SlA&amp;usg=AOvVaw0gImVFFdz7luf1GpTX5gc4",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "エージェント型エンジニアリング時代に向けた新機能群を「GitLab Transcend」で発表 | 編集部が ...",
+        "summary": "AIエージェントが大量並行処理する時代に対応するため、Gitのバック ... #<b>AIガバナンス</b> &middot; #DevOps &middot; #GitLab &middot; #SCM &middot; #エージェント型AI &middot; 設計／手法／テスト ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thinkit.co.jp/article/39305&amp;ct=ga&amp;cd=CAIyHGU4NDhlMTMyMzAzODM3Yjc6Y28uanA6amE6SlA&amp;usg=AOvVaw3MX40BqTZR6wNZnvkxY5Qr",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "【ガートナー解説】せっかくの「<b>AI</b>導入がムダ」に終わる罠、成功企業96％の「共通点」(2/2)",
+        "summary": "中でも今後、重要性が急速に増す知識としてブレテヌー氏が挙げるのが<b>AIガバナンス</b>だ。AIの技術的な知識の必要性は社員の職務により少なからず変わる。対して、AI ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sbbit.jp/article/cont1/185689%3Fpage%3D2&amp;ct=ga&amp;cd=CAIyHGU4NDhlMTMyMzAzODM3Yjc6Y28uanA6amE6SlA&amp;usg=AOvVaw3TZcLCGa0Ua2rVn3ykxHGA",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "生成<b>AI</b>アプリケーションの業務利用を、組織として安全に見守る。ファイアウォール ...",
+        "summary": "ファイアウォール・モニタリング製品「Citadel Radar」提供開始. プロンプトとレスポンスの業務適切性・リスク・品質を継続的に評価し、組織横断の<b>AIガバナンス</b> ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://prtimes.jp/main/html/rd/p/000000050.000075720.html&amp;ct=ga&amp;cd=CAIyHGU4NDhlMTMyMzAzODM3Yjc6Y28uanA6amE6SlA&amp;usg=AOvVaw2yotjpDsU8SZGHUAQSp4Vf",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "サイバーリスクガバナンスSaaS「CISOaaS」で「<b>AIガバナンス</b>成熟度評価」の提供を開始",
+        "summary": "株式会社セキュアベースのプレスリリース（2026年6月24日 08時00分）セキュアベース、サイバーリスクガバナンスSaaS「CISOaaS」で「<b>AIガバナンス</b>成熟度評価」 ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://prtimes.jp/main/html/rd/p/000000006.000052703.html&amp;ct=ga&amp;cd=CAIyHGU4NDhlMTMyMzAzODM3Yjc6Y28uanA6amE6SlA&amp;usg=AOvVaw2hLfbafpbMLu9OevLuigzZ",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "<b>政府</b>認定の“<b>Claude</b> Code導入支援事業者”に株式会社Walkersが登録されました【最大450万円補助】",
+        "summary": "株式会社Walkers（東京都文京区、代表：渡邊 敦司）は、中小企業がAIツール「<b>Claude</b> Code」を最大450万円の補助を活用して導入し、日々の業務効率化を実現する ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://prtimes.jp/main/html/rd/p/000000033.000089712.html&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw2yDemfLCyrVfWxasXYhLio",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "アメリカ<b>政府</b>がAnthropicの「<b>Claude</b> Mythos」の規制命令を下すもAnthropicが選定した「Project ...",
+        "summary": "Anthropicは高度なサイバー攻撃が可能なほどの高性能AIモデル「<b>Claude</b> Mythos Preview」のアップデート版となる「<b>Claude</b> Mythos 5」と「<b>Claude</b> Fable 5」 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://gigazine.net/news/20260622-mythos-still-access/&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw08NO-YvbL7Pn62-GhmdV5j",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "<b>Claude</b>「Fable 5」停止の背景 Anthropicが主張する“米国<b>政府</b>の誤解”とは - Yahoo!ニュース",
+        "summary": "生成AIツール「<b>Claude</b>」を手掛けるAnthropicが2026年6月12日（現地時間）、最新のAIモデル「Fable 5」と、研究者向けに限定提供していた上位モデル「Mythos ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.yahoo.co.jp/articles/5d9a52752d80a3b9e0475e64351f5d9ee5fccd5b&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw1_xsoXJEVAlFIrUuVJGjcv",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "<b>Claude</b>ユーザーに身分証提示が求められる可能性：アンソロピックがプライバシーポリシーに明記",
+        "summary": "アンソロピック（Anthropic）が公開したプライバシーポリシーの最新版によれば、同社は7月8日以降、<b>Claude</b>のユーザーに対して<b>政府</b>発行の身元確認書類の ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/46314/&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw084AZrU_k1mso5lgZdZvjr",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "<b>Claude</b> Fable 5復活の兆し？ 問題の本質は技術ではなく政治か：進むAI規制の駆け引き - ＠IT",
+        "summary": "だが停止問題を巡っては、単なる脱獄対策では説明し切れない新たな情報も浮上している。NSAによる非公開説明や<b>政府</b>のAI事前審査構想をたどると、米<b>政府</b>と ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw1RE_Ys5OY5_hHb57cuPPTa",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "KDDI、“物価高”に伴い手数料値上げ 店頭は3850円→4950円に WebのeSIM発行は無料化",
+        "summary": "KDDIと沖縄セルラー電話は6月22日、物価高に伴う費用上昇を理由に、auとUQ mobileの事務手数料などを8月1日から引き上げる。店頭の主な手続きが4950円となる一方、WebでのeSIM発行手数料は無料化する。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "パナソニックHDの株価が年初の2倍超、一時4510円の高値 楠見社長「一過性でない」",
+        "summary": "パナソニックホールディングス（HD）の株価が上昇している。データセンター向け蓄電システムの需要拡大を背景に、1月の年初来安値2003円から2倍超の水準で推移し、今月22日は一時4510円の高値をつけた。大阪市内で同日開かれた定時株主総会で楠見雄規社長は、株価上昇について一過性ではないとの認識を示した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news145.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "会社の機材をネット転売、全業務を1人で握り架空売上 アイサンテクノロジー子会社で不正会計 取締役解任",
+        "summary": "測量ソフトなどを手掛けるアイサンテクノロジーは6月19日、子会社・有限会社秋測の取締役が架空売上の計上や会社資産の着服などの不正を単独で行っていたと発表した。連結営業利益への累積の損失影響額は約4900万円に上る。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news113.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
+        "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
+        "summary": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ",
+        "summary": "上司には言えない若手IT人材たちのホンネを匿名取材で暴く。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news043.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "OpenAI、Getty Imagesと複数年契約 ChatGPTの検索結果にライセンス画像を直接表示",
+        "summary": "Getty Imagesは、OpenAIと複数年契約の表示提携を締結した。同社が保有するライセンス済み画像ライブラリが、ChatGPT内の検索や発見機能で表示されるようになり、視覚的な情報提供が強化される。過去にAI企業を提訴してきた同社だが、近年は提携を拡大している。今回の発表では学習利用についての言及はない。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "SpaceX、初のシニア無担保社債を発行 AI投資加速に向け資金調達を本格化",
+        "summary": "SpaceXは、同社初となるシニア無担保社債の発行を開始した。調達資金はブリッジローンの返済や一般的な事業目的に充てられる。同社はあわせて、新興AI企業のReflection AIと提携し、データセンター「Colossus 2」の計算資源を2029年まで提供することも判明した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "新幹線車内で一晩過ごす「ルミエールエクスプレス」夏に初運行 夜東京発、翌朝新大阪着",
+        "summary": "途中の岐阜羽島駅で停車し、深夜0時から6時ごろまで車内で一夜を過ごす。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news080.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上 アルツハイマー病治療に期待",
+        "summary": "オーストラリアのモナシュ大学などに所属する研究者らが査読付きの学術誌ACS Chemical Neuroscienceに発表した論文「Cu(ATSM) Restores Blood-Brain Barrier Abundance of P-Glycoprotein and Improves Cognitive Function in the APP/PS1 Mouse Model of Alzheimer’s Disease」は、銅をベースにした薬剤がアルツハイマー病の原因となる有毒タンパク質の蓄積を減らし、マウスの実験において記憶力を回復させることを示した研究報告だ。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
+        "summary": "「家に不在の時、『明日、家におらん』と言うことがありますか？」「ノートを使い切った時、『ノートが詰まった』と言うことがありますか？」",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news087.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「Steam Machine」発売、国内では約19万円から 2TB版は約25万円",
+        "summary": "KOMODOは23日、米Valveのゲームコンソール「Steam Machine」を日本でも販売すると発表した。価格は512GB版の18万9980円から。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news090.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "あなたは解ける？ IPAが新試験「データマネジメント試験」のサンプル問題を初公開 実施は27年度から",
+        "summary": "IPAは6月22日、2027年度から始まる情報処理技術者試験の新試験制度で新設する「データマネジメント試験」（仮称）のサンプル問題を公開した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news092.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "“全編AI制作”でコスト9割減を実現したViglooに聞く韓国ショートドラマ事情 「視聴者は制作方法で作品を選ばない」",
+        "summary": "SFXは100％、音響効果は85％──。韓国のショートドラマ配信「Vigloo」は制作のほぼ全工程に生成AIを取り入れ、費用を9割超・期間を3分の1に圧縮した。AIディレクターへの取材と、配信中のフルAI作品を実際に観て見えてきた“現在地”とは。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news137.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "FBIが作った「偽の町」 病院もデータセンターもまるで本物 約2000平米の巨大空間でサイバー捜査を訓練",
+        "summary": "米FBIが、住宅や病院、電力会社などを屋内に再現したサイバー捜査の訓練施設「Kinetic Cyber Range」を運用している。約2000平方メートルの偽の町で、2025年2月の開設以降1400人超を訓練してきた。各区画には実際に動くシステムを組み込み、現実の捜査さながらの実習を行う。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news094.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "トランプ大統領、耐量子暗号（PQC）移行を義務付ける大統領令に署名 2030年末期限",
+        "summary": "米連邦政府は、量子コンピュータによる暗号解読の脅威に備え、耐量子計算機暗号（PQC）への移行期限を明示した大統領令にトランプ大統領が署名したと発表した。2030年末までの移行を各省庁に求める。同時に量子技術の開発・実装を加速する大統領令にも署名し、IBMやGoogleなどの首脳陣も署名式に臨席した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news103.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+        "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に上るという。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
+        "summary": "KDDIが、ISP事業者向けに提供しているメールシステムが不正アクセスを受け、顧客が作成したメールアドレスやパスワード最大1422万件が漏洩した可能性があると発表した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "国産AI「Sakana Fugu」なぜドル建て？ 円建てニーズ「受け止める」とSakana AI",
+        "summary": "円建てプランへのニーズは「日本のユーザーの皆様からいただくご意見・ご要望として、引き続きしっかりと受け止める」という。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news117.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "走行禁止区域に進入→強制停止 Luup、京都・鴨川沿いで「GPS走行制御」導入",
+        "summary": "Luupは6月23日、京都府および京都府警と連携し、鴨川沿いの走行禁止区域で電動キックボードを自動停止させる「地域みまもりストップ機能」を導入すると発表した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news126.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "DRAM高騰が直撃した“悲劇のハード”、「Steam Machine」発売の裏で起きていたこと",
+        "summary": "米Valveが発売した「Steam Machine」は、2025年夏以降に始まったDRAMやSSDの高騰の影響を真正面から受けた悲劇のハードだった。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news131.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に 「Apps in ChatGPT」に公式アプリ",
+        "summary": "メルカリは6月23日、米OpenAIの「Apps in ChatGPT」で、フリマアプリ「メルカリ」の公式アプリの提供を始めたと発表した。「ChatGPT」と会話しながら、メルカリの商品を探せるほか、出品時の説明文の下書きも作れる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "スパコン世界ランキング、中国が8年半ぶり首位奪還 「LineShine」1位に 富岳は9位",
+        "summary": "スーパーコンピュータの性能を競う世界ランキング「TOP500」が6月22日（現地時間）に発表され、中国の「LineShine」が首位を取った。日本の「富岳」は9位だった。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news135.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "GiGOアプリの“大規模BAN”で運営謝罪 「ルール周知や事前説明が不十分だった」 停止措置を一時解除",
+        "summary": "ゲームセンターチェーン「GiGO」の公式アプリで発生したアカウントの大規模利用停止について、運営元のGENDA GiGO Entertainmentが謝罪した。違反利用対策として実施したものだったが、事前の案内やユーザーの利用実態への配慮が不十分だったため、不正の意図なく利用していた一部のユーザーまで停止対象に含めてしまったとしている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス",
+        "summary": "ソルバは、AIアークスと提携し、地域企業向けのAI顧問サービスを開始した。AI・DXの専門人材による伴走支援を月額制で提供し、企業ごとの課題に応じたAI活用を後押しする。生産性向上や原価改善、人手不足対策を通じて、地域企業の競争力強化を目指す。",
+        "source": "ITmedia AI+",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "Copilotの“元”は取れるのか問題、ついに決着？ 住友商事、京都市が掴んだ「AI活用の勝ち筋」",
+        "summary": "生成AIの導入効果が問われる時期に入っている。Microsoftが試算した削減見込み額を独自検証した住友商事が出した結論とは。住友商事と京都市の生成AI活用例を紹介し、生成AI投資の勝ち筋に迫る。",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
+        "summary": "AIツールが職場に普及するにつれて、専門家たちが長年培ってきたスキルが衰えてしまうのではないかという懸念が広がっている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "Anthropicへの500万ドル間接出資を解消、広告事業のイオレ 軸足移すAIデータセンター事業に資金投入",
+        "summary": "イオレは6月19日、3月に決めた米Anthropicへの間接出資を解消し、出資金500万ドル（約7億9355万円）全額の返還を受けると発表した。返還資金は自社で開発を進めるAIDCへの投資に充てる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "日経のAI、NTTデータが販売契約 出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
+        "summary": "日本経済新聞社とNTTデータが6月19日、日経の法人向け生成AIサービス「NIKKEI KAI」の販売契約を結んだと発表した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "DAZN「ベースボールもだまされた」の声 月2300円と思ったら年2万7600円、途中解約不可 「オフシーズンあるのに」",
+        "summary": "サッカープラン炎上のさなか、Xでは「ベースボールプランも同じ構造じゃないか」「だまされて年契約して払い続けている。オフシーズンもあるのに……」とった声が上がっている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news064.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "クリエイター守らねば産業伸びない 自民・山田太郎氏語る日本のコンテンツ戦略 AI時代の権利保護にも言及＜後編＞",
+        "summary": "前編で自民党の山田太郎参院議員は、力強い日本を作るには「成長戦略、知財戦略、国際標準戦略」の3つが欠かせないと訴えた。では、漫画、アニメ、ゲームなど日本発コンテンツを世界で稼ぐ資産に変えるには何が必要なのか。9日に開かれた一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立1周年式典での記念特別講演から、AI時代の権利保護、海賊版対策、正規版流通、クリエイター支援の課題を読み解く。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news067.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "自民・山田太郎氏語る知財／無形資産活用 「技術作るだけでは勝てない」日本の勝ち筋は＜前編＞",
+        "summary": "山田太郎参院議員が、知財・無形資産の活用を通じて企業価値の向上や日本経済の活性化を目指す一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立1周年式典で記念特別講演に臨んだ。力強い日本を作るには、「成長戦略、知財戦略、国際標準戦略の3つについて、どれも欠けてはいけない」と強調した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news066.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「ChatGPTにうちの会社が出てこない」──採用担当を悩ます“AI就活時代”の容赦なき実態",
+        "summary": "採用やHRの界隈で、じわじわと語られ始めている問題意識がある。就活生、それも優秀な層ほど、キャリア相談をLLMにするようになった。その結果、Web上での露出が乏しくLLMO対策をしていない企業は、学生から“見つけてもらえなく”なってきている――というものだ。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/18/news020.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「SaaSの死」は起こっていない？ 2つの調査から見えてきたAIで代替できない、代替すべきではない業務",
+        "summary": "米AnthropicがClaudeベースの業務エージェント機能を発表したことで、SaaSのユーザーが激減する、いわゆる「SaaSの死」が起こるのだという説が息を吹き返した。では実際にそのような変化は起こっているのか。最近こうしたことを調査した例が2件ある。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news086.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「児童を取材しないで」小学校火災、北区が強く要請 SNSでの憶測拡散も「配慮を」",
+        "summary": "SNSでの情報発信についても、「憶測や不確かな内容の拡散」について配慮するよう求めている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news087.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「投票して」→アカウント乗っ取り LINEが注意喚起 本人になりすましてPayPay送金など要求",
+        "summary": "LINEは6月18日、フィッシングサイトでアカウントを乗っ取り、家族や友人を装ってPayPayでの送金を求める詐欺が相次いでいるとして、公式SNSで注意を呼びかけた。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news091.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "代々木アニメーションGが29億円調達 韓国・ソフトバンク系VCが出資",
+        "summary": "アニメ・声優教育で知られる代々木アニメーションを擁する代々木アニメーショングループが、29億円の資金調達を実施した。引受先は韓国のCRIT Venturesと、ソフトバンクグループ傘下のDEEPCOREなど。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news103.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "楽天モバイルが「WiFiスポット」開始 都心部のアトレ・イオンモールなどから、通信量の急増受け",
+        "summary": "楽天モバイルは6月19日、対象プランの契約者向けに公衆WiFiサービス「楽天モバイルWiFiスポット」を順次提供開始した。混雑しやすい都心部の商業施設などから展開し、経由した通信はデータ利用量に含まない。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news107.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "個人開発「めっちゃカメレオン」異次元のヒット、12日で700万本突破 SNSバズや実況動画で世界に拡散",
+        "summary": "10日の発売から12日で700万本を突破し、同時接続数も30万を超えるなど、個人開発ゲームとして異次元とも言える“超大ヒット”となっている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news110.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "踏切に取り残された人をAIで検知→列車を自動停止 小田急が実運用",
+        "summary": "遮断機が降りた後に取り残しを検知すると、信号設備と連動し、接近する列車を停止させるための信号を発するとともに、乗務員に危険を知らせてブレーキを操作させる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "みずほが“脱ハンコ”へ 書類の「朱肉押印」を順次廃止、書類発送がより早く",
+        "summary": "みずほ銀行とみずほ信託銀行は6月19日、両行名義の各種書類における銀行名義の「朱肉を用いた押印」を順次廃止すると発表した。電子印影や押印のない書式に切り替えることで事務作業を減らし、書類を顧客に届けるまでの時間短縮につなげる。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news136.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "KDDI、“物価高”に伴い手数料値上げ 店頭は3850円→4950円に WebのeSIM発行は無料化",
+        "summary": "KDDIと沖縄セルラー電話は6月22日、物価高に伴う費用上昇を理由に、auとUQ mobileの事務手数料などを8月1日から引き上げる。店頭の主な手続きが4950円となる一方、WebでのeSIM発行手数料は無料化する。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "パナソニックHDの株価が年初の2倍超、一時4510円の高値 楠見社長「一過性でない」",
+        "summary": "パナソニックホールディングス（HD）の株価が上昇している。データセンター向け蓄電システムの需要拡大を背景に、1月の年初来安値2003円から2倍超の水準で推移し、今月22日は一時4510円の高値をつけた。大阪市内で同日開かれた定時株主総会で楠見雄規社長は、株価上昇について一過性ではないとの認識を示した。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news145.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "会社の機材をネット転売、全業務を1人で握り架空売上 アイサンテクノロジー子会社で不正会計 取締役解任",
+        "summary": "測量ソフトなどを手掛けるアイサンテクノロジーは6月19日、子会社・有限会社秋測の取締役が架空売上の計上や会社資産の着服などの不正を単独で行っていたと発表した。連結営業利益への累積の損失影響額は約4900万円に上る。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news113.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
+        "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
+        "summary": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ",
+        "summary": "上司には言えない若手IT人材たちのホンネを匿名取材で暴く。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/22/news043.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "OpenAI、Getty Imagesと複数年契約 ChatGPTの検索結果にライセンス画像を直接表示",
+        "summary": "Getty Imagesは、OpenAIと複数年契約の表示提携を締結した。同社が保有するライセンス済み画像ライブラリが、ChatGPT内の検索や発見機能で表示されるようになり、視覚的な情報提供が強化される。過去にAI企業を提訴してきた同社だが、近年は提携を拡大している。今回の発表では学習利用についての言及はない。",
+        "source": "ITmedia NEWS",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
+        "relevance": "",
+        "type": "news"
+      }
+    ],
+    "行政AI": [
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+        "summary": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+        "summary": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+        "summary": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「ガバメントAI 源内」における国産基盤モデルの評価設計",
+        "summary": "デジタル庁ガバメントAIリードエンジニアの大杉直也です。デジタル庁は、2027年度からの「ガバメントAI 源内」への国産基盤モデルの本格採用に向け、今年度（2026年度）中に5社の国産基盤モデルを対象とした評価検証を進めています。評価といっても、「性能の高いモデルを選ぶ」と言葉にするのは簡単ですが、",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n0644416b8ced",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました",
+        "summary": "OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "松本大臣記者会見（令和8年6月22日）要旨を掲載しました",
+        "summary": "松本大臣記者会見（令和8年6月22日）要旨を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/speech/minister-260622-01",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
+        "summary": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/procurement",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+        "summary": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+        "summary": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+        "summary": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「ガバメントAI 源内」における国産基盤モデルの評価設計",
+        "summary": "デジタル庁ガバメントAIリードエンジニアの大杉直也です。デジタル庁は、2027年度からの「ガバメントAI 源内」への国産基盤モデルの本格採用に向け、今年度（2026年度）中に5社の国産基盤モデルを対象とした評価検証を進めています。評価といっても、「性能の高いモデルを選ぶ」と言葉にするのは簡単ですが、",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n0644416b8ced",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+        "summary": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/speech/minister-260622-01",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+        "summary": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/procurement/proper-public-procurement",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "一般競争入札：令和8年度デジタル社会の推進に必要な指針類の整備に係る調査研究を掲載しました",
+        "summary": "一般競争入札：令和8年度デジタル社会の推進に必要な指針類の整備に係る調査研究を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/procurement",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+        "summary": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/procurement",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "松本大臣記者会見（令和8年6月19日）要旨を掲載しました",
+        "summary": "松本大臣記者会見（令和8年6月19日）要旨を掲載しました",
+        "source": "デジタル庁 新着情報",
+        "url": "https://www.digital.go.jp/speech/minister-260619-01",
+        "type": "government"
+      }
+    ],
+    "行政DX": [
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
+        "summary": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
+        "source": "金融庁 新着情報",
+        "url": "https://www.fsa.go.jp/news/r7/sonota/20260623.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
+        "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
+        "source": "金融庁 新着情報",
+        "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260619-1.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
+        "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
+        "source": "金融庁 新着情報",
+        "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260622-1.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+        "summary": "中央最低賃金審議会 (中央最低賃金審議会)",
+        "source": "厚生労働省 新着情報",
+        "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
+        "summary": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
+        "source": "厚生労働省 新着情報",
+        "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2604r/2604r.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "summary": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "source": "厚生労働省 新着情報",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "第493回消費者委員会本会議【6月22日開催】",
+        "summary": "第493回消費者委員会本会議【6月22日開催】",
+        "source": "内閣府 新着情報",
+        "url": "https://www.cao.go.jp/consumer/iinkai/2026/493/shiryou/index.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+        "summary": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu_visit_2019.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "令和8年度地方財政審議会（6月19日）議事要旨",
+        "summary": "令和8年度地方財政審議会（6月19日）議事要旨",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00929.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-24",
+        "date_ja": "2026年6月24日（水）",
+        "title": "情報通信審議会 情報通信技術分科会（第196回）配付資料・議事概要・議事録",
+        "summary": "情報通信審議会 情報通信技術分科会（第196回）配付資料・議事概要・議事録",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/bunkakai/02tsushin10_04000723.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "衛星通信システム委員会報告（案）に対する意見募集の結果",
+        "summary": "衛星通信システム委員会報告（案）に対する意見募集の結果",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban15_02000329.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "陸上無線通信委員会報告（案）に対する意見募集の結果",
+        "summary": "陸上無線通信委員会報告（案）に対する意見募集の結果",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000789.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "「自動運転時代の“次世代の ITS 通信”研究会 第3期報告書」の公表",
+        "summary": "「自動運転時代の“次世代の ITS 通信”研究会 第3期報告書」の公表",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000788.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+        "summary": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu_visit_2019.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-23",
+        "date_ja": "2026年6月23日（火）",
+        "title": "令和8年度地方財政審議会（6月19日）議事要旨",
+        "summary": "令和8年度地方財政審議会（6月19日）議事要旨",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00929.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第３回）を開催します",
+        "summary": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第３回）を開催します",
+        "source": "厚生労働省 新着情報",
+        "url": "https://www.mhlw.go.jp/stf/newpage_73907.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回） 議事録",
+        "summary": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回） 議事録",
+        "source": "厚生労働省 新着情報",
+        "url": "https://www.mhlw.go.jp/stf/newpage_73962.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "第494回消費者委員会本会議【6月29日開催】",
+        "summary": "第494回消費者委員会本会議【6月29日開催】",
+        "source": "内閣府 新着情報",
+        "url": "https://www.cao.go.jp/consumer/iinkai/2026/494/kaisai/index.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "情報通信審議会 電気通信事業政策部会 接続政策委員会(第83回) 配布資料",
+        "summary": "情報通信審議会 電気通信事業政策部会 接続政策委員会(第83回) 配布資料",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001182.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "一般職（事務系） － 官庁訪問情報を更新しました。",
+        "summary": "一般職（事務系） － 官庁訪問情報を更新しました。",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_syokai/saiyou/j2syu_houmon.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "情報通信審議会 情報通信技術分科会 電波有効利用委員会携帯電話等周波数の有効利用に関する検討作業班（第4回）",
+        "summary": "情報通信審議会 情報通信技術分科会 電波有効利用委員会携帯電話等周波数の有効利用に関する検討作業班（第4回）",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001337.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「強い経済の実現と健全で持続可能な地方行財政基盤の確立のための地方税財政改革についての意見」の提出",
+        "summary": "「強い経済の実現と健全で持続可能な地方行財政基盤の確立のための地方税財政改革についての意見」の提出",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000416.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "「サービス産業動態統計調査」2026年（令和8年）4月分（速報）",
+        "summary": "「サービス産業動態統計調査」2026年（令和8年）4月分（速報）",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000342.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-06-22",
+        "date_ja": "2026年6月22日（月）",
+        "title": "情報通信審議会 電気通信事業政策部会 ユニバーサルサービス政策委員会（第54回）・ユニバーサルサービス制度における交付金・負担金の算定等に関するワーキンググループ（第11回） 合同会合",
+        "summary": "情報通信審議会 電気通信事業政策部会 ユニバーサルサービス政策委員会（第54回）・ユニバーサルサービス制度における交付金・負担金の算定等に関するワーキンググループ（第11回） 合同会合",
+        "source": "総務省 報道発表",
+        "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/usf_seisaku/02kiban02_04000896.html",
+        "type": "government"
+      }
     ]
   },
   "tag_counts": {
-    "セキュリティ": 4
+    "セキュリティ": 9,
+    "その他": 58,
+    "行政AI": 16,
+    "行政DX": 24
   },
-  "updated_at": "2026-06-21T12:00:23.894Z"
+  "updated_at": "2026-06-24T01:07:58.479Z"
 }

@@ -598,7 +598,7 @@ async function main() {
       // フォールバック: 要約なしで記事をそのまま使用
       summarizedGov = govArticlesRaw.map((a) => ({
         ...a,
-        summary: a.description.slice(0, 150) || a.title,
+        summary: a.description?.slice(0, 150) || a.title,
         importance_score: a.articleType === 'security' ? 4 : a.articleType === 'ai_government' ? 3 : 2,
         is_security_alert: a.articleType === 'security',
       }));
@@ -607,7 +607,7 @@ async function main() {
     console.warn('[WARN] GEMINI_API_KEY 未設定。フォールバックデータを使用します。');
     summarizedGov = govArticlesRaw.map((a) => ({
       ...a,
-      summary: a.description.slice(0, 150) || a.title,
+      summary: a.description?.slice(0, 150) || a.title,
       importance_score: a.articleType === 'security' ? 4 : a.articleType === 'ai_government' ? 3 : 2,
       is_security_alert: a.articleType === 'security',
     }));
@@ -655,7 +655,7 @@ async function main() {
     return {
       section_name: SECTION_MAP[a.articleType] || SECTION_MAP.dx,
       title: a.title,
-      summary: a.summary || a.description.slice(0, 150) || a.title,
+      summary: a.summary || a.description?.slice(0, 150) || a.title,
       source_name: a.sourceName,
       source_url: sourceUrl,
       pub_date: (() => {

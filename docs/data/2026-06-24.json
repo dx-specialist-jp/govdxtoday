@@ -1,0 +1,256 @@
+{
+  "date": "2026-06-24",
+  "date_ja": "2026年6月24日（水）",
+  "security_alerts": [
+    {
+      "title": "注意喚起: Fortinet製品に関連する認証情報の漏えいに関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260019.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: crypton-x509-validationに不適切な証明書検証の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Node.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ZyxelのGS1900シリーズスイッチにスタックベースのバッファオーバーフローの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Drupal coreに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: リコーおよびコニカミノルタジャパン製プリンタドライバーに権限昇格の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Fortinetが「FortiGateデバイスの認証情報を使った攻撃キャンペーンの分析」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
+      "url": "https://jvn.jp/vu/JVNVU98428308/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96872547/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98582044/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90386605/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "🤖 行政AI最前線",
+    "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+    "summary": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
+    "source_name": "デジタル庁 新着情報",
+    "source_url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
+    "pub_date": "2026-06-23"
+  },
+  "sub_articles": [
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+      "summary": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
+      "pub_date": "2026-06-23"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+      "summary": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
+      "pub_date": "2026-06-23"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "情報通信審議会 情報通信技術分科会（第196回）配付資料・議事概要・議事録",
+      "summary": "情報通信審議会 情報通信技術分科会（第196回）配付資料・議事概要・議事録",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "総務省 報道発表",
+      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/bunkakai/02tsushin10_04000723.html",
+      "score": 2
+    },
+    {
+      "title": "令和8年度地方財政審議会（6月19日）議事要旨",
+      "summary": "令和8年度地方財政審議会（6月19日）議事要旨",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "総務省 報道発表",
+      "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00929.html",
+      "score": 2
+    },
+    {
+      "title": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+      "summary": "一般職技術系（情報通信行政）－官庁訪問情報を更新しました",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "総務省 報道発表",
+      "url": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu_visit_2019.html",
+      "score": 2
+    },
+    {
+      "title": "第493回消費者委員会本会議【6月22日開催】",
+      "summary": "第493回消費者委員会本会議【6月22日開催】",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "内閣府 新着情報",
+      "url": "https://www.cao.go.jp/consumer/iinkai/2026/493/shiryou/index.html",
+      "score": 2
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "summary": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "厚生労働省 新着情報",
+      "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "score": 2
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
+      "summary": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "厚生労働省 新着情報",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2604r/2604r.html",
+      "score": 2
+    },
+    {
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "summary": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "厚生労働省 新着情報",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "score": 2
+    },
+    {
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
+      "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "金融庁 新着情報",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260622-1.html",
+      "score": 2
+    },
+    {
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
+      "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "金融庁 新着情報",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260619-1.html",
+      "score": 2
+    },
+    {
+      "title": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
+      "summary": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
+      "relevance": "",
+      "category": "行政DX",
+      "source": "金融庁 新着情報",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260623.html",
+      "score": 2
+    },
+    {
+      "title": "Claude Fable 5復活の兆し？ 問題の本質は技術ではなく政治か：進むAI規制の駆け引き - ＠IT",
+      "summary": "だが停止問題を巡っては、単なる脱獄対策では説明し切れない新たな情報も浮上している。NSAによる非公開説明や政府のAI事前審査構想をたどると、米政府と ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news057.html&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw1RE_Ys5OY5_hHb57cuPPTa",
+      "score": 0
+    },
+    {
+      "title": "Claudeユーザーに身分証提示が求められる可能性：アンソロピックがプライバシーポリシーに明記",
+      "summary": "アンソロピック（Anthropic）が公開したプライバシーポリシーの最新版によれば、同社は7月8日以降、Claudeのユーザーに対して政府発行の身元確認書類の ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/46314/&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw084AZrU_k1mso5lgZdZvjr",
+      "score": 0
+    },
+    {
+      "title": "Claude「Fable 5」停止の背景 Anthropicが主張する“米国政府の誤解”とは - Yahoo!ニュース",
+      "summary": "生成AIツール「Claude」を手掛けるAnthropicが2026年6月12日（現地時間）、最新のAIモデル「Fable 5」と、研究者向けに限定提供していた上位モデル「Mythos ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.yahoo.co.jp/articles/5d9a52752d80a3b9e0475e64351f5d9ee5fccd5b&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw1_xsoXJEVAlFIrUuVJGjcv",
+      "score": 0
+    },
+    {
+      "title": "アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project ...",
+      "summary": "Anthropicは高度なサイバー攻撃が可能なほどの高性能AIモデル「Claude Mythos Preview」のアップデート版となる「Claude Mythos 5」と「Claude Fable 5」 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://gigazine.net/news/20260622-mythos-still-access/&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw08NO-YvbL7Pn62-GhmdV5j",
+      "score": 0
+    },
+    {
+      "title": "政府認定の“Claude Code導入支援事業者”に株式会社Walkersが登録されました【最大450万円補助】",
+      "summary": "株式会社Walkers（東京都文京区、代表：渡邊 敦司）は、中小企業がAIツール「Claude Code」を最大450万円の補助を活用して導入し、日々の業務効率化を実現する ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://prtimes.jp/main/html/rd/p/000000033.000089712.html&amp;ct=ga&amp;cd=CAIyHDAyM2FlYjA4NjIyMjhkMzM6Y28uanA6amE6SlA&amp;usg=AOvVaw2yDemfLCyrVfWxasXYhLio",
+      "score": 0
+    }
+  ],
+  "dx_tip": null,
+  "generated_at": "2026-06-24T01:07:58.363Z"
+}

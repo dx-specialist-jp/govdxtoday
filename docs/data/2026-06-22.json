@@ -1,0 +1,141 @@
+{
+  "date": "2026-06-22",
+  "date_ja": "2026年6月22日（月）",
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "🔒 セキュリティ速報",
+    "title": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+    "summary": "お知らせ：2026年度「JSAC2027運営業務」入札のご案内",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/solicitation/",
+    "pub_date": "2026-06-22"
+  },
+  "sub_articles": [
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "松本大臣記者会見（令和8年6月19日）要旨を掲載しました",
+      "summary": "松本大臣記者会見（令和8年6月19日）要旨を掲載しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/speech/minister-260619-01",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+      "summary": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/procurement",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "一般競争入札：令和8年度デジタル社会の推進に必要な指針類の整備に係る調査研究を掲載しました",
+      "summary": "一般競争入札：令和8年度デジタル社会の推進に必要な指針類の整備に係る調査研究を掲載しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/procurement",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+      "summary": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/procurement/proper-public-procurement",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+      "summary": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/speech/minister-260622-01",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "「ガバメントAI 源内」における国産基盤モデルの評価設計",
+      "summary": "デジタル庁ガバメントAIリードエンジニアの大杉直也です。デジタル庁は、2027年度からの「ガバメントAI 源内」への国産基盤モデルの本格採用に向け、今年度（2026年度）中に5社の国産基盤モデルを対象とした評価検証を進めています。評価といっても、「性能の高いモデルを選ぶ」と言葉にするのは簡単ですが、",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n0644416b8ced",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "第494回消費者委員会本会議【6月29日開催】",
+      "summary": "第494回消費者委員会本会議【6月29日開催】",
+      "source_name": "内閣府 新着情報",
+      "source_url": "https://www.cao.go.jp/consumer/iinkai/2026/494/kaisai/index.html",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回） 議事録",
+      "summary": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回） 議事録",
+      "source_name": "厚生労働省 新着情報",
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_73962.html",
+      "pub_date": "2026-06-22"
+    },
+    {
+      "section_name": "🏛️ 行政DXトピックス",
+      "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第３回）を開催します",
+      "summary": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第３回）を開催します",
+      "source_name": "厚生労働省 新着情報",
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_73907.html",
+      "pub_date": "2026-06-22"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
+      "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
+      "score": 0
+    },
+    {
+      "title": "みずほが“脱ハンコ”へ 書類の「朱肉押印」を順次廃止、書類発送がより早く",
+      "summary": "みずほ銀行とみずほ信託銀行は6月19日、両行名義の各種書類における銀行名義の「朱肉を用いた押印」を順次廃止すると発表した。電子印影や押印のない書式に切り替えることで事務作業を減らし、書類を顧客に届けるまでの時間短縮につなげる。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news136.html",
+      "score": 0
+    },
+    {
+      "title": "踏切に取り残された人をAIで検知→列車を自動停止 小田急が実運用",
+      "summary": "遮断機が降りた後に取り残しを検知すると、信号設備と連動し、接近する列車を停止させるための信号を発するとともに、乗務員に危険を知らせてブレーキを操作させる。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
+      "score": 0
+    },
+    {
+      "title": "「SaaSの死」は起こっていない？ 2つの調査から見えてきたAIで代替できない、代替すべきではない業務",
+      "summary": "米AnthropicがClaudeベースの業務エージェント機能を発表したことで、SaaSのユーザーが激減する、いわゆる「SaaSの死」が起こるのだという説が息を吹き返した。では実際にそのような変化は起こっているのか。最近こうしたことを調査した例が2件ある。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news086.html",
+      "score": 0
+    },
+    {
+      "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
+      "summary": "AIツールが職場に普及するにつれて、専門家たちが長年培ってきたスキルが衰えてしまうのではないかという懸念が広がっている。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
+      "score": 0
+    }
+  ],
+  "dx_tip": {
+    "title": "政府標準ガイドライン（GCAS）の主要ポ",
+    "body": "政府標準ガイドライン（GCAS）の主要ポイントと実プロジェクトへの適用について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
+    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
+    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
+  },
+  "generated_at": "2026-06-23T00:12:01.140Z"
+}

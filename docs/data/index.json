@@ -1,6 +1,24 @@
 {
   "dates": [
     {
+      "date": "2026-06-24",
+      "summary_short": "JP PINTの「グローバルの取組（Japan Peppol…など3件",
+      "article_count": 3,
+      "has_security_alert": true
+    },
+    {
+      "date": "2026-06-23",
+      "summary_short": "注意喚起: Fortinet製品に関連する認証情報の漏えいに…など16件",
+      "article_count": 16,
+      "has_security_alert": false
+    },
+    {
+      "date": "2026-06-22",
+      "summary_short": "お知らせ：2026年度「JSAC2027運営業務」入札のご案…など16件",
+      "article_count": 16,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-06-21",
       "summary_short": "お知らせ：インシデント報告Webフォームメンテナンス（202…など4件",
       "article_count": 4,

@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-23",
+  "date_ja": "2026年6月23日（火）",
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "🔒 セキュリティ速報",
+    "title": "注意喚起: Fortinet製品に関連する認証情報の漏えいに関する注意喚起 (公開)",
+    "summary": "注意喚起: Fortinet製品に関連する認証情報の漏えいに関する注意喚起 (公開)",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/at/2026/at260019.html",
+    "pub_date": "2026-06-23"
+  },
+  "sub_articles": [
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "JVN: 横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+      "summary": "横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://jvn.jp/vu/JVNVU96872547/",
+      "pub_date": "2026-06-23"
+    },
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "JVN: FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://jvn.jp/vu/JVNVU98582044/",
+      "pub_date": "2026-06-23"
+    },
+    {
+      "section_name": "🔒 セキュリティ速報",
+      "title": "JVN: Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://jvn.jp/vu/JVNVU90386605/",
+      "pub_date": "2026-06-23"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
+      "summary": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
+      "source_name": "デジタル庁 新着情報",
+      "source_url": "https://www.digital.go.jp/procurement",
+      "pub_date": "2026-06-23"
+    },
+    {
+      "section_name": "🤖 行政AI最前線",
+      "title": "「ガバメントAI 源内」における国産基盤モデルの評価設計",
+      "summary": "デジタル庁ガバメントAIリードエンジニアの大杉直也です。デジタル庁は、2027年度からの「ガバメントAI 源内」への国産基盤モデルの本格採用に向け、今年度（2026年度）中に5社の国産基盤モデルを対象とした評価検証を進めています。評価といっても、「性能の高いモデルを選ぶ」と言葉にするのは簡単ですが、",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n0644416b8ced",
+      "pub_date": "2026-06-22"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
+      "summary": "KDDIが、ISP事業者向けに提供しているメールシステムが不正アクセスを受け、顧客が作成したメールアドレスやパスワード最大1422万件が漏洩した可能性があると発表した。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+      "score": 0
+    },
+    {
+      "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+      "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に上るという。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+      "score": 0
+    },
+    {
+      "title": "トランプ大統領、耐量子暗号（PQC）移行を義務付ける大統領令に署名 2030年末期限",
+      "summary": "米連邦政府は、量子コンピュータによる暗号解読の脅威に備え、耐量子計算機暗号（PQC）への移行期限を明示した大統領令にトランプ大統領が署名したと発表した。2030年末までの移行を各省庁に求める。同時に量子技術の開発・実装を加速する大統領令にも署名し、IBMやGoogleなどの首脳陣も署名式に臨席した。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news103.html",
+      "score": 0
+    },
+    {
+      "title": "あなたは解ける？ IPAが新試験「データマネジメント試験」のサンプル問題を初公開 実施は27年度から",
+      "summary": "IPAは6月22日、2027年度から始まる情報処理技術者試験の新試験制度で新設する「データマネジメント試験」（仮称）のサンプル問題を公開した。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news092.html",
+      "score": 0
+    },
+    {
+      "title": "「特定在留カード」運用開始、マイナカードと一体化 外国人の利便性向上へ",
+      "summary": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめた「特定在留カード」の運用を始めた。両カードに関わる手続きを一元的に処理できるようにし、外国人の利便性向上と行政運営の効率化を図る。",
+      "relevance": "",
+      "category": "その他",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
+      "score": 0
+    }
+  ],
+  "dx_tip": {
+    "title": "マイナンバー利活用拡大に対応するシステム",
+    "body": "マイナンバー利活用拡大に対応するシステム改修の設計留意点について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
+    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
+    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
+  },
+  "generated_at": "2026-06-23T14:26:04.941Z"
+}
