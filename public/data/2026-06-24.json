@@ -28,32 +28,8 @@
       "source": "JPCERT/CC 注意喚起"
     }
   ],
-  "hero_article": {
-    "section_name": "行政AI最前線",
-    "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
-    "summary": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
-    "source_name": "デジタル庁 新着情報",
-    "source_url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
-    "pub_date": "2026-06-23"
-  },
-  "sub_articles": [
-    {
-      "section_name": "行政AI最前線",
-      "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
-      "summary": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
-      "pub_date": "2026-06-23"
-    },
-    {
-      "section_name": "行政AI最前線",
-      "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
-      "summary": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
-      "source_name": "デジタル庁 新着情報",
-      "source_url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
-      "pub_date": "2026-06-23"
-    }
-  ],
+  "hero_article": null,
+  "sub_articles": [],
   "news_topics": [
     {
       "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
@@ -80,69 +56,6 @@
       "category": "セキュリティ",
       "source": "JPCERT/CC 注意喚起",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#3",
-      "score": 2
-    },
-    {
-      "title": "第493回消費者委員会本会議【6月22日開催】",
-      "summary": "第493回消費者委員会本会議【6月22日開催】",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "内閣府 新着情報",
-      "url": "https://www.cao.go.jp/consumer/iinkai/2026/493/shiryou/index.html",
-      "score": 2
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "summary": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "厚生労働省 新着情報",
-      "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "score": 2
-    },
-    {
-      "title": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
-      "summary": "毎月勤労統計調査ー2026（令和８）年４月分結果確報",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "厚生労働省 新着情報",
-      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2604r/2604r.html",
-      "score": 2
-    },
-    {
-      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
-      "summary": "中央最低賃金審議会 (中央最低賃金審議会)",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "厚生労働省 新着情報",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
-      "score": 2
-    },
-    {
-      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
-      "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年６月22日）について掲載しました。",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "金融庁 新着情報",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260622-1.html",
-      "score": 2
-    },
-    {
-      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
-      "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月19日）について掲載しました。",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "金融庁 新着情報",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260619-1.html",
-      "score": 2
-    },
-    {
-      "title": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
-      "summary": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集について公表しました。",
-      "relevance": "",
-      "category": "行政DX",
-      "source": "金融庁 新着情報",
-      "url": "https://www.fsa.go.jp/news/r7/sonota/20260623.html",
       "score": 2
     },
     {
@@ -242,5 +155,5 @@
     "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
     "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
   },
-  "generated_at": "2026-06-24T01:49:05.251Z"
+  "generated_at": "2026-06-24T01:59:56.182Z"
 }
