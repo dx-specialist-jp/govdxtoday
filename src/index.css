@@ -621,21 +621,38 @@ a:hover { color: var(--accent); }
 .news-topic-source a:hover { color: var(--accent); }
 
 /* ══════════════════════════════════════════
-   DX TIPS
+   NEWS SUMMARY
 ══════════════════════════════════════════ */
-.tips-card {
+.news-summary-card {
   background: linear-gradient(135deg, #EBF4FF 0%, var(--surface) 60%);
   border: 1px solid #C3D9F5;
   border-radius: var(--radius-lg);
   padding: 24px 28px;
   box-shadow: var(--shadow-sm);
 }
-.tips-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 12px; }
-.tips-icon { font-size: 20px; flex-shrink: 0; line-height: 1.4; }
-.tips-title { font-size: 17px; font-weight: 700; color: var(--primary); line-height: 1.45; }
-.tips-body { font-size: 13.5px; line-height: 1.9; color: #374151; white-space: pre-line; margin-bottom: 14px; }
-.tips-reference { font-size: 12px; color: var(--text-muted); padding-top: 12px; border-top: 1px solid #C3D9F5; }
-.tips-reference a { color: var(--secondary); }
+.news-summary-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.news-summary-item {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #1e293b;
+  padding-left: 20px;
+  position: relative;
+}
+.news-summary-item::before {
+  content: '▶';
+  position: absolute;
+  left: 0;
+  font-size: 10px;
+  color: var(--secondary);
+  top: 4px;
+}
 
 /* ══════════════════════════════════════════
    TAG PAGE
@@ -1193,7 +1210,7 @@ a.cal-day:focus-visible { outline: var(--focus-ring); outline-offset: -2px; bord
   .sub-article { padding: 14px 16px; }
   .news-topic { padding: 13px 16px; }
   .news-topic-header { flex-wrap: wrap; }
-  .tips-card { padding: 18px 16px; }
+  .news-summary-card { padding: 18px 16px; }
   .about-section { padding: 18px 16px; }
   .date-list-item { padding: 12px 14px; }
   .tag-article-card { padding: 14px 16px; }

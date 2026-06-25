@@ -1,6 +1,7 @@
 {
   "date": "2026-06-25",
   "date_ja": "2026年6月25日（木）",
+  "news_summary": null,
   "security_alerts": [
     {
       "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -129,11 +130,5 @@
       "score": 0
     }
   ],
-  "dx_tip": {
-    "title": "RPA・AI-OCRを活用した定型業務自",
-    "body": "RPA・AI-OCRを活用した定型業務自動化のPoC設計から本番展開までについて、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
-    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
-    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
-  },
-  "generated_at": "2026-06-25T05:39:41.501Z"
+  "generated_at": "2026-06-25T05:47:01.998Z"
 }

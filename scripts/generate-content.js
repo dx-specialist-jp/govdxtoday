@@ -43,53 +43,6 @@ const GOOGLE_ALERT_SOURCES = [
   { name: 'Google Alert: 生成AI×行政',       url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/5311248654206122373' },
 ];
 
-// ── DX Tips テーマ一覧 ───────────────────────────────────────────────
-// 中央省庁PMO/PJMO担当者が実務で役立てられるテーマ（30日間ローテーション）
-const DX_TIP_TOPICS = [
-  // プロジェクト管理・PMO
-  'PMO審査でのAI活用チェックポイント：データ機密性・ハルシネーション対策・Human-in-the-Loop',
-  '政府情報システム開発プロジェクトのリスク管理とエスカレーション基準',
-  'ITダッシュボードの活用：プロジェクト進捗を定量的に可視化するKPI設計',
-  'アジャイル開発と政府標準ガイドライン（PJMGv3）の整合のとり方',
-  'ステークホルダー管理：複数府省にまたがるプロジェクトの合意形成技法',
-
-  // AI活用・倫理
-  'ガバメントAI「源内」効果的な活用法：業務別プロンプト設計のコツ',
-  '生成AI導入前に確認すべきデータ機密性区分と入力制御の実装',
-  'AIシステム調達仕様書の書き方：評価基準・性能要件・倫理条項',
-  '行政手続きへのAI適用可否判断フレームワーク（高リスク・要注意・適用可）',
-  'AI出力の品質管理：バリデーション設計とモニタリング計画の作り方',
-
-  // セキュリティ
-  'ゼロトラストセキュリティの政府システムへの段階的適用ロードマップ',
-  '情報セキュリティポリシー年次見直しチェックリスト（デジタル庁準拠）',
-  'サイバーインシデント発生時のPMO対応手順：報告ライン・BCP発動判断',
-  'ガバメントクラウド上のシステムに求められるセキュリティ要件整理',
-  'フィッシング・標的型攻撃から組織を守る職員教育プログラム設計',
-
-  // クラウド・インフラ
-  'ガバメントクラウド移行計画策定の5ステップ（対象・スケジュール・リスク・調達・体制）',
-  'クラウドコスト最適化：政府システムでのFinOps実践ポイント',
-  'オンプレミスからクラウドへの段階移行設計：データ移行のリスク低減手法',
-  'マルチクラウド環境でのデータ主権・ロックイン回避策',
-
-  // 制度・調達
-  '政府IT調達の変化点：競争的対話方式・アジャイル型仕様書の実務',
-  'PJMO向け：公共調達における契約変更・仕様変更の手続きと記録',
-  'デジタル行財政改革で変わる政府システム調達の最新動向整理',
-  '政府標準ガイドライン（GCAS）の主要ポイントと実プロジェクトへの適用',
-
-  // データ連携・業務改革
-  'マイナンバー利活用拡大に対応するシステム改修の設計留意点',
-  'ベース・レジストリ活用：行政データ連携の標準化とAPIセキュリティ',
-  'RPA・AI-OCRを活用した定型業務自動化のPoC設計から本番展開まで',
-  '行政手続きのデジタル完結（Fax・押印廃止）推進の実務チェックリスト',
-  '個人情報保護法改正対応：政府情報システムの設計見直しポイント',
-
-  // 組織・人材
-  'CAIO（最高AI責任者）設置・運用の実務：役割定義と省内連携体制',
-  'DX人材育成計画の作り方：デジタルスキル標準（DSS）を活用したロードマップ',
-];
 
 
 // ── ペイウォールキーワード ────────────────────────────────────────────
@@ -107,12 +60,6 @@ function formatDateJa(dateStr) {
   const [y, m, d] = dateStr.split('-').map(Number);
   const dow = new Date(y, m - 1, d).getDay(); // ローカルミッドナイト → タイムゾーン不問
   return `${y}年${m}月${d}日（${weekdays[dow]}）`;
-}
-
-function getDayOfYear(dateStr) {
-  const d = new Date(dateStr + 'T00:00:00+09:00');
-  const start = new Date(d.getFullYear(), 0, 0);
-  return Math.floor((d - start) / 86400000);
 }
 
 // ── URL バリデーション ─────────────────────────────────────────────────
@@ -422,47 +369,52 @@ PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJ
   }
 }
 
-// ── (C) DX Tips 生成 ─────────────────────────────────────────────────
-async function generateDxTip(date, model) {
-  const topic = DX_TIP_TOPICS[getDayOfYear(date) % DX_TIP_TOPICS.length];
+// ── (C) 今日のニュース要約生成 ──────────────────────────────────────
+async function generateNewsSummary(heroArticle, subArticles, newsTopics, model) {
+  const allArticles = [
+    ...(heroArticle ? [{ title: heroArticle.title, summary: heroArticle.summary, source: heroArticle.source_name }] : []),
+    ...(subArticles || []).map((a) => ({ title: a.title, summary: a.summary, source: a.source_name })),
+    ...(newsTopics || []).slice(0, 8).map((t) => ({ title: t.title, summary: t.summary, source: t.source })),
+  ];
 
-  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者向けの行政DX実務アドバイザーです。
+  if (allArticles.length === 0) return null;
 
-以下のテーマについて、今日から実践できる実務的なDX Tipsを1本作成してください。
+  const inputJson = JSON.stringify(allArticles, null, 2);
 
-テーマ: ${topic}
+  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者向けの行政DX・AI活用の専門キュレーターです。
 
-【作成ルール】
-- タイトル: 25字以内。「〜のポイント」「〜の進め方」「〜チェックリスト」等、実務的なフォーマット
-- 本文: 以下の構成で250〜350字（改行 \\n を使って読みやすく）
-    ① 背景・なぜ今重要か（1〜2文）
-    ② 実務ステップまたはチェック項目（①②③の番号付きで3〜4項目）
-    ③ 注意点・よくある落とし穴（1文）
-  → PMO/PJMO担当者が「今日の仕事でそのまま使える」レベルの具体性で書く
-  → 「〜すること」「〜を確認」「〜に留意」等、行動指示形で記述
-  → 行政特有の事情（機密性区分・調達プロセス・閣議決定・ガイドライン番号等）を盛り込む
-- 参照元: 実在する政府公開文書の正式名称を1つ（「デジタル庁○○ガイドライン」「IPA○○ガイド」等）
-- 参照元URL: その文書の実在する公開URL（確信がない場合は "" を指定、架空URLは禁止）
+以下は本日キュレーションされた行政DX・AI・セキュリティ関連の記事一覧です。
+これらを読んで、PMO/PJMO担当者が「今日知っておくべき重要ポイント」を箇条書きで要約してください。
 
-以下のJSONのみを出力すること（説明文・コードブロック記号は不要）:
+【要約ルール】
+- 4〜6箇条で、各箇条は1行（40〜70字）
+- 「何が起きたか・何が変わったか」を事実ベースで端的に
+- 重要度の高いもの（セキュリティ速報・政府の重要決定・調達・AI活用）を優先
+- 複数記事を無理に1行にまとめず、独立したポイントとして列挙
+- 行政用語・省略語は省略せず正式名で記載
+- 「重要」「画期的」等の主観的形容詞は使わない
+
+対象記事:
+${inputJson}
+
+以下のJSON形式のみで出力すること（説明文・コードブロック記号は不要）:
 {
-  "title": "タイトル",
-  "body": "本文（改行は \\n で表現）",
-  "reference": "文書名",
-  "reference_url": "URL（不確かな場合は空文字）"
+  "points": [
+    "箇条書き1",
+    "箇条書き2",
+    "箇条書き3"
+  ]
 }`;
 
   try {
     const text = await callGemini(model, prompt);
-    return parseJsonFromText(text);
+    const result = parseJsonFromText(text);
+    return Array.isArray(result.points)
+      ? result.points.filter((p) => typeof p === 'string')
+      : null;
   } catch (err) {
-    console.warn(`[WARN] DX Tip生成エラー: ${err.message}`);
-    return {
-      title: topic.slice(0, 20),
-      body: `${topic}について、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。`,
-      reference: 'デジタル庁「デジタル社会の実現に向けた重点計画」',
-      reference_url: 'https://www.digital.go.jp/policies/priority-policy-program',
-    };
+    console.warn(`[WARN] ニュース要約生成エラー: ${err.message}`);
+    return null;
   }
 }
 
@@ -582,7 +534,7 @@ async function main() {
 
   let summarizedGov = [];
   let newsTopics = [];
-  let dxTip = null;
+  let geminiOk = false;
 
   if (hasApiKey) {
     try {
@@ -593,10 +545,7 @@ async function main() {
       // ④ ニュースをフィルタリング・要約
       console.log('[INFO] ニュース記事をフィルタリング中...');
       newsTopics = await filterAndSummarizeNews(newsDeduped, model, 10);
-
-      // ⑤ DX Tips 生成
-      console.log('[INFO] DX Tips を生成中...');
-      dxTip = await generateDxTip(targetDate, model);
+      geminiOk = true;
     } catch (err) {
       const is429 = String(err.message).includes('429');
       console.warn(`[WARN] Gemini APIエラー${is429 ? '（レート制限）' : ''}: ${err.message}`);
@@ -710,21 +659,22 @@ async function main() {
     return (b.score || 0) - (a.score || 0);
   });
 
-  // DX Tips の reference_url バリデーション
-  if (dxTip && !isValidUrl(dxTip.reference_url)) {
-    console.warn(`[WARN] DX Tips参照URL無効: "${dxTip.reference_url}" → クリア`);
-    dxTip = { ...dxTip, reference_url: '' };
+  // ⑤ 今日のニュース要約を生成（記事選定後に実施・APIが成功した場合のみ）
+  let newsSummary = null;
+  if (geminiOk) {
+    console.log('[INFO] 今日のニュース要約を生成中...');
+    newsSummary = await generateNewsSummary(heroArticle, subArticles, newsTopics, model);
   }
 
   // ⑦ JSON 保存
   const dayData = {
     date: targetDate,
     date_ja: formatDateJa(targetDate),
+    news_summary: newsSummary,
     security_alerts: securityAlerts,
     hero_article: heroArticle,
     sub_articles: subArticles,
     news_topics: newsTopics,
-    dx_tip: dxTip,
     generated_at: new Date().toISOString(),
   };
 

@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
 import SecurityBanner from './SecurityBanner.jsx';
 import SectionNav from './SectionNav.jsx';
+import NewsSummary from './NewsSummary.jsx';
 import HeroArticle from './HeroArticle.jsx';
 import SubArticles from './SubArticles.jsx';
 import NewsTopics from './NewsTopics.jsx';
-import DxTip from './DxTip.jsx';
 
 function formatUpdatedAt(isoStr) {
   if (!isoStr) return null;
@@ -72,6 +72,8 @@ export default function DigestView({ data, showBackLink = false }) {
       )}
 
       <div className="main-content">
+        <NewsSummary points={data.news_summary} />
+
         <div id="sec-pickup">
           <HeroArticle article={data.hero_article} />
           <SubArticles articles={data.sub_articles} />
@@ -79,10 +81,6 @@ export default function DigestView({ data, showBackLink = false }) {
 
         <div id="sec-news">
           <NewsTopics topics={data.news_topics} />
-        </div>
-
-        <div id="sec-tips">
-          <DxTip tip={data.dx_tip} />
         </div>
       </div>
     </>

@@ -5,9 +5,9 @@ export default function SectionNav({ hasSecurityAlert }) {
 
   const sections = [
     ...(hasSecurityAlert ? [{ id: 'sec-security', label: '速報', alert: true }] : []),
+    { id: 'sec-summary', label: '今日のポイント' },
     { id: 'sec-pickup', label: 'ピックアップ' },
     { id: 'sec-news', label: 'ニュース' },
-    { id: 'sec-tips', label: 'DX Tips' },
   ];
 
   useEffect(() => {
