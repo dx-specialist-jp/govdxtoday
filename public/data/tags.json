@@ -145,6 +145,106 @@
     ],
     "その他": [
       {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "米政府に止められたAnthropic、国家の懐に飛び込んだOpenAI - AI新聞",
+        "summary": "通常のGPT-5.5は81.8%だったという。一方、米WIREDは、AnthropicのClaude Mythos 5が同じCyberGymで83.8%だったと報じている。 ただし、この差 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://exawizards.com/column/ai-trend/news-06-24-2026",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "クールジャパン機構の累積赤字540億円 経産省が統廃合検討へ (毎日新聞) - NewsPicks",
+        "summary": "日本の魅力ある文化や商品を海外に売り込む官民出資のファンド「クールジャパン機構」は24･･･",
+        "source": "Google Alert: AI×行政",
+        "url": "https://newspicks.com/news/16954052/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "OpenAI、自社設計の初AIチップ「Jalapeño」発表。設計から製造まで9カ月 | ゴリミー",
+        "summary": "Claude Fable 5、米政府の指示で全ユーザー利用停止に. ゴリミー. 「ゴリミー」は、株式会社ゴリミーが運営するApple特化型ウェブメディア。iPhone・iPad・Mac ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gori.me/it/167467/images/1",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "AnthropicがAlibabaを告発しClaudeの能力を不正抽出したと主張 | ウクライナニュース - #Mezha",
+        "summary": "制裁で生活や金融取引が制限されたと訴えた判事らが米国政府を相手取り法廷で争います。法的根拠と独立性が焦点です。 Reuters〜の発表によると. ワシントンD.C. ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://mezha.net/jp/bukvy/5264cac0_anthropic_accuses_alibaba/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "Naver Cloud、世宗に政府専用AIリージョン構築へ…「AI主権」確保に乗り出す",
+        "summary": "Naver Cloudが世宗データセンターにインターネットと物理的に分離された「政府専用リージョン」を構築し、公共AI市場を攻略する。最近、AnthropicのClaude ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://finance.biggo.jp/news/1c3d4578-5b12-43d9-85f4-3b04f92860c8",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "Anthropic Mythos、政府の最高機密システムに脆弱性 - BeInCrypto",
+        "summary": "ブラウザ開発元はFirefox 150でそれらを修正した。 Anthropic社は6月上旬にClaude Fable 5をリリースした。Mythosレベルの一般提供版として位置付け、新たな安全 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://jp.beincrypto.com/anthropic-mythos-classified-systems-vulnerabilities/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "政府が米国など先進国の事例を参考にして不動産保有税強化を検討する中で、住宅の取得",
+        "summary": "Gemini 사진 확대. Gemini. 政府が米国など先進国の事例を参考にして不動産保有税強化を検討する中で、住宅の取得·保有·譲渡·相続など全体過程で発生する税金 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.mk.co.kr/jp/realestate/12082268",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "「Fable 5」発表も3日で提供停止 米政府が安全懸念、「脱獄」問題浮上か",
+        "summary": "米アンソロピックが手掛ける最新のAIモデル「Claude Fable 5（クロード・フェイブル5）」をめぐる動向が、目まぐるしく変化している。",
+        "source": "Google Alert: AI×行政",
+        "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/061801451/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "Anthropicの「Claude Mythos」、米政府の機密システムの脆弱性を数時間で特定",
+        "summary": "Anthropicのセキュリティ特化AI「Claude Mythos」が、米政府の機密システムを対象とした統制下の試験で数時間以内に脆弱性を特定した。",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.digitaltoday.co.kr/jp/view/74724/anthropic-mythos-finds-security-flaws-in-us-classified-networks",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-26",
+        "date_ja": "2026年6月26日（金）",
+        "title": "【事例・政府】トレンドマイクロのソリューションでAWS上のIT環境を近代化 | KNMI - Trend Micro",
+        "summary": "KNMIのAWSセキュリティ導入事例。航空交通にも影響する気象データの安全性と可用性を確保するため、トレンドマイクロを採用。自社でのコントロールを維持し ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.trendmicro.com/ja_jp/about/customer-stories/knmi.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-06-25",
         "date_ja": "2026年6月25日（木）",
         "title": "Copilot無料版でできることは？有料版との違い・使い方を解説 - AIsmiley",
@@ -1075,9 +1175,9 @@
   },
   "tag_counts": {
     "セキュリティ": 15,
-    "その他": 68,
+    "その他": 78,
     "行政AI": 13,
     "行政DX": 14
   },
-  "updated_at": "2026-06-25T05:47:02.000Z"
+  "updated_at": "2026-06-26T00:45:03.649Z"
 }

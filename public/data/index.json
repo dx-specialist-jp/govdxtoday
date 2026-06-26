@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-06-26",
+      "summary_short": "データなし",
+      "article_count": 0,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-06-25",
       "summary_short": "データなし",
       "article_count": 0,

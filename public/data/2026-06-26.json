@@ -1,6 +1,7 @@
 {
   "date": "2026-06-26",
   "date_ja": "2026年6月26日（金）",
+  "news_summary": null,
   "security_alerts": [],
   "hero_article": null,
   "sub_articles": [],
@@ -12,15 +13,6 @@
       "category": "その他",
       "source": "Google Alert: クラウド×政府",
       "url": "https://www.trendmicro.com/ja_jp/about/customer-stories/knmi.html",
-      "score": 0
-    },
-    {
-      "title": "日産、SDVソフトウェア開発プラットフォームをAWS Summit Japanで公開デモ…6月25‐26日",
-      "summary": "「経済を、もっとおもしろく。」ビジネスパーソンや就活生必携のソーシャル経済メディア。国内外の最先端の経済ニュースを厳選。",
-      "relevance": "",
-      "category": "その他",
-      "source": "Google Alert: クラウド×政府",
-      "url": "https://newspicks.com/news/16953341/?ref=user",
       "score": 0
     },
     {
@@ -94,13 +86,16 @@
       "source": "Google Alert: AI×行政",
       "url": "https://newspicks.com/news/16954052/",
       "score": 0
+    },
+    {
+      "title": "米政府に止められたAnthropic、国家の懐に飛び込んだOpenAI - AI新聞",
+      "summary": "通常のGPT-5.5は81.8%だったという。一方、米WIREDは、AnthropicのClaude Mythos 5が同じCyberGymで83.8%だったと報じている。 ただし、この差 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://exawizards.com/column/ai-trend/news-06-24-2026",
+      "score": 0
     }
   ],
-  "dx_tip": {
-    "title": "行政手続きのデジタル完結（Fax・押印廃",
-    "body": "行政手続きのデジタル完結（Fax・押印廃止）推進の実務チェックリストについて、PMO/PJMO視点から実務的な観点で整理します。詳細はデジタル庁の公開ガイドラインをご参照ください。",
-    "reference": "デジタル庁「デジタル社会の実現に向けた重点計画」",
-    "reference_url": "https://www.digital.go.jp/policies/priority-policy-program"
-  },
-  "generated_at": "2026-06-25T21:02:14.923Z"
+  "generated_at": "2026-06-26T00:45:03.647Z"
 }
