@@ -60,11 +60,12 @@ export default function DigestView({ data, showBackLink = false }) {
 
   const hasSecurityAlert = (data.security_alerts?.length || 0) > 0;
   const hasSummary = Array.isArray(data.news_summary) && data.news_summary.length > 0;
+  const hasPickup = !!data.hero_article || (data.sub_articles?.length || 0) > 0;
 
   return (
     <>
       <HeroSection data={data} showBackLink={showBackLink} />
-      <SectionNav hasSecurityAlert={hasSecurityAlert} hasSummary={hasSummary} />
+      <SectionNav hasSecurityAlert={hasSecurityAlert} hasSummary={hasSummary} hasPickup={hasPickup} />
 
       {hasSecurityAlert && (
         <div id="sec-security">
