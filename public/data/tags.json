@@ -145,6 +145,106 @@
     ],
     "その他": [
       {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "モダンなデータエンジニアリングのためのDataOps戦略 | Databricks Blog",
+        "summary": "AI 準備完了スコアリングにより、生のメトリクス値だけでなく、ガバナンスやオブザーバビリティの次元を含むデータ品質の包括的な視点が求められます。 レポート ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.databricks.com/jp/blog/what-is-dataops",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "環境省、ネイチャーポジティブ調達指針案を公表 企業向けガイドラインで意見募集開始",
+        "summary": "【開催レポート】サステナビリティ視点で読み解くAIガバナンス最前線. 2. 【解説】ESGアクティビズムとは？「物言う株主」の国内外動向と情報開示実務として ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://esgjournaljapan.com/domestic-news/54041",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "ＡＩ ｉｎｓｉｄｅ[4488]：コーポレート・ガバナンスに関する報告書 2026/06/26 ... - 日本経済新聞",
+        "summary": "コーポレートガバナンスCORPORATEGOVERNANCEAIinsideInc.最終更新日：2026年6月26日G－ＡＩｉｎｓｉｄｅ代表取締役社長CEO渡久地 択問合せ先：Legal&amp;GovernanceDivision ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260625581026/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "【6/30開催】AIガバナンス協会、オンラインシンポジウム「AI時代の経営意思 ... - ライブドアニュース",
+        "summary": "一般社団法人AIガバナンス協会が6月30日にシンポジウムを開く。AI時代の経営意思決定とガバナンスをテーマに各社の知見を共有する。Teams ウェビナー形式で ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://news.livedoor.com/pr_topics/detail/31664707/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "【7.16｜無料ウェビナー開催】AIをビジネス成果につなげる企業は、何が違うのか？",
+        "summary": "入社後はITガバナンス/サイバー領域を主な活動範囲とし、演習・評価・アドバイザリー支援など、多数の支援を経験。近年は、リスク管理全般に関するご支援を行う ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://news.nicovideo.jp/watch/nw19475750?news_ref=watch_20_nw19139145",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "【7.16｜無料ウェビナー開催】AIをビジネス成果につなげる企業は、何が違うのか？ - 時事通信",
+        "summary": "ニュートン・コンサルティング株式会社］. ～独自調査から見えたAIガバナンスを機能させる「体制設計」と「経営関与」～ リスクマネジメントコンサルティングを ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://www.jiji.com/jc/article?k=000000092.000146919&g=prt",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "RidgelinezがAIガバナンスとセキュリティ態勢構築を支援する新サービスを開始 - VOIX",
+        "summary": "Ridgelinez株式会社は、企業のAI利活用推進と実効性あるAIガバナンス構築を支援する「AIガバナンス/セキュリティ態勢構築支援サービス」を開始しました。この ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://voix.jp/business-cards/ridgelinez-ai-governance-service/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "Anthropicがアリババ非難 虚偽アカウントでClaude模倣試行 - ChosunBiz",
+        "summary": "4月、マイケル・クラチオス米ホワイトハウス科学技術政策局（OSTP）局長は、中国企業が米国AIモデルの出力を悪用しようとする試みの取り締まりで政府が協力する ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://biz.chosun.com/jp/jp-it/2026/06/25/EOKUQMNQWVGOTJEH5BEE63QUQM/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "Claude Mythosがアメリカ政府の機密システムの脆弱性を発見 - GIGAZINE",
+        "summary": "サイバー攻撃性能が非常に高いとされているAnthropicのAI「Claude Mythos」が、アメリカ政府の機密システムに隠れていた脆弱性を発見していたことが、当局者 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gigazine.net/news/20260625-anthropic-mythos-found-vulnerabilities/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-06-27",
+        "date_ja": "2026年6月27日（土）",
+        "title": "クラウド技術力で存在感、子会社エンジニアがAWS表彰プログラムに選出 | マネーボイス - まぐまぐ",
+        "summary": "ポールトゥウィンホールディングスは25日、連結子会社SynX（本社：東京都千代田区）のエンジニア3名が、AWSパートナーネットワーク（APN）の表彰プログラム「2026 ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.mag2.com/p/money/1757942/amp",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-06-26",
         "date_ja": "2026年6月26日（金）",
         "title": "米政府に止められたAnthropic、国家の懐に飛び込んだOpenAI - AI新聞",
@@ -1175,9 +1275,9 @@
   },
   "tag_counts": {
     "セキュリティ": 15,
-    "その他": 78,
+    "その他": 88,
     "行政AI": 13,
     "行政DX": 14
   },
-  "updated_at": "2026-06-26T00:45:03.649Z"
+  "updated_at": "2026-06-26T20:22:49.866Z"
 }
