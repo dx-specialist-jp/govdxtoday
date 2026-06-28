@@ -420,6 +420,59 @@ ${inputJson}
   }
 }
 
+// ── (D) ニューストピック アクションブリーフ生成 ──────────────────────
+async function generateNewsTopicsBrief(newsTopics, model) {
+  if (!newsTopics || newsTopics.length === 0) return null;
+
+  const inputJson = JSON.stringify(
+    newsTopics.slice(0, 15).map((t) => ({
+      title: t.title,
+      summary: t.summary,
+      relevance: t.relevance,
+      category: t.category,
+    })),
+    null, 2
+  );
+
+  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者向けのアドバイザーです。
+
+以下は本日のニューストピック一覧です。
+PMO/PJMO担当者が「今日のニュースを受けて、何をすべきか・何を確認すべきか」を即座に把握できる
+アクション指向のブリーフィングを作成してください。
+
+【作成ルール】
+- 4〜6箇条で、各箇条は1文（50〜80字）
+- 必ず「〜を確認する」「〜を検討する」「〜に注意する」「〜を共有する」等のアクション動詞で終わること
+- 特定の記事に縛られず、今日のニュース全体を俯瞰してPMO/PJMOが取るべき行動を示す
+- セキュリティ関連があれば必ず最初に入れる
+- 省庁内での横展開・情報共有が必要なものは明示する
+- 「重要」「画期的」等の主観的形容詞は使わない
+- 事実ベースで具体的に（例: 「AI調達仕様書のセキュリティ要件を最新のIPA推奨に照合する」）
+
+対象ニューストピック:
+${inputJson}
+
+以下のJSON形式のみで出力すること（説明文・コードブロック記号は不要）:
+{
+  "actions": [
+    "アクション箇条書き1",
+    "アクション箇条書き2",
+    "アクション箇条書き3"
+  ]
+}`;
+
+  try {
+    const text = await callGemini(model, prompt);
+    const result = parseJsonFromText(text);
+    return Array.isArray(result.actions)
+      ? result.actions.filter((a) => typeof a === 'string')
+      : null;
+  } catch (err) {
+    console.warn(`[WARN] ニューストピックブリーフ生成エラー: ${err.message}`);
+    return null;
+  }
+}
+
 // ── tags.json 更新 ────────────────────────────────────────────────────
 function updateTagsIndex(date, dateJa, dayData) {
   const tagsPath = resolve(DATA_DIR, 'tags.json');
@@ -675,9 +728,12 @@ async function main() {
 
   // ⑤ 今日のニュース要約を生成（記事選定後に実施・APIが成功した場合のみ）
   let newsSummary = null;
+  let newsTopicsBrief = null;
   if (geminiOk) {
     console.log('[INFO] 今日のニュース要約を生成中...');
     newsSummary = await generateNewsSummary(heroArticle, subArticles, newsTopics, model);
+    console.log('[INFO] ニューストピックアクションブリーフを生成中...');
+    newsTopicsBrief = await generateNewsTopicsBrief(newsTopics, model);
   }
 
   // ⑦ JSON 保存
@@ -685,6 +741,7 @@ async function main() {
     date: targetDate,
     date_ja: formatDateJa(targetDate),
     news_summary: newsSummary,
+    news_topics_brief: newsTopicsBrief,
     security_alerts: securityAlerts,
     hero_article: heroArticle,
     sub_articles: subArticles,

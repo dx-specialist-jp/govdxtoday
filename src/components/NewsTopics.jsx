@@ -1,6 +1,23 @@
 import { useState } from 'react';
 
-export default function NewsTopics({ topics }) {
+function NewsTopicsBrief({ actions }) {
+  if (!actions || actions.length === 0) return null;
+  return (
+    <div className="news-topics-brief">
+      <div className="news-topics-brief-header">
+        <span className="news-topics-brief-icon">🤖</span>
+        <span className="news-topics-brief-title">今日のニュースから PMO/PJMO が取るべきアクション</span>
+      </div>
+      <ul className="news-topics-brief-list">
+        {actions.map((action, i) => (
+          <li key={i} className="news-topics-brief-item">{action}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default function NewsTopics({ topics, brief }) {
   const [activeCategory, setActiveCategory] = useState(null);
 
   if (!topics || topics.length === 0) return null;
@@ -13,6 +30,7 @@ export default function NewsTopics({ topics }) {
   return (
     <div className="digest-section">
       <p className="section-label">今日のニューストピック</p>
+      <NewsTopicsBrief actions={brief} />
       {categories.length > 1 && (
         <div className="topic-filter" role="group" aria-label="カテゴリフィルター">
           <button

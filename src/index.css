@@ -655,6 +655,63 @@ a:hover { color: var(--accent); }
 }
 
 /* ══════════════════════════════════════════
+   NEWS TOPICS BRIEF (アクションブリーフ)
+══════════════════════════════════════════ */
+.news-topics-brief {
+  background: linear-gradient(135deg, #F0FDF4 0%, #ECFDF5 100%);
+  border: 1px solid #A7F3D0;
+  border-left: 4px solid #059669;
+  border-radius: var(--radius-lg);
+  padding: 18px 22px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow-sm);
+}
+.news-topics-brief-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.news-topics-brief-icon {
+  font-size: 16px;
+  line-height: 1;
+}
+.news-topics-brief-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #065F46;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.news-topics-brief-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.news-topics-brief-item {
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: #1e293b;
+  padding-left: 18px;
+  position: relative;
+}
+.news-topics-brief-item::before {
+  content: '▶';
+  position: absolute;
+  left: 0;
+  font-size: 9px;
+  color: #059669;
+  top: 5px;
+}
+@media (max-width: 640px) {
+  .news-topics-brief { padding: 14px 16px; }
+  .news-topics-brief-item { font-size: 13px; }
+}
+
+/* ══════════════════════════════════════════
    TAG PAGE
 ══════════════════════════════════════════ */
 .page-dark-header {
