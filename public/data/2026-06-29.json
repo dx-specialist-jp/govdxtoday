@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-29",
+  "date_ja": "2026年6月29日（月）",
+  "news_summary": null,
+  "news_topics_brief": null,
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AWS白幡社長「AIエージェントを使いこなせるのは『フライホイール』を持つ企業」 - NewsPicks",
+      "summary": "アマゾン ウェブ サービス（AWS） ジャパンは6月25日・26日、年次イベント「AWS Summit Japan 2026」を開催した。基調講演では、AIエージェント時代に向け ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: クラウド×政府",
+      "url": "https://newspicks.com/news/16979060/?ref=user",
+      "score": 0
+    },
+    {
+      "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認 「Fable 5」は停止継続 - ITmedia",
+      "summary": "Anthropicは、輸出規制で6月12日から全面停止していたAIモデル「Claude Mythos 5」について、一部の米国組織への再展開を米政府が認めたと発表した。",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+      "score": 0
+    },
+    {
+      "title": "米政府、Anthropic「Claude Mythos 5」の限定提供再開を許可 - Wired Japan",
+      "summary": "数週間にわたる協議を経て、米政府はAnthropicに対し、最先端AIモデル「Claude Mythos 5」を100を超える米国の組織へ再提供することを認めた。",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://wired.jp/article/anthropic-restores-access-to-mythos/",
+      "score": 0
+    },
+    {
+      "title": "アンソロピックのAIモデル、米国政府が限定的な公開認める - CNN.co.jp",
+      "summary": "... 政府は、米人工知能（AI）企業のアンソロピックに対し、同社の強力なAI ... 携帯端末に表示されたアンソロピックが手掛けるAI「Claude（クロード ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.cnn.co.jp/tech/35249516.html",
+      "score": 0
+    },
+    {
+      "title": "Claude Mythos 5が米一部企業で利用可能に。Fable 5の一般再開はまだ - PC Watch",
+      "summary": "同社は、Mythos 5およびFable 5を6月10日(日本時間)に公開したが、3日後の6月13日(同)に米政府からの輸出規制指令を受けアクセスを中止した。 Since June 12, we ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2120573.html",
+      "score": 0
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5」の規制解除に向け政権との交渉役を交代 - Wired Japan",
+      "summary": "Anthropicはホワイトハウスとの協議で、最高経営責任者（CEO）のダリオ・アモデイに代わり、共同創業者トム・ブラウンを交渉役に据えた。焦点は「Claude Fable ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://wired.jp/article/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "score": 0
+    },
+    {
+      "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請 - GIGAZINE",
+      "summary": "これは、Anthropicの「Claude Fable 5」と「Claude Mythos 5」が、アメリカ政府による指示で提供停止になっているのと同様の措置だとみられます。 Anthropicが ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
+      "score": 0
+    },
+    {
+      "title": "アンソロピック「ミュトス5」を復活 米国のインフラ組織に再展開 - Impress Watch",
+      "summary": "Anthropicは26日、米国政府の指示により公開を停止していた、最上位のAIモデル「Claude Mythos 5」(ミュトス5)について、重要インフラの運用と防御を行なう ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120572.html",
+      "score": 0
+    },
+    {
+      "title": "アンソロピック、最強AI「ミュトス5」提供を一部再開 米政府が許可、100超の企業・組織に対象",
+      "summary": "米AI開発企業アンソロピック（Anthropic）は26日、今月12日から全世界で提供を停止していた最先端AIモデル「クロード・ミュトス5（Claude Mythos 5）」について、米 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://finance.biggo.jp/news/26895cfe-b1f1-480a-bde7-d06f5b1d2f9e",
+      "score": 0
+    },
+    {
+      "title": "米政府、Anthropic「Mythos 5」を一部パートナー企業・組織に公開許可 - GameBusiness.jp",
+      "summary": "AIスタートアップのAnthropicは、米政府から同社のAIモデル「Claude Mythos 5」を一部の信頼できるパートナー企業・組織に対して提供再開する許可を受けまし ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.gamebusiness.jp/article/2026/06/27/27339.html",
+      "score": 0
+    }
+  ],
+  "generated_at": "2026-06-28T17:54:01.850Z"
+}
