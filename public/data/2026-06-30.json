@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-30",
+  "date_ja": "2026年6月30日（火）",
+  "news_summary": null,
+  "news_topics_brief": null,
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）終了のお知らせ",
+      "summary": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）終了のお知らせ",
+      "relevance": "",
+      "category": "セキュリティ",
+      "source": "JPCERT/CC 注意喚起",
+      "url": "https://www.jpcert.or.jp/maintenance20260629.html",
+      "score": 2
+    },
+    {
+      "title": "OpenAIが「GPT-5.6」シリーズを発表、Claude Mythos 5超えだがアメリカ政府の指示で限定 ...",
+      "summary": "また、GPT-5.6 TerraもClaude Fable 5と同等のスコアを示し、低コストモデルのGPT-5.6 LunaもClaude Opus 4.8やGemini 3.1 Pro Previewを上回っています。",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://gigazine.net/news/20260629-gpt-5-6-sol-terra-luna/",
+      "score": 0
+    },
+    {
+      "title": "AIのAnthropic、米政府承認を経てClaude Mythos 5の提供を100機関超に再開 - AT PARTNERS",
+      "summary": "今回の承認対象は主にサイバーセキュリティの防御に関わる「トラステッドパートナー」に絞られており、一般ユーザーへの完全な公開は引き続き制限されています。",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.atpartners.co.jp/news/2026-06-29-ai-firm-anthropic-resumes-offering-claude-mythos-5-to-over-100-organizations-following-u-s-government-approval",
+      "score": 0
+    },
+    {
+      "title": "Anthropic、「Mythos 5」提供再開 米国の重要インフラ組織限定 Fable 5再開は依然協議中",
+      "summary": "米Anthropicは6月27日、AIモデル「Mythos 5」を米国の一部組織に向けて提供再開すると、公式X（旧Twitter）アカウントへの投稿で明らかにした。米政府が同日、 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://newspicks.com/news/16983915/?ref=pickstream_2056",
+      "score": 0
+    },
+    {
+      "title": "Anthropic、Claude Mythos 5 の米国 防衛組織へのアクセスを再開 - 合同会社ロケットボーイズ",
+      "summary": "Anthropicは公式声明で「米国政府から、私たちの最も強力なサイバーセキュリティモデルであるMythos 5を、重要インフラを運営・防衛する米国の組織群に再展開 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/mythos5-cybersecurity-model-redeployment/",
+      "score": 0
+    },
+    {
+      "title": "グーグルがメタの「ジェミニ」利用を制限、計算資源の逼迫で－FT - TBS NEWS DIG",
+      "summary": "（ブルームバーグ）：米アルファベット傘下のグーグルは、メタ・プラットフォームズによるAIモデル「Gemini（ジェミニ）」の利用に制限を設けたと、英紙 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2764341",
+      "score": 0
+    },
+    {
+      "title": "GPT-5.6の3モデルを発表：性能はClaude Mythosを圧倒するも、米政府の「安全規制」で利用制限",
+      "summary": "2026年6月27日、OpenAIはGPT-5.6シリーズとしてSol、Terra、Lunaの3モデルを発表した。性能はAnthropicのClaude Mythos 5を全面的に上回ったが、米政府の ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://finance.biggo.jp/news/16695774-ae95-485d-a836-1a09477c55c6",
+      "score": 0
+    },
+    {
+      "title": "OpenAI、次世代AI「GPT-5.6」発表。米政府要請でしばらく限定提供 - すまほん!!",
+      "summary": "米政府要請でしばらく限定提供. 掲載日時: 2026/06/28(日) 18:10 文: 會原 ... ChatGPTClaudeGeminiMetaMeta AI &middot; 【朗報】YouTube、無料ユーザーに「あの ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://smhn.info/202606-5-6-pen-next-generation-ai-limited-preview-government",
+      "score": 0
+    },
+    {
+      "title": "KPMGコンサルティング、ＵＡＣＪが取り組む生成AI活用を中心とした間接部門の業務効率化 ...",
+      "summary": "生成AIの導入に際して、小さく始め（クイックウィン）、生成AI ... KPMGコンサルティング、みずほフィナンシャルグループが取り組むAIガバナンスの高度化を支援.",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AIガバナンス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000384.000088324.html",
+      "score": 0
+    },
+    {
+      "title": "看護師向けAI文書化ツールをReid Healthに本番展開し医師を超えた臨床AIの浸透",
+      "summary": "HealthTechのAbridge、看護師向けAI文書化ツールをReid Healthに本番展開し医師を超えた臨床AI ... AIガバナンスを強化. 2026/06/26. Search. menu. Source Link ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AIガバナンス",
+      "url": "https://www.atpartners.co.jp/news/2026-06-29-healthtech-company-abridge-deploys-ai-documentation-tool-for-nurses-at-reid-health-expanding-the-adoption-of-clinical-ai-beyond-physicians",
+      "score": 0
+    },
+    {
+      "title": "[Ｇ－ＩＮＣ ＨＤ 7078.T] 最高A I責任者（C A I O）の設置及び就任に関するお知らせ",
+      "summary": "同氏はグループ横断のAI戦略策定やデータガバナンスの構築を主導し、地方創 ... ガバナンス、倫理指針、セキュリティ管理体制の構築・AX 推進に必要な ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AIガバナンス",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260629583511",
+      "score": 0
+    }
+  ],
+  "generated_at": "2026-06-29T20:36:04.213Z"
+}
