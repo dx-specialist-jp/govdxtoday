@@ -727,11 +727,16 @@ async function main() {
   console.log(`[INFO] ${outPath} 保存完了`);
 
   // ⑧ index.json 更新
-  const total = (heroArticle ? 1 : 0) + subArticles.length;
+  const govCount = (heroArticle ? 1 : 0) + subArticles.length;
+  const totalCount = govCount + newsTopics.length;
   const summaryShort = heroArticle
-    ? `${heroArticle.title.slice(0, 30)}…など${total}件`
-    : 'データなし';
-  updateIndex(targetDate, summaryShort, total, securityAlerts.length > 0);
+    ? `${heroArticle.title.slice(0, 30)}…など${govCount}件`
+    : subArticles.length > 0
+      ? `${(subArticles[0]?.title || '').slice(0, 30)}…など${govCount}件`
+      : newsTopics.length > 0
+        ? `${(newsTopics[0]?.title || '').slice(0, 28)}…など${newsTopics.length}件`
+        : 'データなし';
+  updateIndex(targetDate, summaryShort, totalCount, securityAlerts.length > 0);
 
   // ⑨ tags.json 更新
   updateTagsIndex(targetDate, formatDateJa(targetDate), dayData);

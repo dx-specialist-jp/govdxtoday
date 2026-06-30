@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { NavLink } from 'react-router-dom';
 
-const TAGS = [
+const PREFERRED_TAGS = [
   'AI活用',
   'セキュリティ',
   '行政AI',
@@ -74,7 +74,7 @@ export default function Sidebar({ open, onClose, tagCounts = {} }) {
 
           <div className="sidebar-section">
             <p className="sidebar-section-label">タグで絞り込む</p>
-            {TAGS.map((label) => (
+            {[...PREFERRED_TAGS, ...Object.keys(tagCounts).filter((t) => tagCounts[t] > 0 && !PREFERRED_TAGS.includes(t))].map((label) => (
               <NavLink
                 key={label}
                 to={`/tag/${encodeURIComponent(label)}`}

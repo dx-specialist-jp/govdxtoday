@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 
 const BASE = import.meta.env.BASE_URL;
 
-const ALL_TAGS = [
+const PREFERRED_TAGS = [
   'AI活用',
   'セキュリティ',
   '行政AI',
@@ -43,6 +43,9 @@ export default function TagPage() {
   const articles = (tagsData?.tags?.[decodedTag]) || [];
   const groups = groupByDate(articles);
   const counts = tagsData?.tag_counts || {};
+  // 優先タグ + データに存在する追加タグ（count > 0 かつ優先リスト外）を結合
+  const extraTags = Object.keys(counts).filter((t) => counts[t] > 0 && !PREFERRED_TAGS.includes(t));
+  const ALL_TAGS = [...PREFERRED_TAGS, ...extraTags];
 
   if (error) {
     return (
