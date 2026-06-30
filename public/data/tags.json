@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "お知らせ：採用情報「政策・渉外担当」募集",
+        "summary": "お知らせ：採用情報「政策・渉外担当」募集",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/recruit/info.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-06-30",
         "date_ja": "2026年6月30日（火）",
         "title": "お知らせ：インシデント報告Webフォームメンテナンス（2026年6月26日）終了のお知らせ",
@@ -154,6 +164,106 @@
       }
     ],
     "その他": [
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "「源内」OSS公開に伴う特別オンラインセミナーを開催 - PR TIMES",
+        "summary": "一般社団法人日本DX地域創生応援団は、AI法施行に伴うガバメントAI「源内」のオープンソースソフトウェア（OSS）公開を受け、自治体DXの大きな転換点に対応 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://prtimes.jp/main/html/rd/p/000000004.000185712.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "米政府によるAnthropic規制から考える、日本企業が直面する「AIの地政学リスク」と対策",
+        "summary": "つまり、日本企業が考えるべき問いは、「Claudeが使えなくなったら困るか」ではないことが重要だ。 自社の業務プロセスが、外国政府の判断ひとつで止まり得る ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://iotnews.jp/ai/274391/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "ミカサ商事、教育機関向け Geminiを活用した校務効率化セミナーを全国3都市で開催",
+        "summary": "自治体および教育関係者対象。参加費無料。 □「業務の引き算」を1日で習得、私学・公立の導入事例も紹介.",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.kknews.co.jp/news/20260630o03",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "Claude Fable 5／Mythos 5が3日で全世界停止 輸出管理が企業AI運用に突きつけた現実",
+        "summary": "安全保障とサイバー領域で争点化する「高度AI」. 報道では、特定のプロンプトによりサイバー能力の制限を回避できる懸念が指摘されたという。ただし、政府書簡に ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://act1.co.jp/2026-06-29-2/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "トランプ政権がAnthropicの「Claude Fable 5」復帰を近く容認か - GIGAZINE",
+        "summary": "サイバー攻撃に関連する一部のトピックではClaude Opus 4.8が代わりに応答する仕組みとなっています。 ところがAnthropicは2026年6月12日、アメリカ政府からの ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "米国AI依存の危うさ Fable禁輸で“ソブリンAI”注目集める - アスキー",
+        "summary": "米政府によるAIの最新モデルの囲い込みが始まった。 日本時間2026年6月13日の朝、Claudeの新しいモデルFable 5が日本でも使えるようになっていたため、筆者も ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://ascii.jp/limit/group/ida/elem/000/004/414/4414392/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "Anthropic、Claude Mythos 5へのアクセスを再開 - AI Watch",
+        "summary": "Claude Mythos 5は、米国政府による機能制限を解除（脱獄）する方法（Jailbreak）を把握したことに起因すると考えられるという理由により米国の国家安全保障当局から ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2120890.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "エンタープライズAIのAnthropic、California州政府にClaudeを割引提供し公共部門でのAI活用を拡大",
+        "summary": "GoogleのGeminiやMicrosoftのCopilotと競合する中で、AnthropicがCalifornia州というAIハブの行政市場に足がかりを得たことは、エンタープライズ・公共市場 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.atpartners.co.jp/news/2026-06-30-anthropic-an-enterprise-ai-company-is-offering-claude-at-a-discount-to-the-california-state-government-to-expand-the-use-of-ai-in-the-public-sector",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "エストニアがAIエージェントにデジタルIDを付与、マイケル・ワトソン氏が警鐘：「最初は助けに ...",
+        "summary": "2026年6月30日までの1週間で、エストニアはAIエージェントへの政府発行デジタルID付与を開始し、AWSとGoogle Cloudは同時にエージェントネイティブな ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://finance.biggo.jp/news/4f162b2c0f5ce1e5",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "Microsoftが敵のClaudeを自社Azureで本格提供 - YouTube",
+        "summary": "... 政府の檻に入れられた日｜ずん… https://youtube.com/watch?v=fw7Lnfy_7LE #Microsoft #Anthropic #Shorts.",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.youtube.com/watch?v=6Zm0PmjGv2U",
+        "relevance": "",
+        "type": "news"
+      },
       {
         "date": "2026-06-30",
         "date_ja": "2026年6月30日（火）",
@@ -1337,6 +1447,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-07-01",
+        "date_ja": "2026年7月1日（水）",
+        "title": "年金受給者の方へ：年金振込口座で給付金等が受け取れるようになります（公金受取口座に関するご案内）",
+        "summary": "年金受給者の方へ、デジタル庁からのお知らせです。この度、今お使いの年金の振込先口座を「公金受取口座」に簡単に登録できる特例制度（行政機関等経由登録の特例制度）が始まります。続きをみる",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n80a86cd228fd",
+        "type": "government"
+      },
+      {
         "date": "2026-06-23",
         "date_ja": "2026年6月23日（火）",
         "title": "「ガバメントAI 源内」における国産基盤モデルの評価設計",
@@ -1584,10 +1703,10 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 16,
-    "その他": 118,
-    "行政AI": 13,
+    "セキュリティ": 17,
+    "その他": 128,
+    "行政AI": 14,
     "行政DX": 14
   },
-  "updated_at": "2026-06-30T00:28:04.317Z"
+  "updated_at": "2026-06-30T20:36:09.451Z"
 }
