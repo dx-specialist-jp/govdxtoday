@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "Weekly Report: Google Chromeに複数の脆弱性",
+        "summary": "Google Chromeには、複数の脆弱性があります。この問題は、当該製品を修正済みのバージョンに更新することで解決します。詳細は、開発者が提供する情報を参照してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#2",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "Weekly Report: Red Hat Ansible Automation Platformに権限チェックの欠如の脆弱性",
+        "summary": "Red Hat Ansible Automation Platformには、権限チェックの欠如の脆弱性があります。この問題は、当該製品を修正済みのバージョンに更新することで解決します。詳細は、開発者が提供する情報を参照してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#1",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "お知らせ：JPCERT/CC 感謝状 2026",
+        "summary": "お知らせ：JPCERT/CC 感謝状 2026",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/award/appreciation-award/2026.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-07-01",
         "date_ja": "2026年7月1日（水）",
         "title": "お知らせ：採用情報「政策・渉外担当」募集",
@@ -164,6 +194,106 @@
       }
     ],
     "その他": [
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "いま最強のAI「Claude Fable 5/Mythos 5」が復活。規制が解除に - au Webポータル",
+        "summary": "Claude Fable、GPT-5.5、Gemini 3.5 Flash、それぞれかかる料金は？ GIZMODO &middot; NVIDIAによるAIチップ「H200」の中国企業への販売をアメリカ政府が承認、中国政府 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260701_1782874252182378",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "米アンソロピック、AI「Fable」提供を7月1日再開 禁輸解除も定額利用は1週間限定",
+        "summary": "米新興のアンソロピック（Anthropic）は30日、米政府の輸出管理規制によって6月に停止していた先端AIモデル「クロード・フェイブル（Claude Fable）」の提供を再開 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://finance.biggo.jp/news/74f94bdb-a0d9-493b-8716-2f485780de4e",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "米Anthropicが「Claude Fable 5」と「Mythos 5」提供再開、米商務省が規制解除 - ビジネス+IT",
+        "summary": "安全保障上の懸念から一時的な提供停止措置が取られていたが、政府との協議を経て厳格な安全保障の義務を受け入れることで合意に至った 。 photo. （Photo ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.sbbit.jp/article/cont1/185965",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "一時停止されていた「Claude Fable 5」、米国時間7月1日より再展開【13:30追記】",
+        "summary": "「Fable 5」「Mythos 5」は6月9日にリリースされた同社の最新鋭モデル。12日に米国政府からの国家安全保障に基づく輸出管理指令を受け、全世界でアクセスが一時 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://news.yahoo.co.jp/articles/cd27f309d3f3c828645a4800a6569a2d4828ed63",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "【自治体AI zevo】Claude Sonnet 5 &amp; Gemini 3.1 Flash Lite Image の2AIモデルを追加！【2026 ...",
+        "summary": "上位モデル「Claude Opus 4.8」に迫る推論・分析性能を持ちながら、より高速かつ手頃なコストで利用できます。複雑な行政文書の要約・分析、条例照合、住民 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://prtimes.jp/main/html/rd/p/000000206.000056138.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "「Claude Fable 5」提供再開 月額ユーザーが無料で使えるのは7月7日まで - CNET Japan",
+        "summary": "米Anthropicは6月30日（米国時間）、AIモデル「Claude Fable 5」の提供を再開すると発表した。米政府による輸出規制が同日解除されたことを受けたもの ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://japan.cnet.com/article/35249864/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "Basecamp Research、EDENの抗生物質・ワクチン設計モデルをClaude Scienceに導入 - 秋田魁新報",
+        "summary": "... 行政 &middot; 経済・産業 &middot; 教育・子育て &middot; 文化・芸能 &middot; 医療・健康 &middot; 社説・コラム &middot; 訃報 ... この機能は、Anthropicのコネクター・ディレクトリーを通じて、Claude.",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.sakigake.jp/news/article/20260701PR0021/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "Claude Fable 5が7月1日復活へ：輸出管理解除で浮かぶAI再公開の条件 | XenoSpectrum",
+        "summary": "Anthropicは、米商務省による輸出管理の解除を受け、停止していた最新AIモデルのアクセスを七月から順次再開する。政府は復旧の条件として安全リスクの監視 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://xenospectrum.com/anthropic-fable5-export-controls-lifted-ai-review/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "AIアシスタントが自社モデルを優遇？Claudeは唯一の例外、Sonnet 5が企業市場を攻勢",
+        "summary": "5W Public Relationsの最新調査によると、ChatGPTやGeminiなどの主要AIアシスタントは、モデル推奨時に親会社の製品を偏って推す「自己引用」傾向が顕著 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://finance.biggo.jp/news/8e8fac2e-ce65-4927-9303-721b18708f3c",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-02",
+        "date_ja": "2026年7月2日（木）",
+        "title": "「Claude Fable 5」提供再開 月額ユーザーが無料で使えるのは7月7日まで - au Webポータル",
+        "summary": "アンソロピック、米政府の規制解除で提供再開…ＡＩモデル「ミュトス５ ... Claude Fable、GPT-5.5、Gemini 3.5 Flash、それぞれかかる料金は？ GIZMODO ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://article.auone.jp/detail/1/3/7/369_7_r_20260701_1782895632277107",
+        "relevance": "",
+        "type": "news"
+      },
       {
         "date": "2026-07-01",
         "date_ja": "2026年7月1日（水）",
@@ -1703,10 +1833,10 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 17,
-    "その他": 128,
+    "セキュリティ": 20,
+    "その他": 138,
     "行政AI": 14,
     "行政DX": 14
   },
-  "updated_at": "2026-06-30T20:36:09.451Z"
+  "updated_at": "2026-07-01T20:32:09.309Z"
 }

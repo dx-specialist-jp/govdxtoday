@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-02",
+  "date_ja": "2026年7月2日（木）",
+  "news_summary": null,
+  "news_topics_brief": null,
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Fortinet製品に関連する認証情報の漏えいに関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN20721579/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache Tomcatにおける複数の脆弱性（2026年6月29日）",
+      "url": "https://jvn.jp/vu/JVNVU93304382/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）",
+      "url": "https://jvn.jp/vu/JVNVU99876312/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年6月）",
+      "url": "https://jvn.jp/vu/JVNVU93818675/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "お知らせ：JPCERT/CC 感謝状 2026",
+      "summary": "お知らせ：JPCERT/CC 感謝状 2026",
+      "relevance": "",
+      "category": "セキュリティ",
+      "source": "JPCERT/CC 注意喚起",
+      "url": "https://www.jpcert.or.jp/award/appreciation-award/2026.html",
+      "score": 2
+    },
+    {
+      "title": "Weekly Report: Red Hat Ansible Automation Platformに権限チェックの欠如の脆弱性",
+      "summary": "Red Hat Ansible Automation Platformには、権限チェックの欠如の脆弱性があります。この問題は、当該製品を修正済みのバージョンに更新することで解決します。詳細は、開発者が提供する情報を参照してください。",
+      "relevance": "",
+      "category": "セキュリティ",
+      "source": "JPCERT/CC 注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#1",
+      "score": 2
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "summary": "Google Chromeには、複数の脆弱性があります。この問題は、当該製品を修正済みのバージョンに更新することで解決します。詳細は、開発者が提供する情報を参照してください。",
+      "relevance": "",
+      "category": "セキュリティ",
+      "source": "JPCERT/CC 注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#2",
+      "score": 2
+    },
+    {
+      "title": "「Claude Fable 5」提供再開 月額ユーザーが無料で使えるのは7月7日まで - au Webポータル",
+      "summary": "アンソロピック、米政府の規制解除で提供再開…ＡＩモデル「ミュトス５ ... Claude Fable、GPT-5.5、Gemini 3.5 Flash、それぞれかかる料金は？ GIZMODO ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://article.auone.jp/detail/1/3/7/369_7_r_20260701_1782895632277107",
+      "score": 0
+    },
+    {
+      "title": "AIアシスタントが自社モデルを優遇？Claudeは唯一の例外、Sonnet 5が企業市場を攻勢",
+      "summary": "5W Public Relationsの最新調査によると、ChatGPTやGeminiなどの主要AIアシスタントは、モデル推奨時に親会社の製品を偏って推す「自己引用」傾向が顕著 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://finance.biggo.jp/news/8e8fac2e-ce65-4927-9303-721b18708f3c",
+      "score": 0
+    },
+    {
+      "title": "Claude Fable 5が7月1日復活へ：輸出管理解除で浮かぶAI再公開の条件 | XenoSpectrum",
+      "summary": "Anthropicは、米商務省による輸出管理の解除を受け、停止していた最新AIモデルのアクセスを七月から順次再開する。政府は復旧の条件として安全リスクの監視 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://xenospectrum.com/anthropic-fable5-export-controls-lifted-ai-review/",
+      "score": 0
+    },
+    {
+      "title": "Basecamp Research、EDENの抗生物質・ワクチン設計モデルをClaude Scienceに導入 - 秋田魁新報",
+      "summary": "... 行政 &middot; 経済・産業 &middot; 教育・子育て &middot; 文化・芸能 &middot; 医療・健康 &middot; 社説・コラム &middot; 訃報 ... この機能は、Anthropicのコネクター・ディレクトリーを通じて、Claude.",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.sakigake.jp/news/article/20260701PR0021/",
+      "score": 0
+    },
+    {
+      "title": "「Claude Fable 5」提供再開 月額ユーザーが無料で使えるのは7月7日まで - CNET Japan",
+      "summary": "米Anthropicは6月30日（米国時間）、AIモデル「Claude Fable 5」の提供を再開すると発表した。米政府による輸出規制が同日解除されたことを受けたもの ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://japan.cnet.com/article/35249864/",
+      "score": 0
+    },
+    {
+      "title": "【自治体AI zevo】Claude Sonnet 5 &amp; Gemini 3.1 Flash Lite Image の2AIモデルを追加！【2026 ...",
+      "summary": "上位モデル「Claude Opus 4.8」に迫る推論・分析性能を持ちながら、より高速かつ手頃なコストで利用できます。複雑な行政文書の要約・分析、条例照合、住民 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://prtimes.jp/main/html/rd/p/000000206.000056138.html",
+      "score": 0
+    },
+    {
+      "title": "一時停止されていた「Claude Fable 5」、米国時間7月1日より再展開【13:30追記】",
+      "summary": "「Fable 5」「Mythos 5」は6月9日にリリースされた同社の最新鋭モデル。12日に米国政府からの国家安全保障に基づく輸出管理指令を受け、全世界でアクセスが一時 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://news.yahoo.co.jp/articles/cd27f309d3f3c828645a4800a6569a2d4828ed63",
+      "score": 0
+    },
+    {
+      "title": "米Anthropicが「Claude Fable 5」と「Mythos 5」提供再開、米商務省が規制解除 - ビジネス+IT",
+      "summary": "安全保障上の懸念から一時的な提供停止措置が取られていたが、政府との協議を経て厳格な安全保障の義務を受け入れることで合意に至った 。 photo. （Photo ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://www.sbbit.jp/article/cont1/185965",
+      "score": 0
+    },
+    {
+      "title": "米アンソロピック、AI「Fable」提供を7月1日再開 禁輸解除も定額利用は1週間限定",
+      "summary": "米新興のアンソロピック（Anthropic）は30日、米政府の輸出管理規制によって6月に停止していた先端AIモデル「クロード・フェイブル（Claude Fable）」の提供を再開 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://finance.biggo.jp/news/74f94bdb-a0d9-493b-8716-2f485780de4e",
+      "score": 0
+    },
+    {
+      "title": "いま最強のAI「Claude Fable 5/Mythos 5」が復活。規制が解除に - au Webポータル",
+      "summary": "Claude Fable、GPT-5.5、Gemini 3.5 Flash、それぞれかかる料金は？ GIZMODO &middot; NVIDIAによるAIチップ「H200」の中国企業への販売をアメリカ政府が承認、中国政府 ...",
+      "relevance": "",
+      "category": "その他",
+      "source": "Google Alert: AI×行政",
+      "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260701_1782874252182378",
+      "score": 0
+    }
+  ],
+  "generated_at": "2026-07-01T20:32:09.306Z"
+}
