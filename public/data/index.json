@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-03",
+      "summary_short": "お知らせ：JPCERT/CC 感謝状 2026…など11件",
+      "article_count": 11,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-02",
       "summary_short": "お知らせ：JPCERT/CC 感謝状 2026…など13件",
       "article_count": 13,
