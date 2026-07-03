@@ -1,15 +1,14 @@
 import { useState } from 'react';
+import { filterMeaningfulItems } from '../utils.js';
 
 function NewsTopicsBrief({ actions }) {
-  if (!Array.isArray(actions) || actions.length === 0) return null;
+  const items = filterMeaningfulItems(actions);
+  if (items.length === 0) return null;
   return (
     <div className="news-topics-brief">
-      <div className="news-topics-brief-header">
-        <span className="news-topics-brief-icon">🤖</span>
-        <span className="news-topics-brief-title">今日のニュースから PMO/PJMO が取るべきアクション</span>
-      </div>
+      <p className="ai-card-label">今日のニュースから PMO/PJMO が取るべきアクション</p>
       <ul className="news-topics-brief-list">
-        {actions.map((action, i) => (
+        {items.map((action, i) => (
           <li key={i} className="news-topics-brief-item">{action}</li>
         ))}
       </ul>

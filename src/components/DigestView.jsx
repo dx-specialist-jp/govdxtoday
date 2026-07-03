@@ -5,6 +5,7 @@ import NewsSummary from './NewsSummary.jsx';
 import HeroArticle from './HeroArticle.jsx';
 import SubArticles from './SubArticles.jsx';
 import NewsTopics from './NewsTopics.jsx';
+import { filterMeaningfulItems } from '../utils.js';
 
 function formatUpdatedAt(isoStr) {
   if (!isoStr) return null;
@@ -59,7 +60,9 @@ export default function DigestView({ data, showBackLink = false }) {
   if (!data) return null;
 
   const hasSecurityAlert = (data.security_alerts?.length || 0) > 0;
-  const hasSummary = Array.isArray(data.news_summary) && data.news_summary.length > 0;
+  // NewsSummary 自身の表示可否判定（空文字・空白のみの要素を除外）と揃える。
+  // ここがズレると「ナビには出るがセクション本体は非表示」という状態になる。
+  const hasSummary = filterMeaningfulItems(data.news_summary).length > 0;
   const hasPickup = !!data.hero_article || (data.sub_articles?.length || 0) > 0;
 
   return (
