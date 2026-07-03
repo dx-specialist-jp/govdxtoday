@@ -205,6 +205,106 @@
     ],
     "その他": [
       {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "Fable 5解禁の光と影：ユーザーは金を払ってストレスを買い、業界は米国政府にルール整備を要求",
+        "summary": "約半月にわたる封鎖を経て、Anthropicの最先端AIモデル「Claude Fable 5」が7月1日、米国商務省から輸出管理解除の通知を受けた。しかし、解禁には厳格な新 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://finance.biggo.jp/news/1f217e5d-e896-4e1c-91ab-6c6339853a08",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "因存在植入后门风险，阿里内部全面禁用 Claude Code - Odaily - 星球日报",
+        "summary": "Odaily星球日报によると、阿里巴巴の内部関係者から得た情報として、Claude Codeにバックドアを埋め込むセキュリティリスクが最近明らかになったことを ...",
+        "source": "Google Alert: AI×行政",
+        "url": "http://www.odaily.news/ja/newsflash/497280",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道 - GIGAZINE",
+        "summary": "最上位モデルのGPT-5.6 SolはAnthropicの最高峰モデルであるClaude Mythos 5を超える性能を記録していますが、潜在的な安全保障問題への懸念から、トランプ政権 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gigazine.net/news/20260703-openai-stock-government/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "最新モデル「Claude Sonnet 5」を提供開始 ～計画立案からタスク遂行まで自律的にこなす ...",
+        "summary": "... Claude Opus 4.8」に迫る性能を、より手軽に安全に利用いただけます。 また、先日米国政府の要請により一時的に提供を終了しておりました「Claude Fable 5 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://exawizards.com/archives/32339/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "米政府がアンソロピックAI輸出規制を解除、「Fable 5」世界展開が再開へ - 東京報道新聞",
+        "summary": "米アンソロピックが開発する生成AIモデル「Claude Fable 5」と「Claude Mythos 5」に対する米政府の輸出規制が解除され、7月1日から世界向けの提供が順次 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://tokyonewsmedia.com/archives/24738",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ ...",
+        "summary": "なお、Anthropicとアメリカ政府を巡っては、日本時間の2026年6月13日に「アメリカ政府の国家安全保障当局による指示」を理由にClaude Mythos 5とClaude ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の ...",
+        "summary": "ところが12日、米政府の命令によりFable 5の提供が一時停止される事態となった。30日の再提供の発表では、7月1日から7日までサブスクで展開し、有料プラン ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク",
+        "summary": "チバテレ＋プラス | ○この記事のポイント政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.chiba-tv.com/plus/detail/amp/2026071812670",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク",
+        "summary": "この記事のポイント政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://article.auone.jp/detail/1/3/6/528_6_r_20260703_1783026902714285",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
+        "title": "シンガポール政府、データセンター向けライセンス制度の導入を提案 | Data Center Café",
+        "summary": "事業者に対し、セキュリティ対策や災害復旧体制の整備・証明を義務付ける方針シンガポール政府が提出した法案により、同国のデータセンターには新たな ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://cafe-dc.com/politics/singapores-government-proposes-data-center-licensing-regime/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-07-03",
         "date_ja": "2026年7月3日（金）",
         "title": "経産省、国産フィジカルAI基盤モデルの開発事業を開始 ソフトバンクなどが出資のNoetra(旧・日本 ...",
@@ -1944,9 +2044,9 @@
   },
   "tag_counts": {
     "セキュリティ": 21,
-    "その他": 148,
+    "その他": 158,
     "行政AI": 14,
     "行政DX": 14
   },
-  "updated_at": "2026-07-02T19:04:10.165Z"
+  "updated_at": "2026-07-03T18:47:02.963Z"
 }
