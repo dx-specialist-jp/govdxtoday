@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "お知らせ：JPCERT/CC 感謝状 2026",
+        "summary": "お知らせ：JPCERT/CC 感謝状 2026",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/award/appreciation-award/2026.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-07-02",
         "date_ja": "2026年7月2日（木）",
         "title": "Weekly Report: Google Chromeに複数の脆弱性",
@@ -194,6 +204,106 @@
       }
     ],
     "その他": [
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "経産省、国産フィジカルAI基盤モデルの開発事業を開始 ソフトバンクなどが出資のNoetra(旧・日本 ...",
+        "summary": "事業名は「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル開発事業」。期間は2026年度から2030年度まで。NEDOは3月24日から4月22日にかけて公募を ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://ledge.ai/articles/meti_nedo_physical_ai_foundation_model",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
+        "summary": "全世界で再び利用できるようになった、米Anthropicの生成AIモデル「Claude Fable 5」。一部制限を緩和した特定ユーザー向けの「Claude Mythos 5」とともに ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://news.yahoo.co.jp/articles/581a3b0c7202d1d809b02add8e435d41c46983ab",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "【自治体AI zevo】Claude Sonnet 5 &amp; Gemini 3.1 Flash Lite Image - ニコニコニュース",
+        "summary": "上位モデル「Claude Opus 4.8」に迫る推論・分析性能を持ちながら、より高速かつ手頃なコストで利用できます。複雑な行政文書の要約・分析、条例照合、住民相談 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://news.nicovideo.jp/watch/nw19497649?news_ref=watch_60_nw19485585",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "最上位級 Claude Fable 5、輸出規制解除で7月1日に提供再開 | TECH NOISY",
+        "summary": "同じ土台を使いながら安全機構を一部外した上位版が Claude Mythos 5(2026年7月時点)で、こちらは防御サイバー用途の限定提供にとどまります。米政府と ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://tech-noisy.com/2026/07/02/claude-fable-5-output-restrictions-lifted-july-1/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか - ITmedia",
+        "summary": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "最強AI「Claude Fable 5」初日にやった「3つの仕込み」全手順｜てけしゅん - note",
+        "summary": "最強AI「Claude Fable 5」が、ついに帰ってきた！ 日本時間7月2日、米国政府の規制が解除されて再び使えるようになったのですが……、ただし定額プランの範囲で ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://note.com/tekeshun/n/nb2b9639c8a6f",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "The World's Most Powerful AI \"Claude Fable5\" Is Here! - YouTube",
+        "summary": "発売からたった3日で、アメリカ政府に「ストップ」をかけられたAIがありました。 Anthropicが2026年6月9日に発表した、Claude Fable 5です。",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.youtube.com/watch?v=bBuJvrvcysg",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク",
+        "summary": "AWSGoogle CloudMicrosoft AzureさくらのクラウドガバメントクラウドOCI ... ・ガバメントクラウド：デジタル庁が整備する、中央省庁・地方自治体が共通利用する ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://biz-journal.jp/it/post_395189.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "「AIが電気代を上げるは虚偽」―米エネルギー長官、データセンター拡張を促進",
+        "summary": "一方、AWSはトランプ政権の国家AIプロジェクト「ジェネシス・ミッション」の中核パートナーとして、政府 ... AWSは米国政府機関のAIおよびスーパーコンピューテ ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://finance.biggo.jp/news/1777888c-bed6-4600-83b7-22bf1e8700ec",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-03",
+        "date_ja": "2026年7月3日（金）",
+        "title": "防衛テックのAnduril Industries、AWSとの防衛クラウド提携を拡大 - AT PARTNERS",
+        "summary": "... AWSのクラウドインフラを組み合わせることで、軍事・防衛機関向けのデータ処理能力や展開速度の向上を目指します。防衛分野におけるクラウド活用は各国政府 ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.atpartners.co.jp/news/2026-07-02-defense-tech-firm-anduril-industries-expands-defense-cloud-partnership-with-aws",
+        "relevance": "",
+        "type": "news"
+      },
       {
         "date": "2026-07-02",
         "date_ja": "2026年7月2日（木）",
@@ -1833,10 +1943,10 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 20,
-    "その他": 138,
+    "セキュリティ": 21,
+    "その他": 148,
     "行政AI": 14,
     "行政DX": 14
   },
-  "updated_at": "2026-07-01T20:32:09.309Z"
+  "updated_at": "2026-07-02T19:04:10.165Z"
 }
