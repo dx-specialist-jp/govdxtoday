@@ -207,16 +207,6 @@
       {
         "date": "2026-07-04",
         "date_ja": "2026年7月4日（土）",
-        "title": "Fable 5解禁の光と影：ユーザーは金を払ってストレスを買い、業界は米国政府にルール整備を要求",
-        "summary": "約半月にわたる封鎖を経て、Anthropicの最先端AIモデル「Claude Fable 5」が7月1日、米国商務省から輸出管理解除の通知を受けた。しかし、解禁には厳格な新 ...",
-        "source": "Google Alert: AI×行政",
-        "url": "https://finance.biggo.jp/news/1f217e5d-e896-4e1c-91ab-6c6339853a08",
-        "relevance": "",
-        "type": "news"
-      },
-      {
-        "date": "2026-07-04",
-        "date_ja": "2026年7月4日（土）",
         "title": "因存在植入后门风险，阿里内部全面禁用 Claude Code - Odaily - 星球日报",
         "summary": "Odaily星球日报によると、阿里巴巴の内部関係者から得た情報として、Claude Codeにバックドアを埋め込むセキュリティリスクが最近明らかになったことを ...",
         "source": "Google Alert: AI×行政",
@@ -267,6 +257,16 @@
       {
         "date": "2026-07-04",
         "date_ja": "2026年7月4日（土）",
+        "title": "AI業界激震！OpenAIの国家出資交渉とClaude規制解除、何が変わる？ #Shorts - YouTube",
+        "summary": "... 政府への5%出資を打診していると報じられました。これはAIの利益を国民に還元し、規制強化が進む中での政府 ... Geminiで新たな画像生成モデルと ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.youtube.com/watch?v=nhiPJPc88YI",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-04",
+        "date_ja": "2026年7月4日（土）",
         "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の ...",
         "summary": "ところが12日、米政府の命令によりFable 5の提供が一時停止される事態となった。30日の再提供の発表では、7月1日から7日までサブスクで展開し、有料プラン ...",
         "source": "Google Alert: AI×行政",
@@ -277,20 +277,20 @@
       {
         "date": "2026-07-04",
         "date_ja": "2026年7月4日（土）",
-        "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク",
-        "summary": "チバテレ＋プラス | ○この記事のポイント政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極...",
-        "source": "Google Alert: クラウド×政府",
-        "url": "https://www.chiba-tv.com/plus/detail/amp/2026071812670",
+        "title": "Claude Fable 5が規制解除で復活：性能は健在も、過剰な安全審査に開発者から不満噴出",
+        "summary": "しかし、発表からわずか3日後、米国政府は国家安全保障を理由に、外国籍ユーザーによるFable 5および同世代のMythos 5モデルへのアクセスを禁止する命令を ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://finance.biggo.jp/news/ed8c3aa4-4247-4005-b123-d7e2054aa67e",
         "relevance": "",
         "type": "news"
       },
       {
         "date": "2026-07-04",
         "date_ja": "2026年7月4日（土）",
-        "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク",
-        "summary": "この記事のポイント政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極...",
-        "source": "Google Alert: クラウド×政府",
-        "url": "https://article.auone.jp/detail/1/3/6/528_6_r_20260703_1783026902714285",
+        "title": "この休日で差がつく「Claude Fable 5」指示10選〜世界トップの使い方〜 - NewsPicks",
+        "summary": "KAWAI Claude Fable 5を試せる期間に、メール作成や要約だけで終わらせるのはもったいないです。 7月7日までの限定枠で試すべきは、普段なら人間が後回しに ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://newspicks.com/news/17028352/?block=headline&ref=index",
         "relevance": "",
         "type": "news"
       },
@@ -2048,5 +2048,5 @@
     "行政AI": 14,
     "行政DX": 14
   },
-  "updated_at": "2026-07-03T18:47:02.963Z"
+  "updated_at": "2026-07-04T07:44:43.305Z"
 }
