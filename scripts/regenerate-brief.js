@@ -1,5 +1,6 @@
 // 使い方: GEMINI_API_KEY=xxx node scripts/regenerate-brief.js [YYYY-MM-DD] ...
-//         省略時は最新3日分を対象にする
+//         引数省略時、TARGET_DATE環境変数があればその日のみ、無ければ
+//         最新3日分を対象にする
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
@@ -17,8 +18,9 @@ async function main() {
 
   let targets = process.argv.slice(2);
   if (targets.length === 0) {
-    // デフォルトは直近3日分（前々日・前日・今日）。連続2日障害まで回収できる
-    targets = getRecentDates(3);
+    // TARGET_DATE指定時（workflow_dispatchでの特定日バックフィル）はその日のみ、
+    // 未指定時は直近3日分（前々日・前日・今日）を対象にする。連続2日障害まで回収できる
+    targets = process.env.TARGET_DATE ? [process.env.TARGET_DATE] : getRecentDates(3);
   }
   console.log(`[INFO] 対象日: ${targets.join(', ')}`);
 

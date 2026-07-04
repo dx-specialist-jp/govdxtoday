@@ -53,17 +53,14 @@ jobs:
           # この待機は効かず、regenerate-brief.js 側も数秒で打ち切られる。
           echo "[INFO] Gemini APIレート制限回復のため5分待機..."
           sleep 300
-          if [ -n "${{ inputs.target_date }}" ]; then
-            # 手動バックフィル実行: 明示指定された日付のみを対象にする。
-            # 引数なし実行（直近3日分固定）だと、3日より前の欠損日は
-            # 手動指定しても永遠に補完対象に入らないため。
-            node scripts/regenerate-brief.js "${{ inputs.target_date }}"
-          else
-            # 通常のスケジュール実行: 直近3日分を処理し、前日までの取りこぼしを自動補完する
-            node scripts/regenerate-brief.js
-          fi
+          # TARGET_DATE指定時（手動バックフィル）はその日のみ、未指定時（通常の
+          # スケジュール実行）は直近3日分を処理し前日までの取りこぼしを自動補完する。
+          # ワークフロー式をrunブロックに直接展開せずenv経由で渡すことで、
+          # target_date入力値によるシェルインジェクションを避ける。
+          node scripts/regenerate-brief.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARGET_DATE: ${{ inputs.target_date }}
         continue-on-error: true
 
       - name: Vite ビルド

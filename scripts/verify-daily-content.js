@@ -39,7 +39,16 @@ for (const date of targetDates) {
   try {
     data = JSON.parse(readFileSync(path, 'utf-8'));
   } catch (err) {
-    console.warn(`[WARN] ${date}.json の読み込みに失敗しました（スキップ）: ${err.message}`);
+    if (explicitDate) {
+      // 明示指定日（手動バックフィル）はgenerate-content.jsが必ずファイルを
+      // 書き出しているはずの対象なので、読み込めないこと自体が異常
+      console.error(`::error::${date}.json の読み込みに失敗しました: ${err.message}`);
+      failedDates.push(date);
+    } else {
+      // 直近3日ウィンドウはプロジェクト初期など該当ファイルがそもそも
+      // 存在しない場合があり得る正常系なのでスキップする
+      console.warn(`[WARN] ${date}.json の読み込みに失敗しました（スキップ）: ${err.message}`);
+    }
     continue;
   }
 
