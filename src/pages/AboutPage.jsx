@@ -54,7 +54,7 @@ export default function AboutPage() {
             <h2 className="about-section-title" id="ai-heading">AIによる要約・フィルタリングについて</h2>
             <p>
               記事の要約・優先度判定・カテゴリ分類にはGoogle Gemini API
-              （<code>gemini-2.0-flash</code>、無料枠使用）を利用しています。
+              （<code>gemini-2.5-flash-lite</code>、無料枠使用）を利用しています。
               要約は「中央省庁PMO/PJMOが業務で活用できる観点」で生成しており、
               具体的な対応事項・確認すべき文書・期限の目安を含むよう設計しています。
             </p>

@@ -70,7 +70,7 @@ export default function TagPage() {
       <div className="page-dark-header">
         <div className="page-dark-header-inner">
           <p className="page-dark-eyebrow">
-            <Link to="/" style={{ color: '#5A9FD4', textDecoration: 'none' }}>今日</Link>
+            <Link to="/" style={{ color: '#7096f8', textDecoration: 'none' }}>今日</Link>
             {' › '}タグ
           </p>
           <h1 className="page-dark-title">{decodedTag}</h1>
