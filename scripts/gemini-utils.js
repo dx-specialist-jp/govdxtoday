@@ -1,3 +1,16 @@
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+// generate-content.js / regenerate-brief.js / verify-daily-content.js の3箇所で
+// 個別に計算すると、ロジックの修正漏れにより「今日」の判定がスクリプト間でずれる
+// 危険がある（例: JST日付境界をまたぐタイミングでの不一致）ため、ここに一本化する。
+export const DATA_DIR = resolve(dirname(fileURLToPath(import.meta.url)), '..', 'public', 'data');
+
+export function getTodayJST() {
+  const d = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
 // 1プロセス（= generate-content.js / regenerate-brief.js の1回の実行）あたりの
 // Gemini 実呼び出し（リトライ含む）上限。無料枠が復活した後、想定外の連続リトライや
 // バックフィル処理で1日分のクォータを一度に使い切ってしまわないための安全弁。

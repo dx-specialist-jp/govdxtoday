@@ -1,19 +1,15 @@
 // 使い方: GEMINI_API_KEY=xxx node scripts/regenerate-brief.js [YYYY-MM-DD] ...
-//         省略時は最新7日分を対象にする
+//         省略時は最新3日分を対象にする
 
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
-import { resolve, dirname } from 'node:path';
-import { fileURLToPath } from 'node:url';
-import { generateSummaryPoints, generateActionBrief, buildSummaryInput, isFatalGeminiError } from './gemini-utils.js';
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = resolve(__dirname, '..', 'public', 'data');
+import { resolve } from 'node:path';
+import { generateSummaryPoints, generateActionBrief, buildSummaryInput, isFatalGeminiError, DATA_DIR } from './gemini-utils.js';
 
 // brief・summary の生成プロンプト本体は gemini-utils.js の
 // generateActionBrief / generateSummaryPoints（generate-content.js と共通）を使用
 
 async function main() {
-  const model = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
+  const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
   if (!process.env.GEMINI_API_KEY) {
     console.error('[ERROR] GEMINI_API_KEY が未設定です');
     process.exit(1);

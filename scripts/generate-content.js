@@ -7,19 +7,14 @@
  *
  * 環境変数:
  *   GEMINI_API_KEY          - Google Gemini API キー（必須）
- *   GEMINI_MODEL            - 使用モデル（省略時: gemini-2.0-flash）
+ *   GEMINI_MODEL            - 使用モデル（省略時: gemini-2.5-flash-lite）
  *   TARGET_DATE             - 対象日 YYYY-MM-DD（省略時: 今日 JST）
  *   GEMINI_MAX_CALLS_PER_RUN - 1実行あたりのGemini呼び出し上限（省略時: 16。gemini-utils.js参照）
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { resolve, dirname } from 'node:path';
-import { fileURLToPath } from 'node:url';
-import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, generateActionBrief, buildSummaryInput } from './gemini-utils.js';
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = resolve(__dirname, '..');
-const DATA_DIR = resolve(ROOT, 'public', 'data');
+import { resolve } from 'node:path';
+import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, generateActionBrief, buildSummaryInput, DATA_DIR, getTodayJST } from './gemini-utils.js';
 
 // ── 政府公式 RSS ソース ────────────────────────────────────────────────
 // 中央省庁PMO/PJMO担当者が最低限押さえるべき公式情報源
@@ -51,10 +46,7 @@ const GOOGLE_ALERT_SOURCES = [
 const PAYWALL_KEYWORDS = ['会員限定', '有料会員', 'プレミアム会員', '有料記事', '会員専用'];
 
 // ── 日付ユーティリティ ────────────────────────────────────────────────
-function getTodayJST() {
-  const d = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
-  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
-}
+// getTodayJST は gemini-utils.js に集約（verify-daily-content.js と定義がずれないように）
 
 function formatDateJa(dateStr) {
   const weekdays = ['日', '月', '火', '水', '木', '金', '土'];
@@ -471,7 +463,7 @@ function updateIndex(date, summaryShort, articleCount, hasSecurityAlert) {
 // ── メイン ────────────────────────────────────────────────────────────
 async function main() {
   const targetDate = process.env.TARGET_DATE || getTodayJST();
-  const model = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
+  const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
   const hasApiKey = Boolean(process.env.GEMINI_API_KEY);
 
   console.log(`[INFO] 対象日: ${targetDate} / モデル: ${model}`);

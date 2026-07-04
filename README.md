@@ -21,7 +21,7 @@ RSS/Atom フィード収集
 - フロントエンド: React 18 + React Router v6 + Vite (HashRouter, SPA)
 - ホスティング: GitHub Pages (`docs/` ディレクトリ)
 - CI/CD: GitHub Actions (`.github/workflows/daily-update.yml`) — 毎日 UTC 14:00 実行
-- AI: Google Gemini API (`gemini-2.0-flash`) — フィルタリング・要約・PMO対応ポイント生成
+- AI: Google Gemini API (`gemini-2.5-flash-lite`) — フィルタリング・要約・PMO対応ポイント生成
 
 ---
 
@@ -84,7 +84,7 @@ npm install
 | 変数名 | 必須 | 説明 |
 |--------|------|------|
 | `GEMINI_API_KEY` | 必須 | Google Gemini API キー |
-| `GEMINI_MODEL` | 任意 | 省略時: `gemini-2.0-flash` |
+| `GEMINI_MODEL` | 任意 | 省略時: `gemini-2.5-flash-lite` |
 
 ---
 
