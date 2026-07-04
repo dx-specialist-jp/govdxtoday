@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-05",
+      "summary_short": "文科省、生成AIとセキュリティ指針を改訂…次世代校務DX…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-04",
       "summary_short": "シンガポール政府、データセンター向けライセンス制度の導入…など10件",
       "article_count": 10,
