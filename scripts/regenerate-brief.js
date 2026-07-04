@@ -1,9 +1,9 @@
 // 使い方: GEMINI_API_KEY=xxx node scripts/regenerate-brief.js [YYYY-MM-DD] ...
 //         省略時は最新3日分を対象にする
 
-import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { generateSummaryPoints, generateActionBrief, buildSummaryInput, isFatalGeminiError, DATA_DIR } from './gemini-utils.js';
+import { generateSummaryPoints, generateActionBrief, buildSummaryInput, isFatalGeminiError, DATA_DIR, getRecentDates } from './gemini-utils.js';
 
 // brief・summary の生成プロンプト本体は gemini-utils.js の
 // generateActionBrief / generateSummaryPoints（generate-content.js と共通）を使用
@@ -18,11 +18,7 @@ async function main() {
   let targets = process.argv.slice(2);
   if (targets.length === 0) {
     // デフォルトは直近3日分（前々日・前日・今日）。連続2日障害まで回収できる
-    targets = readdirSync(DATA_DIR)
-      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-      .sort()
-      .slice(-3)
-      .map((f) => f.replace('.json', ''));
+    targets = getRecentDates(3);
   }
   console.log(`[INFO] 対象日: ${targets.join(', ')}`);
 

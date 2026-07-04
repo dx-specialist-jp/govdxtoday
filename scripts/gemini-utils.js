@@ -1,3 +1,4 @@
+import { readdirSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -9,6 +10,17 @@ export const DATA_DIR = resolve(dirname(fileURLToPath(import.meta.url)), '..', '
 export function getTodayJST() {
   const d = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
+// public/data/ に保存済みの日付ファイルのうち直近n日分の日付文字列を返す。
+// regenerate-brief.js の自動補完対象と verify-daily-content.js の検証対象を
+// 同じ集合に揃えるための共通実装（片方だけ範囲を変更して検知漏れが起きるのを防ぐ）。
+export function getRecentDates(n) {
+  return readdirSync(DATA_DIR)
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort()
+    .slice(-n)
+    .map((f) => f.replace('.json', ''));
 }
 
 // 1プロセス（= generate-content.js / regenerate-brief.js の1回の実行）あたりの

@@ -37,24 +37,11 @@ jobs:
       - name: 依存パッケージをインストール
         run: npm ci
 
-      - name: 対象日を解決
-        id: resolve_date
-        run: |
-          # generate-content.js と verify-daily-content.js が同じ「対象日」を見るよう、
-          # ジョブ開始時に一度だけ解決する。各スクリプトが実行タイミングで個別に
-          # 「今日」を再計算すると、ビルド・デプロイ等で数分〜数十分かかる間に
-          # JST日付境界をまたいだ場合に不一致が起きるため。
-          if [ -n "${{ inputs.target_date }}" ]; then
-            echo "date=${{ inputs.target_date }}" >> "$GITHUB_OUTPUT"
-          else
-            echo "date=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: コンテンツ生成
         run: node scripts/generate-content.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TARGET_DATE: ${{ steps.resolve_date.outputs.date }}
+          TARGET_DATE: ${{ inputs.target_date }}
 
       - name: AI要約・ブリーフ補完（未生成分のみ）
         run: |
@@ -70,7 +57,7 @@ jobs:
             # 手動バックフィル実行: 明示指定された日付のみを対象にする。
             # 引数なし実行（直近3日分固定）だと、3日より前の欠損日は
             # 手動指定しても永遠に補完対象に入らないため。
-            node scripts/regenerate-brief.js "${{ steps.resolve_date.outputs.date }}"
+            node scripts/regenerate-brief.js "${{ inputs.target_date }}"
           else
             # 通常のスケジュール実行: 直近3日分を処理し、前日までの取りこぼしを自動補完する
             node scripts/regenerate-brief.js
@@ -107,4 +94,4 @@ jobs:
         if: always()
         run: node scripts/verify-daily-content.js
         env:
-          TARGET_DATE: ${{ steps.resolve_date.outputs.date }}
+          TARGET_DATE: ${{ inputs.target_date }}
