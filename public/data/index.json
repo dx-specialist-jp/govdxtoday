@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-06",
+      "summary_short": "AWS Dominates Over 80% of Go…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-05",
       "summary_short": "文科省、生成AIとセキュリティ指針を改訂…次世代校務DX…など10件",
       "article_count": 10,

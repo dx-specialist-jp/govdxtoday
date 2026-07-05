@@ -225,6 +225,106 @@
     ],
     "その他": [
       {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "エージェントAI時代に求められる運用ガバナンスとは | Forbes JAPAN 公式サイト（フォーブス ...",
+        "summary": "ステファン・ジェルヴェ氏は、ApexTransformの創業者兼CEOであり、グローバルリーダーに対してイノベーション、AI戦略、企業変革に関する助言を行っている。",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://forbesjapan.com/articles/detail/100295",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "Claude Code - 既定の権限モードをManualに変更、自動承認をやめ安全側へ",
+        "summary": "AIインフラ投資 &middot; AIエージェント &middot; AIガバナンス &middot; AIコーディング &middot; AIツール &middot; AIニュース &middot; AIビジネス &middot; AIブラウザ &middot; AI投資 &middot; AI検索 &middot; Anthropic ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://tech-noisy.com/2026/07/05/claude-code-default-permission-mode-manual/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "CIOに迫るAI成果の精算期が到来。成功するために必要な公式とは - NewsPicks",
+        "summary": "CIOにとって、企業におけるAIの成果は「自分ごと」になった。 AIプラットフォームDataiku*の新たな調査によれば、AI ... AIガバナンスの最前線：野心と説明責任を ...",
+        "source": "Google Alert: AIガバナンス",
+        "url": "https://newspicks.com/news/17032026/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "70カ国の言葉をリアルタイム通訳！学校の勉強から海外旅行までAIが全部サポートしてくれる未来",
+        "summary": "教育ではNotebookLMやGeminiの学習ノートが拡充され、研究・行政・防災の領域でもAIが具体的な成果を目指す取り組みが示されました。 開発者・クリエイター ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://dxmagazine.jp/news/2624kowo0314re-01/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "アリババが7月10日からClaude Codeの社内使用を禁止へ | ウクライナニュース - #Mezha",
+        "summary": "これはドニプロペトロフスク州行政長官オレクサンドル・ガンジャがテレグラムで発表した。 ... ドニプロ地区では、侵略者はドニプロ市、ソロンヤンスカ自治体、 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://mezha.net/jp/bukvy/234dab0b_alibaba_bans_employees/",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "Shooting Game by Claude Code - 岡高志（オカタカシ） - 選挙ドットコム",
+        "summary": "The post Shooting Game by Claude Code first appeared on 東京都・ 大田区 のDX行政書士 | 岡高志（おかたかし）公式サイト.",
+        "source": "Google Alert: AI×行政",
+        "url": "https://go2senkyo.com/seijika/30779/posts/1429846",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - Yahoo!ニュース",
+        "summary": "両モデルは6月9日にリリースされたが、6月12日に政府が輸出規制を適用した。これにより外国籍ユーザーへの提供制限が即日発効した一方、国籍をリアルタイムに ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://news.yahoo.co.jp/articles/6b366e26f9a0740fcc363da8dffdfaf2d8485f4b",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "Anthropicの「Claude Fable 5」が復活／Googleが画像生成AI「Nano Banana 2 Lite」を発表 ...",
+        "summary": "... Copilot in Excel」を強化. 米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活. Anthropicは6月30日、政府による最新AIモデル「Claude ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2607/05/news015.html",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - ｄメニューニュース",
+        "summary": "Anthropicは6月30日、政府による最新AIモデル「Claude Fable 5」「Claude ... 一方のGemini Omni Flash（gemini-omni-flash-preview）は、Google I/Oで ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260705_015",
+        "relevance": "",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "AWS Dominates Over 80% of Government Systems - YouTube",
+        "summary": "政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極集中の実態が明らかになった。コスト削減や技術力の高さといったメリットは ...",
+        "source": "Google Alert: クラウド×政府",
+        "url": "https://www.youtube.com/watch?v=DDEpAGxuwL0",
+        "relevance": "",
+        "type": "news"
+      },
+      {
         "date": "2026-07-04",
         "date_ja": "2026年7月4日（土）",
         "title": "Microsoft、6000人のAIエンジニアリング組織「Frontier Company」を設立 - エンタープライズジン",
@@ -2152,7 +2252,7 @@
   },
   "tag_counts": {
     "セキュリティ": 23,
-    "その他": 158,
+    "その他": 168,
     "行政AI": 14,
     "行政DX": 14,
     "AI活用": 4,
@@ -2160,5 +2260,5 @@
     "制度/ガイドライン": 1,
     "自治体DX事例": 2
   },
-  "updated_at": "2026-07-04T17:46:10.954Z"
+  "updated_at": "2026-07-05T17:48:39.746Z"
 }
