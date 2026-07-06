@@ -4,6 +4,8 @@ import { useState } from 'react';
 // 必ず同じ構成で表示するための既定文言（日によって欄自体が出たり消えたりしないようにする）
 const DEFAULT_ACTION = '元記事の内容を確認し、所管業務への影響・対応要否を確認すること。';
 
+const isHttpUrl = (url) => Boolean(url && url.startsWith('http'));
+
 export default function NewsTopics({ topics }) {
   const [activeCategory, setActiveCategory] = useState(null);
 
@@ -45,7 +47,7 @@ export default function NewsTopics({ topics }) {
           const sources = topic.sources && topic.sources.length > 0
             ? topic.sources
             : (topic.source || topic.url) ? [{ name: topic.source, url: topic.url }] : [];
-          const primaryUrl = sources.find((s) => s.url && s.url.startsWith('http'))?.url;
+          const primaryUrl = sources.find((s) => isHttpUrl(s.url))?.url;
           const hasUrl = Boolean(primaryUrl);
           return (
             <article
@@ -87,7 +89,7 @@ export default function NewsTopics({ topics }) {
                   {sources.map((s, si) => (
                     <span key={s.url || s.name || si}>
                       {si > 0 && '、'}
-                      {s.url && s.url.startsWith('http') ? (
+                      {isHttpUrl(s.url) ? (
                         <a
                           href={s.url}
                           target="_blank"

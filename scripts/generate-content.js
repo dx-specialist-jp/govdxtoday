@@ -50,6 +50,11 @@ const PAYWALL_KEYWORDS = ['会員限定', '有料会員', 'プレミアム会員
 // 空文字を許容しない）。Gemini生成のrelevanceが得られない場合はこの既定文言で埋める。
 const DEFAULT_RELEVANCE = '元記事の内容を確認し、所管業務への影響・対応要否を確認すること。';
 
+// news_topics の sources 配列に格納する1記事分のエントリを組み立てる（複数箇所で共通利用）
+function toSourceEntry(a) {
+  return { name: a.sourceName || '', url: a.url || '' };
+}
+
 // ── 日付ユーティリティ ────────────────────────────────────────────────
 // getTodayJST は gemini-utils.js に集約（verify-daily-content.js と定義がずれないように）
 
@@ -346,7 +351,7 @@ ${inputJson}
       summary: a.description || a.title,
       relevance: DEFAULT_RELEVANCE,
       category: 'その他',
-      sources: [{ name: a.sourceName || '', url: a.url || '' }],
+      sources: [toSourceEntry(a)],
       score: 0,
     }));
 
@@ -359,12 +364,21 @@ ${inputJson}
     }
     const seenIndices = new Set();
     return results
-      .map((r) => ({
-        ...r,
-        validIndices: Array.isArray(r.indices)
-          ? r.indices.filter((idx) => Number.isInteger(idx) && idx >= 0 && idx < targetArticles.length)
-          : [],
-      }))
+      .map((r) => {
+        // Geminiが数値配列の要素を文字列で返すことがあるため、旧index実装と同様
+        // Number() で明示的に変換してから整数判定する（"3" のような文字列も許容する）
+        const rawIndices = Array.isArray(r.indices) ? r.indices : [];
+        const validIndices = [];
+        for (const raw of rawIndices) {
+          const idx = Number(raw);
+          if (Number.isInteger(idx) && idx >= 0 && idx < targetArticles.length) {
+            validIndices.push(idx);
+          } else {
+            console.warn(`[WARN] ニュースフィルタ: 無効なindex (${JSON.stringify(raw)}) をスキップ`);
+          }
+        }
+        return { ...r, validIndices };
+      })
       .sort((a, b) => (b.score || 0) - (a.score || 0))
       .filter((r) => {
         if (r.validIndices.length === 0) {
@@ -388,7 +402,7 @@ ${inputJson}
             seenUrls.add(a.url);
             return true;
           })
-          .map((a) => ({ name: a.sourceName || '', url: a.url || '' }));
+          .map(toSourceEntry);
         return {
           title: r.title || primary.title || '',
           summary: r.summary || primary.description || primary.title || '',
@@ -559,7 +573,7 @@ async function main() {
         summary: a.description || a.title,
         relevance: DEFAULT_RELEVANCE,
         category: 'その他',
-        sources: [{ name: a.sourceName || '', url: a.url || '' }],
+        sources: [toSourceEntry(a)],
         score: 0,
       }));
     }
@@ -571,7 +585,7 @@ async function main() {
       summary: a.description || a.title,
       relevance: DEFAULT_RELEVANCE,
       category: 'その他',
-      sources: [{ name: a.sourceName || '', url: a.url || '' }],
+      sources: [toSourceEntry(a)],
       score: 0,
     }));
   }
@@ -641,7 +655,7 @@ async function main() {
       summary:   a.summary || a.description?.slice(0, 100) || a.title,
       relevance: DEFAULT_RELEVANCE,
       category:  ARTICLE_TYPE_TO_CATEGORY[a.articleType] || '行政DX',
-      sources:   [{ name: a.sourceName || '', url: a.url || '' }],
+      sources:   [toSourceEntry(a)],
       score:     a.importance_score,
     }));
 

@@ -184,6 +184,6 @@ export function buildSummaryInput(heroArticle, subArticles, newsTopics) {
   return [
     ...(heroArticle ? [{ title: heroArticle.title, summary: heroArticle.summary, source: heroArticle.source_name }] : []),
     ...(subArticles || []).map((a) => ({ title: a.title, summary: a.summary, source: a.source_name })),
-    ...(newsTopics || []).slice(0, 8).map((t) => ({ title: t.title, summary: t.summary, source: (t.sources || [])[0]?.name || t.source })),
+    ...(newsTopics || []).slice(0, 8).map((t) => ({ title: t.title, summary: t.summary, source: (t.sources || [])[0]?.name ?? t.source ?? '' })),
   ];
 }
