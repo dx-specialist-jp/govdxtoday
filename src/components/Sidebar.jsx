@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { NavLink } from 'react-router-dom';
+import { isCspTag } from '../utils.js';
 
 const PREFERRED_TAGS = [
   'AI活用',
@@ -74,7 +75,7 @@ export default function Sidebar({ open, onClose, tagCounts = {} }) {
 
           <div className="sidebar-section">
             <p className="sidebar-section-label">タグで絞り込む</p>
-            {[...PREFERRED_TAGS, ...Object.keys(tagCounts).filter((t) => tagCounts[t] > 0 && !PREFERRED_TAGS.includes(t))].map((label) => (
+            {[...PREFERRED_TAGS, ...Object.keys(tagCounts).filter((t) => tagCounts[t] > 0 && !PREFERRED_TAGS.includes(t) && !isCspTag(t))].map((label) => (
               <NavLink
                 key={label}
                 to={`/tag/${encodeURIComponent(label)}`}
@@ -92,6 +93,29 @@ export default function Sidebar({ open, onClose, tagCounts = {} }) {
           </div>
 
           <hr className="sidebar-divider" />
+
+          {Object.keys(tagCounts).some((t) => isCspTag(t) && tagCounts[t] > 0) && (
+            <>
+              <div className="sidebar-section">
+                <p className="sidebar-section-label">CSPで絞り込む</p>
+                {Object.keys(tagCounts).filter((t) => isCspTag(t) && tagCounts[t] > 0).map((label) => (
+                  <NavLink
+                    key={label}
+                    to={`/tag/${encodeURIComponent(label)}`}
+                    className={linkClass}
+                    onClick={onClose}
+                  >
+                    {label}
+                    <span className="sidebar-link-badge" aria-label={`${tagCounts[label]}件`}>
+                      {tagCounts[label]}
+                    </span>
+                  </NavLink>
+                ))}
+              </div>
+
+              <hr className="sidebar-divider" />
+            </>
+          )}
 
           <div className="sidebar-section">
             <p className="sidebar-section-label">サイト情報</p>

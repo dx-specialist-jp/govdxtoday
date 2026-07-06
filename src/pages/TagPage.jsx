@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import { isCspTag } from '../utils.js';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -43,9 +44,11 @@ export default function TagPage() {
   const articles = (tagsData?.tags?.[decodedTag]) || [];
   const groups = groupByDate(articles);
   const counts = tagsData?.tag_counts || {};
-  // 優先タグ + データに存在する追加タグ（count > 0 かつ優先リスト外）を結合
-  const extraTags = Object.keys(counts).filter((t) => counts[t] > 0 && !PREFERRED_TAGS.includes(t));
+  // 優先タグ + データに存在する追加タグ（count > 0 かつ優先リスト外・CSP別タグ以外）を結合。
+  // CSP別タグ（生RSSそのまま）は編集キュレーション済みのカテゴリタグと性質が異なるため別枠で表示する
+  const extraTags = Object.keys(counts).filter((t) => counts[t] > 0 && !PREFERRED_TAGS.includes(t) && !isCspTag(t));
   const ALL_TAGS = [...PREFERRED_TAGS, ...extraTags];
+  const cspTags = Object.keys(counts).filter((t) => isCspTag(t) && counts[t] > 0);
 
   if (error) {
     return (
@@ -102,6 +105,27 @@ export default function TagPage() {
             ))}
           </nav>
         </div>
+
+        {cspTags.length > 0 && (
+          <div className="digest-section">
+            <p className="section-label">CSPで探す</p>
+            <nav className="all-tags-grid" aria-label="CSPナビゲーション">
+              {cspTags.map((label) => (
+                <Link
+                  key={label}
+                  to={`/tag/${encodeURIComponent(label)}`}
+                  className={`tag-nav-pill${label === decodedTag ? ' active' : ''}`}
+                  aria-current={label === decodedTag ? 'page' : undefined}
+                >
+                  {label}
+                  <span className="tag-nav-pill-count" aria-label={`${counts[label]}件`}>
+                    ({counts[label]})
+                  </span>
+                </Link>
+              ))}
+            </nav>
+          </div>
+        )}
 
         {/* 記事一覧 */}
         {articles.length === 0 ? (

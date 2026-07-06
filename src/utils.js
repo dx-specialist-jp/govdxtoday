@@ -8,3 +8,9 @@ export function filterMeaningfulItems(items) {
 }
 
 export const isHttpUrl = (url) => Boolean(url && url.startsWith('http'));
+
+// クラウドサービスプロバイダー別タグ（例: 「AWS最新情報」）は generate-content.js の
+// updateTagsIndex が `${provider}最新情報` の形式で生成する。編集部キュレーション済みの
+// カテゴリタグ（AI活用・セキュリティ等）とは性質が異なる（生RSSそのまま）ため、
+// サイドバー・タグ一覧では別セクションに分けて表示する
+export const isCspTag = (tag) => tag.endsWith('最新情報');

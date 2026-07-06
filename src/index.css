@@ -736,8 +736,8 @@ a:hover { color: var(--accent); }
    CLOUD UPDATES — ガバメントクラウド CSP公式情報（AI要約なし・生RSS掲載）
 ══════════════════════════════════════════ */
 .cloud-updates-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: 16px;
 }
 .cloud-updates-card {
