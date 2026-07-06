@@ -34,7 +34,7 @@ function HeroSection({ data, showBackLink }) {
         )}
         <p className="hero-eyebrow">Daily Digest</p>
         <h1 className="hero-date">{data.date_ja || data.date}</h1>
-        <p className="hero-tagline">行政DX・AI活用 最新情報ダイジェスト</p>
+        <p className="hero-tagline">行政DX・AI活用・クラウド 最新情報ダイジェスト</p>
         <div className="hero-stats">
           {heroCount > 0 && (
             <span className="hero-stat-item">
