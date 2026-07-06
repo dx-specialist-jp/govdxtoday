@@ -1,6 +1,6 @@
 # GovDX Today
 
-中央省庁PMO/PJMO担当者向けの行政DX・AI活用情報を毎日自動収集・キュレーションするサイト。
+中央省庁PMO/PJMO担当者向けの行政DX・AI活用・クラウド情報を毎日自動収集・キュレーションするサイト。
 GitHub Pages で公開、非営利・非商業目的。
 
 **公開URL:** https://dx-specialist-jp.github.io/govdxtoday/

@@ -11,7 +11,7 @@ export default function Header({ onMenuToggle, sidebarOpen }) {
           <span className="site-brand-mark" aria-hidden="true">DX</span>
           <span className="site-brand-text">
             <span className="site-brand-name">GovDX Today</span>
-            <span className="site-brand-tagline">行政DX・AI活用ダイジェスト</span>
+            <span className="site-brand-tagline">行政DX・AI活用・クラウドダイジェスト</span>
           </span>
         </Link>
 

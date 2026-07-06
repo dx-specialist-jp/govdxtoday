@@ -27,7 +27,7 @@ export default function AboutPage() {
             <p>
               GovDX Today は、中央省庁・地方公共団体の
               <strong>PMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者</strong>
-              を主な対象として、行政DX・AI活用に関する情報を毎朝自動集約・要約するダイジェストサイトです。
+              を主な対象として、行政DX・AI活用・クラウドに関する情報を毎朝自動集約・要約するダイジェストサイトです。
             </p>
             <p>
               政府公式RSSとGoogle Alertsを横断的に収集し、AIが「PMO/PJMOとして何を確認・対応すべきか」
