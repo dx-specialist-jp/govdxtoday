@@ -2,106 +2,289 @@
   "date": "2026-07-06",
   "date_ja": "2026年7月6日（月）",
   "news_summary": [
-    "ガバメントクラウドにおいて、Amazon Web Servicesが国のシステムの約85％を占める一極集中の実態が判明しました。",
-    "米商務省の輸出規制解除を受け、AnthropicのAIモデル「Claude Fable 5」の提供が再開されました。",
-    "Googleは、最新AIモデル「Claude Fable 5」や画像生成AI「Nano Banana 2 Lite」を発表しました。",
-    "NotebookLMやGeminiといったAIツールが、教育、研究、行政、防災分野での活用を目指しています。",
-    "AIガバナンスにおいては、CIOがAIの成果を「自分ごと」として捉え、成功のための公式を模索しています。"
+    "ガバメントクラウドでAWSが8割超を占める一極集中構造が判明しました。",
+    "AIトランスフォーメーション（AX）推進セミナーで、ツール投資に終わらない支援がテーマです。",
+    "米CIA長官は高度AIを核兵器と同等に位置づける懸念を示しました。",
+    "米国政府の輸出規制解除により、AIモデル「Claude Fable 5」の提供が再開されました。",
+    "りそなグループはCopilot Studioで業務用AIエージェントを構築し、協働を推進しています。",
+    "AIガバナンス市場は、倫理的・透明性・規制準拠の運用保証体系を指します。"
   ],
   "security_alerts": [],
   "hero_article": null,
   "sub_articles": [],
   "news_topics": [
     {
+      "title": "政府システムをAWSが「8割超」独占の衝撃…ガバメントクラウド肥大化に潜むリスク | AIジャーナル",
+      "summary": "... さくらのクラウド」の計5サービスである。制度上は自治体や省庁が複数の ... 世界のクラウドインフラ市場そのものが、AWS、Microsoft Azure、Google Cloud ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "Google Alert: クラウド×政府",
+          "url": "https://biz-journal.jp/ai/pickup-news/post_337286.html"
+        }
+      ],
+      "score": 0
+    },
+    {
       "title": "AWS Dominates Over 80% of Government Systems - YouTube",
       "summary": "政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極集中の実態が明らかになった。コスト削減や技術力の高さといったメリットは ...",
-      "relevance": "ガバメントクラウド所管チームは、AWSへの依存度集中の実態を踏まえ、マルチクラウド化・ベンダーロックイン回避策の検討状況を確認すること。",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: クラウド×政府",
-      "url": "https://www.youtube.com/watch?v=DDEpAGxuwL0",
+      "sources": [
+        {
+          "name": "Google Alert: クラウド×政府",
+          "url": "https://www.youtube.com/watch?v=DDEpAGxuwL0"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - ｄメニューニュース",
-      "summary": "Anthropicは6月30日、政府による最新AIモデル「Claude Fable 5」「Claude ... 一方のGemini Omni Flash（gemini-omni-flash-preview）は、Google I/Oで ...",
-      "relevance": "AI利活用担当は、輸出規制解除に伴うClaude Fable 5の提供再開状況を把握し、庁内での利用可否判断の材料とすること。",
+      "title": "AI・DX推進担当向けの無料セミナー「Claude Cowork / Codeで変わるAX - PR TIMES",
+      "summary": "今回は「ツール投資で終わらないAX推進」をテーマに、AX（AIトランスフォーメーション）に特化し、350以上の企業や250以上の自治体へのAXプロデュース支援実績を ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260705_015",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://prtimes.jp/main/html/rd/p/000000354.000000486.html"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "Anthropicの「Claude Fable 5」が復活／Googleが画像生成AI「Nano Banana 2 Lite」を発表 ...",
-      "summary": "... Copilot in Excel」を強化. 米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活. Anthropicは6月30日、政府による最新AIモデル「Claude ...",
-      "relevance": "AI活用推進担当は、主要AIベンダー各社の新モデル発表状況を把握し、業務適用可能性のある機能を整理すること。",
+      "title": "CIA長官が高度なAIを核兵器と同等のレベルに位置づける - GIGAZINE",
+      "summary": "... 政府がClaude Fable 5とClaude Mythos 5の規制を解除 - GIGAZINE. アメリカのドナルド・トランプ大統領は政府としてAIのイノベーションを奨励しつつ、政府が ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2607/05/news015.html",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - Yahoo!ニュース",
-      "summary": "両モデルは6月9日にリリースされたが、6月12日に政府が輸出規制を適用した。これにより外国籍ユーザーへの提供制限が即日発効した一方、国籍をリアルタイムに ...",
-      "relevance": "AI調達・利用担当は、輸出規制の適用・解除が繰り返されるリスクを踏まえ、業務継続計画（BCP）上の代替手段を確認すること。",
+      "title": "公開3日で停止した「Claude Fable 5」が復活 AI脱獄の採点ルールも稼働 - ITmedia",
+      "summary": "Anthropicは2026年6月30日（米国時間、以下同）、米国政府による輸出規制の解除を受け、提供を停止していた最新AIモデル「Claude Fable 5」（以下、Fable 5 ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://news.yahoo.co.jp/articles/6b366e26f9a0740fcc363da8dffdfaf2d8485f4b",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news036.html"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "Shooting Game by Claude Code - 岡高志（オカタカシ） - 選挙ドットコム",
-      "summary": "The post Shooting Game by Claude Code first appeared on 東京都・ 大田区 のDX行政書士 | 岡高志（おかたかし）公式サイト.",
-      "relevance": "情報セキュリティ担当は、Claude Codeを用いた個人利用事例の広がりを踏まえ、庁内利用ガイドラインの周知状況を確認すること。",
+      "title": "コーポレート トランスフォーメーションに取り組むりそなグループ。Copilot Studio を活用した AI ...",
+      "summary": "Copilot Studio を活用し、融資・住宅ローン・企業年金・iDeCo の 4 領域で業務用 AI エージェントを構築。人と AI が協働する価値創造型の働き方へのシフト ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://go2senkyo.com/seijika/30779/posts/1429846",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://www.microsoft.com/ja-jp/customers/story/26717-resona-holdings-microsoft-copilot-studio"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "アリババが7月10日からClaude Codeの社内使用を禁止へ | ウクライナニュース - #Mezha",
-      "summary": "これはドニプロペトロフスク州行政長官オレクサンドル・ガンジャがテレグラムで発表した。 ... ドニプロ地区では、侵略者はドニプロ市、ソロンヤンスカ自治体、 ...",
-      "relevance": "情報セキュリティ担当は、Claude Codeの社内利用禁止事例（バックドアリスク等）を確認し、庁内AI利用ガイドラインのセキュリティ要件を点検すること。",
+      "title": "エクサウィザーズ、ｅｘａＢａｓｅ ＡＩで最新モデル「Ｃｌａｕｄｅ Ｓｏｎｎｅｔ ５」提供開始",
+      "summary": "... Ｃｌａｕｄｅ Ｓｏｎｎｅｔ ５」の提供を開始したと発表した。 同 ... 米国政府の要請により一時終了していた「Ｃｌａｕｄｅ Ｆａｂｌｅ ５」の ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://mezha.net/jp/bukvy/234dab0b_alibaba_bans_employees/",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://kabu-ir.com/article/521076470.html"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "70カ国の言葉をリアルタイム通訳！学校の勉強から海外旅行までAIが全部サポートしてくれる未来",
-      "summary": "教育ではNotebookLMやGeminiの学習ノートが拡充され、研究・行政・防災の領域でもAIが具体的な成果を目指す取り組みが示されました。 開発者・クリエイター ...",
-      "relevance": "AI活用推進担当は、教育・防災分野でのAI活用事例を参考に、行政サービスへの応用可能性を検討すること。",
+      "title": "AIガバナンス市場の規模、シェア、成長および世界の業界分析：タイプ・用途別 - NEWSCAST",
+      "summary": "AIガバナンスとは、人工知能システムが倫理的かつ透明性を持って、規制に準拠して運用されることを保証する、ポリシー、技術、および調査手法からなる体系的な ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AI×行政",
-      "url": "https://dxmagazine.jp/news/2624kowo0314re-01/",
+      "sources": [
+        {
+          "name": "Google Alert: AIガバナンス",
+          "url": "https://newscast.jp/smart/news/4588712"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "CIOに迫るAI成果の精算期が到来。成功するために必要な公式とは - NewsPicks",
-      "summary": "CIOにとって、企業におけるAIの成果は「自分ごと」になった。 AIプラットフォームDataiku*の新たな調査によれば、AI ... AIガバナンスの最前線：野心と説明責任を ...",
-      "relevance": "AI戦略担当は、AI投資の成果測定に関する動向を把握し、PJにおけるKPI設定・効果検証の方法論に反映すること。",
+      "title": "国連が「AIガバナンスに関するグローバル・ダイアログ」を開催 ≪ 最新ニュース | 株式会社ＭＭ総研",
+      "summary": "国連による「AIガバナンスに関するグローバル・ダイアログ」の第1回会合が7月6日（現地時間）、スイスのジュネーヴで始まる...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AIガバナンス",
-      "url": "https://newspicks.com/news/17032026/",
+      "sources": [
+        {
+          "name": "Google Alert: AIガバナンス",
+          "url": "https://www.m2ri.jp/topics/detail.html?id=897"
+        }
+      ],
       "score": 0
     },
     {
-      "title": "Claude Code - 既定の権限モードをManualに変更、自動承認をやめ安全側へ",
-      "summary": "AIインフラ投資 &middot; AIエージェント &middot; AIガバナンス &middot; AIコーディング &middot; AIツール &middot; AIニュース &middot; AIビジネス &middot; AIブラウザ &middot; AI投資 &middot; AI検索 &middot; Anthropic ...",
-      "relevance": "AI利活用担当は、Claude Codeの既定権限モード変更（自動承認廃止）を確認し、庁内での利用手順・承認フローへの影響を精査すること。",
+      "title": "アクシスインターナショナル、2026年PMP(R)試験改訂に対応した新学習プログラムを提供開始",
+      "summary": "- 月例PDUウェビナー(AI時代のプロジェクトマネジメント、セキュリティ、AIガバナンス等、当社の専門領域を横断するテーマ) - 過去回アーカイブの視聴 合格 ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
       "category": "その他",
-      "source": "Google Alert: AIガバナンス",
-      "url": "https://tech-noisy.com/2026/07/05/claude-code-default-permission-mode-manual/",
-      "score": 0
-    },
-    {
-      "title": "エージェントAI時代に求められる運用ガバナンスとは | Forbes JAPAN 公式サイト（フォーブス ...",
-      "summary": "ステファン・ジェルヴェ氏は、ApexTransformの創業者兼CEOであり、グローバルリーダーに対してイノベーション、AI戦略、企業変革に関する助言を行っている。",
-      "relevance": "AIガバナンス担当は、エージェント型AIの運用ガバナンスに関する論点を把握し、庁内のAI運用体制整備の参考とすること。",
-      "category": "その他",
-      "source": "Google Alert: AIガバナンス",
-      "url": "https://forbesjapan.com/articles/detail/100295",
+      "sources": [
+        {
+          "name": "Google Alert: AIガバナンス",
+          "url": "https://www.jiji.com/jc/article?k=000000028.000080540&g=prt"
+        }
+      ],
       "score": 0
     }
   ],
-  "generated_at": "2026-07-05T17:48:39.744Z"
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
+          "pub_date": "2026-07-02T21:49:00.000Z",
+          "source": "AWS What's New"
+        },
+        {
+          "title": "Amazon EC2 X8i instances are now available in additional regions",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+          "pub_date": "2026-07-02T20:48:00.000Z",
+          "source": "AWS What's New"
+        },
+        {
+          "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+          "pub_date": "2026-07-02T17:00:00.000Z",
+          "source": "AWS What's New"
+        },
+        {
+          "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
+          "pub_date": "2026-07-02T16:00:00.000Z",
+          "source": "AWS What's New"
+        },
+        {
+          "title": "AWS Config now supports 8 new resource types",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
+          "pub_date": "2026-07-02T15:00:00.000Z",
+          "source": "AWS What's New"
+        }
+      ]
+    },
+    {
+      "provider": "Microsoft Azure",
+      "items": [
+        {
+          "title": "[Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks",
+          "url": "https://azure.microsoft.com/updates?id=567194",
+          "pub_date": "2026-07-02T22:21:51.000Z",
+          "source": "Azure Updates"
+        },
+        {
+          "title": "[Launched] Generally Available: New Powershell module: Az.PostgreSQLFlexibleServer",
+          "url": "https://azure.microsoft.com/updates?id=566209",
+          "pub_date": "2026-07-01T17:19:25.000Z",
+          "source": "Azure Updates"
+        },
+        {
+          "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
+          "url": "https://azure.microsoft.com/updates?id=563331",
+          "pub_date": "2026-07-01T17:04:40.000Z",
+          "source": "Azure Updates"
+        },
+        {
+          "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language",
+          "url": "https://azure.microsoft.com/updates?id=564382",
+          "pub_date": "2026-07-01T17:01:07.000Z",
+          "source": "Azure Updates"
+        },
+        {
+          "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
+          "url": "https://azure.microsoft.com/updates?id=565758",
+          "pub_date": "2026-07-01T16:59:39.000Z",
+          "source": "Azure Updates"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 05, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_05_2026",
+          "pub_date": "2026-07-05T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "July 04, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_04_2026",
+          "pub_date": "2026-07-04T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "July 03, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_03_2026",
+          "pub_date": "2026-07-03T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
+          "pub_date": "2026-07-02T14:00:00.000Z",
+          "source": "Google Cloud Blog"
+        },
+        {
+          "title": "July 02, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_02_2026",
+          "pub_date": "2026-07-02T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    },
+    {
+      "provider": "さくらインターネット",
+      "items": [
+        {
+          "title": "[メンテナンス] sakura.io、さくらのモノプラットフォーム の一部",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39395",
+          "pub_date": "2026-07-06T08:17:19.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "[メンテナンス] さくらのVPS for Windows Server 石狩リージョン 収容機材変更メンテナンス作業について",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39394",
+          "pub_date": "2026-07-06T07:51:10.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "[障害] 高火力 DOKの一部",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39391",
+          "pub_date": "2026-07-06T07:21:41.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「【ご好評につき再配信】クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225299/",
+          "pub_date": "2026-07-06T05:30:38.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「ゼロから挑むサーバー構築！実践で学ぶサイバーセキュリティへの第一歩」にてソリューション本部 関口が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225201/",
+          "pub_date": "2026-07-06T04:38:56.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-06T10:17:52.658Z"
 }
