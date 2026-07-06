@@ -29,14 +29,15 @@ const GOV_SOURCES = [
 ];
 
 // ── ガバメントクラウド認定CSP公式RSS ───────────────────────────────────
-// AI要約は行わず、フィード情報（タイトル・日時・出典）をそのまま掲載する
+// AI要約は行わず、フィード情報（タイトル・日時・出典）をそのまま掲載する。
+// 日本語版サイトのRSSのみを対象とする（公式の日本語版が存在しないAzure Updates・
+// AWS Service Health・Oracle Blogsは対象外。Google Cloud リリースノートのみ、
+// 日本語URLが存在しないがタイトルが日付のみで翻訳不要なため例外的に採用）
 const CLOUD_SOURCES = [
-  { provider: 'AWS',                  name: 'AWS What\'s New',              url: 'https://aws.amazon.com/new/feed/' },
-  { provider: 'AWS',                  name: 'AWS Service Health',           url: 'https://status.aws.amazon.com/rss/all.rss' },
-  { provider: 'Microsoft Azure',      name: 'Azure Updates',                url: 'https://www.microsoft.com/releasecommunications/api/v2/azure/rss' },
+  { provider: 'AWS',                  name: 'AWS 新着情報',                 url: 'https://aws.amazon.com/jp/new/feed/' },
+  { provider: 'AWS',                  name: 'AWS 公式ブログ',               url: 'https://aws.amazon.com/jp/blogs/news/feed/' },
   { provider: 'Google Cloud',         name: 'Google Cloud リリースノート',   url: 'https://cloud.google.com/feeds/gcp-release-notes.xml' },
-  { provider: 'Google Cloud',         name: 'Google Cloud Blog',            url: 'https://cloudblog.withgoogle.com/rss/' },
-  { provider: 'Oracle Cloud',         name: 'Oracle Blogs',                 url: 'https://blogs.oracle.com/feed' },
+  { provider: 'Google Cloud',         name: 'Google Cloud 公式ブログ',       url: 'https://cloudblog.withgoogle.com/ja/rss/' },
   { provider: 'さくらインターネット',  name: 'さくらインターネット ニュース', url: 'https://www.sakura.ad.jp/corporate/feed/' },
   { provider: 'さくらインターネット',  name: 'さくらインターネット メンテナンス情報', url: 'https://www.sakura.ad.jp/rss/mainte.rdf' },
 ];
@@ -518,6 +519,24 @@ function updateTagsIndex(date, dateJa, dayData) {
       url: article.source_url || '',
       type: 'government',
     });
+  }
+
+  // クラウドサービスプロバイダー更新情報はプロバイダごとにタグを分ける
+  // （特定のCSPのみを購読したい読者が他社の情報を除外して絞り込めるようにするため）
+  for (const provider of (dayData.cloud_updates || [])) {
+    const tag = `${provider.provider}最新情報`;
+    if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
+    for (const item of provider.items) {
+      tagsData.tags[tag].unshift({
+        date,
+        date_ja: dateJa,
+        title: item.title,
+        summary: '',
+        source: item.source,
+        url: item.url,
+        type: 'cloud',
+      });
+    }
   }
 
   // カウント更新

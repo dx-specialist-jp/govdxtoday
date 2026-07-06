@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { isHttpUrl } from '../utils.js';
 
 function formatDate(iso) {
@@ -20,7 +21,12 @@ export default function CloudUpdates({ providers }) {
       <div className="cloud-updates-grid" role="list">
         {providers.map((p) => (
           <div className="cloud-updates-card" role="listitem" key={p.provider}>
-            <h3 className="cloud-updates-provider">{p.provider}</h3>
+            <h3 className="cloud-updates-provider">
+              {p.provider}
+              <Link to={`/tag/${encodeURIComponent(`${p.provider}最新情報`)}`} className="category-tag">
+                {p.provider}最新情報
+              </Link>
+            </h3>
             <ul className="cloud-updates-list">
               {p.items.map((item, i) => (
                 <li className="cloud-updates-item" key={item.url || item.title || i}>

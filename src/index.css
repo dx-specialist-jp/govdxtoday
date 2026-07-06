@@ -748,6 +748,9 @@ a:hover { color: var(--accent); }
   padding: 18px 20px;
 }
 .cloud-updates-provider {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   font-size: 13px;
   font-weight: 700;
   color: var(--primary);
@@ -755,6 +758,7 @@ a:hover { color: var(--accent); }
   padding-bottom: 8px;
   border-bottom: 1px solid var(--border);
 }
+.cloud-updates-provider .category-tag { text-decoration: none; }
 .cloud-updates-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
 .cloud-updates-title {
   display: block;
