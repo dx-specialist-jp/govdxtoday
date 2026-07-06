@@ -85,7 +85,7 @@ export default function DigestView({ data, showBackLink = false }) {
         </div>
 
         <div id="sec-news">
-          <NewsTopics topics={data.news_topics} brief={data.news_topics_brief} />
+          <NewsTopics topics={data.news_topics} />
         </div>
       </div>
     </>

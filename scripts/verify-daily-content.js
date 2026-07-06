@@ -1,7 +1,7 @@
 /**
  * verify-daily-content.js
  * generate-content.js / regenerate-brief.js の実行後に、AI要約（news_summary）
- * とアクションブリーフ（news_topics_brief）が実際に生成できているかを検証する。
+ * が実際に生成できているかを検証する。
  *
  * これまで両スクリプトはどちらも「失敗時は null のまま保存し、後続の補完処理に
  * 委ねる」設計になっており、最終的に補完も失敗した場合でもワークフロー自体は
@@ -16,11 +16,10 @@
  * バックフィル）はその日のみを検証する。
  *
  * hero_article / sub_articles / news_topics が揃わない（＝その日は要約対象と
- * なる記事が無かった）日は、news_summary / news_topics_brief が null のままでも
- * 正常系であり、gemini-utils.js の generateSummaryPoints / generateActionBrief も
- * 意図的に null を返す。この場合まで失敗扱いにすると、記事が少ない/無い日に
- * 毎回誤検知することになるため、要約対象となる元記事が実際に存在した場合のみ
- * 検証対象とする。
+ * なる記事が無かった）日は、news_summary が null のままでも正常系であり、
+ * gemini-utils.js の generateSummaryPoints も意図的に null を返す。この場合まで
+ * 失敗扱いにすると、記事が少ない/無い日に毎回誤検知することになるため、
+ * 要約対象となる元記事が実際に存在した場合のみ検証対象とする。
  */
 
 import { readFileSync } from 'node:fs';
@@ -53,27 +52,23 @@ for (const date of targetDates) {
   }
 
   // generateSummaryPoints への入力（buildSummaryInput）は hero_article/sub_articles/news_topics
-  // のいずれかがあれば非空になる。generateActionBrief への入力は news_topics のみ。
+  // のいずれかがあれば非空になる。
   const hasSummaryInput = Boolean(data.hero_article) ||
     (Array.isArray(data.sub_articles) && data.sub_articles.length > 0) ||
     (Array.isArray(data.news_topics) && data.news_topics.length > 0);
-  const hasBriefInput = Array.isArray(data.news_topics) && data.news_topics.length > 0;
 
   const missing = [];
   if (hasSummaryInput && (!Array.isArray(data.news_summary) || data.news_summary.length === 0)) {
     missing.push('news_summary');
   }
-  if (hasBriefInput && (!Array.isArray(data.news_topics_brief) || data.news_topics_brief.length === 0)) {
-    missing.push('news_topics_brief');
-  }
 
   if (missing.length > 0) {
     console.error(`::error::${date}: AI要約の生成に失敗しています（欠落フィールド: ${missing.join(', ')}）`);
     failedDates.push(date);
-  } else if (!hasSummaryInput && !hasBriefInput) {
+  } else if (!hasSummaryInput) {
     console.log(`[INFO] ${date}: 要約対象の記事が無いため検証をスキップしました`);
   } else {
-    console.log(`[INFO] ${date}: news_summary / news_topics_brief の生成を確認しました`);
+    console.log(`[INFO] ${date}: news_summary の生成を確認しました`);
   }
 }
 

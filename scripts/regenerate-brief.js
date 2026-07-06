@@ -4,10 +4,10 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { generateSummaryPoints, generateActionBrief, buildSummaryInput, isFatalGeminiError, DATA_DIR, getRecentDates } from './gemini-utils.js';
+import { generateSummaryPoints, buildSummaryInput, isFatalGeminiError, DATA_DIR, getRecentDates } from './gemini-utils.js';
 
-// brief・summary の生成プロンプト本体は gemini-utils.js の
-// generateActionBrief / generateSummaryPoints（generate-content.js と共通）を使用
+// summary の生成プロンプト本体は gemini-utils.js の
+// generateSummaryPoints（generate-content.js と共通）を使用
 
 async function main() {
   const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
@@ -42,54 +42,28 @@ async function main() {
       continue;
     }
 
-    const needsBrief = !data.news_topics_brief || data.news_topics_brief.length === 0;
     const needsSummary = !data.news_summary || data.news_summary.length === 0;
-    if (!needsBrief && !needsSummary) {
-      console.log(`[INFO] ${date}: brief・summary 既存 → スキップ`);
+    if (!needsSummary) {
+      console.log(`[INFO] ${date}: summary 既存 → スキップ`);
       continue;
     }
 
-    console.log(`[INFO] ${date}: brief・summary を逐次生成中...`);
+    console.log(`[INFO] ${date}: summary を生成中...`);
 
-    // brief と summary はそれぞれ生成でき次第すぐ保存する。
-    // 一方が致命的エラー（クォータ0・呼び出し上限到達）で中断しても、
-    // 既に生成できた方を失わないようにするため。
-    if (needsBrief) {
-      try {
-        const brief = await generateActionBrief(topics, model);
-        if (brief !== null) {
-          data.news_topics_brief = brief;
-          writeFileSync(path, JSON.stringify(data, null, 2), 'utf-8');
-        }
-      } catch (err) {
-        if (isFatalGeminiError(err)) {
-          console.error(`::error::Gemini呼び出しを${date}以降で中断しました（${err.zeroQuota ? 'クォータ割当0' : '呼び出し上限到達'}）。`);
-          process.exitCode = 1;
-          aborted = true;
-          break;
-        }
-        throw err;
+    try {
+      const summary = await generateSummaryPoints(buildSummaryInput(data.hero_article, data.sub_articles, data.news_topics), model);
+      if (summary !== null) {
+        data.news_summary = summary;
+        writeFileSync(path, JSON.stringify(data, null, 2), 'utf-8');
       }
-      // brief と summary の間に少し間を置いてレート制限を回避
-      if (needsSummary) await new Promise((r) => setTimeout(r, 5000));
-    }
-
-    if (needsSummary) {
-      try {
-        const summary = await generateSummaryPoints(buildSummaryInput(data.hero_article, data.sub_articles, data.news_topics), model);
-        if (summary !== null) {
-          data.news_summary = summary;
-          writeFileSync(path, JSON.stringify(data, null, 2), 'utf-8');
-        }
-      } catch (err) {
-        if (isFatalGeminiError(err)) {
-          console.error(`::error::Gemini呼び出しを${date}以降で中断しました（${err.zeroQuota ? 'クォータ割当0' : '呼び出し上限到達'}）。`);
-          process.exitCode = 1;
-          aborted = true;
-          break;
-        }
-        throw err;
+    } catch (err) {
+      if (isFatalGeminiError(err)) {
+        console.error(`::error::Gemini呼び出しを${date}以降で中断しました（${err.zeroQuota ? 'クォータ割当0' : '呼び出し上限到達'}）。`);
+        process.exitCode = 1;
+        aborted = true;
+        break;
       }
+      throw err;
     }
 
     console.log(`[INFO] ${date}: 更新完了`);

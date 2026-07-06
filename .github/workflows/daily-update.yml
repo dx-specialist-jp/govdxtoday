@@ -43,7 +43,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TARGET_DATE: ${{ inputs.target_date }}
 
-      - name: AI要約・ブリーフ補完（未生成分のみ）
+      - name: AI要約補完（未生成分のみ）
         run: |
           # generate-content.js の Gemini API 呼び出し後にレート制限が完全回復するまで待機。
           # gemini-utils.js のリトライ待機は最大 3回×70秒=210秒/呼び出し（MAX_ATTEMPTS=4）。

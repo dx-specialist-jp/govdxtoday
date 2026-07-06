@@ -677,19 +677,19 @@ a:hover { color: var(--accent); }
    NEWS TOPICS
 ══════════════════════════════════════════ */
 .news-topics {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.news-topic {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-card);
-  overflow: hidden;
-}
-.news-topic {
-  padding: 16px 24px;
-  border-bottom: 1px solid var(--border);
+  padding: 18px 24px;
   transition: background 0.15s, border-left-color 0.15s;
   border-left: 3px solid transparent;
 }
-.news-topic:last-child { border-bottom: none; }
 .news-topic:hover { background: var(--surface-hover); border-left-color: var(--accent); }
 .news-topic-header {
   display: flex;
@@ -699,11 +699,38 @@ a:hover { color: var(--accent); }
 }
 .category-tag { margin-top: 3px; flex-shrink: 0; }
 .news-topic-title { font-size: 15px; font-weight: 700; color: var(--primary); line-height: 1.5; }
-.news-topic-summary { font-size: 13px; line-height: 1.7; color: var(--text-secondary); margin-bottom: 5px; }
-.news-topic-relevance { font-size: 12.5px; color: var(--secondary); margin-bottom: 5px; line-height: 1.55; }
-.news-topic-source { font-size: 11.5px; color: var(--text-muted); }
+.news-topic-summary { font-size: 13px; line-height: 1.7; color: var(--text-secondary); margin-bottom: 0; }
+.news-topic-source { font-size: 11.5px; color: var(--text-muted); margin-top: 10px; }
 .news-topic-source a { color: var(--text-muted); text-decoration: none; }
 .news-topic-source a:hover { color: var(--accent); }
+
+/* 各記事カード共通・固定位置のアクション欄。日によって出現有無が変わらないよう
+   summaryの直後・出典の直前という位置と、区切り線を常に表示する */
+.news-topic-action {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border);
+}
+.news-topic-action-label {
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--green-800);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 5px;
+}
+.news-topic-action-label::before {
+  content: '';
+  width: 3px;
+  height: 11px;
+  background: var(--green-600);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.news-topic-action-text { font-size: 12.5px; line-height: 1.6; color: var(--text-primary); }
 
 /* ══════════════════════════════════════════
    NEWS SUMMARY
@@ -747,67 +774,6 @@ a:hover { color: var(--accent); }
   font-size: 10px;
   color: var(--secondary);
   top: 4px;
-}
-
-/* ══════════════════════════════════════════
-   NEWS TOPICS BRIEF (アクションブリーフ)
-══════════════════════════════════════════ */
-.news-topics-brief {
-  background: linear-gradient(135deg, #eef7f3 0%, #f5fbf8 100%);
-  border: 1px solid #cfe9dd;
-  border-left: 4px solid var(--green-600);
-  border-radius: var(--radius-lg);
-  padding: 18px 22px;
-  margin-bottom: 20px;
-  box-shadow: var(--shadow-card);
-}
-/* section-label と同じ「色バー + 大文字ラベル」の体系をカード内向けに縮小適用。
-   絵文字アイコンによる独自表現をやめ、サイト全体の見出し表現と揃える */
-.ai-card-label {
-  font-size: 10.5px;
-  font-weight: 700;
-  color: var(--green-800); /* #197a4b on #eef7f3 ≈ 4.90:1 ✓ */
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  margin-bottom: 12px;
-}
-.ai-card-label::before {
-  content: '';
-  width: 3px;
-  height: 12px;
-  background: var(--green-600);
-  border-radius: 2px;
-  flex-shrink: 0;
-}
-.news-topics-brief-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-.news-topics-brief-item {
-  font-size: 13.5px;
-  line-height: 1.65;
-  color: var(--text-primary);
-  padding-left: 18px;
-  position: relative;
-}
-.news-topics-brief-item::before {
-  content: '▶';
-  position: absolute;
-  left: 0;
-  font-size: 9px;
-  color: var(--green-600);
-  top: 5px;
-}
-@media (max-width: 640px) {
-  .news-topics-brief { padding: 14px 16px; }
-  .news-topics-brief-item { font-size: 13px; }
 }
 
 /* ══════════════════════════════════════════

@@ -1,22 +1,10 @@
 import { useState } from 'react';
-import { filterMeaningfulItems } from '../utils.js';
 
-function NewsTopicsBrief({ actions }) {
-  const items = filterMeaningfulItems(actions);
-  if (items.length === 0) return null;
-  return (
-    <div className="news-topics-brief">
-      <p className="ai-card-label">今日のニュースから PMO/PJMO が取るべきアクション</p>
-      <ul className="news-topics-brief-list">
-        {items.map((action, i) => (
-          <li key={i} className="news-topics-brief-item">{action}</li>
-        ))}
-      </ul>
-    </div>
-  );
-}
+// Gemini生成のrelevanceが欠落した場合でも、各カードのアクション欄を
+// 必ず同じ構成で表示するための既定文言（日によって欄自体が出たり消えたりしないようにする）
+const DEFAULT_ACTION = '元記事の内容を確認し、所管業務への影響・対応要否を確認すること。';
 
-export default function NewsTopics({ topics, brief }) {
+export default function NewsTopics({ topics }) {
   const [activeCategory, setActiveCategory] = useState(null);
 
   if (!topics || topics.length === 0) return null;
@@ -29,7 +17,6 @@ export default function NewsTopics({ topics, brief }) {
   return (
     <div className="digest-section">
       <p className="section-label">今日のニューストピック</p>
-      <NewsTopicsBrief actions={brief} />
       {categories.length > 1 && (
         <div className="topic-filter" role="group" aria-label="カテゴリフィルター">
           <button
@@ -85,9 +72,10 @@ export default function NewsTopics({ topics, brief }) {
               {topic.summary && (
                 <p className="news-topic-summary">{topic.summary}</p>
               )}
-              {topic.relevance && (
-                <p className="news-topic-relevance">▶ {topic.relevance}</p>
-              )}
+              <div className="news-topic-action">
+                <p className="news-topic-action-label">PMO/PJMOが取るべきアクション</p>
+                <p className="news-topic-action-text">{topic.relevance || DEFAULT_ACTION}</p>
+              </div>
               {hasUrl && (
                 <div className="news-topic-source">
                   出典:{' '}

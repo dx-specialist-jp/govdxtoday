@@ -12,7 +12,7 @@ GitHub Pages で公開、非営利・非商業目的。
 ```
 RSS/Atom フィード収集
   └─ scripts/generate-content.js
-       ├─ Gemini API でフィルタリング・要約・ブリーフ生成
+       ├─ Gemini API でフィルタリング・要約・記事ごとのPMO/PJMOアクション生成
        └─ public/data/YYYY-MM-DD.json に保存
             └─ npm run build → docs/ → GitHub Pages デプロイ
 ```
@@ -30,12 +30,12 @@ RSS/Atom フィード収集
 ```
 scripts/
   generate-content.js   # メイン生成スクリプト（日次 GitHub Actions から実行）
-  regenerate-brief.js   # 既存データへの brief/summary 再生成（手動実行用）
+  regenerate-brief.js   # 既存データへの news_summary 再生成（手動実行用）
   gemini-utils.js       # Gemini API 共通ユーティリティ（callGemini, parseJsonFromText）
 src/
   components/
     DigestView.jsx      # ページ全体のレイアウト
-    NewsTopics.jsx      # ニューストピック一覧 + アクションブリーフ
+    NewsTopics.jsx      # ニューストピック一覧（記事ごとにPMO/PJMOアクションを併記したカード）
     NewsSummary.jsx     # 今日のポイント
     HeroArticle.jsx     # 注目記事（最高優先度の政府記事）
     SubArticles.jsx     # サブ記事（重要度 3 以上の政府記事）
@@ -59,7 +59,6 @@ docs/                   # Vite ビルド出力 → GitHub Pages が参照
   "date": "2026-06-28",
   "date_ja": "2026年6月28日（日）",
   "news_summary": ["今日のポイント1", "..."],
-  "news_topics_brief": ["PMO/PJMOアクション1", "..."],
   "security_alerts": [{ "title": "...", "url": "...", "source": "..." }],
   "hero_article": { "section_name", "title", "summary", "source_name", "source_url", "pub_date" },
   "sub_articles": [...],
@@ -67,6 +66,9 @@ docs/                   # Vite ビルド出力 → GitHub Pages が参照
   "generated_at": "2026-06-28T00:00:00.000Z"
 }
 ```
+
+`news_topics[].relevance` は各記事カードの「PMO/PJMOが取るべきアクション」欄に表示される、記事ごとの対応・確認事項（1文）。Gemini生成が得られない場合も
+`generate-content.js` の `DEFAULT_RELEVANCE` で必ず埋められ、カードの表示構成（タイトル→サマリー→区切り線→アクション→出典）は日によって変わらない。
 
 **カテゴリ一覧（news_topics.category）:**
 `セキュリティ` / `行政AI` / `行政DX` / `AI活用` / `クラウド/インフラ` / `制度/ガイドライン` / `自治体DX事例` / `調達・契約` / `働き方/業務改革` / `その他`
@@ -119,19 +121,18 @@ npm run build
    git push
    ```
 
-### 既存データに brief/summary を追加したいとき
+### 既存データに news_summary を追加したいとき
 
-APIキー不足や旧コードで生成されたデータに `news_topics_brief` / `news_summary` を後付けで追加できる:
+APIキー不足や旧コードで生成されたデータに `news_summary` を後付けで追加できる:
 
 ```bash
 # 特定日を指定
 GEMINI_API_KEY=xxx node scripts/regenerate-brief.js 2026-06-27 2026-06-28
 
-# 省略すると最新7日分
+# 省略すると直近3日分
 GEMINI_API_KEY=xxx node scripts/regenerate-brief.js
 ```
 
-- `news_topics_brief` は常に再生成（hero/sub 記事は含まない、news_topics のみ対象）
 - `news_summary` はフィールドが既存の場合はスキップ（上書きしない）
 
 ### ワークフローを手動トリガーするとき

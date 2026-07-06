@@ -14,7 +14,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, generateActionBrief, buildSummaryInput, DATA_DIR, getTodayJST } from './gemini-utils.js';
+import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, buildSummaryInput, DATA_DIR, getTodayJST } from './gemini-utils.js';
 
 // ── 政府公式 RSS ソース ────────────────────────────────────────────────
 // 中央省庁PMO/PJMO担当者が最低限押さえるべき公式情報源
@@ -44,6 +44,11 @@ const GOOGLE_ALERT_SOURCES = [
 
 // ── ペイウォールキーワード ────────────────────────────────────────────
 const PAYWALL_KEYWORDS = ['会員限定', '有料会員', 'プレミアム会員', '有料記事', '会員専用'];
+
+// news_topics の各カード末尾に表示する「PMO/PJMOが取るべきアクション」欄は、
+// Gemini呼び出しの成否に関わらず必ず同じ位置・同じ体裁で表示する（フロントエンド側は
+// 空文字を許容しない）。Gemini生成のrelevanceが得られない場合はこの既定文言で埋める。
+const DEFAULT_RELEVANCE = '元記事の内容を確認し、所管業務への影響・対応要否を確認すること。';
 
 // ── 日付ユーティリティ ────────────────────────────────────────────────
 // getTodayJST は gemini-utils.js に集約（verify-daily-content.js と定義がずれないように）
@@ -334,7 +339,7 @@ PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJ
       console.warn('[WARN] ニュースフィルタ: GeminiがJSON配列以外を返しました。フォールバックを使用します');
       return articles.slice(0, maxCount).map((a) => ({
         title: a.title, summary: a.description || a.title,
-        relevance: '', category: 'その他', source: a.sourceName, url: a.url, score: 0,
+        relevance: DEFAULT_RELEVANCE, category: 'その他', source: a.sourceName, url: a.url, score: 0,
       }));
     }
     const seenIndices = new Set();
@@ -361,7 +366,7 @@ PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJ
         return {
           title: orig.title || '',
           summary: r.summary || orig.description || orig.title || '',
-          relevance: r.relevance || '',
+          relevance: r.relevance || DEFAULT_RELEVANCE,
           category: r.category || 'その他',
           source: orig.sourceName || '',
           url: orig.url || '',
@@ -374,7 +379,7 @@ PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJ
     return articles.slice(0, maxCount).map((a) => ({
       title: a.title,
       summary: a.description || a.title,
-      relevance: '',
+      relevance: DEFAULT_RELEVANCE,
       category: 'その他',
       source: a.sourceName,
       url: a.url,
@@ -383,8 +388,8 @@ PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJ
   }
 }
 
-// ── (C)(D) 今日のニュース要約・アクションブリーフ生成は
-// gemini-utils.js の generateSummaryPoints / generateActionBrief（regenerate-brief.js と共通実装）を使用 ──
+// ── (C) 今日のニュース要約生成は
+// gemini-utils.js の generateSummaryPoints（regenerate-brief.js と共通実装）を使用 ──
 
 // ── tags.json 更新 ────────────────────────────────────────────────────
 function updateTagsIndex(date, dateJa, dayData) {
@@ -532,7 +537,7 @@ async function main() {
       newsTopics = newsDeduped.slice(0, 10).map((a) => ({
         title: a.title,
         summary: a.description || a.title,
-        relevance: '',
+        relevance: DEFAULT_RELEVANCE,
         category: 'その他',
         source: a.sourceName,
         url: a.url,
@@ -545,7 +550,7 @@ async function main() {
     newsTopics = newsDeduped.slice(0, 10).map((a) => ({
       title: a.title,
       summary: a.description || a.title,
-      relevance: '',
+      relevance: DEFAULT_RELEVANCE,
       category: 'その他',
       source: a.sourceName,
       url: a.url,
@@ -616,7 +621,7 @@ async function main() {
     .map((a) => ({
       title:     a.title,
       summary:   a.summary || a.description?.slice(0, 100) || a.title,
-      relevance: '',
+      relevance: DEFAULT_RELEVANCE,
       category:  ARTICLE_TYPE_TO_CATEGORY[a.articleType] || '行政DX',
       source:    a.sourceName,
       url:       a.url,
@@ -650,21 +655,18 @@ async function main() {
   // メイン処理（gov要約・newsフィルタ）が成功した場合のみここで生成する。
   // 失敗（レート制限など）時は null のまま保存し、5分後に regenerate-brief.js が補完する。
   let newsSummary = null;
-  let newsTopicsBrief = null;
   if (hasApiKey && geminiOk) {
     try {
       console.log('[INFO] 今日のニュース要約を生成中...');
       newsSummary = await generateSummaryPoints(buildSummaryInput(heroArticle, subArticles, newsTopics), model);
-      console.log('[INFO] 今日のアクションブリーフを生成中...');
-      newsTopicsBrief = await generateActionBrief(newsTopics, model);
     } catch (err) {
       // クォータ0・呼び出し上限到達はここで打ち切り、regenerate-brief.js に委譲する。
       // 他のステップ（政府記事・ニューストピック）は既に確定済みなのでスクリプト全体は失敗させない。
       const label = err.zeroQuota ? '（クォータ割当0・要アカウント確認）' : err.budgetExceeded ? '（1実行あたりの呼び出し上限に到達）' : '';
-      console.warn(`[WARN] summary/briefエラー${label}: ${err.message}`);
+      console.warn(`[WARN] summaryエラー${label}: ${err.message}`);
     }
   } else if (!geminiOk) {
-    console.log('[INFO] メインAPI処理が未成功のため、summary/brief は regenerate-brief.js に委譲');
+    console.log('[INFO] メインAPI処理が未成功のため、summary は regenerate-brief.js に委譲');
   }
 
   // ⑦ JSON 保存
@@ -672,7 +674,6 @@ async function main() {
     date: targetDate,
     date_ja: formatDateJa(targetDate),
     news_summary: newsSummary,
-    news_topics_brief: newsTopicsBrief,
     security_alerts: securityAlerts,
     hero_article: heroArticle,
     sub_articles: subArticles,

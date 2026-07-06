@@ -129,7 +129,7 @@ export function isFatalGeminiError(err) {
   return Boolean(err && (err.zeroQuota || err.budgetExceeded));
 }
 
-// ── 本日のニュース要約（summary）とアクションブリーフ（brief）生成 ──────
+// ── 本日のニュース要約（summary）生成 ──────────────────────────────
 // generate-content.js（当日のメイン生成）と regenerate-brief.js（未生成分の
 // 補完バッチ）の両方から同じプロンプト・パース・エラー処理を使うための共通実装。
 // 過去にこの2箇所のプロンプトが個別に編集され内容が食い違っていたため、
@@ -172,59 +172,6 @@ ${inputJson}
   } catch (err) {
     if (isFatalGeminiError(err)) throw err;
     console.warn(`[WARN] ニュース要約生成エラー: ${err.message}`);
-    return null;
-  }
-}
-
-export async function generateActionBrief(newsTopics, model) {
-  if (!newsTopics || newsTopics.length === 0) return null;
-
-  const inputJson = JSON.stringify(
-    newsTopics.slice(0, 15).map((t) => ({
-      title: t.title,
-      summary: t.summary,
-      relevance: t.relevance,
-      category: t.category,
-    })),
-    null, 2
-  );
-
-  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者向けのアドバイザーです。
-
-以下は本日のニューストピック一覧です。
-PMO/PJMO担当者が「今日のニュースを受けて、何をすべきか・何を確認すべきか」を即座に把握できる
-アクション指向のブリーフィングを作成してください。
-
-【作成ルール】
-- 4〜6箇条で、各箇条は1文（50〜80字）
-- 必ず「〜を確認する」「〜を検討する」「〜に注意する」「〜を共有する」等のアクション動詞で終わること
-- 特定の記事に縛られず、今日のニュース全体を俯瞰してPMO/PJMOが取るべき行動を示す
-- セキュリティ関連があれば必ず最初に入れる
-- 省庁内での横展開・情報共有が必要なものは明示する
-- 「重要」「画期的」等の主観的形容詞は使わない
-- 事実ベースで具体的に（例: 「AI調達仕様書のセキュリティ要件を最新のIPA推奨に照合する」）
-
-対象ニューストピック:
-${inputJson}
-
-以下のJSON形式のみで出力すること（説明文・コードブロック記号は不要）:
-{
-  "actions": [
-    "アクション箇条書き1",
-    "アクション箇条書き2",
-    "アクション箇条書き3"
-  ]
-}`;
-
-  try {
-    const text = await callGemini(model, prompt);
-    const result = parseJsonFromText(text);
-    return Array.isArray(result.actions)
-      ? result.actions.filter((a) => typeof a === 'string' && a.trim().length > 0)
-      : null;
-  } catch (err) {
-    if (isFatalGeminiError(err)) throw err;
-    console.warn(`[WARN] ニューストピックブリーフ生成エラー: ${err.message}`);
     return null;
   }
 }
