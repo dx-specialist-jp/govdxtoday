@@ -733,6 +733,41 @@ a:hover { color: var(--accent); }
 .news-topic-action-text { font-size: 12.5px; line-height: 1.6; color: var(--text-primary); }
 
 /* ══════════════════════════════════════════
+   CLOUD UPDATES — ガバメントクラウド CSP公式情報（AI要約なし・生RSS掲載）
+══════════════════════════════════════════ */
+.cloud-updates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+.cloud-updates-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  padding: 18px 20px;
+}
+.cloud-updates-provider {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+.cloud-updates-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+.cloud-updates-title {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--secondary);
+  line-height: 1.5;
+  text-decoration: none;
+}
+a.cloud-updates-title:hover { color: var(--accent); text-decoration: underline; }
+.cloud-updates-meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+
+/* ══════════════════════════════════════════
    NEWS SUMMARY
 ══════════════════════════════════════════ */
 .news-summary-card {

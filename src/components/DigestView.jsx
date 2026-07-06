@@ -5,6 +5,7 @@ import NewsSummary from './NewsSummary.jsx';
 import HeroArticle from './HeroArticle.jsx';
 import SubArticles from './SubArticles.jsx';
 import NewsTopics from './NewsTopics.jsx';
+import CloudUpdates from './CloudUpdates.jsx';
 import { filterMeaningfulItems } from '../utils.js';
 
 function formatUpdatedAt(isoStr) {
@@ -64,11 +65,17 @@ export default function DigestView({ data, showBackLink = false }) {
   // ここがズレると「ナビには出るがセクション本体は非表示」という状態になる。
   const hasSummary = filterMeaningfulItems(data.news_summary).length > 0;
   const hasPickup = !!data.hero_article || (data.sub_articles?.length || 0) > 0;
+  const hasCloudUpdates = (data.cloud_updates?.length || 0) > 0;
 
   return (
     <>
       <HeroSection data={data} showBackLink={showBackLink} />
-      <SectionNav hasSecurityAlert={hasSecurityAlert} hasSummary={hasSummary} hasPickup={hasPickup} />
+      <SectionNav
+        hasSecurityAlert={hasSecurityAlert}
+        hasSummary={hasSummary}
+        hasPickup={hasPickup}
+        hasCloudUpdates={hasCloudUpdates}
+      />
 
       {hasSecurityAlert && (
         <div id="sec-security">
@@ -87,6 +94,12 @@ export default function DigestView({ data, showBackLink = false }) {
         <div id="sec-news">
           <NewsTopics topics={data.news_topics} />
         </div>
+
+        {hasCloudUpdates && (
+          <div id="sec-cloud">
+            <CloudUpdates providers={data.cloud_updates} />
+          </div>
+        )}
       </div>
     </>
   );

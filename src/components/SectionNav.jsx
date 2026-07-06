@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react';
 
-export default function SectionNav({ hasSecurityAlert, hasSummary, hasPickup }) {
+export default function SectionNav({ hasSecurityAlert, hasSummary, hasPickup, hasCloudUpdates }) {
   const sections = [
     ...(hasSecurityAlert ? [{ id: 'sec-security', label: '速報', alert: true }] : []),
     ...(hasSummary ? [{ id: 'sec-summary', label: '今日のポイント' }] : []),
     ...(hasPickup ? [{ id: 'sec-pickup', label: 'ピックアップ' }] : []),
     { id: 'sec-news', label: 'ニュース' },
+    ...(hasCloudUpdates ? [{ id: 'sec-cloud', label: 'クラウドサービスプロバイダー更新情報' }] : []),
   ];
   const [active, setActive] = useState(sections[0]?.id ?? 'sec-news');
 
@@ -27,7 +28,7 @@ export default function SectionNav({ hasSecurityAlert, hasSummary, hasPickup }) 
       if (el) observer.observe(el);
     });
     return () => observer.disconnect();
-  }, [hasSecurityAlert, hasSummary, hasPickup]);
+  }, [hasSecurityAlert, hasSummary, hasPickup, hasCloudUpdates]);
 
   const scrollTo = (id) => {
     const el = document.getElementById(id);

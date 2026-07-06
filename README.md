@@ -63,9 +63,14 @@ docs/                   # Vite ビルド出力 → GitHub Pages が参照
   "hero_article": { "section_name", "title", "summary", "source_name", "source_url", "pub_date" },
   "sub_articles": [...],
   "news_topics": [{ "title", "summary", "relevance", "category", "source", "url", "score" }],
+  "cloud_updates": [{ "provider", "items": [{ "title", "url", "pub_date", "source" }] }],
   "generated_at": "2026-06-28T00:00:00.000Z"
 }
 ```
+
+`cloud_updates` はガバメントクラウド認定CSP各社（AWS/Azure/Google Cloud/Oracle Cloud/さくらインターネット）の公式RSSをそのまま掲載するセクションで、
+Gemini APIによるAI要約は行わない（`generate-content.js` の他のGemini呼び出しとは独立して常に生成される）。プロバイダごとに直近
+`CLOUD_ITEMS_PER_PROVIDER`（既定5件）を新しい順に掲載する。
 
 `news_topics[].relevance` は各記事カードの「PMO/PJMOが取るべきアクション」欄に表示される、記事ごとの対応・確認事項（1文）。Gemini生成が得られない場合も
 `generate-content.js` の `DEFAULT_RELEVANCE` で必ず埋められ、カードの表示構成（タイトル→サマリー→区切り線→アクション→出典）は日によって変わらない。
@@ -145,6 +150,7 @@ GitHub の `Actions` タブ → `Daily Content Update` → `Run workflow` → `t
 
 - `GOV_SOURCES` — 政府公式 RSS（JPCERT/CC・IPA・NISC・デジタル庁など）
 - `GOOGLE_ALERT_SOURCES` — Google Alerts の RSS URL
+- `CLOUD_SOURCES` — ガバメントクラウド認定CSP公式 RSS（AI要約なし、`cloud_updates` にそのまま掲載）
 
 ### Gemini モデルを変更したいとき
 

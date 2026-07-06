@@ -28,6 +28,20 @@ const GOV_SOURCES = [
   { name: 'デジタル庁 note',            url: 'https://digital-gov.note.jp/rss',                           type: 'ai_government' },
 ];
 
+// ── ガバメントクラウド認定CSP公式RSS ───────────────────────────────────
+// AI要約は行わず、フィード情報（タイトル・日時・出典）をそのまま掲載する
+const CLOUD_SOURCES = [
+  { provider: 'AWS',                  name: 'AWS What\'s New',              url: 'https://aws.amazon.com/new/feed/' },
+  { provider: 'AWS',                  name: 'AWS Service Health',           url: 'https://status.aws.amazon.com/rss/all.rss' },
+  { provider: 'Microsoft Azure',      name: 'Azure Updates',                url: 'https://www.microsoft.com/releasecommunications/api/v2/azure/rss' },
+  { provider: 'Google Cloud',         name: 'Google Cloud リリースノート',   url: 'https://cloud.google.com/feeds/gcp-release-notes.xml' },
+  { provider: 'Google Cloud',         name: 'Google Cloud Blog',            url: 'https://cloudblog.withgoogle.com/rss/' },
+  { provider: 'Oracle Cloud',         name: 'Oracle Blogs',                 url: 'https://blogs.oracle.com/feed' },
+  { provider: 'さくらインターネット',  name: 'さくらインターネット ニュース', url: 'https://www.sakura.ad.jp/corporate/feed/' },
+  { provider: 'さくらインターネット',  name: 'さくらインターネット メンテナンス情報', url: 'https://www.sakura.ad.jp/rss/mainte.rdf' },
+];
+const CLOUD_ITEMS_PER_PROVIDER = 5;
+
 // ── Google Alerts RSS ────────────────────────────────────────────────
 const GOOGLE_ALERT_SOURCES = [
   { name: 'Google Alert: クラウド×政府',     url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/3339123942717391102' },
@@ -92,7 +106,9 @@ function stripHtml(html) {
     .replace(/\s+/g, ' ').trim();
 }
 
-function parseRSS(xml, sourceName) {
+// フィルタ（ペイウォード除外・鮮度チェック）を適用する前の生アイテムを抽出する。
+// parseRSS（政府記事・Google Alerts用）と parseCloudItems（CSP公式RSS用）で共通利用
+function parseItemsRaw(xml) {
   const items = [];
   const itemRegex = /<(?:item|entry)(?: [^>]*)?>[\s\S]*?<\/(?:item|entry)>/g;
   let match;
@@ -122,18 +138,30 @@ function parseRSS(xml, sourceName) {
 
     if (!title || !link) continue;
 
-    // ペイウォードチェック
-    if (PAYWALL_KEYWORDS.some((kw) => title.includes(kw) || description.includes(kw))) continue;
-
-    // 36時間以内チェック（前日の業務時間帯記事もカバー）
-    if (pubDate) {
-      const age = Date.now() - new Date(pubDate).getTime();
-      if (Number.isNaN(age) || age > 36 * 60 * 60 * 1000) continue;
-    }
-
-    items.push({ title, url: link, description: description.slice(0, 200), pubDate, sourceName });
+    items.push({ title, url: link, description, pubDate });
   }
   return items;
+}
+
+function parseRSS(xml, sourceName) {
+  return parseItemsRaw(xml)
+    .filter((item) =>
+      // ペイウォードチェック（保存用に切り詰める前の全文でチェックする）
+      !PAYWALL_KEYWORDS.some((kw) => item.title.includes(kw) || item.description.includes(kw))
+    )
+    .filter((item) => {
+      // 36時間以内チェック（前日の業務時間帯記事もカバー）
+      if (!item.pubDate) return true;
+      const age = Date.now() - new Date(item.pubDate).getTime();
+      return !(Number.isNaN(age) || age > 36 * 60 * 60 * 1000);
+    })
+    .map((item) => ({ ...item, description: item.description.slice(0, 200), sourceName }));
+}
+
+// CSP公式RSSはAI要約対象外・鮮度フィルタ対象外（更新頻度がフィードごとに異なるため）。
+// 各フィードの最新アイテムをそのまま件数制限のみ行って掲載する
+function parseCloudItems(xml, sourceName, provider) {
+  return parseItemsRaw(xml).map((item) => ({ ...item, sourceName, provider }));
 }
 
 // ── RSS フェッチ ──────────────────────────────────────────────────────
@@ -154,6 +182,21 @@ async function fetchFeed(url, name, charset = null) {
     return parseRSS(xml, name);
   } catch (err) {
     console.warn(`[WARN] ${name}: ${err.message}`);
+    return [];
+  }
+}
+
+async function fetchCloudFeed(src) {
+  try {
+    const res = await fetch(src.url, {
+      headers: { 'User-Agent': 'GovDX-Today/1.0 (+https://github.com/dx-specialist-jp/govdxtoday)' },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+    return parseCloudItems(xml, src.name, src.provider);
+  } catch (err) {
+    console.warn(`[WARN] ${src.name}: ${err.message}`);
     return [];
   }
 }
@@ -510,11 +553,18 @@ async function main() {
   console.log(`[INFO] 対象日: ${targetDate} / モデル: ${model}`);
   mkdirSync(DATA_DIR, { recursive: true });
 
-  // ① 政府公式記事を収集
-  console.log('[INFO] 政府公式RSSを収集中（並列）...');
-  const govResults = await Promise.all(
-    GOV_SOURCES.map((src) => fetchFeed(src.url, src.name, src.charset).then((items) => ({ src, items })))
-  );
+  // ①②③ 政府公式・Google Alerts・クラウドCSP公式のRSSを収集
+  // （3種類とも互いに独立したネットワークI/Oのため、フェッチ自体は同時に投げる）
+  console.log('[INFO] RSSフィードを収集中（政府公式・Google Alerts・クラウドCSP公式、並列）...');
+  const [govResults, alertResults, cloudResults] = await Promise.all([
+    Promise.all(GOV_SOURCES.map((src) => fetchFeed(src.url, src.name, src.charset).then((items) => ({ src, items })))),
+    GOOGLE_ALERT_SOURCES.length > 0
+      ? Promise.all(GOOGLE_ALERT_SOURCES.map((src) => fetchFeed(src.url, src.name).then((items) => ({ src, items }))))
+      : Promise.resolve([]),
+    Promise.all(CLOUD_SOURCES.map((src) => fetchCloudFeed(src))),
+  ]);
+
+  // ① 政府公式記事
   const govArticlesRaw = [];
   for (const { src, items } of govResults) {
     items.forEach((a) => govArticlesRaw.push({ ...a, articleType: src.type }));
@@ -522,13 +572,9 @@ async function main() {
   }
   console.log(`[INFO] 政府記事合計: ${govArticlesRaw.length}件`);
 
-  // ② Google Alerts RSS を収集
+  // ② Google Alerts RSS
   const newsArticlesRaw = [];
   if (GOOGLE_ALERT_SOURCES.length > 0) {
-    console.log('[INFO] Google Alerts RSSを収集中（並列）...');
-    const alertResults = await Promise.all(
-      GOOGLE_ALERT_SOURCES.map((src) => fetchFeed(src.url, src.name).then((items) => ({ src, items })))
-    );
     for (const { src, items } of alertResults) {
       newsArticlesRaw.push(...items);
       console.log(`[INFO]   ${src.name}: ${items.length}件`);
@@ -544,6 +590,44 @@ async function main() {
     return true;
   });
   console.log(`[INFO] Google Alerts 記事合計: ${newsArticlesRaw.length}件 → 重複排除後: ${newsDeduped.length}件`);
+
+  // ③ ガバメントクラウド認定CSP公式RSS（AI要約なし、生RSS情報をそのまま掲載）
+  const cloudItemsRaw = [];
+  CLOUD_SOURCES.forEach((src, i) => {
+    cloudItemsRaw.push(...cloudResults[i]);
+    console.log(`[INFO]   ${src.name}: ${cloudResults[i].length}件`);
+  });
+  // 同一プロバイダの複数フィード（例: Google Cloudのリリースノート＋ブログ）が
+  // 同じ記事を重複配信する場合があるためURLで重複排除する
+  const seenCloudUrls = new Set();
+  const cloudItemsDeduped = cloudItemsRaw.filter((item) => {
+    if (!isValidUrl(item.url) || seenCloudUrls.has(item.url)) return false;
+    seenCloudUrls.add(item.url);
+    return true;
+  });
+  // pubDateが欠落・不正な日付文字列の場合はepoch(0)扱いにして必ず最下位に沈める
+  // （Dateの引き算がNaNになるとsortの比較結果が不定になり、ゴミ日付の記事が
+  // 新着扱いで上位に紛れ込むことがあるため、数値化してから比較する）
+  const cloudDateValue = (item) => {
+    const t = new Date(item.pubDate).getTime();
+    return Number.isNaN(t) ? 0 : t;
+  };
+  const cloudUpdates = [...new Set(CLOUD_SOURCES.map((s) => s.provider))]
+    .map((provider) => ({
+      provider,
+      items: cloudItemsDeduped
+        .filter((item) => item.provider === provider)
+        .sort((a, b) => cloudDateValue(b) - cloudDateValue(a))
+        .slice(0, CLOUD_ITEMS_PER_PROVIDER)
+        .map((item) => ({
+          title: item.title,
+          url: item.url,
+          pub_date: cloudDateValue(item) === 0 ? '' : new Date(item.pubDate).toISOString(),
+          source: item.sourceName,
+        })),
+    }))
+    .filter((p) => p.items.length > 0);
+  console.log(`[INFO] クラウド公式情報: ${cloudUpdates.reduce((n, p) => n + p.items.length, 0)}件（${cloudUpdates.length}プロバイダ）`);
 
   let summarizedGov = [];
   let newsTopics = [];
@@ -714,6 +798,7 @@ async function main() {
     hero_article: heroArticle,
     sub_articles: subArticles,
     news_topics: newsTopics,
+    cloud_updates: cloudUpdates,
     generated_at: new Date().toISOString(),
   };
 
