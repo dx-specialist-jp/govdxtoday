@@ -8,14 +8,6 @@
     "NotebookLMやGeminiといったAIツールが、教育、研究、行政、防災分野での活用を目指しています。",
     "AIガバナンスにおいては、CIOがAIの成果を「自分ごと」として捉え、成功のための公式を模索しています。"
   ],
-  "news_topics_brief": [
-    "ガバメントクラウドにおけるAWSへの依存度について、リスク評価および代替案の検討を開始する。",
-    "AIモデル（Claude Fable 5等）の利用に関する最新の輸出規制解除動向を確認し、調達・利用方針への影響を評価する。",
-    "AIガバナンスの最新動向（AIエージェント、運用ガバナンス等）を調査し、庁内ガイドラインの見直しを検討する。",
-    "AI活用による教育・行政・防災分野での具体的な成果事例を収集し、庁内での横展開可能性を調査する。",
-    "CIOがAI成果の精算期を迎える状況を踏まえ、プロジェクトにおけるKPI設定および成果測定方法の標準化を推進する。",
-    "AIコード生成ツールの利用におけるセキュリティリスクおよび社内利用禁止事例（アリババ等）を共有する。"
-  ],
   "security_alerts": [],
   "hero_article": null,
   "sub_articles": [],
@@ -23,7 +15,7 @@
     {
       "title": "AWS Dominates Over 80% of Government Systems - YouTube",
       "summary": "政府共通基盤「ガバメントクラウド」で、AWSが国のシステムの約85％を占める一極集中の実態が明らかになった。コスト削減や技術力の高さといったメリットは ...",
-      "relevance": "",
+      "relevance": "ガバメントクラウド所管チームは、AWSへの依存度集中の実態を踏まえ、マルチクラウド化・ベンダーロックイン回避策の検討状況を確認すること。",
       "category": "その他",
       "source": "Google Alert: クラウド×政府",
       "url": "https://www.youtube.com/watch?v=DDEpAGxuwL0",
@@ -32,7 +24,7 @@
     {
       "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - ｄメニューニュース",
       "summary": "Anthropicは6月30日、政府による最新AIモデル「Claude Fable 5」「Claude ... 一方のGemini Omni Flash（gemini-omni-flash-preview）は、Google I/Oで ...",
-      "relevance": "",
+      "relevance": "AI利活用担当は、輸出規制解除に伴うClaude Fable 5の提供再開状況を把握し、庁内での利用可否判断の材料とすること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260705_015",
@@ -41,7 +33,7 @@
     {
       "title": "Anthropicの「Claude Fable 5」が復活／Googleが画像生成AI「Nano Banana 2 Lite」を発表 ...",
       "summary": "... Copilot in Excel」を強化. 米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活. Anthropicは6月30日、政府による最新AIモデル「Claude ...",
-      "relevance": "",
+      "relevance": "AI活用推進担当は、主要AIベンダー各社の新モデル発表状況を把握し、業務適用可能性のある機能を整理すること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2607/05/news015.html",
@@ -50,7 +42,7 @@
     {
       "title": "米商務省の輸出規制解除を受け、Anthropicの「Claude Fable 5」が復活 - Yahoo!ニュース",
       "summary": "両モデルは6月9日にリリースされたが、6月12日に政府が輸出規制を適用した。これにより外国籍ユーザーへの提供制限が即日発効した一方、国籍をリアルタイムに ...",
-      "relevance": "",
+      "relevance": "AI調達・利用担当は、輸出規制の適用・解除が繰り返されるリスクを踏まえ、業務継続計画（BCP）上の代替手段を確認すること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://news.yahoo.co.jp/articles/6b366e26f9a0740fcc363da8dffdfaf2d8485f4b",
@@ -59,7 +51,7 @@
     {
       "title": "Shooting Game by Claude Code - 岡高志（オカタカシ） - 選挙ドットコム",
       "summary": "The post Shooting Game by Claude Code first appeared on 東京都・ 大田区 のDX行政書士 | 岡高志（おかたかし）公式サイト.",
-      "relevance": "",
+      "relevance": "情報セキュリティ担当は、Claude Codeを用いた個人利用事例の広がりを踏まえ、庁内利用ガイドラインの周知状況を確認すること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://go2senkyo.com/seijika/30779/posts/1429846",
@@ -68,7 +60,7 @@
     {
       "title": "アリババが7月10日からClaude Codeの社内使用を禁止へ | ウクライナニュース - #Mezha",
       "summary": "これはドニプロペトロフスク州行政長官オレクサンドル・ガンジャがテレグラムで発表した。 ... ドニプロ地区では、侵略者はドニプロ市、ソロンヤンスカ自治体、 ...",
-      "relevance": "",
+      "relevance": "情報セキュリティ担当は、Claude Codeの社内利用禁止事例（バックドアリスク等）を確認し、庁内AI利用ガイドラインのセキュリティ要件を点検すること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://mezha.net/jp/bukvy/234dab0b_alibaba_bans_employees/",
@@ -77,7 +69,7 @@
     {
       "title": "70カ国の言葉をリアルタイム通訳！学校の勉強から海外旅行までAIが全部サポートしてくれる未来",
       "summary": "教育ではNotebookLMやGeminiの学習ノートが拡充され、研究・行政・防災の領域でもAIが具体的な成果を目指す取り組みが示されました。 開発者・クリエイター ...",
-      "relevance": "",
+      "relevance": "AI活用推進担当は、教育・防災分野でのAI活用事例を参考に、行政サービスへの応用可能性を検討すること。",
       "category": "その他",
       "source": "Google Alert: AI×行政",
       "url": "https://dxmagazine.jp/news/2624kowo0314re-01/",
@@ -86,7 +78,7 @@
     {
       "title": "CIOに迫るAI成果の精算期が到来。成功するために必要な公式とは - NewsPicks",
       "summary": "CIOにとって、企業におけるAIの成果は「自分ごと」になった。 AIプラットフォームDataiku*の新たな調査によれば、AI ... AIガバナンスの最前線：野心と説明責任を ...",
-      "relevance": "",
+      "relevance": "AI戦略担当は、AI投資の成果測定に関する動向を把握し、PJにおけるKPI設定・効果検証の方法論に反映すること。",
       "category": "その他",
       "source": "Google Alert: AIガバナンス",
       "url": "https://newspicks.com/news/17032026/",
@@ -95,7 +87,7 @@
     {
       "title": "Claude Code - 既定の権限モードをManualに変更、自動承認をやめ安全側へ",
       "summary": "AIインフラ投資 &middot; AIエージェント &middot; AIガバナンス &middot; AIコーディング &middot; AIツール &middot; AIニュース &middot; AIビジネス &middot; AIブラウザ &middot; AI投資 &middot; AI検索 &middot; Anthropic ...",
-      "relevance": "",
+      "relevance": "AI利活用担当は、Claude Codeの既定権限モード変更（自動承認廃止）を確認し、庁内での利用手順・承認フローへの影響を精査すること。",
       "category": "その他",
       "source": "Google Alert: AIガバナンス",
       "url": "https://tech-noisy.com/2026/07/05/claude-code-default-permission-mode-manual/",
@@ -104,7 +96,7 @@
     {
       "title": "エージェントAI時代に求められる運用ガバナンスとは | Forbes JAPAN 公式サイト（フォーブス ...",
       "summary": "ステファン・ジェルヴェ氏は、ApexTransformの創業者兼CEOであり、グローバルリーダーに対してイノベーション、AI戦略、企業変革に関する助言を行っている。",
-      "relevance": "",
+      "relevance": "AIガバナンス担当は、エージェント型AIの運用ガバナンスに関する論点を把握し、庁内のAI運用体制整備の参考とすること。",
       "category": "その他",
       "source": "Google Alert: AIガバナンス",
       "url": "https://forbesjapan.com/articles/detail/100295",
