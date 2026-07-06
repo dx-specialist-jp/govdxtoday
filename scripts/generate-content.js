@@ -523,10 +523,15 @@ function updateTagsIndex(date, dateJa, dayData) {
 
   // クラウドサービスプロバイダー更新情報はプロバイダごとにタグを分ける
   // （特定のCSPのみを購読したい読者が他社の情報を除外して絞り込めるようにするため）
-  for (const provider of (dayData.cloud_updates || [])) {
-    const tag = `${provider.provider}最新情報`;
+  // cloud_updates は鮮度フィルタを適用しないため、更新頻度の低いフィードでは
+  // 同じ記事が何日も上位に居座ることがある。日をまたいだ重複登録を防ぐため、
+  // タグ内に同一URLが既にあれば追加しない（当日分の削除は関数冒頭で処理済み）
+  for (const cloudProvider of (dayData.cloud_updates || [])) {
+    const tag = `${cloudProvider.provider}最新情報`;
     if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
-    for (const item of provider.items) {
+    const existingUrls = new Set(tagsData.tags[tag].map((e) => e.url));
+    for (const item of cloudProvider.items) {
+      if (existingUrls.has(item.url)) continue;
       tagsData.tags[tag].unshift({
         date,
         date_ja: dateJa,

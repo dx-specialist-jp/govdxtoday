@@ -20,9 +20,14 @@ permissions:
 # 別コミットが push されて起動した deploy.yml が同じ github-pages 環境に
 # 同時デプロイしようとすると、Pages API 側で「Deployment failed, try
 # again later.」となり競合することがあったため。
+# cancel-in-progress は false にする（true にすると、このワークフロー自身が
+# コンテンツ生成・コミット・検証まで行う多段階ジョブの途中で、他コミットの
+# push を契機に起動した deploy.yml に横から打ち切られる恐れがあるため。
+# deploy.yml側のcancel-in-progress:trueは、そちらが純粋なビルド＆デプロイのみの
+# ジョブで打ち切られても実害が小さいためそのままでよい）
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
