@@ -35,7 +35,7 @@ const GOOGLE_ALERT_SOURCES = [
   { name: 'Google Alert: AIガバナンス',       url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/9123460682984763914' },
   { name: 'Google Alert: ガバメントクラウド', url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/5311248654206123495' },
   { name: 'Google Alert: デジタル庁',         url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/849933549589956730'  },
-  { name: 'Google Alert: 情報システム調達',   url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/3339123942717391505' },
+  { name: 'Google Alert: PMO/PJMOプロジェクト管理', url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/3339123942717391505' },
   { name: 'Google Alert: 政府情報システム',   url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/9123460682984763418' },
   { name: 'Google Alert: 生成AI×行政',       url: 'https://www.google.co.jp/alerts/feeds/11004476688740155475/5311248654206122373' },
 ];
@@ -317,6 +317,8 @@ async function filterAndSummarizeNews(articles, model, maxCount = 5) {
 - EU AI法・個人情報保護法改正等、日本の行政システムに波及する規制動向
 - マイナンバー・ベース・レジストリ・デジタル手続法に関わるシステム要件の変化
 - 先進自治体のDX事例（中央省庁が参考にできる業務改革・AI活用）
+- PMO/PJMOのプロジェクト管理手法・ガバナンス体制の実践事例（生成AI・DX推進体制の構築、プロジェクトガバナンスの先進事例）
+  → 民間企業の事例でも、PMO/PJMOが自組織のプロジェクト運営に応用できる内容であれば採用対象とする（単なる自社製品PRは除く）
 
 【除外（スコア1以下）】
 - 民間企業のみのマーケティングPR記事
@@ -328,7 +330,7 @@ async function filterAndSummarizeNews(articles, model, maxCount = 5) {
 - summary: 事実を2行以内（100字以内）で要約。「何が変わった/発表された」を明確に
 - relevance: 「○○担当のPMO/PJMOは□□を確認/対応すること」という形式で1文（具体的な役割・アクションを示す）
 - category: 以下から最も適切な1つを選ぶ
-  「AI活用」「セキュリティ」「クラウド/インフラ」「制度/ガイドライン」「自治体DX事例」「調達・契約」「働き方/業務改革」
+  「AI活用」「セキュリティ」「クラウド/インフラ」「制度/ガイドライン」「自治体DX事例」「調達・契約」「働き方/業務改革」「プロジェクト管理」
 
 対象記事:
 ${inputJson}
@@ -674,7 +676,7 @@ async function main() {
   // gov 参考情報を追加してテーマ順に並べ直す
   const NEWS_CATEGORY_ORDER = [
     'セキュリティ', '行政AI', '行政DX',
-    'AI活用', 'クラウド/インフラ', '制度/ガイドライン',
+    'AI活用', 'プロジェクト管理', 'クラウド/インフラ', '制度/ガイドライン',
     '自治体DX事例', '調達・契約', '働き方/業務改革', 'その他',
   ];
   newsTopics = [...newsTopics, ...govMidAsNews].sort((a, b) => {
