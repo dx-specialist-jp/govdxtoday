@@ -6,3 +6,5 @@ export function filterMeaningfulItems(items) {
     (item) => typeof item === 'string' && item.trim().length > 0
   );
 }
+
+export const isHttpUrl = (url) => Boolean(url && url.startsWith('http'));

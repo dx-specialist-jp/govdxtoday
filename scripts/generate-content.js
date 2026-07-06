@@ -635,7 +635,7 @@ async function main() {
 
   if (hasApiKey) {
     try {
-      // ③④ 政府記事の要約とニュースのフィルタリングは互いに独立しているため並列実行。
+      // ④⑤ 政府記事の要約とニュースのフィルタリングは互いに独立しているため並列実行。
       // Promise.allSettled で両方の完了を待ってから結果を確定させる（Promise.race的に
       // 片方だけ待って抜けると、もう一方の内部リトライがバックグラウンドで残り続けて
       // プロセス終了を遅らせるため使わない）
@@ -676,7 +676,7 @@ async function main() {
     }));
   }
 
-  // ⑥ 記事を選定
+  // ⑦ 記事を選定
 
   // セキュリティ速報
   const securityAlerts = summarizedGov
@@ -771,7 +771,7 @@ async function main() {
     return (b.score || 0) - (a.score || 0);
   });
 
-  // ⑤ 今日のニュース要約を生成
+  // ⑥ 今日のニュース要約を生成
   // メイン処理（gov要約・newsフィルタ）が成功した場合のみここで生成する。
   // 失敗（レート制限など）時は null のまま保存し、5分後に regenerate-brief.js が補完する。
   let newsSummary = null;
@@ -789,7 +789,7 @@ async function main() {
     console.log('[INFO] メインAPI処理が未成功のため、summary は regenerate-brief.js に委譲');
   }
 
-  // ⑦ JSON 保存
+  // ⑧ JSON 保存
   const dayData = {
     date: targetDate,
     date_ja: formatDateJa(targetDate),
@@ -806,7 +806,7 @@ async function main() {
   writeFileSync(outPath, JSON.stringify(dayData, null, 2), 'utf-8');
   console.log(`[INFO] ${outPath} 保存完了`);
 
-  // ⑧ index.json 更新
+  // ⑨ index.json 更新
   const govCount = (heroArticle ? 1 : 0) + subArticles.length;
   const totalCount = govCount + newsTopics.length;
   const summaryShort = heroArticle
@@ -818,7 +818,7 @@ async function main() {
         : 'データなし';
   updateIndex(targetDate, summaryShort, totalCount, securityAlerts.length > 0);
 
-  // ⑨ tags.json 更新
+  // ⑩ tags.json 更新
   updateTagsIndex(targetDate, formatDateJa(targetDate), dayData);
 
   console.log('[INFO] 完了');

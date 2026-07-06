@@ -1,4 +1,4 @@
-const isHttpUrl = (url) => Boolean(url && url.startsWith('http'));
+import { isHttpUrl } from '../utils.js';
 
 function formatDate(iso) {
   if (!iso) return '';

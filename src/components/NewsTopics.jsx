@@ -1,10 +1,9 @@
 import { useState } from 'react';
+import { isHttpUrl } from '../utils.js';
 
 // Gemini生成のrelevanceが欠落した場合でも、各カードのアクション欄を
 // 必ず同じ構成で表示するための既定文言（日によって欄自体が出たり消えたりしないようにする）
 const DEFAULT_ACTION = '元記事の内容を確認し、所管業務への影響・対応要否を確認すること。';
-
-const isHttpUrl = (url) => Boolean(url && url.startsWith('http'));
 
 export default function NewsTopics({ topics }) {
   const [activeCategory, setActiveCategory] = useState(null);
