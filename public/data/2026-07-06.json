@@ -2,12 +2,11 @@
   "date": "2026-07-06",
   "date_ja": "2026年7月6日（月）",
   "news_summary": [
-    "ガバメントクラウドでAWSが8割超を占める一極集中構造が判明しました。",
-    "AIトランスフォーメーション（AX）推進セミナーで、ツール投資に終わらない支援がテーマです。",
-    "米CIA長官は高度AIを核兵器と同等に位置づける懸念を示しました。",
-    "米国政府の輸出規制解除により、AIモデル「Claude Fable 5」の提供が再開されました。",
-    "りそなグループはCopilot Studioで業務用AIエージェントを構築し、協働を推進しています。",
-    "AIガバナンス市場は、倫理的・透明性・規制準拠の運用保証体系を指します。"
+    "ガバメントクラウドでAmazon Web Servicesが約85%を占め、一極集中している状況が明らかになりました。",
+    "AI・DX推進担当者向けに、ツール投資に終わらないAX（AIトランスフォーメーション）推進の無料セミナーが開催されます。",
+    "米国のCIA長官は、高度なAIを核兵器と同等のレベルに位置づける考えを示しました。",
+    "米国政府の輸出規制解除を受け、AIモデル「Claude Fable 5」の提供が再開されました。",
+    "りそなグループは、Copilot Studioを活用し、融資・ローン等の領域で業務用AIエージェントを構築しました。"
   ],
   "security_alerts": [],
   "hero_article": null,
@@ -35,6 +34,19 @@
         {
           "name": "Google Alert: クラウド×政府",
           "url": "https://www.youtube.com/watch?v=DDEpAGxuwL0"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "AI・DX推進担当向けの無料セミナー「Claude Cowork / Codeで変わるAX ～ツール ... - エキサイト",
+      "summary": "350社・250自治体を支援したAXのプロが語る、組織が本当に変わる6つのステップギークス株式会社（本社：東京都渋谷区、代表取締役CEO：曽根原稔人、以下 ...",
+      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "Google Alert: AI×行政",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-06-486-354/"
         }
       ],
       "score": 0
@@ -129,19 +141,6 @@
         }
       ],
       "score": 0
-    },
-    {
-      "title": "アクシスインターナショナル、2026年PMP(R)試験改訂に対応した新学習プログラムを提供開始",
-      "summary": "- 月例PDUウェビナー(AI時代のプロジェクトマネジメント、セキュリティ、AIガバナンス等、当社の専門領域を横断するテーマ) - 過去回アーカイブの視聴 合格 ...",
-      "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
-      "category": "その他",
-      "sources": [
-        {
-          "name": "Google Alert: AIガバナンス",
-          "url": "https://www.jiji.com/jc/article?k=000000028.000080540&g=prt"
-        }
-      ],
-      "score": 0
     }
   ],
   "cloud_updates": [
@@ -149,69 +148,34 @@
       "provider": "AWS",
       "items": [
         {
-          "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
-          "pub_date": "2026-07-02T21:49:00.000Z",
-          "source": "AWS What's New"
+          "title": "週刊生成AI with AWS – 2026年6月29日週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260629/",
+          "pub_date": "2026-07-06T09:28:56.000Z",
+          "source": "AWS 公式ブログ"
         },
         {
-          "title": "Amazon EC2 X8i instances are now available in additional regions",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-          "pub_date": "2026-07-02T20:48:00.000Z",
-          "source": "AWS What's New"
+          "title": "フロンティアモデルの安全なリリースに向けた AWS の取り組み",
+          "url": "https://aws.amazon.com/jp/blogs/news/safely-releasing-frontier-models-to-customers/",
+          "pub_date": "2026-07-06T05:56:34.000Z",
+          "source": "AWS 公式ブログ"
         },
         {
-          "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-          "pub_date": "2026-07-02T17:00:00.000Z",
-          "source": "AWS What's New"
+          "title": "クラスターアップグレードを安全かつ信頼性高く管理できる Amazon EKS バージョンロールバックを発表",
+          "url": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/",
+          "pub_date": "2026-07-06T03:29:01.000Z",
+          "source": "AWS 公式ブログ"
         },
         {
-          "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
-          "pub_date": "2026-07-02T16:00:00.000Z",
-          "source": "AWS What's New"
+          "title": "東海旅客鉄道株式会社：超電導リニアの電気設備保守を支える IoT プラットフォームの構築",
+          "url": "https://aws.amazon.com/jp/blogs/news/jr-central-iot-platform-for-maglev-electrical-maintenance/",
+          "pub_date": "2026-07-06T00:45:32.000Z",
+          "source": "AWS 公式ブログ"
         },
         {
-          "title": "AWS Config now supports 8 new resource types",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
-          "pub_date": "2026-07-02T15:00:00.000Z",
-          "source": "AWS What's New"
-        }
-      ]
-    },
-    {
-      "provider": "Microsoft Azure",
-      "items": [
-        {
-          "title": "[Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks",
-          "url": "https://azure.microsoft.com/updates?id=567194",
-          "pub_date": "2026-07-02T22:21:51.000Z",
-          "source": "Azure Updates"
-        },
-        {
-          "title": "[Launched] Generally Available: New Powershell module: Az.PostgreSQLFlexibleServer",
-          "url": "https://azure.microsoft.com/updates?id=566209",
-          "pub_date": "2026-07-01T17:19:25.000Z",
-          "source": "Azure Updates"
-        },
-        {
-          "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
-          "url": "https://azure.microsoft.com/updates?id=563331",
-          "pub_date": "2026-07-01T17:04:40.000Z",
-          "source": "Azure Updates"
-        },
-        {
-          "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language",
-          "url": "https://azure.microsoft.com/updates?id=564382",
-          "pub_date": "2026-07-01T17:01:07.000Z",
-          "source": "Azure Updates"
-        },
-        {
-          "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
-          "url": "https://azure.microsoft.com/updates?id=565758",
-          "pub_date": "2026-07-01T16:59:39.000Z",
-          "source": "Azure Updates"
+          "title": "【開催報告 & 資料公開】公共分野における AI 活用最新アップデート (AWS 公共セミナー 2026 年)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-april/",
+          "pub_date": "2026-07-03T06:24:04.000Z",
+          "source": "AWS 公式ブログ"
         }
       ]
     },
@@ -237,16 +201,16 @@
           "source": "Google Cloud リリースノート"
         },
         {
-          "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
-          "url": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
-          "pub_date": "2026-07-02T14:00:00.000Z",
-          "source": "Google Cloud Blog"
+          "title": "Cloud Network Insights: クロスクラウド ネットワークに対するエンドツーエンドのオブザーバビリティ",
+          "url": "https://cloud.google.com/blog/ja/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+          "pub_date": "2026-07-03T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
         },
         {
-          "title": "July 02, 2026",
-          "url": "https://docs.cloud.google.com/release-notes#July_02_2026",
-          "pub_date": "2026-07-02T07:00:00.000Z",
-          "source": "Google Cloud リリースノート"
+          "title": "Atlas が Cloud SQL Enterprise Plus エディションにより数百の加盟店のデータベースをどうスケールしたか",
+          "url": "https://cloud.google.com/blog/ja/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+          "pub_date": "2026-07-03T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
         }
       ]
     },
@@ -286,5 +250,5 @@
       ]
     }
   ],
-  "generated_at": "2026-07-06T10:17:52.658Z"
+  "generated_at": "2026-07-06T10:53:18.846Z"
 }

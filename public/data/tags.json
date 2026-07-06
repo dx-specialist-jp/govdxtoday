@@ -227,16 +227,6 @@
       {
         "date": "2026-07-06",
         "date_ja": "2026年7月6日（月）",
-        "title": "アクシスインターナショナル、2026年PMP(R)試験改訂に対応した新学習プログラムを提供開始",
-        "summary": "- 月例PDUウェビナー(AI時代のプロジェクトマネジメント、セキュリティ、AIガバナンス等、当社の専門領域を横断するテーマ) - 過去回アーカイブの視聴 合格 ...",
-        "source": "Google Alert: AIガバナンス",
-        "url": "https://www.jiji.com/jc/article?k=000000028.000080540&g=prt",
-        "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
-        "type": "news"
-      },
-      {
-        "date": "2026-07-06",
-        "date_ja": "2026年7月6日（月）",
         "title": "国連が「AIガバナンスに関するグローバル・ダイアログ」を開催 ≪ 最新ニュース | 株式会社ＭＭ総研",
         "summary": "国連による「AIガバナンスに関するグローバル・ダイアログ」の第1回会合が7月6日（現地時間）、スイスのジュネーヴで始まる...",
         "source": "Google Alert: AIガバナンス",
@@ -301,6 +291,16 @@
         "summary": "今回は「ツール投資で終わらないAX推進」をテーマに、AX（AIトランスフォーメーション）に特化し、350以上の企業や250以上の自治体へのAXプロデュース支援実績を ...",
         "source": "Google Alert: AI×行政",
         "url": "https://prtimes.jp/main/html/rd/p/000000354.000000486.html",
+        "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "AI・DX推進担当向けの無料セミナー「Claude Cowork / Codeで変わるAX ～ツール ... - エキサイト",
+        "summary": "350社・250自治体を支援したAXのプロが語る、組織が本当に変わる6つのステップギークス株式会社（本社：東京都渋谷区、代表取締役CEO：曽根原稔人、以下 ...",
+        "source": "Google Alert: AI×行政",
+        "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-06-486-354/",
         "relevance": "元記事の内容を確認し、所管業務への影響・対応要否を確認すること。",
         "type": "news"
       },
@@ -2248,6 +2248,147 @@
         "relevance": "PMO/PJMOは、総務省が採択した地域DX推進事業の動向を把握し、先進的な通信システム活用事例が中央省庁のDX推進にどのように参考になるか、情報収集を行うこと。",
         "type": "news"
       }
+    ],
+    "AWS最新情報": [
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "【開催報告 & 資料公開】公共分野における AI 活用最新アップデート (AWS 公共セミナー 2026 年)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-april/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "東海旅客鉄道株式会社：超電導リニアの電気設備保守を支える IoT プラットフォームの構築",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/jr-central-iot-platform-for-maglev-electrical-maintenance/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "クラスターアップグレードを安全かつ信頼性高く管理できる Amazon EKS バージョンロールバックを発表",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "フロンティアモデルの安全なリリースに向けた AWS の取り組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/safely-releasing-frontier-models-to-customers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "週刊生成AI with AWS – 2026年6月29日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260629/",
+        "type": "cloud"
+      }
+    ],
+    "Google Cloud最新情報": [
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "Atlas が Cloud SQL Enterprise Plus エディションにより数百の加盟店のデータベースをどうスケールしたか",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "Cloud Network Insights: クロスクラウド ネットワークに対するエンドツーエンドのオブザーバビリティ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "July 03, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_03_2026",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "July 04, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_04_2026",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "July 05, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_05_2026",
+        "type": "cloud"
+      }
+    ],
+    "さくらインターネット最新情報": [
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "「ゼロから挑むサーバー構築！実践で学ぶサイバーセキュリティへの第一歩」にてソリューション本部 関口が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225201/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "「【ご好評につき再配信】クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225299/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "[障害] 高火力 DOKの一部",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39391",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "[メンテナンス] さくらのVPS for Windows Server 石狩リージョン 収容機材変更メンテナンス作業について",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39394",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-06",
+        "date_ja": "2026年7月6日（月）",
+        "title": "[メンテナンス] sakura.io、さくらのモノプラットフォーム の一部",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39395",
+        "type": "cloud"
+      }
     ]
   },
   "tag_counts": {
@@ -2258,7 +2399,10 @@
     "AI活用": 4,
     "クラウド/インフラ": 1,
     "制度/ガイドライン": 1,
-    "自治体DX事例": 2
+    "自治体DX事例": 2,
+    "AWS最新情報": 5,
+    "Google Cloud最新情報": 5,
+    "さくらインターネット最新情報": 5
   },
-  "updated_at": "2026-07-06T10:17:52.660Z"
+  "updated_at": "2026-07-06T10:53:18.848Z"
 }
