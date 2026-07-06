@@ -41,10 +41,15 @@ export default function NewsTopics({ topics }) {
       )}
       <div className="news-topics" role="list">
         {filtered.map((topic, i) => {
-          const hasUrl = topic.url && topic.url.startsWith('http');
+          // sources配列（複数ソース統合済み）を優先し、旧形式（source/url単体）のデータも表示できるようにする
+          const sources = topic.sources && topic.sources.length > 0
+            ? topic.sources
+            : (topic.source || topic.url) ? [{ name: topic.source, url: topic.url }] : [];
+          const primaryUrl = sources.find((s) => s.url && s.url.startsWith('http'))?.url;
+          const hasUrl = Boolean(primaryUrl);
           return (
             <article
-              key={topic.url || topic.title || i}
+              key={primaryUrl || topic.title || i}
               className="news-topic"
               role="listitem"
               style={{ animationDelay: `${i * 0.05}s` }}
@@ -56,7 +61,7 @@ export default function NewsTopics({ topics }) {
                 <h3>
                   {hasUrl ? (
                     <a
-                      href={topic.url}
+                      href={primaryUrl}
                       className="news-topic-title article-title-link"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -76,18 +81,27 @@ export default function NewsTopics({ topics }) {
                 <p className="news-topic-action-label">PMO/PJMOが取るべきアクション</p>
                 <p className="news-topic-action-text">{topic.relevance || DEFAULT_ACTION}</p>
               </div>
-              {hasUrl && (
+              {sources.length > 0 && (
                 <div className="news-topic-source">
                   出典:{' '}
-                  <a
-                    href={topic.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    tabIndex={-1}
-                    aria-hidden="true"
-                  >
-                    {topic.source}
-                  </a>
+                  {sources.map((s, si) => (
+                    <span key={s.url || s.name || si}>
+                      {si > 0 && '、'}
+                      {s.url && s.url.startsWith('http') ? (
+                        <a
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          tabIndex={-1}
+                          aria-hidden="true"
+                        >
+                          {s.name}
+                        </a>
+                      ) : (
+                        <span aria-hidden="true">{s.name}</span>
+                      )}
+                    </span>
+                  ))}
                 </div>
               )}
             </article>

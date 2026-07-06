@@ -294,7 +294,14 @@ async function filterAndSummarizeNews(articles, model, maxCount = 5) {
 
   const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者を読者に持つ、行政DX・AI活用の専門キュレーターです。
 
-以下のニュース記事一覧から、中央省庁PMO/PJMO担当者の業務に関連するものを厳選して要約してください。
+以下のニュース記事一覧から、中央省庁PMO/PJMO担当者の業務に関連するものを厳選し、トピックとして要約してください。
+
+【グルーピングのルール（重要）】
+- 複数の記事が同じ出来事・同じ発表・同じ事案を報じている場合（＝異なる報道機関が同一ニュースを配信しているだけの場合）は、1つのトピックに統合すること
+- キーワードが同じでも、報じている内容・論点が異なる記事（例: 同じ「マイナンバー」でも「制度改正」の記事と別の自治体の「system障害」の記事など）は、統合せず別トピックのままにすること
+- 統合するかどうかの判断基準は「読者が同じ出来事の重複情報として読むか、別の話題として読むか」であり、単なるキーワード一致では判断しないこと
+- 統合したトピックの title・summary は、いずれか1記事の言い回しをそのまま使うのではなく、まとめた記事群の内容を踏まえて1つに書き直すこと
+- 統合したトピックの relevance（PMO/PJMO対応）は、まとめた記事群全体を踏まえて1文だけ記載すること（記事ごとに分けて書かない）
 
 【選別基準（高スコア）】
 - 政府・省庁・政府CIOポータルが直接関与するIT施策・デジタル化の動向
@@ -321,70 +328,80 @@ async function filterAndSummarizeNews(articles, model, maxCount = 5) {
 対象記事:
 ${inputJson}
 
-PMO/PJMO業務に関連性の高い上位${maxCount}本を選定し、以下のJSONのみを出力すること（説明文・コードブロック記号は不要）:
+同一ニュースの統合を済ませた上で、PMO/PJMO業務に関連性の高い上位${maxCount}トピックを選定し、以下のJSONのみを出力すること（説明文・コードブロック記号は不要）:
 [
   {
-    "index": 元の記事インデックス（整数）,
+    "indices": [このトピックを構成する元記事インデックスの配列（同一ニュースを統合した場合は複数、単独記事なら1件のみ）],
+    "title": "統合後のタイトル（内容を踏まえて1つに書き直す）",
     "summary": "2行以内の要約",
-    "relevance": "PMO/PJMOとしての具体的な対応・確認事項を1文で",
+    "relevance": "PMO/PJMOとしての具体的な対応・確認事項を1文で（トピック全体で1つ）",
     "category": "カテゴリタグ",
     "score": 関連性スコア（1〜10の整数）
   }
 ]`;
+
+  const buildFallbackTopics = () =>
+    articles.slice(0, maxCount).map((a) => ({
+      title: a.title,
+      summary: a.description || a.title,
+      relevance: DEFAULT_RELEVANCE,
+      category: 'その他',
+      sources: [{ name: a.sourceName || '', url: a.url || '' }],
+      score: 0,
+    }));
 
   try {
     const text = await callGemini(model, prompt);
     const results = parseJsonFromText(text);
     if (!Array.isArray(results)) {
       console.warn('[WARN] ニュースフィルタ: GeminiがJSON配列以外を返しました。フォールバックを使用します');
-      return articles.slice(0, maxCount).map((a) => ({
-        title: a.title, summary: a.description || a.title,
-        relevance: DEFAULT_RELEVANCE, category: 'その他', source: a.sourceName, url: a.url, score: 0,
-      }));
+      return buildFallbackTopics();
     }
     const seenIndices = new Set();
     return results
+      .map((r) => ({
+        ...r,
+        validIndices: Array.isArray(r.indices)
+          ? r.indices.filter((idx) => Number.isInteger(idx) && idx >= 0 && idx < targetArticles.length)
+          : [],
+      }))
       .sort((a, b) => (b.score || 0) - (a.score || 0))
       .filter((r) => {
-        // null は Number(null)===0 で先頭記事に誤ってマップされるため明示的に除外
-        if (r.index == null) {
-          console.warn('[WARN] ニュースフィルタ: indexなしの結果をスキップ');
+        if (r.validIndices.length === 0) {
+          console.warn(`[WARN] ニュースフィルタ: 有効なindicesなしの結果をスキップ (${JSON.stringify(r.indices)})`);
           return false;
         }
-        const idx = Number(r.index);
-        if (!Number.isInteger(idx) || idx < 0 || idx >= targetArticles.length) {
-          console.warn(`[WARN] ニュースフィルタ: 無効なindex (${r.index}) をスキップ`);
-          return false;
-        }
-        if (seenIndices.has(idx)) return false;
-        seenIndices.add(idx);
+        // 既に採用済みのindexは除外（Geminiが同一記事を複数トピックに重複割当した場合の対策）
+        r.validIndices = r.validIndices.filter((idx) => !seenIndices.has(idx));
+        if (r.validIndices.length === 0) return false;
+        r.validIndices.forEach((idx) => seenIndices.add(idx));
         return true;
       })
       .slice(0, maxCount)
       .map((r) => {
-        const orig = targetArticles[Number(r.index)];
+        const origArticles = r.validIndices.map((idx) => targetArticles[idx]);
+        const primary = origArticles[0];
+        const seenUrls = new Set();
+        const sources = origArticles
+          .filter((a) => {
+            if (!a.url || seenUrls.has(a.url)) return false;
+            seenUrls.add(a.url);
+            return true;
+          })
+          .map((a) => ({ name: a.sourceName || '', url: a.url || '' }));
         return {
-          title: orig.title || '',
-          summary: r.summary || orig.description || orig.title || '',
+          title: r.title || primary.title || '',
+          summary: r.summary || primary.description || primary.title || '',
           relevance: r.relevance || DEFAULT_RELEVANCE,
           category: r.category || 'その他',
-          source: orig.sourceName || '',
-          url: orig.url || '',
+          sources,
           score: Number(r.score) || 0,
         };
       });
   } catch (err) {
     if (isFatalGeminiError(err) || err.rateLimited) throw err;
     console.warn(`[WARN] ニュースフィルタエラー: ${err.message}`);
-    return articles.slice(0, maxCount).map((a) => ({
-      title: a.title,
-      summary: a.description || a.title,
-      relevance: DEFAULT_RELEVANCE,
-      category: 'その他',
-      source: a.sourceName,
-      url: a.url,
-      score: 0,
-    }));
+    return buildFallbackTopics();
   }
 }
 
@@ -408,13 +425,16 @@ function updateTagsIndex(date, dateJa, dayData) {
     if (!topic.category) continue;
     const tag = topic.category;
     if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
+    // 複数ソースを統合したトピックでも、tags.json は従来通り1件1ソースの
+    // フラットな形式を維持するため、代表として先頭ソースのみを記録する
+    const primarySource = (topic.sources || [])[0] || { name: topic.source, url: topic.url };
     tagsData.tags[tag].unshift({
       date,
       date_ja: dateJa,
       title: topic.title,
       summary: topic.summary || '',
-      source: topic.source || '',
-      url: topic.url || '',
+      source: primarySource.name || '',
+      url: primarySource.url || '',
       relevance: topic.relevance || '',
       type: 'news',
     });
@@ -539,8 +559,7 @@ async function main() {
         summary: a.description || a.title,
         relevance: DEFAULT_RELEVANCE,
         category: 'その他',
-        source: a.sourceName,
-        url: a.url,
+        sources: [{ name: a.sourceName || '', url: a.url || '' }],
         score: 0,
       }));
     }
@@ -552,8 +571,7 @@ async function main() {
       summary: a.description || a.title,
       relevance: DEFAULT_RELEVANCE,
       category: 'その他',
-      source: a.sourceName,
-      url: a.url,
+      sources: [{ name: a.sourceName || '', url: a.url || '' }],
       score: 0,
     }));
   }
@@ -623,19 +641,21 @@ async function main() {
       summary:   a.summary || a.description?.slice(0, 100) || a.title,
       relevance: DEFAULT_RELEVANCE,
       category:  ARTICLE_TYPE_TO_CATEGORY[a.articleType] || '行政DX',
-      source:    a.sourceName,
-      url:       a.url,
+      sources:   [{ name: a.sourceName || '', url: a.url || '' }],
       score:     a.importance_score,
     }));
 
-  // newsTopics の URL バリデーション
-  newsTopics = newsTopics.map((t) => {
-    if (!isValidUrl(t.url)) {
-      console.warn(`[WARN] ニュースURL無効: "${t.url}" → クリア`);
-      return { ...t, url: '' };
-    }
-    return t;
-  });
+  // newsTopics の URL バリデーション（sources配列内の各ソースを個別に検証）
+  newsTopics = newsTopics.map((t) => ({
+    ...t,
+    sources: (t.sources || []).map((s) => {
+      if (!isValidUrl(s.url)) {
+        console.warn(`[WARN] ニュースURL無効: "${s.url}" → クリア`);
+        return { ...s, url: '' };
+      }
+      return s;
+    }),
+  }));
 
   // gov 参考情報を追加してテーマ順に並べ直す
   const NEWS_CATEGORY_ORDER = [
