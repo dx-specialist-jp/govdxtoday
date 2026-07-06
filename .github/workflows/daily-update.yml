@@ -15,6 +15,15 @@ permissions:
   pages: write
   id-token: write
 
+# deploy.yml と同じ "pages" グループで排他制御する。このワークフローが
+# GitHub Pages にデプロイするタイミングと、同時期に src/public 等への
+# 別コミットが push されて起動した deploy.yml が同じ github-pages 環境に
+# 同時デプロイしようとすると、Pages API 側で「Deployment failed, try
+# again later.」となり競合することがあったため。
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
