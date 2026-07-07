@@ -138,10 +138,10 @@ export function isFatalGeminiError(err) {
 export async function generateSummaryPoints(allArticles, model) {
   if (!allArticles || allArticles.length === 0) return null;
   const inputJson = JSON.stringify(allArticles, null, 2);
-  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者向けの行政DX・AI活用の専門キュレーターです。
+  const prompt = `あなたは中央省庁のPMO（プロジェクト管理オフィス）・PjMO（プロジェクト管理支援）担当者向けの行政DX・AI活用の専門キュレーターです。
 
 以下は本日キュレーションされた行政DX・AI・セキュリティ関連の記事一覧です。
-これらを読んで、PMO/PJMO担当者が「今日知っておくべき重要ポイント」を箇条書きで要約してください。
+これらを読んで、PMO/PjMO担当者が「今日知っておくべき重要ポイント」を箇条書きで要約してください。
 
 【要約ルール】
 - 4〜6箇条で、各箇条は1行（40〜70字）

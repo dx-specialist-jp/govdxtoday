@@ -26,11 +26,11 @@ export default function AboutPage() {
             <h2 className="about-section-title" id="purpose-heading">サイトの目的</h2>
             <p>
               GovDX Today は、中央省庁・地方公共団体の
-              <strong>PMO（プロジェクト管理オフィス）・PJMO（プロジェクト管理支援）担当者</strong>
+              <strong>PMO（プロジェクト管理オフィス）・PjMO（プロジェクト管理支援）担当者</strong>
               を主な対象として、行政DX・AI活用・クラウドに関する情報を毎朝自動集約・要約するダイジェストサイトです。
             </p>
             <p>
-              政府公式RSSとGoogle Alertsを横断的に収集し、AIが「PMO/PJMOとして何を確認・対応すべきか」
+              政府公式RSSとGoogle Alertsを横断的に収集し、AIが「PMO/PjMOとして何を確認・対応すべきか」
               の観点で要約・優先順位付けを行います。
               毎朝6時頃に前日分が更新されるため、業務開始前に最新情報を確認できます。
             </p>
@@ -44,7 +44,7 @@ export default function AboutPage() {
               <li>ペイウォール（有料会員限定）記事は収集・掲載対象外としています</li>
               <li><strong>機密性情報</strong>（機密性2以上の行政情報）は収集も掲載も行いません</li>
               <li><strong>特定の個人情報</strong>（氏名・住所・連絡先・マイナンバー等、個人を識別できる情報）は掲載しません</li>
-              <li>中央省庁PMO/PJMOの業務に関連する情報を優先し、AI（Gemini）が重要度を判定して掲載します</li>
+              <li>中央省庁PMO/PjMOの業務に関連する情報を優先し、AI（Gemini）が重要度を判定して掲載します</li>
               <li>要約はAIが自動生成するため、必ず出典元で原文を確認してください</li>
             </ul>
           </section>
@@ -55,7 +55,7 @@ export default function AboutPage() {
             <p>
               記事の要約・優先度判定・カテゴリ分類にはGoogle Gemini API
               （<code>gemini-2.5-flash-lite</code>、無料枠使用）を利用しています。
-              要約は「中央省庁PMO/PJMOが業務で活用できる観点」で生成しており、
+              要約は「中央省庁PMO/PjMOが業務で活用できる観点」で生成しており、
               具体的な対応事項・確認すべき文書・期限の目安を含むよう設計しています。
             </p>
             <p>

@@ -1,6 +1,6 @@
 # GovDX Today
 
-中央省庁PMO/PJMO担当者向けの行政DX・AI活用・クラウド情報を毎日自動収集・キュレーションするサイト。
+中央省庁PMO/PjMO担当者向けの行政DX・AI活用・クラウド情報を毎日自動収集・キュレーションするサイト。
 GitHub Pages で公開、非営利・非商業目的。
 
 **公開URL:** https://dx-specialist-jp.github.io/govdxtoday/
@@ -12,7 +12,7 @@ GitHub Pages で公開、非営利・非商業目的。
 ```
 RSS/Atom フィード収集
   └─ scripts/generate-content.js
-       ├─ Gemini API でフィルタリング・要約・記事ごとのPMO/PJMOアクション生成
+       ├─ Gemini API でフィルタリング・要約・記事ごとのPMO/PjMOアクション生成
        └─ public/data/YYYY-MM-DD.json に保存
             └─ npm run build → docs/ → GitHub Pages デプロイ
 ```
@@ -35,7 +35,7 @@ scripts/
 src/
   components/
     DigestView.jsx      # ページ全体のレイアウト
-    NewsTopics.jsx      # ニューストピック一覧（記事ごとにPMO/PJMOアクションを併記したカード）
+    NewsTopics.jsx      # ニューストピック一覧（記事ごとにPMO/PjMOアクションを併記したカード）
     NewsSummary.jsx     # 今日のポイント
     HeroArticle.jsx     # 注目記事（最高優先度の政府記事）
     SubArticles.jsx     # サブ記事（重要度 3 以上の政府記事）
@@ -72,7 +72,7 @@ docs/                   # Vite ビルド出力 → GitHub Pages が参照
 Gemini APIによるAI要約は行わない（`generate-content.js` の他のGemini呼び出しとは独立して常に生成される）。プロバイダごとに直近
 `CLOUD_ITEMS_PER_PROVIDER`（既定5件）を新しい順に掲載する。
 
-`news_topics[].relevance` は各記事カードの「PMO/PJMOが取るべきアクション」欄に表示される、記事ごとの対応・確認事項（1文）。Gemini生成が得られない場合も
+`news_topics[].relevance` は各記事カードの「PMO/PjMOが取るべきアクション」欄に表示される、記事ごとの対応・確認事項（1文）。Gemini生成が得られない場合も
 `generate-content.js` の `DEFAULT_RELEVANCE` で必ず埋められ、カードの表示構成（タイトル→サマリー→区切り線→アクション→出典）は日によって変わらない。
 
 **カテゴリ一覧（news_topics.category）:**
@@ -180,6 +180,6 @@ git push
 | 4 | 今月中に確認（新ガイドライン・調達制度変更） | 注目記事・サブ記事に表示 |
 | 3 | 四半期以内に把握（行政DX動向・AI導入事例） | 注目記事・サブ記事に表示 |
 | 2 | 参考情報（業界トレンド・海外事例） | ニューストピックに統合 |
-| 1 | PMO/PJMO業務に直接関係しない | 除外 |
+| 1 | PMO/PjMO業務に直接関係しない | 除外 |
 
 スコア 1 になる記事パターン（内容不問）: 開催案内のみ・議事録掲載通知・入札公告・人事情報・市民向け広報
