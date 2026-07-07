@@ -6,7 +6,7 @@ export default function SectionNav({ hasSecurityAlert, hasSummary, hasPickup, ha
     ...(hasSummary ? [{ id: 'sec-summary', label: '今日のポイント' }] : []),
     ...(hasPickup ? [{ id: 'sec-pickup', label: 'ピックアップ' }] : []),
     { id: 'sec-news', label: 'ニュース' },
-    ...(hasCloudUpdates ? [{ id: 'sec-cloud', label: 'クラウドサービスプロバイダー更新情報' }] : []),
+    ...(hasCloudUpdates ? [{ id: 'sec-cloud', label: 'CSP更新情報' }] : []),
   ];
   const [active, setActive] = useState(sections[0]?.id ?? 'sec-news');
 

@@ -1,6 +1,15 @@
 import { Link } from 'react-router-dom';
 import { isHttpUrl } from '../utils.js';
 
+// ロゴは使わず、プロバイダーごとにアクセントカラーの帯を添えるだけで
+// 各社のブランド感をほのかに出す（配色は各社コーポレートカラーを想起させる
+// トーンに寄せつつ、サイト全体の落ち着いたトーンと衝突しない彩度に抑えている）
+const PROVIDER_ACCENT = {
+  AWS: '#C77700',
+  'Google Cloud': '#1E8E3E',
+  'さくらのクラウド': '#C2185B',
+};
+
 function formatDate(iso) {
   if (!iso) return '';
   try {
@@ -17,14 +26,18 @@ export default function CloudUpdates({ providers }) {
 
   return (
     <div className="digest-section">
-      <p className="section-label">クラウドサービスプロバイダー更新情報</p>
+      <p className="section-label">CSP更新情報</p>
       <div className="cloud-updates-grid" role="list">
         {providers.map((p) => (
-          <div className="cloud-updates-card" role="listitem" key={p.provider}>
+          <div
+            className="cloud-updates-card"
+            role="listitem"
+            key={p.provider}
+            style={{ '--cloud-accent': PROVIDER_ACCENT[p.provider] || 'var(--accent)' }}
+          >
             <h3 className="cloud-updates-provider">
-              {p.provider}
-              <Link to={`/tag/${encodeURIComponent(`${p.provider}最新情報`)}`} className="category-tag">
-                {p.provider}最新情報
+              <Link to={`/tag/${encodeURIComponent(`${p.provider}最新情報`)}`} className="cloud-updates-provider-link">
+                {p.provider}
               </Link>
             </h3>
             <ul className="cloud-updates-list">

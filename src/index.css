@@ -743,22 +743,23 @@ a:hover { color: var(--accent); }
 .cloud-updates-card {
   background: var(--surface);
   border: 1px solid var(--border);
+  border-left: 3px solid var(--cloud-accent, var(--accent));
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-card);
   padding: 18px 20px;
 }
 .cloud-updates-provider {
-  display: flex;
-  align-items: center;
-  gap: 8px;
   font-size: 13px;
   font-weight: 700;
-  color: var(--primary);
   margin-bottom: 12px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--border);
 }
-.cloud-updates-provider .category-tag { text-decoration: none; }
+.cloud-updates-provider-link {
+  color: var(--cloud-accent, var(--primary));
+  text-decoration: none;
+}
+.cloud-updates-provider-link:hover { text-decoration: underline; }
 .cloud-updates-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
 .cloud-updates-title {
   display: block;
