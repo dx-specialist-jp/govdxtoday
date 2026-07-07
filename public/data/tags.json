@@ -2173,6 +2173,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "AI（特にClaude）の行政・公的機関における活用事例とコスト・セキュリティに関する動向",
+        "summary": "カナダ・アルバータ州政府でのコード監査事例や、米政府によるClaude利用の一時停止、中国AIによる顧客獲得、政府支援事業での海外AI迂回決済など、AIの活用とそれに伴うコストやセキュリティに関する多様な動きが見られる。",
+        "source": "digital-construction.jp",
+        "url": "https://digital-construction.jp/news/3732",
+        "relevance": "行政分野におけるAIツールの活用事例や、それに伴うコスト、セキュリティリスクの考慮は、PMO/PjMOの皆様がAI導入を検討する上で参考となるため、ご注目ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "AIガバナンスとAIエージェント導入の進展および関連する課題",
+        "summary": "AIエージェントの本格展開が進む中、AIガバナンスの必要性が高まっている。企業や行政機関では、AIの倫理的利用やリスク管理、効率的な運用体制の構築が求められている。",
+        "source": "simplywall.st",
+        "url": "https://simplywall.st/ja/stocks/us/software/nyse-now/servicenow/news/46106827f2b8b001/amp",
+        "relevance": "AIエージェントの導入やAIガバナンス体制の構築は、行政DX推進における重要な論点となるため、PMO/PjMOの皆様は、関連技術や体制構築の事例をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "中央省庁における国会答弁対応業務の高度化・効率化に向けたプロトタイピングプログラム",
+        "summary": "中央省庁とAWSが連携し、国会答弁作成・審査業務の効率化・高度化を目指すプロトタイピングプログラムを実施。AIを活用し、想定問答作成などを支援する。",
+        "source": "aws.amazon.com",
+        "url": "https://aws.amazon.com/jp/blogs/news/prototyping-program-with-central-government-agencies-for-diet-response-operations/",
+        "relevance": "AIを活用した行政事務の効率化・高度化に関する事例として、PMO/PjMOの皆様は、同様の業務改革へのAI導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
         "title": "経産省、フィジカルAI基盤モデル開発でNoetraを選定、AIロボット・AI人材育成を推進",
@@ -2265,6 +2295,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "ガバメントクラウドの推進と行政機関での活用状況、人材育成",
+        "summary": "日本オラクルが厚生労働省のAI基盤を構築し情報公開事務を効率化。また、AWSガバメントクラウド勉強会が開催され、事例紹介も行われている。品川区ではDX推進のため情報推進担当を公募し、ガバメントクラウド活用を推し進める。",
+        "source": "voix.jp",
+        "url": "https://voix.jp/biz/news-analysis/173384/",
+        "relevance": "ガバメントクラウドの活用や推進は、行政システムの基盤に関わるため、PMO/PjMOの皆様は、最新の動向や活用事例、人材育成についてご関心をお持ちください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
         "title": "ガバメントクラウドへの移行進む、AWSが政府システムでシェア8割超。システム移行とクラウド戦略が焦点",
@@ -2287,6 +2327,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "行政・公共分野におけるデジタル化、IT施策、および関連する調査・動向",
+        "summary": "低入札価格調査と最低制限価格の市区町村での導入率に関する総務省調査、AI半導体投資の過熱とインフラ投資回収の限界、家計調査報告、消費支出、動態管理導入補助金、自治体デジタル推進の具体策など、多岐にわたる行政・公共分野の動向が報じられている。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KWXN5NWKNK6XCDZD6DW5N8WQ",
+        "relevance": "行政・公共分野におけるIT施策やデジタル化の動向は、PMO/PjMOの業務に直結する可能性があるため、皆様は関連する調査結果や政策動向にご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "国連主催のAIガバナンスに関するグローバル対話の開催と国際的な議論の進展",
+        "summary": "国連がAIガバナンスに関する初のグローバル対話を開催し、AI開発競争への警鐘や、AIのリスクから子どもを守るための行動を求めた。AIガバナンスの国際的な基盤構築を目指す。",
+        "source": "arabnews.jp",
+        "url": "https://www.arabnews.jp/article/saudi-arabia/article_181215/",
+        "relevance": "国際的なAI規制・ガバナンスの動向は、将来的な行政システムへの影響も考えられるため、PMO/PjMOの皆様は、最新の議論にご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
         "title": "国連主導でAIガバナンスに関するグローバル対話が初開催、AI管理の国際ルール形成に向けた議論開始",
@@ -2308,6 +2368,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "ガバメントクラウドファンディングの活用事例と動向",
+        "summary": "弘前市が重要文化財の保存修理のためにガバメントクラウドファンディングを開始した事例が報じられている。また、ふるさとチョイスでのガバメントクラウドファンディングについても言及がある。",
+        "source": "chiba-tv.com",
+        "url": "https://www.chiba-tv.com/plus/detail/2026071828505",
+        "relevance": "ガバメントクラウドファンディングは、行政の資金調達手法として注目されるため、PMO/PjMOの皆様は、その活用方法や事例について情報収集をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
@@ -2340,6 +2410,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "Amazon Redshift のマルチウェアハウス機能強化でアナリティクスをスケール",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/scale-analytics-with-amazon-redshift-multi-warehouse-enhancements/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "AI を活用した Amazon Redshift のパフォーマンスレコメンデーション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-powered-performance-recommendations-for-amazon-redshift/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "Amazon Redshift RG: Graviton 搭載でより高速、より低コスト",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-redshift-rg-faster-and-lower-cost-graviton-powered/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "国会答弁対応業務の高度化と効率化に向けた中央省庁とのプロトタイピングプログラムの取り組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/prototyping-program-with-central-government-agencies-for-diet-response-operations/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "エムシーディースリー株式会社様：AI-DLC Unicorn Gym による3日間の開発変革",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/mcd3-aidlc/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
@@ -2396,6 +2511,33 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "Alphaevolve で分子発見を 4 倍に高速化した Schrödinger の事例",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "BigQuery の AI.AGG 関数で全体像を把握し、傾向を分析する",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "July 07, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_07_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-06",
         "date_ja": "2026年7月6日（月）",
@@ -2456,6 +2598,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "【さくらのレンタルサーバ / マネージドサーバ】脆弱性対策（恒久対応）完了に伴う、HTTP/2再有効化のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/03/1968225101/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "【さくらのレンタルサーバ / マネージドサーバ】「TLS 1.3」対応開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/03/1968225075/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-08",
+        "date_ja": "2026年7月8日（水）",
+        "title": "「KOZAROCKS 2026」にて執行役員 江草が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/07/1968225304/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-06",
         "date_ja": "2026年7月6日（月）",
         "title": "「ゼロから挑むサーバー構築！実践で学ぶサイバーセキュリティへの第一歩」にてソリューション本部 関口が登壇します",
@@ -2507,14 +2676,14 @@
     "その他": 168,
     "行政AI": 14,
     "行政DX": 14,
-    "AI活用": 9,
-    "クラウド/インフラ": 2,
-    "制度/ガイドライン": 2,
-    "自治体DX事例": 3,
-    "AWS最新情報": 6,
-    "Google Cloud最新情報": 5,
+    "AI活用": 12,
+    "クラウド/インフラ": 3,
+    "制度/ガイドライン": 4,
+    "自治体DX事例": 4,
+    "AWS最新情報": 11,
+    "Google Cloud最新情報": 8,
     "働き方/業務改革": 1,
-    "さくらのクラウド最新情報": 5
+    "さくらのクラウド最新情報": 8
   },
-  "updated_at": "2026-07-06T20:58:36.666Z"
+  "updated_at": "2026-07-07T20:32:03.083Z"
 }
