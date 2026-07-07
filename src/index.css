@@ -716,7 +716,6 @@ a:hover { color: var(--accent); }
   font-weight: 700;
   color: var(--green-800);
   letter-spacing: 0.08em;
-  text-transform: uppercase;
   display: flex;
   align-items: center;
   gap: 6px;

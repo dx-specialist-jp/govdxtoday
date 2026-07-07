@@ -20,7 +20,7 @@
       "category": "セキュリティ",
       "sources": [
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "prtimes.jp",
           "url": "https://prtimes.jp/main/html/rd/p/000000083.000046548.html"
         }
       ],
@@ -33,7 +33,7 @@
       "category": "AI活用",
       "sources": [
         {
-          "name": "Google Alert: 生成AI×行政",
+          "name": "enterprisezine.jp",
           "url": "https://enterprisezine.jp/article/detail/24627"
         }
       ],
@@ -46,7 +46,7 @@
       "category": "AI活用",
       "sources": [
         {
-          "name": "Google Alert: 生成AI×行政",
+          "name": "agara.co.jp",
           "url": "https://www.agara.co.jp/article/657443"
         }
       ],
@@ -59,7 +59,7 @@
       "category": "AI活用",
       "sources": [
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "zaikei.co.jp",
           "url": "https://www.zaikei.co.jp/article/20260706/859913.html"
         }
       ],
@@ -72,7 +72,7 @@
       "category": "AI活用",
       "sources": [
         {
-          "name": "Google Alert: AI×行政",
+          "name": "microsoft.com",
           "url": "https://www.microsoft.com/ja-jp/customers/story/26717-resona-holdings-microsoft-copilot-studio"
         }
       ],
@@ -85,7 +85,7 @@
       "category": "AI活用",
       "sources": [
         {
-          "name": "Google Alert: デジタル庁",
+          "name": "sustainablejapan.jp",
           "url": "https://sustainablejapan.jp/2026/07/06/japan-physical-ai/127698?amp"
         }
       ],
@@ -98,11 +98,11 @@
       "category": "クラウド/インフラ",
       "sources": [
         {
-          "name": "Google Alert: ガバメントクラウド",
+          "name": "prtimes.jp",
           "url": "https://prtimes.jp/main/html/rd/p/000000196.000094022.html"
         },
         {
-          "name": "Google Alert: ガバメントクラウド",
+          "name": "finance.biggo.jp",
           "url": "https://finance.biggo.jp/news/JP_9746.T_2026-05-13"
         }
       ],
@@ -115,47 +115,47 @@
       "category": "制度/ガイドライン",
       "sources": [
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "news.yahoo.co.jp",
           "url": "https://news.yahoo.co.jp/articles/721d92de5b47682cb239b226d5a651690d09e0be/images/000"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "asahi.com",
           "url": "https://www.asahi.com/articles/ASV764274V76UHBI01QM.html"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "finance.biggo.jp",
           "url": "https://finance.biggo.jp/news/c1b1988e-0eb2-4dd3-bf31-bcde10a00191"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "nikkei.com",
           "url": "https://www.nikkei.com/article/DGXZQOGR042JE0U6A700C2000000/"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "asahi.com",
           "url": "https://www.asahi.com/sp/articles/photo/AS20260706004236.html?iref=sp_photo_gallery_3"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "recordchina.co.jp",
           "url": "https://www.recordchina.co.jp/en/b983375-s12-c100-d0189.html"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "recordchina.co.jp",
           "url": "https://www.recordchina.co.jp/b983375-s12-c10-d0189.html"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "asahi.com",
           "url": "https://www.asahi.com/articles/ASV764274V76UHBI01QM.html?iref=comtop_International_02"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "japanese.cri.cn",
           "url": "https://japanese.cri.cn/2026/07/06/ARTI1783337238561939"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "m2ri.jp",
           "url": "https://www.m2ri.jp/topics/detail.html?id=897"
         },
         {
-          "name": "Google Alert: AIガバナンス",
+          "name": "vietnam.vn",
           "url": "https://www.vietnam.vn/ja/dao-tao-the-he-tre-trong-ky-nguyen-ai-thay-doi-de-khong-bi-bo-lai-phia-sau"
         }
       ],
@@ -168,15 +168,15 @@
       "category": "自治体DX事例",
       "sources": [
         {
-          "name": "Google Alert: ガバメントクラウド",
+          "name": "newscast.jp",
           "url": "https://newscast.jp/smart/news/2070163"
         },
         {
-          "name": "Google Alert: ガバメントクラウド",
+          "name": "dtimes.jp",
           "url": "https://dtimes.jp/post-1265737/"
         },
         {
-          "name": "Google Alert: ガバメントクラウド",
+          "name": "zakzak.co.jp",
           "url": "https://www.zakzak.co.jp/pressrelease/atpress/5SDP2SE6M5KSNHMGQOCXBYRBXM/"
         }
       ],
@@ -189,11 +189,11 @@
       "category": "働き方/業務改革",
       "sources": [
         {
-          "name": "Google Alert: AI×行政",
+          "name": "excite.co.jp",
           "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-06-486-354/"
         },
         {
-          "name": "Google Alert: AI×行政",
+          "name": "prtimes.jp",
           "url": "https://prtimes.jp/main/html/rd/p/000000354.000000486.html"
         }
       ],
