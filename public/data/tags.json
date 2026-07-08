@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "九州電力送配電、顧客情報保存の外部記憶媒体紛失で経済産業省へ報告",
+        "summary": "九州電力送配電株式会社において、システムバックアップ用SSDが紛失し、最大約1,354万件の顧客情報が流出した可能性がある事案が発生し、経済産業省へ報告された。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260708589619",
+        "relevance": "個人情報を含む外部記憶媒体の管理体制と紛失事案の報告について、庁内での情報資産管理やインシデント対応体制の見直しにご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "Google Cloud、AIを活用した「AIセキュリティ」の防御方法に関するガイドを公開",
+        "summary": "Google Cloudは、CISO向けにAIを活用した防御の始め方を解説するガイドを公開し、AIによる管理業務負荷の軽減と脅威への対応強化を提案している。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news059.html",
+        "relevance": "AIを活用したセキュリティ対策の具体的なアプローチについて、庁内でのサイバーセキュリティ戦略や運用体制の見直しにご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-07",
         "date_ja": "2026年7月7日（火）",
         "title": "国のAIセキュリティ指針公表後も対策は道半ば、企業の生成AI利用を検知・統制するAIガバナンス基盤が受賞",
@@ -2173,6 +2193,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "AIが「クモ」を考えず「8」と回答する思考プロセス",
+        "summary": "AIが「クモの巣を紡ぐ動物の足は何本か」という質問に対し、「spider」という単語を使わずに「8」と回答する思考プロセスが示されている。",
+        "source": "hashout.jp",
+        "url": "https://hashout.jp/ai/2939/",
+        "relevance": "AIの回答生成メカニズムにおける思考プロセスについて、AIによる情報分析や判断支援の精度向上策の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "カナダ・アルバータ州政府、Claude Codeで4億6600万行のコードを20時間で診断",
+        "summary": "カナダ・アルバータ州政府が、AnthropicのAIモデル「Claude Code」を用いて、4億6600万行のコードを20時間で診断した事例が紹介されている。",
+        "source": "codezine.jp",
+        "url": "https://codezine.jp/news/detail/28880",
+        "relevance": "AIによるコード診断の事例について、庁内のシステム開発や保守における効率化、品質向上策の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "デジタル庁のガバメントAI「源内」の自治体での実運用におけるクラウド依存の課題",
+        "summary": "デジタル庁が公開したガバメントAI「源内」について、政府によるAIプラットフォーム公開という点は画期的である一方、自治体での実運用においてはクラウド依存による課題が指摘されている。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/business/spv/2607/08/news016.html",
+        "relevance": "ガバメントAIの自治体での実運用におけるクラウド依存の課題について、庁内でのAIプラットフォームの運用方針や、自治体への展開可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "AnthropicのAIモデル「Claude Fable 5」の提供制限緩和と一般公開",
+        "summary": "米政府の輸出規制により提供が制限・停止されていたAnthropicのAIモデル「Claude Fable 5」について、提供制限の緩和が進み、一般公開される見通しとなった。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/07/08/gpt-5-6-government-restriction-lifted/",
+        "relevance": "AIモデルの政府による提供制限緩和とその公開状況について、庁内でのAI活用検討の参考にご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
         "title": "アルバータ州政府、Claudeを活用し4.6億行のコードを20時間で監査、6.5年分を代替",
@@ -2431,6 +2491,51 @@
     ],
     "AWS最新情報": [
       {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "Amazon Redshift のモダナイゼーション: RA3 から RG への移行ベストプラクティス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/modernize-amazon-redshift-ra3-to-rg-migration-best-practices/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "Amazon EVS で VCF 9.0 および 9.1 のサポートを発表",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/vmware-cloud-foundation-vcf-9-0-and-9-1-on-amazon-evs/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "【今年も開催！】全国8都市を巡るAWS デジタル社会実現ツアー2026",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/japan-nationwide-roadshow-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "AWS Parallel Computing Service と Kiro CLI で HPC のデプロイを加速する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerating-hpc-deployment-with-aws-parallel-computing-service-and-kiro-cli-ja/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "AWS パートナーと実現する生成 AI — 現場を変える8つの実践事例 AWS Summit Japan 2026 Partner Breakout Session レポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%81%A8%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%94%9F%E6%88%90-ai-%E7%8F%BE%E5%A0%B4%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B8%E3%81%A4%E3%81%AE/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
         "title": "Amazon Redshift のマルチウェアハウス機能強化でアナリティクスをスケール",
@@ -2532,6 +2637,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "Gemini Omni Flash と Nano Banana 2 Lite が圧倒的なスピードと費用対効果をもたらす",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "July 08, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
         "title": "Alphaevolve で分子発見を 4 倍に高速化した Schrödinger の事例",
@@ -2628,6 +2751,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "【さくらのSSL】グローバルサイン SSLサーバー証明書 中間CA証明書変更のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/08/1968225313/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
         "title": "【さくらのレンタルサーバ / マネージドサーバ】脆弱性対策（恒久対応）完了に伴う、HTTP/2再有効化のお知らせ",
@@ -2699,21 +2831,67 @@
         "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39395",
         "type": "cloud"
       }
+    ],
+    "AIガバナンス": [
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "マレーシア銀行のAI意思決定への信頼度とHCLTechの責任あるAI認証",
+        "summary": "マレーシアの銀行におけるAIを重要意思決定に信頼する割合は25%に留まる一方、HCLTechはISO/IEC 42001:2023認証を取得し、責任あるAI分野でのリーダーシップを示している。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/bda72b0a-c2aa-48c1-8dc3-ba37b1cc4324",
+        "relevance": "AIの意思決定への信頼度と、責任あるAI導入に向けた認証制度について、庁内でのAI導入におけるリスク評価や信頼性確保策のご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "AIガバナンスに関する国際的な議論と市場の成長見通し",
+        "summary": "AIガバナンスに関する国際的な対話が進む中、AIガバナンス・プラットフォーム市場は2035年までに75億米ドルに達するとの見通しが示されている。AI時代のサプライチェーンにおいては、AIエージェント、ロボット、専門特化型AI、ガバナンスの連携が重要視されている。",
+        "source": "tkfd.or.jp",
+        "url": "https://www.tkfd.or.jp/events/detail.php?event_id=3714",
+        "relevance": "AIガバナンスに関する国際的な動向と市場の将来性について、庁内でのAI倫理ガイドラインやガバナンス体制構築の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "国内企業の7割超がシャドーAI対策できず、機密情報漏洩リスクが顕在化",
+        "summary": "企業における生成AIの急速な普及に対し、IT部門が承認していないAIツールの利用（シャドーAI）による機密情報漏洩リスクへの対策が追いついていない状況が明らかになった。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/070100198/",
+        "relevance": "シャドーAIのリスクと対策状況について、庁内でのAI利用に関するガイドライン策定やセキュリティポリシーの見直しにご検討ください。",
+        "type": "news"
+      }
+    ],
+    "ガバメントクラウド": [
+      {
+        "date": "2026-07-09",
+        "date_ja": "2026年7月9日（木）",
+        "title": "ガバメントクラウドファンディングの事例紹介",
+        "summary": "「第75回 つくみ港まつり 花火大会」や「上田古戦場ハーフマラソン」など、ふるさと納税を活用したガバメントクラウドファンディングの事例が紹介されている。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/192816/posts/1433212",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、地域振興や公共サービスの資金調達手段としての可能性をご検討ください。",
+        "type": "news"
+      }
     ]
   },
   "tag_counts": {
-    "セキュリティ": 24,
+    "セキュリティ": 26,
     "その他": 168,
     "行政AI": 14,
     "行政DX": 14,
-    "AI活用": 15,
+    "AI活用": 19,
     "クラウド/インフラ": 3,
     "制度/ガイドライン": 3,
     "自治体DX事例": 4,
-    "AWS最新情報": 11,
-    "Google Cloud最新情報": 8,
+    "AWS最新情報": 16,
+    "Google Cloud最新情報": 10,
     "働き方/業務改革": 2,
-    "さくらのクラウド最新情報": 8
+    "さくらのクラウド最新情報": 9,
+    "AIガバナンス": 3,
+    "ガバメントクラウド": 1
   },
-  "updated_at": "2026-07-08T00:07:07.157Z"
+  "updated_at": "2026-07-08T18:57:09.207Z"
 }

@@ -1,0 +1,372 @@
+{
+  "date": "2026-07-09",
+  "date_ja": "2026年7月9日（木）",
+  "news_summary": [
+    "Google CloudがAI活用によるサイバーセキュリティ防御ガイドを公開しました。",
+    "九州電力送配電で顧客情報約1,354万件流出の可能性、経済産業省へ報告されました。",
+    "AnthropicのAIモデル「Claude Fable 5」の米政府による提供制限が緩和・一般公開へ移行しました。",
+    "デジタル庁のガバメントAI「源内」の自治体運用でクラウド依存の課題が指摘されました。",
+    "カナダ・アルバータ州政府がClaude Codeで4億6600万行のコードを20時間で診断しました。",
+    "国内企業の7割超でシャドーAI対策が遅れ、機密情報漏洩リスクが顕在化しています。",
+    "AIガバナンス・プラットフォーム市場は2035年までに75億米ドル規模に達する見通しです。"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Rancherに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のUbiquiti製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: セイコーソリューションズ製SkyBridge MB-A100/MB-A110にOSコマンドインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Apache Tomcatに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Citrix NetScaler ADCおよびNetScaler Gatewayに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のアドビ製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）に反射型クロスサイトスクリプティングの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Fluentdに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 富士電機製Pupsmanのインストーラにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN62347140/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
+      "url": "https://jvn.jp/vu/JVNVU92734392/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Google Cloud、AIを活用した「AIセキュリティ」の防御方法に関するガイドを公開",
+      "summary": "Google Cloudは、CISO向けにAIを活用した防御の始め方を解説するガイドを公開し、AIによる管理業務負荷の軽減と脅威への対応強化を提案している。",
+      "relevance": "AIを活用したセキュリティ対策の具体的なアプローチについて、庁内でのサイバーセキュリティ戦略や運用体制の見直しにご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news059.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "九州電力送配電、顧客情報保存の外部記憶媒体紛失で経済産業省へ報告",
+      "summary": "九州電力送配電株式会社において、システムバックアップ用SSDが紛失し、最大約1,354万件の顧客情報が流出した可能性がある事案が発生し、経済産業省へ報告された。",
+      "relevance": "個人情報を含む外部記憶媒体の管理体制と紛失事案の報告について、庁内での情報資産管理やインシデント対応体制の見直しにご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260708589619"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AnthropicのAIモデル「Claude Fable 5」の提供制限緩和と一般公開",
+      "summary": "米政府の輸出規制により提供が制限・停止されていたAnthropicのAIモデル「Claude Fable 5」について、提供制限の緩和が進み、一般公開される見通しとなった。",
+      "relevance": "AIモデルの政府による提供制限緩和とその公開状況について、庁内でのAI活用検討の参考にご確認ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/08/gpt-5-6-government-restriction-lifted/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_news/trend/itmedia_news-20260708_107"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/81748b31-0fcc-4e2e-b380-b3165f991b80"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/79478/anthropic-extends-claude-fable-5-free-trial-until-july-13"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/fedd12917fd744cd8cc2b906121cbb9b0b4dcf1e"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/7/359_7_r_20260708_1783460962378491"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/1db7d5f525c9c83fa7d44595c11ff476562df7bd"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/7/359_7_r_20260707_1783414212038704"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17048051/?ref=user"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "デジタル庁のガバメントAI「源内」の自治体での実運用におけるクラウド依存の課題",
+      "summary": "デジタル庁が公開したガバメントAI「源内」について、政府によるAIプラットフォーム公開という点は画期的である一方、自治体での実運用においてはクラウド依存による課題が指摘されている。",
+      "relevance": "ガバメントAIの自治体での実運用におけるクラウド依存の課題について、庁内でのAIプラットフォームの運用方針や、自治体への展開可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/spv/2607/08/news016.html"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "カナダ・アルバータ州政府、Claude Codeで4億6600万行のコードを20時間で診断",
+      "summary": "カナダ・アルバータ州政府が、AnthropicのAIモデル「Claude Code」を用いて、4億6600万行のコードを20時間で診断した事例が紹介されている。",
+      "relevance": "AIによるコード診断の事例について、庁内のシステム開発や保守における効率化、品質向上策の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "codezine.jp",
+          "url": "https://codezine.jp/news/detail/28880"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIが「クモ」を考えず「8」と回答する思考プロセス",
+      "summary": "AIが「クモの巣を紡ぐ動物の足は何本か」という質問に対し、「spider」という単語を使わずに「8」と回答する思考プロセスが示されている。",
+      "relevance": "AIの回答生成メカニズムにおける思考プロセスについて、AIによる情報分析や判断支援の精度向上策の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/2939/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "国内企業の7割超がシャドーAI対策できず、機密情報漏洩リスクが顕在化",
+      "summary": "企業における生成AIの急速な普及に対し、IT部門が承認していないAIツールの利用（シャドーAI）による機密情報漏洩リスクへの対策が追いついていない状況が明らかになった。",
+      "relevance": "シャドーAIのリスクと対策状況について、庁内でのAI利用に関するガイドライン策定やセキュリティポリシーの見直しにご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/070100198/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/889aeaeb6e6490a4b54004719ae268f27a5c03af?page=2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスに関する国際的な議論と市場の成長見通し",
+      "summary": "AIガバナンスに関する国際的な対話が進む中、AIガバナンス・プラットフォーム市場は2035年までに75億米ドルに達するとの見通しが示されている。AI時代のサプライチェーンにおいては、AIエージェント、ロボット、専門特化型AI、ガバナンスの連携が重要視されている。",
+      "relevance": "AIガバナンスに関する国際的な動向と市場の将来性について、庁内でのAI倫理ガイドラインやガバナンス体制構築の参考にご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "tkfd.or.jp",
+          "url": "https://www.tkfd.or.jp/events/detail.php?event_id=3714"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000355148"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/79495/cybersecurity-race-intensifies-in-ai-era-defense-automation-seen-as-answer"
+        },
+        {
+          "name": "mofa.go.jp",
+          "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03919.html"
+        },
+        {
+          "name": "gartner.co.jp",
+          "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20260708-saas-pocalypse"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/khong-de-ai-lap-trinh-cam-xuc"
+        },
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/tech-social/tech-social-news/112654/"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/business20/2026/07/ai_2120.html"
+        },
+        {
+          "name": "m.jp.ajunews.com",
+          "url": "https://m.jp.ajunews.com/view/20260707173670941"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/24d09b2d-f171-4141-b0c4-b8e4cad277c6"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ガバメントクラウドファンディングの事例紹介",
+      "summary": "「第75回 つくみ港まつり 花火大会」や「上田古戦場ハーフマラソン」など、ふるさと納税を活用したガバメントクラウドファンディングの事例が紹介されている。",
+      "relevance": "ガバメントクラウドファンディングの活用事例について、地域振興や公共サービスの資金調達手段としての可能性をご検討ください。",
+      "category": "ガバメントクラウド",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/192816/posts/1433212"
+        },
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/amp/2026071828505"
+        },
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/amp/2026071826662"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "マレーシア銀行のAI意思決定への信頼度とHCLTechの責任あるAI認証",
+      "summary": "マレーシアの銀行におけるAIを重要意思決定に信頼する割合は25%に留まる一方、HCLTechはISO/IEC 42001:2023認証を取得し、責任あるAI分野でのリーダーシップを示している。",
+      "relevance": "AIの意思決定への信頼度と、責任あるAI導入に向けた認証制度について、庁内でのAI導入におけるリスク評価や信頼性確保策のご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/bda72b0a-c2aa-48c1-8dc3-ba37b1cc4324"
+        },
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/article/20260708PR0039/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS パートナーと実現する生成 AI — 現場を変える8つの実践事例 AWS Summit Japan 2026 Partner Breakout Session レポート",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%81%A8%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%94%9F%E6%88%90-ai-%E7%8F%BE%E5%A0%B4%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B8%E3%81%A4%E3%81%AE/",
+          "pub_date": "2026-07-08T07:00:47.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Parallel Computing Service と Kiro CLI で HPC のデプロイを加速する",
+          "url": "https://aws.amazon.com/jp/blogs/news/accelerating-hpc-deployment-with-aws-parallel-computing-service-and-kiro-cli-ja/",
+          "pub_date": "2026-07-08T05:35:04.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【今年も開催！】全国8都市を巡るAWS デジタル社会実現ツアー2026",
+          "url": "https://aws.amazon.com/jp/blogs/news/japan-nationwide-roadshow-2026/",
+          "pub_date": "2026-07-08T04:11:27.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon EVS で VCF 9.0 および 9.1 のサポートを発表",
+          "url": "https://aws.amazon.com/jp/blogs/news/vmware-cloud-foundation-vcf-9-0-and-9-1-on-amazon-evs/",
+          "pub_date": "2026-07-08T03:50:45.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Redshift のモダナイゼーション: RA3 から RG への移行ベストプラクティス",
+          "url": "https://aws.amazon.com/jp/blogs/news/modernize-amazon-redshift-ra3-to-rg-migration-best-practices/",
+          "pub_date": "2026-07-07T23:27:04.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 08, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_08_2026",
+          "pub_date": "2026-07-08T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Gemini Omni Flash と Nano Banana 2 Lite が圧倒的なスピードと費用対効果をもたらす",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+          "pub_date": "2026-07-08T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【さくらのSSL】グローバルサイン SSLサーバー証明書 中間CA証明書変更のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/08/1968225313/",
+          "pub_date": "2026-07-08T02:00:57.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-08T18:57:09.203Z"
+}

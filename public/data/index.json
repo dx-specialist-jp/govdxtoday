@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-09",
+      "summary_short": "Google Cloud、AIを活用した「AIセキュリテ…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-07-08",
       "summary_short": "デジタル庁のガバメントAI「源内」と自治体での実運用に関…など10件",
       "article_count": 10,
