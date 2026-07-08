@@ -145,41 +145,6 @@
   ],
   "cloud_updates": [
     {
-      "provider": "AWS",
-      "items": [
-        {
-          "title": "週刊生成AI with AWS – 2026年6月29日週",
-          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260629/",
-          "pub_date": "2026-07-06T09:28:56.000Z",
-          "source": "AWS 公式ブログ"
-        },
-        {
-          "title": "フロンティアモデルの安全なリリースに向けた AWS の取り組み",
-          "url": "https://aws.amazon.com/jp/blogs/news/safely-releasing-frontier-models-to-customers/",
-          "pub_date": "2026-07-06T05:56:34.000Z",
-          "source": "AWS 公式ブログ"
-        },
-        {
-          "title": "クラスターアップグレードを安全かつ信頼性高く管理できる Amazon EKS バージョンロールバックを発表",
-          "url": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/",
-          "pub_date": "2026-07-06T03:29:01.000Z",
-          "source": "AWS 公式ブログ"
-        },
-        {
-          "title": "東海旅客鉄道株式会社：超電導リニアの電気設備保守を支える IoT プラットフォームの構築",
-          "url": "https://aws.amazon.com/jp/blogs/news/jr-central-iot-platform-for-maglev-electrical-maintenance/",
-          "pub_date": "2026-07-06T00:45:32.000Z",
-          "source": "AWS 公式ブログ"
-        },
-        {
-          "title": "【開催報告 & 資料公開】公共分野における AI 活用最新アップデート (AWS 公共セミナー 2026 年)",
-          "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-april/",
-          "pub_date": "2026-07-03T06:24:04.000Z",
-          "source": "AWS 公式ブログ"
-        }
-      ]
-    },
-    {
       "provider": "Google Cloud",
       "items": [
         {
@@ -187,65 +152,6 @@
           "url": "https://docs.cloud.google.com/release-notes#July_05_2026",
           "pub_date": "2026-07-05T07:00:00.000Z",
           "source": "Google Cloud リリースノート"
-        },
-        {
-          "title": "July 04, 2026",
-          "url": "https://docs.cloud.google.com/release-notes#July_04_2026",
-          "pub_date": "2026-07-04T07:00:00.000Z",
-          "source": "Google Cloud リリースノート"
-        },
-        {
-          "title": "July 03, 2026",
-          "url": "https://docs.cloud.google.com/release-notes#July_03_2026",
-          "pub_date": "2026-07-03T07:00:00.000Z",
-          "source": "Google Cloud リリースノート"
-        },
-        {
-          "title": "Cloud Network Insights: クロスクラウド ネットワークに対するエンドツーエンドのオブザーバビリティ",
-          "url": "https://cloud.google.com/blog/ja/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
-          "pub_date": "2026-07-03T03:00:00.000Z",
-          "source": "Google Cloud 公式ブログ"
-        },
-        {
-          "title": "Atlas が Cloud SQL Enterprise Plus エディションにより数百の加盟店のデータベースをどうスケールしたか",
-          "url": "https://cloud.google.com/blog/ja/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
-          "pub_date": "2026-07-03T02:00:00.000Z",
-          "source": "Google Cloud 公式ブログ"
-        }
-      ]
-    },
-    {
-      "provider": "さくらのクラウド",
-      "items": [
-        {
-          "title": "[メンテナンス] sakura.io、さくらのモノプラットフォーム の一部",
-          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39395",
-          "pub_date": "2026-07-06T08:17:19.000Z",
-          "source": "さくらインターネット メンテナンス情報"
-        },
-        {
-          "title": "[メンテナンス] さくらのVPS for Windows Server 石狩リージョン 収容機材変更メンテナンス作業について",
-          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39394",
-          "pub_date": "2026-07-06T07:51:10.000Z",
-          "source": "さくらインターネット メンテナンス情報"
-        },
-        {
-          "title": "[障害] 高火力 DOKの一部",
-          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39391",
-          "pub_date": "2026-07-06T07:21:41.000Z",
-          "source": "さくらインターネット メンテナンス情報"
-        },
-        {
-          "title": "「【ご好評につき再配信】クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします",
-          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225299/",
-          "pub_date": "2026-07-06T05:30:38.000Z",
-          "source": "さくらインターネット ニュース"
-        },
-        {
-          "title": "「ゼロから挑むサーバー構築！実践で学ぶサイバーセキュリティへの第一歩」にてソリューション本部 関口が登壇します",
-          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/06/1968225201/",
-          "pub_date": "2026-07-06T04:38:56.000Z",
-          "source": "さくらインターネット ニュース"
         }
       ]
     }
