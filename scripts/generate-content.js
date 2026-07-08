@@ -553,9 +553,8 @@ function updateTagsIndex(date, dateJa, dayData) {
 
   // クラウドサービスプロバイダー更新情報はプロバイダごとにタグを分ける
   // （特定のCSPのみを購読したい読者が他社の情報を除外して絞り込めるようにするため）
-  // cloud_updates は鮮度フィルタを適用しないため、更新頻度の低いフィードでは
-  // 同じ記事が何日も上位に居座ることがある。日をまたいだ重複登録を防ぐため、
-  // タグ内に同一URLが既にあれば追加しない（当日分の削除は関数冒頭で処理済み）
+  // cloud_updates は前日分のみを対象にするため通常は同一記事が複数日重複することは
+  // ないが、念のためタグ内に同一URLが既にあれば追加しない（当日分の削除は関数冒頭で処理済み）
   for (const cloudProvider of (dayData.cloud_updates || [])) {
     const tag = `${cloudProvider.provider}最新情報`;
     if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
@@ -783,7 +782,9 @@ async function main() {
       pub_date: (() => {
         if (!a.pubDate) return targetDate;
         const d = new Date(a.pubDate);
-        return isNaN(d.getTime()) ? targetDate : d.toISOString().slice(0, 10);
+        // toISOString().slice(0,10) はUTC日付になり、JST 0-8時台の記事が前日表示に
+        // ずれるため、他の日付処理と同様にJSTで日付文字列化する
+        return isNaN(d.getTime()) ? targetDate : toJSTDateString(d);
       })(),
     };
   };
