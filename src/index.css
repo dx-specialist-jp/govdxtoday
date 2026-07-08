@@ -48,6 +48,9 @@
   --text-primary:   var(--gray-900);
   --text-secondary: var(--gray-700);
   --text-muted:     var(--gray-600);
+  /* AIが要約・生成した文章と、RSS等からの転載情報を見分けるための濃い青文字
+     （#0017c1 on #FFF ≈ 11.1:1 ✓） */
+  --ai-text:        var(--blue-900);
   --alert:          var(--red-900);
   --alert-bg:       var(--red-50);
   --alert-border:   var(--red-100);
@@ -589,7 +592,7 @@ a:hover { color: var(--accent); }
 .hero-summary {
   font-size: 14.5px;
   line-height: 1.9;
-  color: var(--text-secondary); /* #4d4d4d on #FFF ≈ 8.45:1 ✓ */
+  color: var(--ai-text); /* AI要約であることが分かるよう濃い青文字にする */
   margin-bottom: 20px;
   white-space: pre-line;
 }
@@ -671,7 +674,7 @@ a:hover { color: var(--accent); }
   margin: 7px 0 6px;
   letter-spacing: -0.005em;
 }
-.sub-article-summary { font-size: 13px; line-height: 1.75; color: var(--text-secondary); margin-bottom: 10px; }
+.sub-article-summary { font-size: 13px; line-height: 1.75; color: var(--ai-text); margin-bottom: 10px; }
 
 /* ══════════════════════════════════════════
    NEWS TOPICS
@@ -699,7 +702,7 @@ a:hover { color: var(--accent); }
 }
 .category-tag { margin-top: 3px; flex-shrink: 0; }
 .news-topic-title { font-size: 15px; font-weight: 700; color: var(--primary); line-height: 1.5; }
-.news-topic-summary { font-size: 13px; line-height: 1.7; color: var(--text-secondary); margin-bottom: 0; }
+.news-topic-summary { font-size: 13px; line-height: 1.7; color: var(--ai-text); margin-bottom: 0; }
 .news-topic-source { font-size: 11.5px; color: var(--text-muted); margin-top: 10px; }
 .news-topic-source a { color: var(--text-muted); text-decoration: none; }
 .news-topic-source a:hover { color: var(--accent); }
@@ -729,7 +732,7 @@ a:hover { color: var(--accent); }
   border-radius: 2px;
   flex-shrink: 0;
 }
-.news-topic-action-text { font-size: 12.5px; line-height: 1.6; color: var(--text-primary); }
+.news-topic-action-text { font-size: 12.5px; line-height: 1.6; color: var(--ai-text); }
 
 /* ══════════════════════════════════════════
    CLOUD UPDATES — ガバメントクラウド CSP公式情報（AI要約なし・生RSS掲載）

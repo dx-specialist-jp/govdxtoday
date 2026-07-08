@@ -7,9 +7,13 @@ import { fileURLToPath } from 'node:url';
 // 危険がある（例: JST日付境界をまたぐタイミングでの不一致）ため、ここに一本化する。
 export const DATA_DIR = resolve(dirname(fileURLToPath(import.meta.url)), '..', 'public', 'data');
 
-export function getTodayJST() {
-  const d = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+export function toJSTDateString(date) {
+  const d = new Date(date.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
+export function getTodayJST() {
+  return toJSTDateString(new Date());
 }
 
 // public/data/ に保存済みの日付ファイルのうち直近n日分の日付文字列を返す。

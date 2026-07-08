@@ -14,7 +14,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, buildSummaryInput, DATA_DIR, getTodayJST } from './gemini-utils.js';
+import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, buildSummaryInput, DATA_DIR, getTodayJST, toJSTDateString } from './gemini-utils.js';
 
 // ── 政府公式 RSS ソース ────────────────────────────────────────────────
 // 中央省庁PMO/PjMO担当者が最低限押さえるべき公式情報源
@@ -182,8 +182,8 @@ function parseRSS(xml, sourceName) {
     .map((item) => ({ ...item, description: item.description.slice(0, 200), sourceName }));
 }
 
-// CSP公式RSSはAI要約対象外・鮮度フィルタ対象外（更新頻度がフィードごとに異なるため）。
-// 各フィードの最新アイテムをそのまま件数制限のみ行って掲載する
+// CSP公式RSSはAI要約対象外（更新頻度がフィードごとに異なるため36時間フィルタは適用しない）。
+// 各フィードの記事をそのまま取り込み、前日までの記事に絞る処理は呼び出し側で行う
 function parseCloudItems(xml, sourceName, provider) {
   return parseItemsRaw(xml).map((item) => ({ ...item, sourceName, provider }));
 }
@@ -670,10 +670,15 @@ async function main() {
     const t = new Date(item.pubDate).getTime();
     return Number.isNaN(t) ? 0 : t;
   };
+  // 当日中はフィード側の追記・修正が入る可能性があるため、前日までに公開された
+  // 記事のみを掲載対象にする（日付不明の記事はepoch(0)扱いで常に対象日より前）
+  const cloudItemsBeforeTarget = cloudItemsDeduped.filter(
+    (item) => toJSTDateString(new Date(cloudDateValue(item))) < targetDate
+  );
   const cloudUpdates = [...new Set(CLOUD_SOURCES.map((s) => s.provider))]
     .map((provider) => ({
       provider,
-      items: cloudItemsDeduped
+      items: cloudItemsBeforeTarget
         .filter((item) => item.provider === provider)
         .sort((a, b) => cloudDateValue(b) - cloudDateValue(a))
         .slice(0, CLOUD_ITEMS_PER_PROVIDER)
