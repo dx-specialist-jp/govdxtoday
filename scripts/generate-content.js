@@ -183,7 +183,7 @@ function parseRSS(xml, sourceName) {
 }
 
 // CSP公式RSSはAI要約対象外（更新頻度がフィードごとに異なるため36時間フィルタは適用しない）。
-// 各フィードの記事をそのまま取り込み、前日までの記事に絞る処理は呼び出し側で行う
+// 各フィードの記事をそのまま取り込み、対象日の前日分に絞る処理は呼び出し側で行う
 function parseCloudItems(xml, sourceName, provider) {
   return parseItemsRaw(xml).map((item) => ({ ...item, sourceName, provider }));
 }
@@ -670,15 +670,20 @@ async function main() {
     const t = new Date(item.pubDate).getTime();
     return Number.isNaN(t) ? 0 : t;
   };
-  // 当日中はフィード側の追記・修正が入る可能性があるため、前日までに公開された
-  // 記事のみを掲載対象にする（日付不明の記事はepoch(0)扱いで常に対象日より前）
-  const cloudItemsBeforeTarget = cloudItemsDeduped.filter(
-    (item) => toJSTDateString(new Date(cloudDateValue(item))) < targetDate
+  // 対象日の前日（JST）に公開された記事のみを掲載対象にする。それより古い記事で
+  // 穴埋めはしない（前日に更新がないプロバイダはそのまま非掲載になってよい）
+  const previousDate = (() => {
+    const d = new Date(`${targetDate}T00:00:00Z`);
+    d.setUTCDate(d.getUTCDate() - 1);
+    return d.toISOString().slice(0, 10);
+  })();
+  const cloudItemsPreviousDay = cloudItemsDeduped.filter(
+    (item) => toJSTDateString(new Date(cloudDateValue(item))) === previousDate
   );
   const cloudUpdates = [...new Set(CLOUD_SOURCES.map((s) => s.provider))]
     .map((provider) => ({
       provider,
-      items: cloudItemsBeforeTarget
+      items: cloudItemsPreviousDay
         .filter((item) => item.provider === provider)
         .sort((a, b) => cloudDateValue(b) - cloudDateValue(a))
         .slice(0, CLOUD_ITEMS_PER_PROVIDER)
