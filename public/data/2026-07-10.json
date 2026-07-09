@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-10",
+  "date_ja": "2026年7月10日（金）",
+  "news_summary": null,
+  "security_alerts": [
+    {
+      "title": "JVN: Adalo App Builderにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99220646/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）における反射型クロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN48718197/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "生成AIニュース 昨日（2026-07-08）のAI公式発表を3分でチェック | TECH NOISY",
+      "summary": "宇宙・電気自動車企業発の AI が大手 AI ラボに並ぶ性能を目指す体制を整えた象徴的な発表で、日本でも Claude Code や GitHub Copilot ... アルバータ州政府、 ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/09/ai-daily-news-2026-07-08/"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "中国当局がClaude Code脆弱性指摘 アリババ社内利用禁止 - ChosunBiz",
+      "summary": "中国政府傘下の保安機関がAnthropicの人工知能（AI）コーディングツール「Claude Code」にセキュリティ上の脆弱性が見つかったとして、削除などを勧告した。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-it/2026/07/09/HJFMKL4CWRCQLE46LX3QM6LM74/"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "中国、Anthropicの「Claude Code」にバックドア疑惑で警告、即時対応を要請 - BigGo ファイナンス",
+      "summary": "中国の政府系サイバーセキュリティ機関は、AnthropicのAI搭載コーディングアシスタント「Claude Code」に関し、複数の最近のバージョンにユーザーの機密データを ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/fb3cc171-234f-423e-9057-6da9cfac4094"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "中国政府機関がClaude Codeにバックドアが含まれていると発表 - ライブドアニュース",
+      "summary": "中国政府機関がAnthropicのAIツール「Claude Code」の脆弱性を公表した。ユーザーの同意なく位置情報等を外部送信する監視メカニズムが存在するとしている。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/31780424/"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "中国政府機関がClaude Codeにバックドアが含まれていると発表 - GIGAZINE",
+      "summary": "中国政府が運営する国家情報セキュリティ脆弱性データベース(CNNVD：国家信息安全漏洞库)が、AnthropicのAIコーディングツール「Claude Code」 ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260709-china-cnndv-claude-code-backdoor/"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
+      "summary": "... 政府と調整→限定プレビュー経て &middot; 7. note上方修正 「AI活用、想定以上 ... ガバメントAI「源内」は自治体で本当に使えるのか？ クラウド依存による“3 ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "Claudeは意識を持つ、Fable 5の政府契約、サム・アルトマンがOpenAIの5%を提供 | #269",
+      "summary": "一方、PalantirとNVIDIAのNemotron提携を通じて、主権的なオープンウェイトAIインフラの分散が加速した。さらに、RampとRevelio Labsの新たな雇用データは、AIを ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/podcast/b12308f63dd8c48a"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "Claudeの「思考」が可読化された日——AI安全性とガバナンスを一変させる発見",
+      "summary": "同時に、Anthropicの「Fable 5」が米政府への恒常的な義務を負う初のフロンティアモデルとなるなど、ガバナンスの枠組みも急速に変化している。サム・アルトマン ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/b12308f63dd8c48a"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "突如5日間延長 ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」（2/2 ページ）",
+      "summary": "「Claude Fable 5」サブスク、突如5日間延長 ユーザー悲喜こもごも「寝ずに ... 米政府 ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/08/news070_2.html"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "title": "【ウェビナー】 7月21日（火） 15:00～「AI時代の公共空間をどう統治するか」 - 時事通信",
+      "summary": "公益財団法人 東京財団］. ― FIFAワールドカップ2026から考えるデータガバナンス ― 公益財団法人東京財団（東京都港区、理事長：中林美恵子）は、2026年7月21日（ ...",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "その他",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000073.000056667&g=prt"
+        }
+      ],
+      "score": 0
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "井村屋グループ様：Amazon SageMaker Canvas を活用したチルド製品の AI 需要予測で、業務工数 90% 削減と熟練者同等の予測精度を実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/ai-case-study-imurayagroup/",
+          "pub_date": "2026-07-09T09:50:44.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+          "pub_date": "2026-07-09T05:48:07.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Bedrock のゼロデータ保持の強制方法",
+          "url": "https://aws.amazon.com/jp/blogs/news/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/",
+          "pub_date": "2026-07-09T02:52:21.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon EVS への VCF 9.1 エンドツーエンド自動化デプロイ",
+          "url": "https://aws.amazon.com/jp/blogs/news/deploying-vcf-9-1-on-amazon-evs-with-end-to-end-automation/",
+          "pub_date": "2026-07-09T00:42:48.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 09, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_09_2026",
+          "pub_date": "2026-07-09T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "日立「Gemini Enterprise 活用コンテスト」開催レポート ― 112 件の応募から選ばれた、現場を変える 10 の AI エージェント",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/report-on-the-hitachi-gemini-enterprise-application-contest/",
+          "pub_date": "2026-07-09T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AlloyDB AI 関数 - 革命的なパフォーマンス向上と費用削減を実現",
+          "url": "https://cloud.google.com/blog/ja/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
+          "pub_date": "2026-07-09T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "選択、コンプライアンス、コラボレーション: 欧州のオープンなデジタル主権への道",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+          "pub_date": "2026-07-09T00:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "GKE で Ray Serve LLM をスケーリング: デベロッパー エクスペリエンスを損なうことなくパフォーマンスを向上",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
+          "pub_date": "2026-07-09T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【さくらのクラウド】「組織・フォルダIAMポリシー」機能提供開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/09/1968225228/",
+          "pub_date": "2026-07-09T05:40:02.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "アーカイブメディア「Blooming Press」開設のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/09/1968225307/",
+          "pub_date": "2026-07-09T03:00:03.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのレンタルサーバ】「さくらのビジネスメール」へのプラン変更受付開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/09/1968225022/",
+          "pub_date": "2026-07-09T01:30:10.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「議事録から始めるAI活用！国内完結で実現する業務効率化の第一歩」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/09/1968225359/",
+          "pub_date": "2026-07-09T00:37:06.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-09T19:13:42.236Z"
+}
