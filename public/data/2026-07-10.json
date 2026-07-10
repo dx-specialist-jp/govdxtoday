@@ -1,7 +1,13 @@
 {
   "date": "2026-07-10",
   "date_ja": "2026年7月10日（金）",
-  "news_summary": null,
+  "news_summary": [
+    "中国政府機関がAnthropicのClaude Codeにバックドアと位置情報外部送信の脆弱性を指摘し、利用禁止を勧告。",
+    "AnthropicはClaude Codeのシステムプロンプトを80％削減し、モデルの創造性向上を目指す方針を発表。",
+    "米政府はAnthropicのFable 5モデルを恒常的な義務を負う初のフロンティアモデルとして位置づける方針。",
+    "AI安全性とガバナンスに関する新たな発見があり、Claudeの「思考」の可読化が進む可能性。",
+    "宇宙・電気自動車企業発のAIが大手AIラボに並ぶ性能を目指す体制を整え、AI開発競争が加速。"
+  ],
   "security_alerts": [
     {
       "title": "JVN: Adalo App Builderにおける複数の脆弱性",

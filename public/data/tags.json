@@ -2037,6 +2037,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "デジタル庁 2026年6月の活動報告",
+        "summary": "デジタル庁 2026年6月の活動報告共有\n\n▶ 各府省PMOは、6月後半のデジタル庁の主要施策・サービス・プロジェクト進捗を確認し、自省庁のDX計画との関連性を検討すること。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n735b05fe7aba",
+        "type": "government"
+      },
+      {
         "date": "2026-07-01",
         "date_ja": "2026年7月1日（水）",
         "title": "年金受給者の方へ：年金振込口座で給付金等が受け取れるようになります（公金受取口座に関するご案内）",
@@ -2293,6 +2302,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "生成AI普及によるSEO・マーケティング戦略の変化",
+        "summary": "ChatGPTやGoogleのAIモード普及により、ユーザーはAIの回答を基に商品・サービスを選ぶ時代となり、生成AIに推薦されることがマーケティング戦略の鍵となる。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_hakurankai/summer2026_conf/2b-5/",
+        "relevance": "生成AIの普及がユーザーの意思決定プロセスに与える影響について、行政サービスの情報発信や利用促進におけるデジタルマーケティング戦略の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "海外AIモデルの利用規制と国内AI開発・活用動向",
+        "summary": "米政府はAnthropicやOpenAIの新モデルに対し、事実上の許可制や輸出規制を導入。国内では、ClaudeCodeの利用や、GPT-5.6のリリース、AIコーディングツールの開発が進む。",
+        "source": "lifehacker.jp",
+        "url": "https://www.lifehacker.jp/article/2607-claude-fable-5-writer-review/",
+        "relevance": "海外のAIモデル利用に関する規制動向や、国内でのAI開発・活用事例について、最新技術の導入判断やリスク評価の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "政府、ガバメントクラウド上で国産AI基盤モデルの試用を開始",
+        "summary": "政府はガバメントクラウド上で「さくらのクラウド」を初めて利用し、国産AI基盤モデル「tsuzumi」などを試用する。これにより、日本のAI自律性確保を目指す。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03303/",
+        "relevance": "ガバメントクラウドにおける国産AI基盤モデルの試用状況や、NTTデータ、富士通等の参画状況について、今後の調達や技術選定の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-09",
         "date_ja": "2026年7月9日（木）",
         "title": "AIが「クモ」を考えず「8」と回答する思考プロセス",
@@ -2485,6 +2524,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "AWS欧州ソブリンクラウド、セキュリティ運用機能を提供",
+        "summary": "AWS欧州ソブリンクラウドは、欧州の政府機関・企業向けに、カスタマイズされた技術的制御、主権保証、法的保護を備えた独立運用型クラウドを提供する。",
+        "source": "news.dxable.com",
+        "url": "https://news.dxable.com/sumo-logic-brings-security-ops-to-aws-europe-sovereign-cloud/",
+        "relevance": "AWS欧州ソブリンクラウドの提供内容について、ガバメントクラウドにおけるセキュリティ運用機能や主権保証の観点からの参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
         "title": "大崎コンピュータエンヂニアリング、2026 Japan AWS Top Engineers に社員選出、ガバメントクラウド勉強会開催",
@@ -2516,6 +2565,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "政府、生成AIの調達・利活用に関する新ガイドラインを策定",
+        "summary": "デジタル庁らは、行政の進化と革新のための生成AIの調達・利活用に関するガイドラインを策定した。リスク管理やCAIOの役割が定められている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17069456/?ref=user_3172527",
+        "relevance": "生成AIの調達・利活用に関する新ガイドラインにおけるリスク管理体制、調達・契約上の具体的な要求事項について、今後のプロジェクト計画策定の参考としてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-08",
         "date_ja": "2026年7月8日（水）",
@@ -2590,6 +2649,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "Kiro の超過利用の上限設定と前払い機能のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/cap-prepay-overage/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "AWS Cloud WAN Routing Policy：実運用におけるグローバルネットワークのシナリオ集 (Part 2)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/networking-and-content-delivery-aws-cloud-wan-routing-policy-real-world-global-network-scenarios-part-2/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "【開催報告 & 資料公開】IT 基盤の環境変化に対応する AWS マイグレーション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-june/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "【公共向け】Claude Mythos 時代の脅威対策ワークショップ開催報告 & 耐障害性ライフサイクル実践ワークショップのご案内",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/claude-mythos-workshop-report-resilience-workshop-upcoming/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-10",
         "date_ja": "2026年7月10日（金）",
@@ -2773,6 +2868,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "Google AI Studio のスターター ティアの解説",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "July 10, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_10_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-10",
         "date_ja": "2026年7月10日（金）",
         "title": "GKE で Ray Serve LLM をスケーリング: デベロッパー エクスペリエンスを損なうことなくパフォーマンスを向上",
@@ -2932,6 +3045,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "「クラウド運用費はどこまで下げられる？ 部分移行や最適化の実践事例ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/10/1968225363/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "「ワンランク上のインフラエンジニアへ：さくらのクラウド検定アドバンスド攻略ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/10/1968225372/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-10",
         "date_ja": "2026年7月10日（金）",
         "title": "「議事録から始めるAI活用！国内完結で実現する業務効率化の第一歩」を開催いたします",
@@ -3051,6 +3182,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-07-11",
+        "date_ja": "2026年7月11日（土）",
+        "title": "AIガバナンス、リスク管理、国際協力の推進",
+        "summary": "AIガバナンスの重要性が増し、リスク管理、セキュリティ、倫理的側面からの議論が活発化。日本政府はAI基本計画を改定し、国際協力も進める。",
+        "source": "blogs.itmedia.co.jp",
+        "url": "https://blogs.itmedia.co.jp/taps/2026/07/729aiai.html",
+        "relevance": "AIガバナンス体制の構築、リスク管理、および国際的なAI規制動向について、組織内でのAI活用推進におけるガバナンスフレームワーク検討の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-09",
         "date_ja": "2026年7月9日（木）",
         "title": "マレーシア銀行のAI意思決定への信頼度とHCLTechの責任あるAI認証",
@@ -3097,18 +3238,18 @@
   "tag_counts": {
     "セキュリティ": 26,
     "その他": 178,
-    "行政AI": 14,
+    "行政AI": 15,
     "行政DX": 14,
-    "AI活用": 19,
-    "クラウド/インフラ": 3,
-    "制度/ガイドライン": 3,
+    "AI活用": 22,
+    "クラウド/インフラ": 4,
+    "制度/ガイドライン": 4,
     "自治体DX事例": 4,
-    "AWS最新情報": 20,
-    "Google Cloud最新情報": 15,
+    "AWS最新情報": 24,
+    "Google Cloud最新情報": 17,
     "働き方/業務改革": 2,
-    "さくらのクラウド最新情報": 13,
-    "AIガバナンス": 3,
+    "さくらのクラウド最新情報": 15,
+    "AIガバナンス": 4,
     "ガバメントクラウド": 1
   },
-  "updated_at": "2026-07-09T19:13:42.239Z"
+  "updated_at": "2026-07-10T19:10:28.648Z"
 }

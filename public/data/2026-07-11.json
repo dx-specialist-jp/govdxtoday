@@ -1,0 +1,322 @@
+{
+  "date": "2026-07-11",
+  "date_ja": "2026年7月11日（土）",
+  "news_summary": [
+    "デジタル庁は2026年6月の活動報告を共有、各府省PMOは自省庁DX計画との関連性を検討。",
+    "政府はガバメントクラウドで国産AI基盤モデル「tsuzumi」の試用を開始し、AI自律性確保を目指す。",
+    "米政府は海外AIモデル利用に事実上の許可制・輸出規制を導入、国内AI開発・活用も進展。",
+    "生成AI普及でマーケティング戦略はAI回答に推薦されることが鍵となり、SEO・マーケティングが変化。",
+    "AWS欧州ソブリンクラウドは欧州政府機関向けに独立運用型クラウドでセキュリティ運用機能を提供。",
+    "政府は生成AIの調達・利活用に関する新ガイドラインを策定、リスク管理やCAIOの役割を定義。",
+    "AIガバナンス・リスク管理・国際協力を推進、日本政府はAI基本計画を改定し国際協力も進める。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年7月）",
+      "url": "https://jvn.jp/vu/JVNVU91295052/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
+      "url": "https://jvn.jp/vu/JVNVU94281476/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "デジタル庁 2026年6月の活動報告",
+    "summary": "デジタル庁 2026年6月の活動報告共有\n\n▶ 各府省PMOは、6月後半のデジタル庁の主要施策・サービス・プロジェクト進捗を確認し、自省庁のDX計画との関連性を検討すること。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n735b05fe7aba",
+    "pub_date": "2026-07-10"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府、ガバメントクラウド上で国産AI基盤モデルの試用を開始",
+      "summary": "政府はガバメントクラウド上で「さくらのクラウド」を初めて利用し、国産AI基盤モデル「tsuzumi」などを試用する。これにより、日本のAI自律性確保を目指す。",
+      "relevance": "ガバメントクラウドにおける国産AI基盤モデルの試用状況や、NTTデータ、富士通等の参画状況について、今後の調達や技術選定の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03303/"
+        },
+        {
+          "name": "mediamixi.jp",
+          "url": "https://mediamixi.jp/news/8744/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/c8e5022cef550911825f92cc2f4d094047058468/images/000"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/2"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/c8e5022cef550911825f92cc2f4d094047058468"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24659"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUA0998R0Z00C26A7000000/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "海外AIモデルの利用規制と国内AI開発・活用動向",
+      "summary": "米政府はAnthropicやOpenAIの新モデルに対し、事実上の許可制や輸出規制を導入。国内では、ClaudeCodeの利用や、GPT-5.6のリリース、AIコーディングツールの開発が進む。",
+      "relevance": "海外のAIモデル利用に関する規制動向や、国内でのAI開発・活用事例について、最新技術の導入判断やリスク評価の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "lifehacker.jp",
+          "url": "https://www.lifehacker.jp/article/2607-claude-fable-5-writer-review/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/907d8a3a-25fc-4868-9299-be37e71183cf"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/7/359_7_r_20260710_1783674212631321"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/3073/"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260710-gpt-5-6-openai/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17069522/?ref=picked-news_9985&utm_source=initial&utm_medium=article&utm_campaign=ubin260710_ns17069522&invoker=ln_initial_article_ubin260710_ns17069522"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/80115/countries-scramble-to-fortify-ai-security-strategies-geopolitical-clashes-too"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news042.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/292bc6c0-6905-4171-898b-506a720dbc2d"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "生成AI普及によるSEO・マーケティング戦略の変化",
+      "summary": "ChatGPTやGoogleのAIモード普及により、ユーザーはAIの回答を基に商品・サービスを選ぶ時代となり、生成AIに推薦されることがマーケティング戦略の鍵となる。",
+      "relevance": "生成AIの普及がユーザーの意思決定プロセスに与える影響について、行政サービスの情報発信や利用促進におけるデジタルマーケティング戦略の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_hakurankai/summer2026_conf/2b-5/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AWS欧州ソブリンクラウド、セキュリティ運用機能を提供",
+      "summary": "AWS欧州ソブリンクラウドは、欧州の政府機関・企業向けに、カスタマイズされた技術的制御、主権保証、法的保護を備えた独立運用型クラウドを提供する。",
+      "relevance": "AWS欧州ソブリンクラウドの提供内容について、ガバメントクラウドにおけるセキュリティ運用機能や主権保証の観点からの参考としてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.dxable.com",
+          "url": "https://news.dxable.com/sumo-logic-brings-security-ops-to-aws-europe-sovereign-cloud/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、生成AIの調達・利活用に関する新ガイドラインを策定",
+      "summary": "デジタル庁らは、行政の進化と革新のための生成AIの調達・利活用に関するガイドラインを策定した。リスク管理やCAIOの役割が定められている。",
+      "relevance": "生成AIの調達・利活用に関する新ガイドラインにおけるリスク管理体制、調達・契約上の具体的な要求事項について、今後のプロジェクト計画策定の参考としてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17069456/?ref=user_3172527"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17069456/body/?ref=topic-mhayashi"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス、リスク管理、国際協力の推進",
+      "summary": "AIガバナンスの重要性が増し、リスク管理、セキュリティ、倫理的側面からの議論が活発化。日本政府はAI基本計画を改定し、国際協力も進める。",
+      "relevance": "AIガバナンス体制の構築、リスク管理、および国際的なAI規制動向について、組織内でのAI活用推進におけるガバナンスフレームワーク検討の参考としてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/taps/2026/07/729aiai.html"
+        },
+        {
+          "name": "gartner.co.jp",
+          "url": "https://www.gartner.co.jp/ja/articles/hype-cycle-for-erp"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/856000c"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/80442/datadog-korea-chief-says-ai-it-and-security-observability-should-be-unified-on-one-platform"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/745000c"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/748000c"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/1232357?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true"
+        },
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/newsroom/press/datarobot-accelerates-large-scale-production-of-agentic-ai-in-japan/"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/world/12095336"
+        },
+        {
+          "name": "rc.persol-group.co.jp",
+          "url": "https://rc.persol-group.co.jp/news/info-20260710-1100-1/"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13323"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000151.000018724.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000304.000053624.html"
+        },
+        {
+          "name": "branc.jp",
+          "url": "https://branc.jp/article/2026/07/10/2889.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24579"
+        },
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/news/2123917.html"
+        },
+        {
+          "name": "sci-news.co.jp",
+          "url": "https://sci-news.co.jp/topics/11345/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-09-31709-44/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a398dd93-f861-461c-b560-7bb2eacc0fe1"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【公共向け】Claude Mythos 時代の脅威対策ワークショップ開催報告 & 耐障害性ライフサイクル実践ワークショップのご案内",
+          "url": "https://aws.amazon.com/jp/blogs/news/claude-mythos-workshop-report-resilience-workshop-upcoming/",
+          "pub_date": "2026-07-10T14:51:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告 & 資料公開】IT 基盤の環境変化に対応する AWS マイグレーション",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-june/",
+          "pub_date": "2026-07-10T03:57:28.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "井村屋グループ様：Amazon SageMaker Canvas を活用したチルド製品の AI 需要予測で、業務工数 90% 削減と熟練者同等の予測精度を実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/ai-case-study-imurayagroup/",
+          "pub_date": "2026-07-10T02:36:13.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Cloud WAN Routing Policy：実運用におけるグローバルネットワークのシナリオ集 (Part 2)",
+          "url": "https://aws.amazon.com/jp/blogs/news/networking-and-content-delivery-aws-cloud-wan-routing-policy-real-world-global-network-scenarios-part-2/",
+          "pub_date": "2026-07-10T01:43:38.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro の超過利用の上限設定と前払い機能のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/cap-prepay-overage/",
+          "pub_date": "2026-07-10T01:21:11.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 10, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_10_2026",
+          "pub_date": "2026-07-10T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Google AI Studio のスターター ティアの解説",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+          "pub_date": "2026-07-10T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「ワンランク上のインフラエンジニアへ：さくらのクラウド検定アドバンスド攻略ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/10/1968225372/",
+          "pub_date": "2026-07-10T08:30:21.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「クラウド運用費はどこまで下げられる？ 部分移行や最適化の実践事例ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/10/1968225363/",
+          "pub_date": "2026-07-10T07:43:58.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-10T19:10:28.645Z"
+}
