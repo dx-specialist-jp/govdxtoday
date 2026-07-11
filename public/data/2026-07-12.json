@@ -1,0 +1,295 @@
+{
+  "date": "2026-07-12",
+  "date_ja": "2026年7月12日（日）",
+  "news_summary": [
+    "政府はAI・デジタル改革推進会議を発足、司令塔機能強化のためデジタル庁へ業務移管",
+    "全府省庁へAI基盤「源内」展開、約18万人の政府職員が国産LLM3モデルを試用可能に",
+    "デジタル庁は2026年6月末までに各府省PMOへ政策・サービス・プロジェクト進捗報告を確認指示",
+    "AIガバナンスの国際的議論が進む一方、企業でもAIガバナンス強化・管理基盤構築を推進",
+    "AIエージェントによるコード大量生成事例や、従量課金制AIモデルへの移行動向が確認",
+    "マイナンバーカード活用による本人確認、観光DX推進事例として日本スキー場開発が発表"
+  ],
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "デジタル庁 2026年6月の活動報告",
+    "summary": "デジタル庁 2026年6月の活動報告\n\n\n▶ 各府省PMOは、2026年6月末までにデジタル庁の政策・サービス・組織活動およびプロジェクト進捗・成果報告を確認すること。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n735b05fe7aba",
+    "pub_date": "2026-07-10"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府、全府省庁へAI基盤「源内」展開と国産LLMの試用を推進",
+      "summary": "デジタル庁は、政府共通のAI基盤「源内」を全府省庁に展開し、国産LLM3モデルを「さくらのクラウド」上で試用する。これにより、約18万人の政府職員がAIを利用可能になる。",
+      "relevance": "全府省庁へのAI基盤展開および国産LLM試用に関する最新動向を把握し、組織内でのAI活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/720178"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/173942/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17069810/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIエージェント・従量課金制AI、およびAIガバナンスに関する動向",
+      "summary": "AIエージェントが大量のコードを生成する事例や、AnthropicのClaude Fable 5モデルが従量課金制へ移行する動きが見られる。AIエージェントやAIガバナンスに関する実践知も共有されている。",
+      "relevance": "AIエージェントの活用や従量課金制AIの導入、AIガバナンス体制構築に向けた検討をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/39a55ebb-f532-4f85-a062-a682ecf2a017"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17078117/?ref=user_1950744"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/taps/2026/07/729aiai.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス、セキュリティ、およびフィジカルAI実装に関する最新動向",
+      "summary": "AIガバナンス、AIセキュリティ、AIガードレールの重要性が高まる中、フィジカルAIの実装に向けた開発基盤や、教育現場での生成AI活用、組織におけるAIガバナンスと人材育成の取り組みが進められている。",
+      "relevance": "AIガバナンス、AIセキュリティ、フィジカルAI実装に関する最新動向を注視し、自組織のAI活用におけるリスク管理策をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "kknews.co.jp",
+          "url": "https://www.kknews.co.jp/news/20260711o01"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ykmt262507/"
+        },
+        {
+          "name": "deloitte.com",
+          "url": "https://www.deloitte.com/jp/ja/Industries/infrastructure/perspectives/regional-government-information-security"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000004572.000032407&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000027.000111066.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24579?p=4&anchor=0"
+        },
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/659570"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/07/10/news-25584/"
+        },
+        {
+          "name": "cbnews.jp",
+          "url": "https://www.cbnews.jp/news/entry/20260710181728"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29568"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの国際的議論と企業におけるAIガバナンス強化の動き",
+      "summary": "AIの急速な発展に対応するため、国連がAIガバナンスに関するグローバル対話を開催している。企業においても、AI企業ガバナンス強化モデルやAIとのやり取りを管理する基盤、AI事業拡大に伴うガバナンスの転換が議論されている。",
+      "relevance": "AIガバナンスに関する国際的な議論や、企業におけるAIガバナンス強化の事例をご参考に、自組織のガバナンス体制構築をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ai-dang-buoc-ra-khoi-man-hinh-the-gioi-da-san-sang-don-nhan"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/capital-goods/nasdaq-nxt/nextpower/news/7624d8edd58a1fba"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/11/ai-daily-news-2026-07-10/"
+        },
+        {
+          "name": "ibm.com",
+          "url": "https://www.ibm.com/jp-ja/new/announcements/datapower-interact-gateway-for-governed-ai-interactions"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-snow/snowflake/news/1809aeb0c4032c20"
+        },
+        {
+          "name": "ja.laodong.vn",
+          "url": "https://ja.laodong.vn/cong-nghe/ai-vao-truong-hoc-nhieu-quoc-gia-thiet-lap-hang-rao-bao-ve-tre-em-1732843.ldo"
+        },
+        {
+          "name": "japan.cnet.com",
+          "url": "https://japan.cnet.com/release/31186831/"
+        },
+        {
+          "name": "yellow.com",
+          "url": "https://yellow.com/ja/news/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3ai%E3%81%8C7800%E4%B8%87%E4%BB%B6%E3%81%AEchatgpt%E3%83%AD%E3%82%B0%E3%82%92%E9%9A%A0%E8%94%BD%E3%81%8B-%E7%B1%B3%E6%9C%89%E5%8A%9B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%90%84%E7%A4%BE%E3%81%8C%E5%88%B6%E8%A3%81%E6%8E%AA%E7%BD%AE%E3%82%92%E9%80%A3%E9%82%A6%E8%A3%81%E5%88%A4%E6%89%80%E3%81%AB%E8%A6%81%E8%AB%8B"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタル庁デザインシステム、JP PINT（Peppol）最新資料を公表",
+      "summary": "デジタル庁は、行政・公共機関のウェブサイト等での利用を想定したデザインシステムと、経理自動化やPeppol Certified Service Provider ミーティングに関する最新資料を公表した。",
+      "relevance": "デジタル庁デザインシステムおよびJP PINT（Peppol）の最新動向を踏まえ、行政システムのデザイン標準化や経理業務の効率化についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "figma.com",
+          "url": "https://www.figma.com/ja-jp/community/file/1377880368787735577/v2-16-0"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/manegy/business/manegy-16278"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "政府、「AI・デジタル改革推進会議」を発足、デジタル庁が司令塔機能強化",
+      "summary": "政府は「AI・デジタル改革推進会議」を発足させ、会議の事務局機能と業務を9月にデジタル庁へ移管し、同庁の司令塔機能を強化する。",
+      "relevance": "「AI・デジタル改革推進会議」の発足とデジタル庁の司令塔機能強化について、今後の政府のDX推進方針への影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/cf9d834fbab467c02a2c1a2d2ba92682aa05d0d7"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "自治体、ふるさと納税制度を活用したガバメントクラウドファンディングを実施",
+      "summary": "浜松市は、人件費高騰による警備員確保などの課題解決のため、ふるさと納税制度を活用したガバメントクラウドファンディングを実施している。",
+      "relevance": "ガバメントクラウドファンディングの活用事例を参考に、財源確保や地域課題解決のための新たな資金調達手法をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2012385"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "日本スキー場開発、マイナンバーカードを活用した本人確認による観光DXを推進",
+      "summary": "日本スキー場開発は、xIDを活用したマイナンバーカードによる本人確認を導入し、観光DX戦略を加速させている。同社は経済産業省の「DX認定事業者」にも認定されている。",
+      "relevance": "マイナンバーカードを活用した本人確認による観光DXの推進事例を参考に、自組織におけるDX戦略の立案や推進をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000210.000031800.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、大手銀行のドル調達支援を検討し、対米投融資を促進",
+      "summary": "政府は、日本銀行のドル調達支援を検討しており、これにより89兆円規模の対米投融資の促進や金融危機回避を目指す。メガバンク側は財務省に支援を要請していた。",
+      "relevance": "政府による金融機関への支援策の動向を注視し、為替リスク管理や国際金融市場の動向についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1878313"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/articles/-/1749409"
+        },
+        {
+          "name": "tokyo-np.co.jp",
+          "url": "https://www.tokyo-np.co.jp/article/500743"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ed68e02c-290b-4d15-9e80-18319f02103b"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/article/kyodo/2026/7/10/1628276"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "退職自衛官支援、台風被害、携帯番号枯渇、証券取引清算・決済、地域社会DX推進に関する動向",
+      "summary": "退職自衛官支援のための新庁設置検討、台風被害、携帯番号枯渇問題、証券取引清算・決済に関する意見募集、および地域社会DX推進など、行政・社会システムに関連する多様な動向が見られる。",
+      "relevance": "退職自衛官支援、自然災害対応、通信インフラ、金融市場、地域DX推進といった多岐にわたる行政課題の動向について、関連するプロジェクトへの影響をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17076214/?ref=user"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000518441.html"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2628-4re-01/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bo-tai-chinh-lay-y-kien-6-nhom-noi-dung-ve-bu-tru-thanh-toan-giao-dich-chung-khoan"
+        },
+        {
+          "name": "komei.or.jp",
+          "url": "https://www.komei.or.jp/km/tokorozawa-okubo-ryuichi/2026/07/10/%E8%87%AA%E6%B2%BB%E4%BD%93%E7%B7%8F%E5%90%88%E3%83%95%E3%82%A7%E3%82%A2-2026/"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Kiro で Claude Sonnet 5 が利用可能になりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/sonnet-5/",
+          "pub_date": "2026-07-11T03:49:44.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 11, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_11_2026",
+          "pub_date": "2026-07-11T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-11T16:38:35.180Z"
+}
