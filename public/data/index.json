@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-13",
+      "summary_short": "総務省、自治体職員不足に対応するためAIエージェント導入…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-12",
       "summary_short": "デジタル庁 2026年6月の活動報告…など1件",
       "article_count": 11,
