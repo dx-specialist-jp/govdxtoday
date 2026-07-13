@@ -2,15 +2,14 @@
   "date": "2026-07-14",
   "date_ja": "2026年7月14日（火）",
   "news_summary": [
-    "APT-C-60による2026年の攻撃についてJPCERT/CC Eyesが注意喚起、対策状況把握を推奨。",
-    "デジタル庁は国産AIモデルの実証実験を「さくらのクラウド」で実施、AI主権確立を目指す。",
-    "AIガバナンス体制構築への注目が高まり、策定支援サービス提供が加速している。",
-    "生成AIの業務活用が進む中、組織としての統制を支えるAIガバナンスが不可欠。",
-    "Anthropicの生成AIモデル利用延長・機能追加で、行政DX・職員業務効率化への活用促進。",
-    "デジタル大臣はガバメントAI・国産LLM・クラウド推進とAI主権・サイバー安全保障を強調。",
-    "経済産業省は「契約学科制度」に向け「未来モビリティ共創開発拠点」を形成。",
-    "ポケモンカードゲームが8月よりデジタル庁提供の「デジタル認証アプリ」を導入。",
-    "国土交通省事業で、物流施設内での自動運転トラック誘導・管制システム実証を実施。"
+    "JPCERT/CC EyesはAPT-C-60による2026年の攻撃活動を公表、リスク評価への反映を促す",
+    "デジタル庁は国産AIモデルをさくらのクラウドで実証、AI主権確立とガバメントクラウド活用",
+    "ソフトバンクはAIモデル・リスク管理市場拡大を受け、AIガバナンス策定支援サービス開始",
+    "自治体AI zevoはGPT-5.6最新3モデル提供開始、行政DX支援と職員業務効率化を目指す",
+    "デジタル大臣はAI主権・サイバー安全保障・国産LLM推進を日本の成長戦略の鍵と明言",
+    "Anthropic Claude Fable 5はサイバーセキュリティ懸念で一部機能抑制後、提供期間延長",
+    "公金受取口座登録システムはガバメントクラウド未採用で性能拡張の柔軟性に課題",
+    "経済産業省は企業の垣根を越えたDX推進のため「製造AX拠点」構想を始動"
   ],
   "security_alerts": [
     {
@@ -27,7 +26,7 @@
   "hero_article": {
     "section_name": "セキュリティ速報",
     "title": "お知らせ：JPCERT/CC Eyes「APT-C-60による2026年の攻撃」",
-    "summary": "JPCERT/CC Eyes、APT-C-60による2026年の攻撃について注意喚起。\n\n▶ JPCERT/CC Eyesのレポート（URLスキーム関連の記載箇所）を確認。\n▶ 各府省・組織のサイバーセキュリティ担当部署と連携し、攻撃手法の理解と対策状況を把握。",
+    "summary": "JPCERT/CC Eyes APT-C-60 2026年攻撃活動を公表\n\n▶ 各府省PMOはJPCERT/CC Eyesの最新動向を把握し、サイバー攻撃リスク評価に反映させる",
     "source_name": "JPCERT/CC 注意喚起",
     "source_url": "https://blogs.jpcert.or.jp/ja/2026/07/apt-c-60_2026.html",
     "pub_date": "2026-07-13"
@@ -35,9 +34,9 @@
   "sub_articles": [],
   "news_topics": [
     {
-      "title": "デジタル庁、国産AIモデルの実証実験を「さくらのクラウド」で実施 - AI主権確立と行政DX加速へ",
-      "summary": "デジタル庁は、国産AIモデルをガバメントクラウドとして採用された「さくらのクラウド」で稼働させる実証実験を開始しました。これはAIの自律性確保と行政DX加速を目的としています。",
-      "relevance": "ガバメントクラウド上での国産AIモデル稼働に関する技術的・運用的な側面について、今後の展開やリスク管理の観点からご検討ください。",
+      "title": "デジタル庁、国産AIモデルの実証実験を「さくらのクラウド」で実施、AI主権確立へ",
+      "summary": "デジタル庁は、政府職員向けAI基盤「源内」の実証実験で、国産AIモデルを「さくらのクラウド」上で稼働させ、AI主権確立を目指す。これはガバメントクラウドとして国産クラウドサービスを活用する初の事例となる。",
+      "relevance": "PMO/PjMO担当者は、国産AIモデルの政府システムへの適用可能性や、ガバメントクラウドにおける国産クラウドの活用状況についてご検討ください。",
       "category": "AI活用",
       "sources": [
         {
@@ -57,18 +56,26 @@
           "url": "https://www.sbbit.jp/article/cont1/186088"
         },
         {
-          "name": "publickey1.jp",
-          "url": "https://www.publickey1.jp/blog/26/3ai.html"
+          "name": "coinpost.jp",
+          "url": "https://coinpost.jp/?p=724200"
         }
       ],
       "score": 9
     },
     {
-      "title": "AIガバナンス体制構築への注目高まる - 各社が策定支援サービス提供、規制強化やリスク管理が背景",
-      "summary": "企業におけるAIの安全かつ安心な活用を支援するため、AIガバナンス策定支援サービスを提供する動きが加速しています。これは、AIの急速な進化や規制強化、リスク管理への関心の高まりを背景としています。",
-      "relevance": "AIの安全な活用を推進するため、AIガバナンス体制の構築や運用に関する最新の動向、および関連するサービスについて情報収集と検討をご検討ください。",
+      "title": "ソフトバンク、企業のAI活用を支援する「AIガバナンス策定支援サービス」を提供開始",
+      "summary": "ソフトバンクは、自社のAIガバナンス知見を基に、企業がAIを安全・安心に活用できる体制構築を支援する「AIガバナンス策定支援サービス」を提供開始した。これには、AIモデル・リスク管理市場の拡大や、生成AIのガバナンス強化への関心の高まりが背景にある。",
+      "relevance": "PMO/PjMO担当者は、組織内でのAI活用におけるガバナンス体制構築の必要性とその支援サービスについてご検討ください。",
       "category": "AI活用",
       "sources": [
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUC197L80Z10C26A6000000/"
+        },
+        {
+          "name": "s.response.jp",
+          "url": "https://s.response.jp/article/2026/07/13/413964.html"
+        },
         {
           "name": "businessnetwork.jp",
           "url": "https://businessnetwork.jp/article/35866/"
@@ -84,6 +91,10 @@
         {
           "name": "enterprisezine.jp",
           "url": "https://enterprisezine.jp/article/detail/24675"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17087105/?ref=user"
         },
         {
           "name": "businessnetwork.jp",
@@ -132,45 +143,42 @@
         {
           "name": "enterprisezine.jp",
           "url": "https://enterprisezine.jp/article/detail/24559?p=3&anchor=0"
-        },
-        {
-          "name": "prtimes.jp",
-          "url": "https://prtimes.jp/main/html/rd/p/000000004.000175767.html"
-        },
-        {
-          "name": "esgjournaljapan.com",
-          "url": "https://esgjournaljapan.com/world-news/54295"
-        },
-        {
-          "name": "netkeizai.com",
-          "url": "https://netkeizai.com/articles/detail/19197"
         }
       ],
       "score": 9
     },
     {
-      "title": "生成AIの業務活用とAIガバナンスの重要性 - 企業・組織における安全な導入と統制",
-      "summary": "AIの業務活用はPoCから全社展開へと進む中で、組織としての統制と安全な広がりを実現するためのAIガバナンスが不可欠となっています。各社は、AIの有用性だけでは突破できない壁を乗り越えるための支援を提供しています。",
-      "relevance": "生成AIの業務活用を安全かつ効果的に推進するため、AIガバナンスの確立と維持に関する最新のベストプラクティスについて情報収集をご検討ください。",
-      "category": "AI活用",
-      "sources": [
-        {
-          "name": "xtrend.nikkei.com",
-          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00015/"
-        }
-      ],
-      "score": 9
-    },
-    {
-      "title": "主要生成AIモデルの利用延長・機能追加 - 行政DXや職員の業務効率化への活用促進",
-      "summary": "Anthropicの「Claude Fable 5」は利用期間が延長され、Claude Codeには内蔵ブラウザが追加されました。これらの動向は、行政手続き案内や文書要約など、職員の業務効率化に貢献する可能性があります。",
-      "relevance": "進化する生成AIモデルの最新動向と、それらが行政業務の効率化やDX推進にどのように寄与しうるかについて、情報収集と評価をご検討ください。",
+      "title": "自治体AI zevo、GPT-5.6の最新3モデルを7月13日より提供開始、行政DXを支援",
+      "summary": "自治体AI zevoは、ChatGPT/Claude/Geminiの3つの生成AIシリーズに、GPT-5.6の最新3モデル（sol/terra/luna）を7月13日より提供開始する。これにより、行政手続き案内や問い合わせ対応、文書要約など職員の業務を支援する。",
+      "relevance": "PMO/PjMO担当者は、自治体における生成AIの導入事例として、職員の業務効率化に資する最新モデルの活用についてご検討ください。",
       "category": "AI活用",
       "sources": [
         {
           "name": "prtimes.jp",
           "url": "https://prtimes.jp/main/html/rd/p/000000208.000056138.html"
-        },
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタル大臣、AI主権とサイバー安全保障、日本の成長戦略を語る",
+      "summary": "松本尚デジタル大臣は、AI主権の確立とサイバー安全保障、そして国産LLM・クラウドの推進が日本の成長戦略の鍵となると述べた。政府職員約18万人が利用する「ガバメントAI」についても言及している。",
+      "relevance": "PMO/PjMO担当者は、AI主権確立に向けた政府の取り組みと、そのサイバーセキュリティおよび成長戦略への影響についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/68517/posts/1438090"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AnthropicのAIモデル「Claude Fable 5」、サイバーセキュリティ懸念で一部機能抑制後再公開、提供期間延長",
+      "summary": "AnthropicのAIモデル「Claude Fable 5」は、米国政府の輸出規制措置によりサイバーセキュリティ関連能力を抑制して再公開され、有料プランでの提供期間が延長された。これは、AIの「デュアルユース」や「国境」による技術制限といった課題を示唆している。",
+      "relevance": "PMO/PjMO担当者は、AIモデルの安全保障上のリスクと活用、および国際的な規制動向が国内のAI開発・導入に与える影響についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
         {
           "name": "finance.biggo.jp",
           "url": "https://finance.biggo.jp/news/c4438cd3-aeb3-4e35-9e76-1a67e29db295"
@@ -196,10 +204,6 @@
           "url": "https://newspicks.com/news/17082409/?block=headline&ref=index"
         },
         {
-          "name": "tech-noisy.com",
-          "url": "https://tech-noisy.com/2026/07/13/ai-weekly-news-2026-07-06-2026-07-12/"
-        },
-        {
           "name": "iotnews.jp",
           "url": "https://iotnews.jp/ai/274661/"
         },
@@ -208,56 +212,65 @@
           "url": "https://hashout.jp/ai/3226/"
         }
       ],
-      "score": 8
+      "score": 7
     },
     {
-      "title": "ガバメントクラウドと国産LLM・クラウド推進 - デジタル大臣、AI主権とサイバー安全保障を強調",
-      "summary": "デジタル大臣は、ガバメントAIと国産LLM・クラウドの推進に言及し、AI主権とサイバー安全保障の重要性を強調しました。政府職員向けAI基盤「源内」には、国産AIモデルの活用が図られています。",
-      "relevance": "ガバメントクラウドの活用方針や、国産LLM・クラウド推進におけるAI主権およびサイバー安全保障の観点からの影響について、情報収集と分析をご検討ください。",
+      "title": "公金受取口座登録システム、ガバメントクラウド未採用で性能拡張の柔軟性に課題",
+      "summary": "公金受取口座登録システムはガバメントクラウドを採用しておらず、性能拡張の柔軟性が相対的に低いと指摘されている。一方、一定規模のシステムにおいてはガバメントクラウドの採用が検討されている。",
+      "relevance": "PMO/PjMO担当者は、ガバメントクラウドの採用がシステム性能や柔軟性に与える影響について、プロジェクトのインフラ選定基準にご検討ください。",
       "category": "クラウド/インフラ",
       "sources": [
         {
-          "name": "go2senkyo.com",
-          "url": "https://go2senkyo.com/seijika/68517/posts/1438090"
-        },
-        {
-          "name": "coinpost.jp",
-          "url": "https://coinpost.jp/?p=724200"
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00989/071000213/?P=2&i_cid=nbpnxt_nextpage_child_a"
         }
       ],
       "score": 8
     },
     {
-      "title": "経済産業省「契約学科制度」に向けた「未来モビリティ共創開発拠点」を形成",
-      "summary": "内閣府の第7期科学技術・イノベーション基本計画の一環として、経済産業省は「契約学科制度」を見据えた「未来モビリティ共創開発拠点」を形成します。",
-      "relevance": "将来的な契約制度の変更や、モビリティ分野における共創開発の推進動向について、プロジェクトの計画や実行に与える影響をご検討ください。",
+      "title": "経済産業省、企業の垣根を越えたDX推進のため「製造AX拠点」構想を始動",
+      "summary": "経済産業省は、企業の垣根を越えた製造DXを推進するため、「製造AX（AIトランスフォーメーション）拠点」構想を始動した。",
+      "relevance": "PMO/PjMO担当者は、省庁主導の産業DX推進策が、関連するプロジェクトの調達や連携に与える影響についてご検討ください。",
       "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "nikkan.co.jp",
+          "url": "https://www.nikkan.co.jp/articles/view/00786675"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "不動産テック協会、国土交通省のDX取り組みを紹介しビジネスマッチング部会開催",
+      "summary": "不動産テック協会は、国土交通省のDX取り組みを紹介するビジネスマッチング部会を開催した。",
+      "relevance": "PMO/PjMO担当者は、省庁と業界団体が連携したDX推進の取り組みが、新たな調達機会や仕様策定に与える影響についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "jutaku-s.com",
+          "url": "https://www.jutaku-s.com/newsp/id/0000067327"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "名護市、ふるさと納税GCF開始へトラストバンクと協定締結",
+      "summary": "名護市は、ふるさと納税総合ウェブサイトを運営する「トラストバンク」と協定を締結し、ふるさと納税型クラウドファンディング（GCF）を開始する。",
+      "relevance": "PMO/PjMO担当者は、自治体におけるクラウドファンディングを活用した財源確保の取り組みについてご検討ください。",
+      "category": "自治体DX事例",
       "sources": [
         {
           "name": "okinawatimes.co.jp",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1879592"
+          "url": "https://www.okinawatimes.co.jp/articles/-/1879808"
         }
       ],
-      "score": 7
+      "score": 6
     },
     {
-      "title": "ポケモンカード、商品購入・イベント参加にデジタル庁提供の「デジタル認証アプリ」を8月導入",
-      "summary": "ポケモンカードゲーム公式は、商品販売・イベントにおいて、デジタル庁提供の「デジタル認証アプリ」を8月より導入することを発表しました。",
-      "relevance": "デジタル庁が提供する認証アプリの活用事例として、民間サービスでの導入動向について、行政サービスへの応用可能性や連携についてご検討ください。",
-      "category": "制度/ガイドライン",
-      "sources": [
-        {
-          "name": "news.tnc.ne.jp",
-          "url": "https://news.tnc.ne.jp/entame/916864_1.html"
-        }
-      ],
-      "score": 7
-    },
-    {
-      "title": "自動運転トラックの物流施設内誘導実証、国交省事業に採択",
-      "summary": "三菱地所は、国土交通省の「自動運転トラック実装支援事業」に採択され、物流施設内での自動運転トラックの誘導・管制システムの実証を開始しました。",
-      "relevance": "自動運転技術の進展と、それに関連する物流分野での実証実験の動向について、今後の行政施策への影響や連携の可能性をご検討ください。",
-      "category": "自治体DX事例",
+      "title": "三菱地所、国土交通省の事業採択を受け物流施設内での自動運転トラック誘導・管制システム実証開始",
+      "summary": "三菱地所は、国土交通省の「自動運転トラック実装支援事業」に採択され、物流施設内での自動運転トラックの誘導・管制システムの実証を2026年7月から開始する。",
+      "relevance": "PMO/PjMO担当者は、政府による特定分野の自動化・効率化支援事業が、関連プロジェクトの実施状況や調達仕様に与える影響についてご検討ください。",
+      "category": "調達・契約",
       "sources": [
         {
           "name": "finance.biggo.jp",
@@ -332,5 +345,5 @@
       ]
     }
   ],
-  "generated_at": "2026-07-13T19:07:15.188Z"
+  "generated_at": "2026-07-13T22:30:27.190Z"
 }
