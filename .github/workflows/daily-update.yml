@@ -12,29 +12,36 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
-# deploy.yml と同じ "pages" グループで排他制御する。このワークフローが
-# GitHub Pages にデプロイするタイミングと、同時期に src/public 等への
-# 別コミットが push されて起動した deploy.yml が同じ github-pages 環境に
-# 同時デプロイしようとすると、Pages API 側で「Deployment failed, try
-# again later.」となり競合することがあったため。
-# cancel-in-progress は false にする（true にすると、このワークフロー自身が
-# コンテンツ生成・コミット・検証まで行う多段階ジョブの途中で、他コミットの
-# push を契機に起動した deploy.yml に横から打ち切られる恐れがあるため。
-# deploy.yml側のcancel-in-progress:trueは、そちらが純粋なビルド＆デプロイのみの
-# ジョブで打ち切られても実害が小さいためそのままでよい）
+# GitHub Pages へのデプロイは行わない（後述）ため、pages/id-token 権限は不要。
+#
+# 過去の設計では、このワークフロー自身が「コンテンツ生成→コミット＆プッシュ→
+# Pages デプロイ」まで行い、かつ deploy.yml とも "pages" concurrency group を
+# 共有していた。しかし、このワークフローが public/data/ を push すると、その
+# push が deploy.yml（paths: public/** で起動）を即座に誘発してしまう。
+# concurrency の cancel-in-progress は「新しく起動した側」の設定で判定される
+# ため、deploy.yml 側の cancel-in-progress:true により、まだ Pages デプロイの
+# 途中だったこのワークフローが横から強制キャンセルされることがあった
+# （このワークフロー側を cancel-in-progress:false にしても防げない）。
+# その結果、不完全なデプロイが一時的に本番へ公開され、直近日付のアーカイブ
+# JSON が数分間 404 になる、という不具合が発生していた。
+#
+# 対策として、Pages デプロイは deploy.yml 側の1本に統一する。このワークフローは
+# コンテンツ生成とコミット＆プッシュのみを行い、その push が deploy.yml を
+# 起動してビルド＆デプロイを行う（deploy.yml は自分自身の同時実行のみ
+# cancel-in-progress で解決すればよく、他ワークフローとの競合キャンセルは
+# 発生しなくなる）。今後、このワークフローに再び Pages デプロイ処理を
+# 追加しないこと（同じ不具合が再発する）。
+#
+# なお、このワークフロー自身（schedule と workflow_dispatch）が万一重複起動
+# しても git push が競合しないよう、直列化のみ行う。
 concurrency:
-  group: pages
+  group: daily-content-update
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: チェックアウト
@@ -77,9 +84,6 @@ jobs:
           TARGET_DATE: ${{ inputs.target_date }}
         continue-on-error: true
 
-      - name: Vite ビルド
-        run: npm run build
-
       - name: データをコミット・プッシュ
         run: |
           git config user.name "github-actions[bot]"
@@ -88,18 +92,9 @@ jobs:
           git diff --staged --quiet && echo "変更なし" && exit 0
           git commit -m "chore: 日次更新 $(TZ='Asia/Tokyo' date +'%Y-%m-%d')"
           git push
-
-      - name: GitHub Pages 設定
-        uses: actions/configure-pages@v5
-
-      - name: Pages アーティファクトをアップロード
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs/
-
-      - name: GitHub Pages にデプロイ
-        id: deployment
-        uses: actions/deploy-pages@v4
+          # この push が deploy.yml（paths: public/** で起動）をトリガーし、
+          # ビルド・GitHub Pages デプロイまで行う。このワークフロー自身は
+          # デプロイを行わない（理由は冒頭のコメント参照）。
 
       - name: AI要約生成の検証（欠落時はジョブを失敗させて可視化）
         if: always()
