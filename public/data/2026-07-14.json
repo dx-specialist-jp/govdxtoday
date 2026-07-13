@@ -1,0 +1,336 @@
+{
+  "date": "2026-07-14",
+  "date_ja": "2026年7月14日（火）",
+  "news_summary": [
+    "APT-C-60による2026年の攻撃についてJPCERT/CC Eyesが注意喚起、対策状況把握を推奨。",
+    "デジタル庁は国産AIモデルの実証実験を「さくらのクラウド」で実施、AI主権確立を目指す。",
+    "AIガバナンス体制構築への注目が高まり、策定支援サービス提供が加速している。",
+    "生成AIの業務活用が進む中、組織としての統制を支えるAIガバナンスが不可欠。",
+    "Anthropicの生成AIモデル利用延長・機能追加で、行政DX・職員業務効率化への活用促進。",
+    "デジタル大臣はガバメントAI・国産LLM・クラウド推進とAI主権・サイバー安全保障を強調。",
+    "経済産業省は「契約学科制度」に向け「未来モビリティ共創開発拠点」を形成。",
+    "ポケモンカードゲームが8月よりデジタル庁提供の「デジタル認証アプリ」を導入。",
+    "国土交通省事業で、物流施設内での自動運転トラック誘導・管制システム実証を実施。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: iOS版LINEにおけるサービス運用妨害（DoS）につながる脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94039788/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: GNU Wgetにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94203999/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "お知らせ：JPCERT/CC Eyes「APT-C-60による2026年の攻撃」",
+    "summary": "JPCERT/CC Eyes、APT-C-60による2026年の攻撃について注意喚起。\n\n▶ JPCERT/CC Eyesのレポート（URLスキーム関連の記載箇所）を確認。\n▶ 各府省・組織のサイバーセキュリティ担当部署と連携し、攻撃手法の理解と対策状況を把握。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://blogs.jpcert.or.jp/ja/2026/07/apt-c-60_2026.html",
+    "pub_date": "2026-07-13"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁、国産AIモデルの実証実験を「さくらのクラウド」で実施 - AI主権確立と行政DX加速へ",
+      "summary": "デジタル庁は、国産AIモデルをガバメントクラウドとして採用された「さくらのクラウド」で稼働させる実証実験を開始しました。これはAIの自律性確保と行政DX加速を目的としています。",
+      "relevance": "ガバメントクラウド上での国産AIモデル稼働に関する技術的・運用的な側面について、今後の展開やリスク管理の観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/c3ec530f44dfe5f0ef1f3583032bdcfd1756066f"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_9834/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00012/071301730/"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186088"
+        },
+        {
+          "name": "publickey1.jp",
+          "url": "https://www.publickey1.jp/blog/26/3ai.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス体制構築への注目高まる - 各社が策定支援サービス提供、規制強化やリスク管理が背景",
+      "summary": "企業におけるAIの安全かつ安心な活用を支援するため、AIガバナンス策定支援サービスを提供する動きが加速しています。これは、AIの急速な進化や規制強化、リスク管理への関心の高まりを背景としています。",
+      "relevance": "AIの安全な活用を推進するため、AIガバナンス体制の構築や運用に関する最新の動向、および関連するサービスについて情報収集と検討をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35866/"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/13/382138.html"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/13/382142.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24675"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/34633/"
+        },
+        {
+          "name": "sattu-ai-agent.com",
+          "url": "https://sattu-ai-agent.com/2026/07/13/openai-gpt-5-6-sol/"
+        },
+        {
+          "name": "response.jp",
+          "url": "https://response.jp/article/img/2026/07/13/413964/2226972.html?utm_source=response.jp&utm_medium=article&utm_content=image_link_name"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3c820b9fef4e08819fc667ac9139740283ee5986?source=rss"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35871/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-13-121022-174/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24669"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000174.000121022.html"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000355665"
+        },
+        {
+          "name": "softbank.jp",
+          "url": "https://www.softbank.jp/business/news/2026/0713-01"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2124596.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24559?p=3&anchor=0"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000175767.html"
+        },
+        {
+          "name": "esgjournaljapan.com",
+          "url": "https://esgjournaljapan.com/world-news/54295"
+        },
+        {
+          "name": "netkeizai.com",
+          "url": "https://netkeizai.com/articles/detail/19197"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "生成AIの業務活用とAIガバナンスの重要性 - 企業・組織における安全な導入と統制",
+      "summary": "AIの業務活用はPoCから全社展開へと進む中で、組織としての統制と安全な広がりを実現するためのAIガバナンスが不可欠となっています。各社は、AIの有用性だけでは突破できない壁を乗り越えるための支援を提供しています。",
+      "relevance": "生成AIの業務活用を安全かつ効果的に推進するため、AIガバナンスの確立と維持に関する最新のベストプラクティスについて情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00015/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "主要生成AIモデルの利用延長・機能追加 - 行政DXや職員の業務効率化への活用促進",
+      "summary": "Anthropicの「Claude Fable 5」は利用期間が延長され、Claude Codeには内蔵ブラウザが追加されました。これらの動向は、行政手続き案内や文書要約など、職員の業務効率化に貢献する可能性があります。",
+      "relevance": "進化する生成AIモデルの最新動向と、それらが行政業務の効率化やDX推進にどのように寄与しうるかについて、情報収集と評価をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000208.000056138.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c4438cd3-aeb3-4e35-9e76-1a67e29db295"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/13/news081_2.html"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260713-zhipu-ai-co-founder-stay-open/"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/13/claude-code-built-in-browser-web-control/"
+        },
+        {
+          "name": "smhn.info",
+          "url": "https://smhn.info/202607-claude-fable-5-flat-access-extended-july-19"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17082409/?block=headline&ref=index"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/13/ai-weekly-news-2026-07-06-2026-07-12/"
+        },
+        {
+          "name": "iotnews.jp",
+          "url": "https://iotnews.jp/ai/274661/"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/3226/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドと国産LLM・クラウド推進 - デジタル大臣、AI主権とサイバー安全保障を強調",
+      "summary": "デジタル大臣は、ガバメントAIと国産LLM・クラウドの推進に言及し、AI主権とサイバー安全保障の重要性を強調しました。政府職員向けAI基盤「源内」には、国産AIモデルの活用が図られています。",
+      "relevance": "ガバメントクラウドの活用方針や、国産LLM・クラウド推進におけるAI主権およびサイバー安全保障の観点からの影響について、情報収集と分析をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/68517/posts/1438090"
+        },
+        {
+          "name": "coinpost.jp",
+          "url": "https://coinpost.jp/?p=724200"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省「契約学科制度」に向けた「未来モビリティ共創開発拠点」を形成",
+      "summary": "内閣府の第7期科学技術・イノベーション基本計画の一環として、経済産業省は「契約学科制度」を見据えた「未来モビリティ共創開発拠点」を形成します。",
+      "relevance": "将来的な契約制度の変更や、モビリティ分野における共創開発の推進動向について、プロジェクトの計画や実行に与える影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1879592"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ポケモンカード、商品購入・イベント参加にデジタル庁提供の「デジタル認証アプリ」を8月導入",
+      "summary": "ポケモンカードゲーム公式は、商品販売・イベントにおいて、デジタル庁提供の「デジタル認証アプリ」を8月より導入することを発表しました。",
+      "relevance": "デジタル庁が提供する認証アプリの活用事例として、民間サービスでの導入動向について、行政サービスへの応用可能性や連携についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.tnc.ne.jp",
+          "url": "https://news.tnc.ne.jp/entame/916864_1.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自動運転トラックの物流施設内誘導実証、国交省事業に採択",
+      "summary": "三菱地所は、国土交通省の「自動運転トラック実装支援事業」に採択され、物流施設内での自動運転トラックの誘導・管制システムの実証を開始しました。",
+      "relevance": "自動運転技術の進展と、それに関連する物流分野での実証実験の動向について、今後の行政施策への影響や連携の可能性をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ir_8802.T_20260713_8bf3f11a9f81"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊生成AI with AWS – 2026/7/6週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260706/",
+          "pub_date": "2026-07-13T04:37:37.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Transform for migrations が 13 言語のローカライズに対応",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-transform-for-migrations-now-supports-localization-for-13-languages/",
+          "pub_date": "2026-07-13T02:50:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "VPC Resource Gateways の実装パターンとユースケース",
+          "url": "https://aws.amazon.com/jp/blogs/news/vpc-resource-gateways-implementation-patterns-and-use-cases/",
+          "pub_date": "2026-07-13T01:25:42.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/7/6週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260706/",
+          "pub_date": "2026-07-13T00:40:53.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 13, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
+          "pub_date": "2026-07-13T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "AI エージェント事例アワード開催！ 指示するから、自律する AI へ。",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-agent-case-study-awards/",
+          "pub_date": "2026-07-13T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "令和8年7月滋賀県甲賀市の土砂崩れに係る災害救助法の適用地域のお客さまへのご案内",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/13/1968225381/",
+          "pub_date": "2026-07-13T09:40:08.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのAIソリューション】「InfiniCloud® AI パッケージ」Ver2を提供開始",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/13/1968225340/",
+          "pub_date": "2026-07-13T02:00:09.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-13T19:07:15.188Z"
+}

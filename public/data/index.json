@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-14",
+      "summary_short": "お知らせ：JPCERT/CC Eyes「APT-C-60によ…など1件",
+      "article_count": 9,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-07-13",
       "summary_short": "総務省、自治体職員不足に対応するためAIエージェント導入…など10件",
       "article_count": 10,

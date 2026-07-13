@@ -2,6 +2,15 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "お知らせ：JPCERT/CC Eyes「APT-C-60による2026年の攻撃」",
+        "summary": "JPCERT/CC Eyes、APT-C-60による2026年の攻撃について注意喚起。\n\n▶ JPCERT/CC Eyesのレポート（URLスキーム関連の記載箇所）を確認。\n▶ 各府省・組織のサイバーセキュリティ担当部署と連携し、攻撃手法の理解と対策状況を把握。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/07/apt-c-60_2026.html",
+        "type": "government"
+      },
+      {
         "date": "2026-07-09",
         "date_ja": "2026年7月9日（木）",
         "title": "九州電力送配電、顧客情報保存の外部記憶媒体紛失で経済産業省へ報告",
@@ -2311,6 +2320,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "主要生成AIモデルの利用延長・機能追加 - 行政DXや職員の業務効率化への活用促進",
+        "summary": "Anthropicの「Claude Fable 5」は利用期間が延長され、Claude Codeには内蔵ブラウザが追加されました。これらの動向は、行政手続き案内や文書要約など、職員の業務効率化に貢献する可能性があります。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000208.000056138.html",
+        "relevance": "進化する生成AIモデルの最新動向と、それらが行政業務の効率化やDX推進にどのように寄与しうるかについて、情報収集と評価をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "生成AIの業務活用とAIガバナンスの重要性 - 企業・組織における安全な導入と統制",
+        "summary": "AIの業務活用はPoCから全社展開へと進む中で、組織としての統制と安全な広がりを実現するためのAIガバナンスが不可欠となっています。各社は、AIの有用性だけでは突破できない壁を乗り越えるための支援を提供しています。",
+        "source": "xtrend.nikkei.com",
+        "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00015/",
+        "relevance": "生成AIの業務活用を安全かつ効果的に推進するため、AIガバナンスの確立と維持に関する最新のベストプラクティスについて情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "AIガバナンス体制構築への注目高まる - 各社が策定支援サービス提供、規制強化やリスク管理が背景",
+        "summary": "企業におけるAIの安全かつ安心な活用を支援するため、AIガバナンス策定支援サービスを提供する動きが加速しています。これは、AIの急速な進化や規制強化、リスク管理への関心の高まりを背景としています。",
+        "source": "businessnetwork.jp",
+        "url": "https://businessnetwork.jp/article/35866/",
+        "relevance": "AIの安全な活用を推進するため、AIガバナンス体制の構築や運用に関する最新の動向、および関連するサービスについて情報収集と検討をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "デジタル庁、国産AIモデルの実証実験を「さくらのクラウド」で実施 - AI主権確立と行政DX加速へ",
+        "summary": "デジタル庁は、国産AIモデルをガバメントクラウドとして採用された「さくらのクラウド」で稼働させる実証実験を開始しました。これはAIの自律性確保と行政DX加速を目的としています。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/c3ec530f44dfe5f0ef1f3583032bdcfd1756066f",
+        "relevance": "ガバメントクラウド上での国産AIモデル稼働に関する技術的・運用的な側面について、今後の展開やリスク管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-13",
         "date_ja": "2026年7月13日（月）",
         "title": "AIエージェントの弱点を45項目で診断する無料OSSツール「iFixAi」が登場",
@@ -2663,6 +2712,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "ガバメントクラウドと国産LLM・クラウド推進 - デジタル大臣、AI主権とサイバー安全保障を強調",
+        "summary": "デジタル大臣は、ガバメントAIと国産LLM・クラウドの推進に言及し、AI主権とサイバー安全保障の重要性を強調しました。政府職員向けAI基盤「源内」には、国産AIモデルの活用が図られています。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/68517/posts/1438090",
+        "relevance": "ガバメントクラウドの活用方針や、国産LLM・クラウド推進におけるAI主権およびサイバー安全保障の観点からの影響について、情報収集と分析をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-12",
         "date_ja": "2026年7月12日（日）",
         "title": "デジタル庁デザインシステム、JP PINT（Peppol）最新資料を公表",
@@ -2715,6 +2774,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "ポケモンカード、商品購入・イベント参加にデジタル庁提供の「デジタル認証アプリ」を8月導入",
+        "summary": "ポケモンカードゲーム公式は、商品販売・イベントにおいて、デジタル庁提供の「デジタル認証アプリ」を8月より導入することを発表しました。",
+        "source": "news.tnc.ne.jp",
+        "url": "https://news.tnc.ne.jp/entame/916864_1.html",
+        "relevance": "デジタル庁が提供する認証アプリの活用事例として、民間サービスでの導入動向について、行政サービスへの応用可能性や連携についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "経済産業省「契約学科制度」に向けた「未来モビリティ共創開発拠点」を形成",
+        "summary": "内閣府の第7期科学技術・イノベーション基本計画の一環として、経済産業省は「契約学科制度」を見据えた「未来モビリティ共創開発拠点」を形成します。",
+        "source": "okinawatimes.co.jp",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1879592",
+        "relevance": "将来的な契約制度の変更や、モビリティ分野における共創開発の推進動向について、プロジェクトの計画や実行に与える影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-12",
         "date_ja": "2026年7月12日（日）",
         "title": "政府、「AI・デジタル改革推進会議」を発足、デジタル庁が司令塔機能強化",
@@ -2766,6 +2845,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "自動運転トラックの物流施設内誘導実証、国交省事業に採択",
+        "summary": "三菱地所は、国土交通省の「自動運転トラック実装支援事業」に採択され、物流施設内での自動運転トラックの誘導・管制システムの実証を開始しました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ir_8802.T_20260713_8bf3f11a9f81",
+        "relevance": "自動運転技術の進展と、それに関連する物流分野での実証実験の動向について、今後の行政施策への影響や連携の可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-13",
         "date_ja": "2026年7月13日（月）",
@@ -2838,6 +2927,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "週刊AWS – 2026/7/6週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260706/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "VPC Resource Gateways の実装パターンとユースケース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/vpc-resource-gateways-implementation-patterns-and-use-cases/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "AWS Transform for migrations が 13 言語のローカライズに対応",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-transform-for-migrations-now-supports-localization-for-13-languages/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "週刊生成AI with AWS – 2026/7/6週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260706/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-12",
         "date_ja": "2026年7月12日（日）",
@@ -3066,6 +3191,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "AI エージェント事例アワード開催！ 指示するから、自律する AI へ。",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-agent-case-study-awards/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "July 13, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_13_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-13",
         "date_ja": "2026年7月13日（月）",
         "title": "July 12, 2026",
@@ -3271,6 +3414,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "【さくらのAIソリューション】「InfiniCloud® AI パッケージ」Ver2を提供開始",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/13/1968225340/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-14",
+        "date_ja": "2026年7月14日（火）",
+        "title": "令和8年7月滋賀県甲賀市の土砂崩れに係る災害救助法の適用地域のお客さまへのご案内",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/13/1968225381/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-11",
         "date_ja": "2026年7月11日（土）",
         "title": "「クラウド運用費はどこまで下げられる？ 部分移行や最適化の実践事例ウェビナー」を開催いたします",
@@ -3474,21 +3635,21 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 26,
+    "セキュリティ": 27,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 35,
-    "クラウド/インフラ": 5,
-    "制度/ガイドライン": 5,
-    "自治体DX事例": 7,
-    "AWS最新情報": 25,
-    "Google Cloud最新情報": 19,
+    "AI活用": 39,
+    "クラウド/インフラ": 6,
+    "制度/ガイドライン": 7,
+    "自治体DX事例": 8,
+    "AWS最新情報": 29,
+    "Google Cloud最新情報": 21,
     "働き方/業務改革": 3,
-    "さくらのクラウド最新情報": 15,
+    "さくらのクラウド最新情報": 17,
     "AIガバナンス": 4,
     "ガバメントクラウド": 1,
     "調達・契約": 1
   },
-  "updated_at": "2026-07-12T17:43:09.276Z"
+  "updated_at": "2026-07-13T19:07:15.192Z"
 }
