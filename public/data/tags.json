@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "カナダ金融規制当局、最先端AIのサイバーリスクに警告",
+        "summary": "カナダの金融規制当局は、一部の最先端AIツールが規制対象とみなされる一方で、サイバーリスクに対する警告を発しています。",
+        "source": "mezha.net",
+        "url": "https://mezha.net/jp/bukvy/a733c3b6_osfi_warns_banks/",
+        "relevance": "最先端AIの利用に伴うサイバーリスクと規制動向について、PMO/PjMOの皆様はリスク管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "お知らせ：JPCERT/CC Eyes「APT-C-60による2026年の攻撃」",
@@ -2320,6 +2330,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "ベトナム・中国におけるAI活用と政府の動向",
+        "summary": "ベトナムの地方自治体は行政改革で市民・企業優先の包括的解決策に注力しており、中国政府はAIエコシステムを加速させる方針です。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/google-lan-dau-tiet-lo-nguoi-viet-dang-dung-gemini-de-lam-gi-nhieu-nhat",
+        "relevance": "海外におけるAI活用事例や政府の取り組みについて、PMO/PjMOの皆様は国際動向の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "デジタル庁「ガバメントAI源内」向けに大規模データセット整備を推進",
+        "summary": "TOPPAN、NTTデータ、FPSCの3社は、デジタル庁の「ガバメントAI源内」向けに約1800万ページ規模のデータセット整備を推進しています。これは、政府共通データのAI-Ready化とAI向けデータセット標準の検討を通じて、行政業務におけるAI活用の高度化を支援するものです。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2625ko34/",
+        "relevance": "行政文書のAI活用に向けたデータ整備・標準化の動向について、PMO/PjMOの皆様はプロジェクトへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "政府AI「源内」で国産AIモデルと国産クラウドの本格検証を開始",
+        "summary": "デジタル庁は「ガバメントAI源内」において、国産クラウド上で国産基盤モデルの試用を開始しました。これにより、行政DXにおけるAI活用の有用性、信頼性、経済性の評価が進められます。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17089855/body/?ref=topics",
+        "relevance": "国産AIモデルと国産クラウドの連携によるAI活用推進の動向について、PMO/PjMOの皆様は情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "AnthropicのAIモデル「Claude Fable 5」、サイバーセキュリティ懸念で一部機能抑制後再公開、提供期間延長",
@@ -2722,6 +2762,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "自治体のガバメントクラウド運用経費最適化に向けたFinOpsの重要性",
+        "summary": "ガバメントクラウド移行後の自治体では、運用経費の高騰が課題となっており、FinOpsによる運用経費の可視化から最適化への取り組みが求められています。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19542032?news_ref=watch_20_nw19139145",
+        "relevance": "ガバメントクラウド移行後の運用経費最適化の必要性について、PMO/PjMOの皆様はコスト管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "公金受取口座登録システム、ガバメントクラウド未採用で性能拡張の柔軟性に課題",
@@ -2856,6 +2906,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "富士河口湖町、伝統花火開催とガバメントクラウドファンディング実施",
+        "summary": "富士河口湖町は、伝統花火大会の継承のため、ガバメントクラウドファンディング（GCF）による支援を全国に呼びかけています。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/660797?rct=pr_wire",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、PMO/PjMOの皆様は地方創生やプロジェクト資金調達の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "名護市、ふるさと納税GCF開始へトラストバンクと協定締結",
@@ -2937,6 +2997,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "Kiro のバースデーウィークへようこそ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/birthday-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "株式会社村田製作所様の AWS 生成 AI 活用事例 : 3 万人利用の「Murata Coworker」を AI エージェント活用基盤へ進化させるまで",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/genai-case-study-murata-coworker-agent-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "ハイテクインターが Amazon Rekognition と Graviton プロセッサで実現した富山市の人流観測プラットフォーム",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/genai-case-study-hitecinter/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "AWS SimuLearn に学習プランとデジタルバッジが追加されました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-aws-simulearn-learning-plan-badges/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
@@ -3201,6 +3297,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "Google、2026 年 Gartner® Magic Quadrant™ で分析およびビジネス インテリジェンス プラットフォーム部門のリーダーに 3 年連続で選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "エージェントでギアを上げる: ソフトウェア定義車両のセキュリティを確保",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "July 14, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_14_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "AI エージェント事例アワード開催！ 指示するから、自律する AI へ。",
@@ -3424,6 +3547,51 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "「GPUクラウド導入への一歩！高火力 VRTの操作イメージを掴むデモセミナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/14/1968225387/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "[メンテナンス] ImageFlux",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39424",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "「AI・人工知能EXPO NEO」にてクラウド事業戦略本部 高木が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/14/1968225391/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/14/1968225400/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "「Givery Summit 2026- AI-Native Shift -」にて弊社代表 田中が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/14/1968225407/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "【さくらのAIソリューション】「InfiniCloud® AI パッケージ」Ver2を提供開始",
@@ -3579,6 +3747,46 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "AIエージェントが資産運用で果たす役割と、健全な定着に向けたガバナンスの必要性",
+        "summary": "AIエージェントが資産運用の実行役となるには、投資家、金融機関、当局のそれぞれが責任を担い、ガバナンス、記録、開示を整備することが不可欠です。",
+        "source": "dlri.co.jp",
+        "url": "https://www.dlri.co.jp/report/asset/634257.html",
+        "relevance": "AIエージェントの活用におけるガバナンスのあり方について、PMO/PjMOの皆様は参考情報としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "AIセキュリティ＆ガバナンス EXPO開催、AI活用に伴う経営課題への対応を支援",
+        "summary": "AIセキュリティ＆ガバナンス EXPOでは、AI活用に伴うシャドーAIの拡大、機密情報漏洩リスク、AIガバナンスや規制対応などの経営課題への対応策が展示されます。",
+        "source": "atpress.ne.jp",
+        "url": "https://www.atpress.ne.jp/news/6447759",
+        "relevance": "AI活用におけるセキュリティとガバナンスの課題、およびそれらへの対策について、PMO/PjMOの皆様は情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "ソフトバンク、AIガバナンス策定支援サービスを提供開始",
+        "summary": "ソフトバンクは、企業が生成AIをはじめとするAIを安全・安心に活用できる体制構築を支援するため、「AIガバナンス策定支援サービス」の提供を開始しました。このサービスは、同社のAI運用知見を基に、迅速な体制構築をサポートします。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20260714-4700033/",
+        "relevance": "AIガバナンス体制構築の支援サービスについて、PMO/PjMOの皆様は自組織への適用をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-15",
+        "date_ja": "2026年7月15日（水）",
+        "title": "中国、AIグローバルガバナンスハイレベル会合で国際協力と独自路線を加速",
+        "summary": "中国は、世界人工知能（AI）大会およびAIグローバルガバナンスハイレベル会合において、AIガバナンス戦略を具体化し、国際協力と発展途上国へのAI普及を目指します。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ac5347c5-7772-47f3-8aeb-1991f17691ab",
+        "relevance": "国際的なAIガバナンスの動向について、PMO/PjMOの皆様は今後の政策への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-11",
         "date_ja": "2026年7月11日（土）",
         "title": "AIガバナンス、リスク管理、国際協力の推進",
@@ -3655,21 +3863,21 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 27,
+    "セキュリティ": 28,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 40,
-    "クラウド/インフラ": 6,
+    "AI活用": 43,
+    "クラウド/インフラ": 7,
     "制度/ガイドライン": 7,
-    "自治体DX事例": 8,
-    "AWS最新情報": 29,
-    "Google Cloud最新情報": 21,
+    "自治体DX事例": 9,
+    "AWS最新情報": 33,
+    "Google Cloud最新情報": 24,
     "働き方/業務改革": 3,
-    "さくらのクラウド最新情報": 17,
-    "AIガバナンス": 4,
+    "さくらのクラウド最新情報": 22,
+    "AIガバナンス": 8,
     "ガバメントクラウド": 1,
     "調達・契約": 2
   },
-  "updated_at": "2026-07-13T22:30:27.194Z"
+  "updated_at": "2026-07-14T17:51:41.631Z"
 }
