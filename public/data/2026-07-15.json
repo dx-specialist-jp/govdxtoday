@@ -2,65 +2,126 @@
   "date": "2026-07-15",
   "date_ja": "2026年7月15日（水）",
   "news_summary": [
-    "デジタル庁は国産クラウド上で国産基盤モデルの試用を開始し、AI活用の評価を進めます。",
-    "デジタル庁は「ガバメントAI源内」向けに大規模データセット整備を推進し、AI活用を高度化します。",
-    "カナダ金融規制当局は、一部最先端AIツールにサイバーリスクへの警告を発しました。",
-    "自治体はガバメントクラウド運用経費最適化のため、FinOpsによる経費管理が求められています。",
-    "ソフトバンクは企業向けに生成AI等のAIガバナンス策定支援サービス提供を開始しました。",
-    "中国はAIグローバルガバナンスハイレベル会合で国際協力とAI普及を加速させる方針です。"
+    "デジタル庁は「ガバメントAI源内」で約1800万ページ相当の政府文書をAI-Ready化する。",
+    "デジタル庁は「ガバメントAI源内」で国産AI・国産クラウドの本格検証を2025年7月に実施する。",
+    "ソフトバンクはAIガバナンス策定支援サービス提供を開始し、AI安全活用体制構築を推進する。",
+    "地方自治体でガバメントクラウド移行後のAWS運用経費最適化が喫緊の課題となっている。",
+    "「さくらのクラウド」が令和8年度ガバメントクラウドに採択され、SIer支援も開始された。",
+    "EU AI法は最先端AIのサイバーリスクを警告し、中国はAIエコシステム主導権を宣言した。"
   ],
-  "security_alerts": [],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Microsoft Edgeに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Wiresharkに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: MOVEit Transferに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Roundcube Webmailに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: OPNsenseに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Foxit PDF ReaderとFoxit PDF Editorに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のJuniper Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: PleskのPlesk XML APIにローカル権限昇格の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Joomla!に複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: BeyondTrust Remote SupportとPrivileged Remote Accessに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: PostgreSQL JDBC Driverに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ModSecurityに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#15",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Apache Camelに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Linuxカーネルのx86向けKVMに解放済みメモリの使用の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#17",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Microsoft 製品の脆弱性対策について(2026年7月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0715-ms.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
   "hero_article": null,
   "sub_articles": [],
   "news_topics": [
     {
-      "title": "カナダ金融規制当局、最先端AIのサイバーリスクに警告",
-      "summary": "カナダの金融規制当局は、一部の最先端AIツールが規制対象とみなされる一方で、サイバーリスクに対する警告を発しています。",
-      "relevance": "最先端AIの利用に伴うサイバーリスクと規制動向について、PMO/PjMOの皆様はリスク管理の観点からご検討ください。",
-      "category": "セキュリティ",
-      "sources": [
-        {
-          "name": "mezha.net",
-          "url": "https://mezha.net/jp/bukvy/a733c3b6_osfi_warns_banks/"
-        }
-      ],
-      "score": 7
-    },
-    {
-      "title": "政府AI「源内」で国産AIモデルと国産クラウドの本格検証を開始",
-      "summary": "デジタル庁は「ガバメントAI源内」において、国産クラウド上で国産基盤モデルの試用を開始しました。これにより、行政DXにおけるAI活用の有用性、信頼性、経済性の評価が進められます。",
-      "relevance": "国産AIモデルと国産クラウドの連携によるAI活用推進の動向について、PMO/PjMOの皆様は情報収集をご検討ください。",
+      "title": "デジタル庁「ガバメントAI源内」向け大規模データセット整備推進、約1800万ページ相当の政府文書をAI-Ready化",
+      "summary": "TOPPAN、NTTデータ、FPSCの3社がデジタル庁の「ガバメントAI源内」事業を受託し、約1800万ページ相当の政府共通データと特定業務ドメインデータをAI-Ready化。2026年度には約18万人の政府職員を対象に大規模実証を進める。",
+      "relevance": "政府共通データセットのAI-Ready化と標準化の動向について、自省庁・管轄組織でのAI活用におけるデータ準備・標準化の検討にご活用ください。",
       "category": "AI活用",
       "sources": [
         {
-          "name": "newspicks.com",
-          "url": "https://newspicks.com/news/17089855/body/?ref=topics"
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/webtan_impress/trend/webtan_impress-webtan.impress.co.jp_node_52975"
         },
         {
-          "name": "finance.biggo.jp",
-          "url": "https://finance.biggo.jp/news/a28a1c93-be23-4f18-941e-501593ca245d"
+          "name": "webtan.impress.co.jp",
+          "url": "https://webtan.impress.co.jp/n/2026/07/15/52975"
         },
         {
-          "name": "newspicks.com",
-          "url": "https://newspicks.com/news/17090065/"
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/31820727/"
         },
-        {
-          "name": "itmedia.co.jp",
-          "url": "https://www.itmedia.co.jp/business/articles/2607/14/news034.html"
-        },
-        {
-          "name": "newspicks.com",
-          "url": "https://newspicks.com/news/17089855/?ref=user_3172527"
-        }
-      ],
-      "score": 10
-    },
-    {
-      "title": "デジタル庁「ガバメントAI源内」向けに大規模データセット整備を推進",
-      "summary": "TOPPAN、NTTデータ、FPSCの3社は、デジタル庁の「ガバメントAI源内」向けに約1800万ページ規模のデータセット整備を推進しています。これは、政府共通データのAI-Ready化とAI向けデータセット標準の検討を通じて、行政業務におけるAI活用の高度化を支援するものです。",
-      "relevance": "行政文書のAI活用に向けたデータ整備・標準化の動向について、PMO/PjMOの皆様はプロジェクトへの影響をご検討ください。",
-      "category": "AI活用",
-      "sources": [
         {
           "name": "dxmagazine.jp",
           "url": "https://dxmagazine.jp/news/2625ko34/"
@@ -75,97 +136,74 @@
         },
         {
           "name": "nikkei.com",
-          "url": "https://www.nikkei.com/article/DGXZRSP709849_U6A710C2000000/"
-        },
-        {
-          "name": "kabu-ir.com",
-          "url": "https://kabu-ir.com/article/521133575.html"
-        },
-        {
-          "name": "nikkei.com",
-          "url": "https://www.nikkei.com/nkd/company/article/?DisplayType=11&ng=DGXZRSP709849_U6A710C2000000&nik_code=0008954"
-        },
-        {
-          "name": "voix.jp",
-          "url": "https://voix.jp/biz/news-analysis/174192/"
-        },
-        {
-          "name": "enterprisezine.jp",
-          "url": "https://enterprisezine.jp/article/detail/24679"
-        },
-        {
-          "name": "holdings.toppan.com",
-          "url": "https://www.holdings.toppan.com/ja/news/2026/07/newsrelease260714_1.html"
+          "url": "https://www.nikkei.com/article/DGXZRSP709849_14072026000000"
         }
       ],
       "score": 10
     },
     {
-      "title": "ベトナム・中国におけるAI活用と政府の動向",
-      "summary": "ベトナムの地方自治体は行政改革で市民・企業優先の包括的解決策に注力しており、中国政府はAIエコシステムを加速させる方針です。",
-      "relevance": "海外におけるAI活用事例や政府の取り組みについて、PMO/PjMOの皆様は国際動向の参考としてご検討ください。",
+      "title": "デジタル庁「ガバメントAI源内」で国産AI・国産クラウド本格検証、AI戦略への影響を評価",
+      "summary": "デジタル庁は2025年7月、「ガバメントAI源内」にて国産クラウド上で国産大規模言語モデルを稼働させ、政府職員による利用結果を通じて有用性、信頼性、経済性などを評価する。",
+      "relevance": "国産AIモデルと国産クラウドの連携による政府AIの検証状況について、AI戦略や基盤技術選定の参考としてください。",
       "category": "AI活用",
       "sources": [
         {
-          "name": "vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/google-lan-dau-tiet-lo-nguoi-viet-dang-dung-gemini-de-lam-gi-nhieu-nhat"
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17090065/"
         },
         {
-          "name": "moomoo.com",
-          "url": "https://www.moomoo.com/ja/community/feed/nvidia-nvda-us-i-asked-gemini-according-to-reports-from-115944238874630?chain_id=Name1K9-3FXPhg.1l55m80&global_content=%7B%22promote_id%22%3A13328%2C%22sub_promote_id%22%3A47%2C%22f%22%3A%22www.moomoo.com%2Fja%2Fcommunity%2Fprofile%2Fkuma-1129-182619692%2Fpost%2Fall%22%7D"
-        }
-      ],
-      "score": 6
-    },
-    {
-      "title": "自治体のガバメントクラウド運用経費最適化に向けたFinOpsの重要性",
-      "summary": "ガバメントクラウド移行後の自治体では、運用経費の高騰が課題となっており、FinOpsによる運用経費の可視化から最適化への取り組みが求められています。",
-      "relevance": "ガバメントクラウド移行後の運用経費最適化の必要性について、PMO/PjMOの皆様はコスト管理の観点からご検討ください。",
-      "category": "クラウド/インフラ",
-      "sources": [
-        {
-          "name": "news.nicovideo.jp",
-          "url": "https://news.nicovideo.jp/watch/nw19542032?news_ref=watch_20_nw19139145"
-        }
-      ],
-      "score": 8
-    },
-    {
-      "title": "富士河口湖町、伝統花火開催とガバメントクラウドファンディング実施",
-      "summary": "富士河口湖町は、伝統花火大会の継承のため、ガバメントクラウドファンディング（GCF）による支援を全国に呼びかけています。",
-      "relevance": "ガバメントクラウドファンディングの活用事例について、PMO/PjMOの皆様は地方創生やプロジェクト資金調達の参考としてご検討ください。",
-      "category": "自治体DX事例",
-      "sources": [
-        {
-          "name": "agara.co.jp",
-          "url": "https://www.agara.co.jp/article/660797?rct=pr_wire"
-        }
-      ],
-      "score": 5
-    },
-    {
-      "title": "中国、AIグローバルガバナンスハイレベル会合で国際協力と独自路線を加速",
-      "summary": "中国は、世界人工知能（AI）大会およびAIグローバルガバナンスハイレベル会合において、AIガバナンス戦略を具体化し、国際協力と発展途上国へのAI普及を目指します。",
-      "relevance": "国際的なAIガバナンスの動向について、PMO/PjMOの皆様は今後の政策への影響をご検討ください。",
-      "category": "AIガバナンス",
-      "sources": [
-        {
-          "name": "finance.biggo.jp",
-          "url": "https://finance.biggo.jp/news/ac5347c5-7772-47f3-8aeb-1991f17691ab"
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17089855/body/?ref=topics"
         },
         {
-          "name": "j.people.com.cn",
-          "url": "https://j.people.com.cn/n3/2026/0714/c94474-20477500.html"
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17089855/?ref=user_3172527"
         }
       ],
-      "score": 9
+      "score": 10
     },
     {
-      "title": "ソフトバンク、AIガバナンス策定支援サービスを提供開始",
-      "summary": "ソフトバンクは、企業が生成AIをはじめとするAIを安全・安心に活用できる体制構築を支援するため、「AIガバナンス策定支援サービス」の提供を開始しました。このサービスは、同社のAI運用知見を基に、迅速な体制構築をサポートします。",
-      "relevance": "AIガバナンス体制構築の支援サービスについて、PMO/PjMOの皆様は自組織への適用をご検討ください。",
-      "category": "AIガバナンス",
+      "title": "AIガバナンス策定支援サービス提供・学習コンテンツ公開、AI安全活用体制構築を推進",
+      "summary": "ソフトバンクがAIガバナンス策定支援サービス提供を開始し、Meta HeroesはAI実務辞書を公開。AIチャットボットサービスの利用とガバナンス体制強化、AIエージェントの安全な活用体制両立が示唆される。",
+      "relevance": "AIの安全・安心な活用体制構築に向けたガバナンス策定支援サービスや学習リソースについて、自組織のAI活用ガバナンス体制構築の参考としてください。",
+      "category": "AI活用",
       "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000397.000094539&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000397.000094539.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000122.000105601.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24474?p=2&anchor=0"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20260714-4700716/"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35880/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-okta/okta/news/e0041121d3917b37/amp"
+        },
+        {
+          "name": "sanspo.com",
+          "url": "https://www.sanspo.com/pressrelease/atpress/NTXPLJ5ZSJIYFNJYRO2WZ2AOZM/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000496.000092586.html"
+        },
         {
           "name": "news.mynavi.jp",
           "url": "https://news.mynavi.jp/techplus/article/20260714-4700033/"
@@ -175,62 +213,112 @@
           "url": "https://www.chiba-tv.com/plus/detail/2026071834447"
         },
         {
-          "name": "news.livedoor.com",
-          "url": "https://news.livedoor.com/pr_topics/detail/31820617/"
-        },
-        {
-          "name": "businessnetwork.jp",
-          "url": "https://businessnetwork.jp/article/35880"
-        },
-        {
-          "name": "news.yahoo.co.jp",
-          "url": "https://news.yahoo.co.jp/articles/88e230949608bbd3f80b3e478702e31e8b79e234"
-        },
-        {
-          "name": "newspicks.com",
-          "url": "https://newspicks.com/news/17091586/?ref=user"
-        },
-        {
-          "name": "news.mynavi.jp",
-          "url": "https://news.mynavi.jp/techplus/article/20260714-4697171/"
-        },
-        {
-          "name": "prtimes.jp",
-          "url": "https://prtimes.jp/main/html/rd/p/000000065.000076738.html"
+          "name": "databricks.com",
+          "url": "https://www.databricks.com/jp/resources/architectures/healthcare-patient-personalization-reference-architecture-cloned"
         }
       ],
       "score": 9
     },
     {
-      "title": "AIセキュリティ＆ガバナンス EXPO開催、AI活用に伴う経営課題への対応を支援",
-      "summary": "AIセキュリティ＆ガバナンス EXPOでは、AI活用に伴うシャドーAIの拡大、機密情報漏洩リスク、AIガバナンスや規制対応などの経営課題への対応策が展示されます。",
-      "relevance": "AI活用におけるセキュリティとガバナンスの課題、およびそれらへの対策について、PMO/PjMOの皆様は情報収集をご検討ください。",
-      "category": "AIガバナンス",
+      "title": "AI利用動向、著作権侵害主張、地方自治体のDX推進に関する話題",
+      "summary": "米国企業でClaudeからの乗り換えや中国製AIへの移行、出版社とGoogleの著作権侵害を巡る訴訟、地方自治体のDX推進といったAI利用に関する多様な話題が報じられている。",
+      "relevance": "AI技術の普及に伴う著作権問題や、地方自治体におけるDX推進の状況について、リスク管理や先進事例の参考としてください。",
+      "category": "AI活用",
       "sources": [
         {
-          "name": "atpress.ne.jp",
-          "url": "https://www.atpress.ne.jp/news/6447759"
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/6/528_6_r_20260715_1784063712504301"
         },
         {
-          "name": "jiji.com",
-          "url": "https://www.jiji.com/jc/article?k=000000076.000101914&g=prt"
+          "name": "mezha.net",
+          "url": "https://mezha.net/jp/bukvy/cbc77107_publishers_sue_google/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/google-lan-dau-tiet-lo-nguoi-viet-dang-dung-gemini-de-lam-gi-nhieu-nhat"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体向けガバメントクラウド、AWS運用経費の最適化が課題に",
+      "summary": "基幹業務システムの標準化・ガバメントクラウド移行を終えた自治体で、移行後の運用経費高騰が課題となっており、AWS運用経費の「可視化」から「最適化」への移行が求められている。",
+      "relevance": "ガバメントクラウド移行後の運用経費最適化に向けたFinOpsの取り組みについて、コスト管理・最適化の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "atpartners.co.jp",
+          "url": "https://www.atpartners.co.jp/news/2026-07-15-tractian-an-industrial-iot-company-has-obtained-fedramp-high-certification-and-is-rolling-out-predictive-maintenance-for-critical-u-s-government-infrastructure"
         },
         {
           "name": "news.nicovideo.jp",
-          "url": "https://news.nicovideo.jp/watch/nw19540841?news_ref=watch_60_nw19082927"
+          "url": "https://news.nicovideo.jp/watch/nw19542032?news_ref=watch_20_nw19139145"
         }
       ],
       "score": 9
     },
     {
-      "title": "AIエージェントが資産運用で果たす役割と、健全な定着に向けたガバナンスの必要性",
-      "summary": "AIエージェントが資産運用の実行役となるには、投資家、金融機関、当局のそれぞれが責任を担い、ガバナンス、記録、開示を整備することが不可欠です。",
-      "relevance": "AIエージェントの活用におけるガバナンスのあり方について、PMO/PjMOの皆様は参考情報としてご検討ください。",
-      "category": "AIガバナンス",
+      "title": "さくらのクラウド、令和8年度ガバメントクラウドに採択、ふるさと納税型ガバメントクラウドファンディング活用も進む",
+      "summary": "「さくらのクラウド」が令和8年度ガバメントクラウドに採択され、SIer向けに案件獲得支援ウェビナーを開催。また、ふるさと納税型ガバメントクラウドファンディングの活用事例も報じられている。",
+      "relevance": "ガバメントクラウドへの新規採択や、ふるさと納税型ガバメントクラウドファンディングの活用事例について、調達・資金調達の可能性を検討する材料としてください。",
+      "category": "クラウド/インフラ",
       "sources": [
         {
-          "name": "dlri.co.jp",
-          "url": "https://www.dlri.co.jp/report/asset/634257.html"
+          "name": "sakura.ad.jp",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/15/1968225376/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/tokyo/region/tokyo-501509?fm=latestnews"
+        },
+        {
+          "name": "yakuji.co.jp",
+          "url": "https://www.yakuji.co.jp/entry136654.html"
+        },
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/660797?rct=pr_wire"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "EU AI法、中国AI戦略、自動運転インフラ戦略など、AI規制・戦略動向が進行",
+      "summary": "EU AI法が最先端AIのサイバーリスクを警告し、中国はAIエコシステムの主導権を宣言。総務省は自動運転社会を支える通信インフラ戦略を公表し、AIガバナンスやデータ同意の重要性が示唆される。",
+      "relevance": "海外のAI規制動向や、自動運転社会を支えるインフラ戦略について、将来的な行政システムへの影響を考慮した検討にご活用ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "mezha.net",
+          "url": "https://mezha.net/jp/bukvy/a733c3b6_osfi_warns_banks/"
+        },
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1955169?rct=prtimes_chushikoku"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35893"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/04d75ab7-545b-48fd-8424-1f0f4d7699f1"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/30f8b961-af87-409b-a3b9-4189082fce9d"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35878/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ac5347c5-7772-47f3-8aeb-1991f17691ab"
+        },
+        {
+          "name": "carcareplus.jp",
+          "url": "https://carcareplus.jp/article/img/2026/07/14/14615/148155.html"
         }
       ],
       "score": 8
@@ -325,5 +413,5 @@
       ]
     }
   ],
-  "generated_at": "2026-07-14T17:51:41.627Z"
+  "generated_at": "2026-07-15T04:57:33.677Z"
 }
