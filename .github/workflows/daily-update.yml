@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 # GitHub Pages へのデプロイは行わない（後述）ため、pages/id-token 権限は不要。
 #
@@ -27,11 +28,18 @@ permissions:
 # JSON が数分間 404 になる、という不具合が発生していた。
 #
 # 対策として、Pages デプロイは deploy.yml 側の1本に統一する。このワークフローは
-# コンテンツ生成とコミット＆プッシュのみを行い、その push が deploy.yml を
-# 起動してビルド＆デプロイを行う（deploy.yml は自分自身の同時実行のみ
-# cancel-in-progress で解決すればよく、他ワークフローとの競合キャンセルは
+# コンテンツ生成とコミット＆プッシュのみを行う（deploy.yml は自分自身の同時実行
+# のみ cancel-in-progress で解決すればよく、他ワークフローとの競合キャンセルは
 # 発生しなくなる）。今後、このワークフローに再び Pages デプロイ処理を
 # 追加しないこと（同じ不具合が再発する）。
+#
+# 注意: GITHUB_TOKEN で行った push は、他ワークフローの push トリガーを
+# 起動しない（GitHub Actions の仕様。無限ループ防止のため）。そのため
+# deploy.yml の `on.push` は自動的には発火せず、下の「データをコミット・
+# プッシュ」ステップ内で明示的に `gh workflow run deploy.yml` を呼んで
+# 起動している（GITHUB_TOKEN でも workflow_dispatch の起動は制限対象外）。
+# この呼び出しを削除すると、コンテンツは生成されるがデプロイされない
+# 状態（2026-07-13〜07-15に実際発生した不具合）が再発するので注意。
 #
 # なお、このワークフロー自身（schedule と workflow_dispatch）が万一重複起動
 # しても git push が競合しないよう、直列化のみ行う。
@@ -92,9 +100,13 @@ jobs:
           git diff --staged --quiet && echo "変更なし" && exit 0
           git commit -m "chore: 日次更新 $(TZ='Asia/Tokyo' date +'%Y-%m-%d')"
           git push
-          # この push が deploy.yml（paths: public/** で起動）をトリガーし、
-          # ビルド・GitHub Pages デプロイまで行う。このワークフロー自身は
-          # デプロイを行わない（理由は冒頭のコメント参照）。
+          # GITHUB_TOKEN による push は deploy.yml の on.push を自動起動しない
+          # （GitHub Actions の仕様）ため、workflow_dispatch で明示的に起動する。
+          # ビルド・GitHub Pages デプロイは deploy.yml 側が行う。このワーク
+          # フロー自身はデプロイを行わない（理由は冒頭のコメント参照）。
+          gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: AI要約生成の検証（欠落時はジョブを失敗させて可視化）
         if: always()
