@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-17",
+      "summary_short": "お知らせ：ソフトウェア等の脆弱性関連情報に関する届出状況…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-07-16",
       "summary_short": "Microsoft 製品の脆弱性対策について(2026年…など10件",
       "article_count": 10,

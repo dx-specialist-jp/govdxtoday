@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "お知らせ：JPCERT/CC 四半期レポート［2026年4月1日～2026年6月30日］",
+        "summary": "JPCERT/CCが四半期レポートを公開\n\n▶ 最新のサイバーセキュリティ動向とインシデント対応状況を把握",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/qr/index.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "お知らせ：ソフトウェア等の脆弱性関連情報に関する届出状況［2026年第2四半期（4月～6月）］",
+        "summary": "JPCERT/CCがソフトウェア脆弱性関連の届出状況を公表\n\n▶ 各府省・独立行政法人は、自庁システムで利用中のソフトウェアにおける脆弱性報告の動向を確認",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/report/press.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
         "title": "Microsoft 製品の脆弱性対策について(2026年7月)",
@@ -2330,6 +2350,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "AnthropicのClaude、カナダ政府機関での翻訳依頼が多い傾向、Copilot Keyboardも登場",
+        "summary": "AnthropicのAI「Claude」はカナダ政府機関で翻訳依頼が多く、日本語入力アプリ「Copilot Keyboard」の正式版が公開された。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2125475.html",
+        "relevance": "海外政府機関でのAI活用事例や、AIを活用した業務効率化ツールの動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "経済産業省、国産フィジカルAI基盤モデル構築へ「FRONTia Project」始動、NVIDIAが計算基盤を提供",
+        "summary": "経済産業省は、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」を始動し、AI開発企業Noetraと産総研が中心となり、NVIDIAが計算基盤を提供する。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+        "relevance": "国家レベルでのAIインフラ整備や、産学官連携による基盤モデル開発の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "AIガバナンスの国際動向と企業・自治体での整備・導入支援サービスの広がり",
+        "summary": "AIエージェントの採用が急速に進む中、AIリスク監視やガバナンス整備が急務となり、企業・自治体向けにAIガバナンス整備支援サービスが複数提供開始されている。",
+        "source": "tkfd.or.jp",
+        "url": "https://www.tkfd.or.jp/research/detail.php?id=5002",
+        "relevance": "AI活用におけるリスク管理とガバナンス体制構築の重要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "自治体向けAI・生成AIツールの提供とCopilot CLIの行政・官公庁での活用事例",
+        "summary": "自治体向けに生成AIツール「zevo」やチャットツール「LGTalk」などを提供するシフトプラスが出展し、GitHub Copilot CLIも行政・官公庁での活用が紹介された。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000207.000056138.html",
+        "relevance": "自治体でのAI・生成AIツールの導入事例や、開発支援ツールとしてのCopilot CLIの活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "デジタル庁「ガバメントAI源内」向け、約1,800万ページをAI-Ready化し国産AI基盤モデルの検証開始",
+        "summary": "デジタル庁は、ガバメントAI「源内」実装に向け、TOPPAN、NTTデータ、FPSCが約1,800万ページをAI-Ready化し、「さくらのクラウド」上で3種類の基盤モデルを検証開始。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/digital-gennai-model-trial/",
+        "relevance": "ガバメントAIの推進状況と、それに伴うデータ整備・基盤モデル検証の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
         "title": "カナダにおけるClaude利用状況と、米国企業におけるClaude利用停止の動き、著作権侵害に関する訴訟",
@@ -2812,6 +2882,36 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "ガバメントクラウド肥大化に潜むリスクと、ガラス・HDDの寿命に関する記事",
+        "summary": "ガバメントクラウドの肥大化がもたらすリスクが指摘されており、ストレージ技術に関する記事も掲載されている。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/detail/1/3/6/528_6_r_20260716_1784149271914053",
+        "relevance": "ガバメントクラウドの運用におけるリスク管理と、データストレージの選定・管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "さくらのクラウド、ガバメントクラウドに採択され、国産クラウドの選択肢が拡大",
+        "summary": "さくらインターネットの「さくらのクラウド」が令和8年度ガバメントクラウドに採択され、国産クラウドの選択肢が広がる中、地域課題解決に向けたガバメントクラウドファンディングも実施されている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19552118?news_ref=watch_20_nw19116990",
+        "relevance": "ガバメントクラウドへの国産クラウドの採択状況や、クラウドファンディングを活用した地域DXの取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "市原市、ガバメントクラウドに合わせた連携基盤を刷新し、自治体標準化へ対応",
+        "summary": "千葉県市原市は、国の標準仕様・ガバメントクラウドに合わせた自治体標準化の連携基盤を刷新し、複数ベンダー環境下でのデータ連携を集約管理するシステムを構築した。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/420/4420188/",
+        "relevance": "ガバメントクラウドへの移行や、標準化されたシステム連携基盤の構築・運用についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
         "title": "ガバメントクラウドファンディング活用事例とFedRAMP High認証取得の動き",
@@ -3087,6 +3187,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "Oracle Database@AWS の高性能ネットワーキング入門",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/getting-started-with-the-oracle-databaseaws-high-performance-networking/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "Oracle Database@AWS のクロスアカウント共有のベストプラクティスとアーキテクチャパターン",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "Oracle Database@AWS を読み解く: Oracle ワークロードに最適な選択肢の見極め方",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "Terraform を使用した Oracle Database@AWS リソースのプロビジョニング",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/provision-oracle-databaseaws-resources-using-terraform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "Oracle Database@AWS のトラフィック集中検査",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/centralized-traffic-inspection-for-oracle-databaseaws/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
@@ -3432,6 +3577,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "July 16, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_16_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
         "title": "Cloud Monitoring: 動的しきい値と 2 年間のルックバックを活用したアラートによる異常検出",
@@ -3726,6 +3880,15 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-07-17",
+        "date_ja": "2026年7月17日（金）",
+        "title": "さくらインターネットのベアメタル型GPUクラウドサービス「高火力 PHY」、Sakana AIのAI開発に採用",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/07/16/1968225411/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
@@ -4032,21 +4195,21 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 28,
+    "セキュリティ": 30,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 48,
-    "クラウド/インフラ": 10,
+    "AI活用": 53,
+    "クラウド/インフラ": 13,
     "制度/ガイドライン": 8,
     "自治体DX事例": 9,
-    "AWS最新情報": 38,
-    "Google Cloud最新情報": 29,
+    "AWS最新情報": 43,
+    "Google Cloud最新情報": 30,
     "働き方/業務改革": 3,
-    "さくらのクラウド最新情報": 23,
+    "さくらのクラウド最新情報": 24,
     "AIガバナンス": 6,
     "ガバメントクラウド": 1,
     "調達・契約": 2
   },
-  "updated_at": "2026-07-15T18:05:18.011Z"
+  "updated_at": "2026-07-16T17:59:44.811Z"
 }

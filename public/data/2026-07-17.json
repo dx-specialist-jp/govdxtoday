@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-17",
+  "date_ja": "2026年7月17日（金）",
+  "news_summary": [
+    "デジタル庁はガバメントAI「源内」実装のため基盤モデルの検証を開始しました。",
+    "経済産業省は国産フィジカルAI基盤モデル構築へ「FRONTia Project」を始動しました。",
+    "JPCERT/CCがソフトウェア脆弱性関連の届出状況とサイバーセキュリティ動向を公表しました。",
+    "AIガバナンス整備支援サービスが企業・自治体向けに複数提供開始されました。",
+    "市原市はガバメントクラウドに合わせた連携基盤を刷新し自治体標準化に対応しました。",
+    "自治体向け生成AIツールやCopilot CLIの行政・官公庁での活用事例が紹介されました。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Pegatron製Windows Driver Model (WDM) ドライバー「Tdelo64.sys」における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90340653/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: JavaScriptライブラリ「Forge」における複数の署名検証不備の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98998987/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Tera TermのTTSSH2プラグインにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN65294474/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache Tomcatにおける複数の脆弱性(2026年7月14日)",
+      "url": "https://jvn.jp/vu/JVNVU95286373/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "お知らせ：ソフトウェア等の脆弱性関連情報に関する届出状況［2026年第2四半期（4月～6月）］",
+      "summary": "JPCERT/CCがソフトウェア脆弱性関連の届出状況を公表\n\n▶ 各府省・独立行政法人は、自庁システムで利用中のソフトウェアにおける脆弱性報告の動向を確認",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "JPCERT/CC 注意喚起",
+          "url": "https://www.jpcert.or.jp/report/press.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "お知らせ：JPCERT/CC 四半期レポート［2026年4月1日～2026年6月30日］",
+      "summary": "JPCERT/CCが四半期レポートを公開\n\n▶ 最新のサイバーセキュリティ動向とインシデント対応状況を把握",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "JPCERT/CC 注意喚起",
+          "url": "https://www.jpcert.or.jp/qr/index.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "デジタル庁「ガバメントAI源内」向け、約1,800万ページをAI-Ready化し国産AI基盤モデルの検証開始",
+      "summary": "デジタル庁は、ガバメントAI「源内」実装に向け、TOPPAN、NTTデータ、FPSCが約1,800万ページをAI-Ready化し、「さくらのクラウド」上で3種類の基盤モデルを検証開始。",
+      "relevance": "ガバメントAIの推進状況と、それに伴うデータ整備・基盤モデル検証の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/digital-gennai-model-trial/"
+        },
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/113474/"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/news/e90b1072-a13a-4997-8d4a-1bebff6fd799"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "自治体向けAI・生成AIツールの提供とCopilot CLIの行政・官公庁での活用事例",
+      "summary": "自治体向けに生成AIツール「zevo」やチャットツール「LGTalk」などを提供するシフトプラスが出展し、GitHub Copilot CLIも行政・官公庁での活用が紹介された。",
+      "relevance": "自治体でのAI・生成AIツールの導入事例や、開発支援ツールとしてのCopilot CLIの活用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000207.000056138.html"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/github-copilot-cli-ai-agent/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの国際動向と企業・自治体での整備・導入支援サービスの広がり",
+      "summary": "AIエージェントの採用が急速に進む中、AIリスク監視やガバナンス整備が急務となり、企業・自治体向けにAIガバナンス整備支援サービスが複数提供開始されている。",
+      "relevance": "AI活用におけるリスク管理とガバナンス体制構築の重要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tkfd.or.jp",
+          "url": "https://www.tkfd.or.jp/research/detail.php?id=5002"
+        },
+        {
+          "name": "gartner.com",
+          "url": "https://www.gartner.com/en/documents/8134229"
+        },
+        {
+          "name": "s.kabutan.jp",
+          "url": "https://s.kabutan.jp/news/n202607161124/"
+        },
+        {
+          "name": "preferred.jp",
+          "url": "https://www.preferred.jp/ja/news/pr20260716"
+        },
+        {
+          "name": "unic.or.jp",
+          "url": "https://www.unic.or.jp/news_press/features_backgrounders/54794/"
+        },
+        {
+          "name": "weeklybcn.com",
+          "url": "https://www.weeklybcn.com/topics_detail8/id=216349"
+        },
+        {
+          "name": "startuplog.com",
+          "url": "https://startuplog.com/n/n1e7740d50f22"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000063.000115624&g=prt"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/16/ai-code-modification-anthropic-study/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/9bc816f5127ccec594e44310c2a8b9b645cdd54f"
+        },
+        {
+          "name": "jp.reuters.com",
+          "url": "https://jp.reuters.com/world/china/BN4JEHMUSBPHVPAH5SSC2BTP64-2026-07-16/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/sp/article?k=000000164.000115435&g=prt"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260716/pr2/00m/020/391000c"
+        },
+        {
+          "name": "adsknews.autodesk.com",
+          "url": "https://adsknews.autodesk.com/ja/news/hiroshima-ai-process/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/fdc001ec-62ad-41b5-a9d7-9bc19e0b02e8"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000063.000115624.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000027.000124422.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/bd62602a-011e-4a01-96f4-e07f8a65149c"
+        },
+        {
+          "name": "shikiho.toyokeizai.net",
+          "url": "https://shikiho.toyokeizai.net/news/0/951722"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000045.000052438.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "経済産業省、国産フィジカルAI基盤モデル構築へ「FRONTia Project」始動、NVIDIAが計算基盤を提供",
+      "summary": "経済産業省は、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」を始動し、AI開発企業Noetraと産総研が中心となり、NVIDIAが計算基盤を提供する。",
+      "relevance": "国家レベルでのAIインフラ整備や、産学官連携による基盤モデル開発の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html"
+        },
+        {
+          "name": "japan.cnet.com",
+          "url": "https://japan.cnet.com/article/35250684/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AnthropicのClaude、カナダ政府機関での翻訳依頼が多い傾向、Copilot Keyboardも登場",
+      "summary": "AnthropicのAI「Claude」はカナダ政府機関で翻訳依頼が多く、日本語入力アプリ「Copilot Keyboard」の正式版が公開された。",
+      "relevance": "海外政府機関でのAI活用事例や、AIを活用した業務効率化ツールの動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2125475.html"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/copilot-keyboard-windows-11/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "市原市、ガバメントクラウドに合わせた連携基盤を刷新し、自治体標準化へ対応",
+      "summary": "千葉県市原市は、国の標準仕様・ガバメントクラウドに合わせた自治体標準化の連携基盤を刷新し、複数ベンダー環境下でのデータ連携を集約管理するシステムを構築した。",
+      "relevance": "ガバメントクラウドへの移行や、標準化されたシステム連携基盤の構築・運用についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/420/4420188/"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/31840620/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19552956?news_ref=watch_60_nw19518779"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/174537/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000355.000053341.html"
+        },
+        {
+          "name": "city.arakawa.tokyo.jp",
+          "url": "https://www.city.arakawa.tokyo.jp/a010/news/hyoujyunka_kouhyou.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "さくらのクラウド、ガバメントクラウドに採択され、国産クラウドの選択肢が拡大",
+      "summary": "さくらインターネットの「さくらのクラウド」が令和8年度ガバメントクラウドに採択され、国産クラウドの選択肢が広がる中、地域課題解決に向けたガバメントクラウドファンディングも実施されている。",
+      "relevance": "ガバメントクラウドへの国産クラウドの採択状況や、クラウドファンディングを活用した地域DXの取り組みについてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19552118?news_ref=watch_20_nw19116990"
+        },
+        {
+          "name": "ehime-np.co.jp",
+          "url": "https://www.ehime-np.co.jp/article/prtimes98201"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000017.000138703.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000010.000173071.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウド肥大化に潜むリスクと、ガラス・HDDの寿命に関する記事",
+      "summary": "ガバメントクラウドの肥大化がもたらすリスクが指摘されており、ストレージ技術に関する記事も掲載されている。",
+      "relevance": "ガバメントクラウドの運用におけるリスク管理と、データストレージの選定・管理についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/6/528_6_r_20260716_1784149271914053"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Oracle Database@AWS のトラフィック集中検査",
+          "url": "https://aws.amazon.com/jp/blogs/news/centralized-traffic-inspection-for-oracle-databaseaws/",
+          "pub_date": "2026-07-16T09:55:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Terraform を使用した Oracle Database@AWS リソースのプロビジョニング",
+          "url": "https://aws.amazon.com/jp/blogs/news/provision-oracle-databaseaws-resources-using-terraform/",
+          "pub_date": "2026-07-16T09:50:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Oracle Database@AWS を読み解く: Oracle ワークロードに最適な選択肢の見極め方",
+          "url": "https://aws.amazon.com/jp/blogs/news/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/",
+          "pub_date": "2026-07-16T09:00:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Oracle Database@AWS のクロスアカウント共有のベストプラクティスとアーキテクチャパターン",
+          "url": "https://aws.amazon.com/jp/blogs/news/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/",
+          "pub_date": "2026-07-16T08:20:29.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Oracle Database@AWS の高性能ネットワーキング入門",
+          "url": "https://aws.amazon.com/jp/blogs/news/getting-started-with-the-oracle-databaseaws-high-performance-networking/",
+          "pub_date": "2026-07-16T08:10:52.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 16, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_16_2026",
+          "pub_date": "2026-07-16T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "さくらインターネットのベアメタル型GPUクラウドサービス「高火力 PHY」、Sakana AIのAI開発に採用",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/07/16/1968225411/",
+          "pub_date": "2026-07-16T02:00:16.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-16T17:59:44.807Z"
+}
