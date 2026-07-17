@@ -2350,6 +2350,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "Googleの「Gemini Spark」が日本語に対応、24時間稼働のパーソナルAIエージェントとして提供",
+        "summary": "GoogleのAIエージェント「Gemini Spark」が日本語に対応し、24時間稼働するパーソナルAIエージェントとして利用可能になりました。これは有料プランのユーザーが対象です。",
+        "source": "msn.com",
+        "url": "https://www.msn.com/ja-jp/news/techandscience/gemini-spark-%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AB%E5%AF%BE%E5%BF%9C-24%E6%99%82%E9%96%93%E5%83%8D%E3%81%8F%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88/ar-AA280xYJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+        "relevance": "PMO/PjMO担当者は、パーソナルAIエージェントの日本語対応状況について、職員の業務支援ツールとしての導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "中国AIモデル「Kimi K3」が性能でAnthropicのClaude Fable 5を上回る可能性、中国系ハッカーはClaude Codeなどを悪用",
+        "summary": "中国のMoonshot AIが発表したAIモデル「Kimi K3」が、一部ベンチマークでAnthropicの「Claude Fable 5」を上回る成績を示したと報じられています。一方、中国系ハッカーがClaude Codeなどを政府機関への不正アクセスに悪用した事例も報告されています。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news079_2.html",
+        "relevance": "PMO/PjMO担当者は、最新のAIモデルの性能動向と、AIツールのセキュリティリスクについて、庁内での情報共有や注意喚起をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "GoogleのAIリサーチツール「NotebookLM」が「Gemini Notebook」へ名称変更、Geminiエコシステム統合を強化",
+        "summary": "GoogleはAI搭載リサーチツール「NotebookLM」を「Gemini Notebook」に改称し、Geminiエコシステムへの統合を強化すると発表しました。Gemini 3.5 Proモデルの投入には遅れが生じています。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+        "relevance": "PMO/PjMO担当者は、GoogleのAIツール名称変更とエコシステム統合の動向について、業務効率化や情報収集の観点からご注目ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "政府、AI・科学技術計画を閣議決定しサイバー対策に高性能AI活用へ デジタル庁は国産AIを「さくらのクラウド」で稼働",
+        "summary": "政府はAI・科学技術計画を閣議決定し、サイバー対策への高性能AI活用を進める方針です。デジタル庁は国産AIを「さくらのクラウド」で稼働させ、日本の技術自律性を確保します。",
+        "source": "t.co",
+        "url": "https://t.co/qxLmz1cWSC",
+        "relevance": "PMO/PjMO担当者は、政府のAI・科学技術計画におけるサイバー対策へのAI活用方針について、自省庁での導入可能性や影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
         "title": "AnthropicのClaude、カナダ政府機関での翻訳依頼が多い傾向、Copilot Keyboardも登場",
@@ -2882,6 +2922,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "ガバメントクラウド活用と自治体標準化の連携基盤刷新に関する動向",
+        "summary": "山形市はガバメントクラウドファンディングで過去最多の寄付を集めました。また、市原市は国の標準仕様とガバメントクラウドに合わせた自治体標準化への連携基盤を刷新しています。",
+        "source": "city.yamagata-yamagata.lg.jp",
+        "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1006793/1018749/1019230.html",
+        "relevance": "PMO/PjMO担当者は、ガバメントクラウドの活用事例や自治体標準化の取り組みについて、自省庁でのクラウド移行やシステム連携の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
         "title": "ガバメントクラウド肥大化に潜むリスクと、ガラス・HDDの寿命に関する記事",
@@ -3187,6 +3237,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "AWS DMS を使って Amazon RDS for Db2 からオンプレミスの AIX Db2 へフェイルバックする",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/fail-back-from-amazon-rds-for-db2-to-on-premises-aix-db2-using-dms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "エブリーが、Aurora DSQL の採用でデータベースコストを 90% 以上削減とメンテナンス運用からの解放も実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/db-customercase-every-dsql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "バックアップ用オンプレミス Db2 サーバーを Amazon RDS for Db2 と同期する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "Chronos-2 on Amazon SageMaker AI にアクセスする3つのパターン – AutoGluon-Cloud v0.5.0 で数行に",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/chronos-2-on-amazon-sagemaker-ai-with-autogluon-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "【開催報告】AWS Summit Japan 2026 〜 Future of Agentic Commerce ブース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-future-of-agentic-commerce/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
@@ -3577,6 +3672,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "Gemini Enterprise と Google Cloud Marketplace でエージェントを公開するためのデベロッパー ガイド",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "エージェンティック エンタープライズに関する 20 の質問（Agent Platform がどのように役立つか）",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "セガサミーホールディングス: Google Security Operations と Google Threat Intelligence を導入し、セキュリティ対策をグローバルで標準化へ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/segasammy-implements-google-security-operations-and-google-threat-intelligence/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "July 17, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
         "title": "July 16, 2026",
@@ -3881,6 +4012,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "「 Climbers X Week 2026」にて弊社代表 田中が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/17/1968225425/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
         "title": "さくらインターネットのベアメタル型GPUクラウドサービス「高火力 PHY」、Sakana AIのAI開発に採用",
@@ -4099,6 +4239,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "中国、AIグローバルガバナンス確立に向け主導権をアピール 世界AI大会で習近平国家主席が4つの提案",
+        "summary": "中国は上海で開催された世界人工知能大会（WAIC）で、AI分野での主導権確立に向けた姿勢をアピールしました。習近平国家主席は、公正かつ合理的なAIガバナンス体制構築のため4つの提案を行いました。",
+        "source": "ey.com",
+        "url": "https://www.ey.com/ja_jp/insights/digital/ai-digitalea-data",
+        "relevance": "PMO/PjMO担当者は、AIガバナンスに関する国際的な動向、特に中国の提案内容について、自省庁のAI活用方針策定における参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
         "title": "AIガバナンスに求められる多角的な影響への配慮",
@@ -4192,6 +4342,18 @@
         "relevance": "政府による金融機関への支援策の動向を注視し、為替リスク管理や国際金融市場の動向についてご検討ください。",
         "type": "news"
       }
+    ],
+    "デジタル庁": [
+      {
+        "date": "2026-07-18",
+        "date_ja": "2026年7月18日（土）",
+        "title": "政府・省庁におけるDX推進、AI活用、および関連技術・施策の動向",
+        "summary": "国土交通省は「まちづくりGX」を推進し、デジタル庁は行政DXにおけるAI活用のガイドラインに沿う実装フレームを提供しています。また、経済産業省は「AIロボット・フィジカル」分野を推進しています。",
+        "source": "journal.addlight.co.jp",
+        "url": "https://journal.addlight.co.jp/archives/towngx/",
+        "relevance": "PMO/PjMO担当者は、各省庁が推進するDX施策やAI活用事例について、自省庁のデジタル化推進やプロジェクト管理への応用可能性をご検討ください。",
+        "type": "news"
+      }
     ]
   },
   "tag_counts": {
@@ -4199,17 +4361,18 @@
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 53,
-    "クラウド/インフラ": 13,
+    "AI活用": 57,
+    "クラウド/インフラ": 14,
     "制度/ガイドライン": 8,
     "自治体DX事例": 9,
-    "AWS最新情報": 43,
-    "Google Cloud最新情報": 30,
+    "AWS最新情報": 48,
+    "Google Cloud最新情報": 34,
     "働き方/業務改革": 3,
-    "さくらのクラウド最新情報": 24,
-    "AIガバナンス": 6,
+    "さくらのクラウド最新情報": 25,
+    "AIガバナンス": 7,
     "ガバメントクラウド": 1,
-    "調達・契約": 2
+    "調達・契約": 2,
+    "デジタル庁": 1
   },
-  "updated_at": "2026-07-16T17:59:44.811Z"
+  "updated_at": "2026-07-17T17:47:55.132Z"
 }

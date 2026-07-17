@@ -1,0 +1,321 @@
+{
+  "date": "2026-07-18",
+  "date_ja": "2026年7月18日（土）",
+  "news_summary": [
+    "政府はサイバー対策に高性能AI活用を進めるためAI・科学技術計画を閣議決定しました。",
+    "デジタル庁は国産AIを「さくらのクラウド」で稼働させ、技術自律性を確保する方針です。",
+    "GoogleのAIリサーチツール「NotebookLM」が「Gemini Notebook」へ名称変更されました。",
+    "中国AIモデル「Kimi K3」が一部ベンチマークで「Claude Fable 5」を上回る可能性が報じられました。",
+    "GoogleのAIエージェント「Gemini Spark」が有料プラン向けに日本語対応を開始しました。",
+    "山形市はガバメントクラウドファンディングで過去最多の寄付を集めました。",
+    "市原市は国の標準仕様とガバメントクラウドに合わせた自治体標準化への連携基盤を刷新しました。",
+    "中国はAIグローバルガバナンス確立に向け、習近平国家主席が4つの提案を行いました。",
+    "国土交通省は「まちづくりGX」を推進し、デジタル庁は行政DXのAI活用実装フレームを提供しています。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府、AI・科学技術計画を閣議決定しサイバー対策に高性能AI活用へ デジタル庁は国産AIを「さくらのクラウド」で稼働",
+      "summary": "政府はAI・科学技術計画を閣議決定し、サイバー対策への高性能AI活用を進める方針です。デジタル庁は国産AIを「さくらのクラウド」で稼働させ、日本の技術自律性を確保します。",
+      "relevance": "PMO/PjMO担当者は、政府のAI・科学技術計画におけるサイバー対策へのAI活用方針について、自省庁での導入可能性や影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "t.co",
+          "url": "https://t.co/qxLmz1cWSC"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/policies/genai/movie_20260717"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "GoogleのAIリサーチツール「NotebookLM」が「Gemini Notebook」へ名称変更、Geminiエコシステム統合を強化",
+      "summary": "GoogleはAI搭載リサーチツール「NotebookLM」を「Gemini Notebook」に改称し、Geminiエコシステムへの統合を強化すると発表しました。Gemini 3.5 Proモデルの投入には遅れが生じています。",
+      "relevance": "PMO/PjMO担当者は、GoogleのAIツール名称変更とエコシステム統合の動向について、業務効率化や情報収集の観点からご注目ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html"
+        },
+        {
+          "name": "ja.martincid.com",
+          "url": "https://ja.martincid.com/technology-ja/google%E3%81%8C%E4%B8%80%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Fgemini-3-5-pro%E3%80%81200%E4%B8%87%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%A7%E5%86%8D%E5%A7%8B%E5%8B%95/"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=QYlVffB5yr8"
+        },
+        {
+          "name": "watch.impress.co.jp",
+          "url": "https://www.watch.impress.co.jp/docs/news/2125930.html"
+        },
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2808720"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "中国AIモデル「Kimi K3」が性能でAnthropicのClaude Fable 5を上回る可能性、中国系ハッカーはClaude Codeなどを悪用",
+      "summary": "中国のMoonshot AIが発表したAIモデル「Kimi K3」が、一部ベンチマークでAnthropicの「Claude Fable 5」を上回る成績を示したと報じられています。一方、中国系ハッカーがClaude Codeなどを政府機関への不正アクセスに悪用した事例も報告されています。",
+      "relevance": "PMO/PjMO担当者は、最新のAIモデルの性能動向と、AIツールのセキュリティリスクについて、庁内での情報共有や注意喚起をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/17/news079_2.html"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/7/359_7_r_20260717_1784248422053696"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/claude-deepseek-dual-model-apt-attack/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Googleの「Gemini Spark」が日本語に対応、24時間稼働のパーソナルAIエージェントとして提供",
+      "summary": "GoogleのAIエージェント「Gemini Spark」が日本語に対応し、24時間稼働するパーソナルAIエージェントとして利用可能になりました。これは有料プランのユーザーが対象です。",
+      "relevance": "PMO/PjMO担当者は、パーソナルAIエージェントの日本語対応状況について、職員の業務支援ツールとしての導入可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "msn.com",
+          "url": "https://www.msn.com/ja-jp/news/techandscience/gemini-spark-%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AB%E5%AF%BE%E5%BF%9C-24%E6%99%82%E9%96%93%E5%83%8D%E3%81%8F%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88/ar-AA280xYJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド活用と自治体標準化の連携基盤刷新に関する動向",
+      "summary": "山形市はガバメントクラウドファンディングで過去最多の寄付を集めました。また、市原市は国の標準仕様とガバメントクラウドに合わせた自治体標準化への連携基盤を刷新しています。",
+      "relevance": "PMO/PjMO担当者は、ガバメントクラウドの活用事例や自治体標準化の取り組みについて、自省庁でのクラウド移行やシステム連携の参考としてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "city.yamagata-yamagata.lg.jp",
+          "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1006793/1018749/1019230.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000198.000094022.html"
+        },
+        {
+          "name": "corp.wingarc.com",
+          "url": "https://corp.wingarc.com/public/202607/news3007.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "中国、AIグローバルガバナンス確立に向け主導権をアピール 世界AI大会で習近平国家主席が4つの提案",
+      "summary": "中国は上海で開催された世界人工知能大会（WAIC）で、AI分野での主導権確立に向けた姿勢をアピールしました。習近平国家主席は、公正かつ合理的なAIガバナンス体制構築のため4つの提案を行いました。",
+      "relevance": "PMO/PjMO担当者は、AIガバナンスに関する国際的な動向、特に中国の提案内容について、自省庁のAI活用方針策定における参考としてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/insights/digital/ai-digitalea-data"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/190a4e4478a9aaa9ad059be9547ebcba74f1d04a"
+        },
+        {
+          "name": "fnn.jp",
+          "url": "https://www.fnn.jp/articles/-/1077461"
+        },
+        {
+          "name": "fx.minkabu.jp",
+          "url": "https://fx.minkabu.jp/news/373494"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/17/ARTI1784295168347126"
+        },
+        {
+          "name": "japanese.china.org.cn",
+          "url": "http://japanese.china.org.cn/politics/txt/2026-07/17/content_118604415.htm"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bon-cau-hoi-lon-ve-ai-cua-chu-tich-trung-quoc-tap-can-binh"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/17/ARTI1784287024460809"
+        },
+        {
+          "name": "txbiz.tv-tokyo.co.jp",
+          "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_344974"
+        },
+        {
+          "name": "shikiho.toyokeizai.net",
+          "url": "https://shikiho.toyokeizai.net/news/0/951121"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/it/12101102"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260717/pr2/00m/020/724000c"
+        },
+        {
+          "name": "newsweekjapan.jp",
+          "url": "https://www.newsweekjapan.jp/articles/-/328756?display=b"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/chu-tich-trung-quoc-tap-can-binh-neu-4-de-xuat-ve-phat-trien-va-quan-tri-ai"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "http://j.people.com.cn/n3/2026/0717/c94474-20479038.html"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/17/ARTI1784274884061580"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000001878.000042328.html"
+        },
+        {
+          "name": "tver.jp",
+          "url": "https://tver.jp/episodes/ep57dv6mfi"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5535d6e7b1e18db0c2c098d698a4d93a1bd19f88"
+        },
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/international/338f9aab132749cf8e5cc2cc52df2540"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "政府・省庁におけるDX推進、AI活用、および関連技術・施策の動向",
+      "summary": "国土交通省は「まちづくりGX」を推進し、デジタル庁は行政DXにおけるAI活用のガイドラインに沿う実装フレームを提供しています。また、経済産業省は「AIロボット・フィジカル」分野を推進しています。",
+      "relevance": "PMO/PjMO担当者は、各省庁が推進するDX施策やAI活用事例について、自省庁のデジタル化推進やプロジェクト管理への応用可能性をご検討ください。",
+      "category": "デジタル庁",
+      "sources": [
+        {
+          "name": "journal.addlight.co.jp",
+          "url": "https://journal.addlight.co.jp/archives/towngx/"
+        },
+        {
+          "name": "inclusive.co.jp",
+          "url": "https://inclusive.co.jp/2026/07/17/20260717_shiretoko/"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/1251991"
+        },
+        {
+          "name": "codezine.jp",
+          "url": "https://codezine.jp/article/detail/28873"
+        },
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/public_relations/finance/202607/202607q.html"
+        },
+        {
+          "name": "cafe-dc.com",
+          "url": "https://cafe-dc.com/hpc/nvidia-partners-with-noetra-for-140mw-vera-rubin-cluster-in-japan/"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【開催報告】AWS Summit Japan 2026 〜 Future of Agentic Commerce ブース",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-future-of-agentic-commerce/",
+          "pub_date": "2026-07-17T11:47:34.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Chronos-2 on Amazon SageMaker AI にアクセスする3つのパターン – AutoGluon-Cloud v0.5.0 で数行に",
+          "url": "https://aws.amazon.com/jp/blogs/news/chronos-2-on-amazon-sagemaker-ai-with-autogluon-cloud/",
+          "pub_date": "2026-07-17T07:51:58.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "バックアップ用オンプレミス Db2 サーバーを Amazon RDS for Db2 と同期する",
+          "url": "https://aws.amazon.com/jp/blogs/news/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/",
+          "pub_date": "2026-07-17T07:07:06.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "エブリーが、Aurora DSQL の採用でデータベースコストを 90% 以上削減とメンテナンス運用からの解放も実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/db-customercase-every-dsql/",
+          "pub_date": "2026-07-17T06:41:36.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS DMS を使って Amazon RDS for Db2 からオンプレミスの AIX Db2 へフェイルバックする",
+          "url": "https://aws.amazon.com/jp/blogs/news/fail-back-from-amazon-rds-for-db2-to-on-premises-aix-db2-using-dms/",
+          "pub_date": "2026-07-17T05:25:03.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 17, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_17_2026",
+          "pub_date": "2026-07-17T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "セガサミーホールディングス: Google Security Operations と Google Threat Intelligence を導入し、セキュリティ対策をグローバルで標準化へ",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/segasammy-implements-google-security-operations-and-google-threat-intelligence/",
+          "pub_date": "2026-07-17T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "エージェンティック エンタープライズに関する 20 の質問（Agent Platform がどのように役立つか）",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+          "pub_date": "2026-07-17T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Enterprise と Google Cloud Marketplace でエージェントを公開するためのデベロッパー ガイド",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+          "pub_date": "2026-07-17T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「 Climbers X Week 2026」にて弊社代表 田中が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/17/1968225425/",
+          "pub_date": "2026-07-17T05:00:48.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-17T17:47:55.128Z"
+}
