@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-19",
+  "date_ja": "2026年7月19日（日）",
+  "news_summary": [
+    "経済産業省がクレジットカード決済障害に関しVISAに原因究明と再発防止策を要求した。",
+    "政府は「行政AX」とAI時代の行政能力を再定義し、実装フレームを整備している。",
+    "日本政府はフィジカルAIに1兆円投資し、マルチモーダル基盤モデル開発を支援する。",
+    "国内大手ITベンダー3社がAnthropicと協業し、AI人材育成・業種別AIソリューション提供へ。",
+    "AI活用とガバナンス整備の両立が経営課題となり、実装支援サービスが展開されている。",
+    "中国はAIガバナンスにおける国際協調を提唱し、中国主導のAIガバナンス組織「WAICO」が発足した。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "クレジットカード決済障害、経済産業省がVISAに原因究明と再発防止策を要求",
+      "summary": "クレジットカード決済システムにおいて発生した障害に対し、経済産業省はVISAに対し、原因究明と再発防止策の実施を求めた。",
+      "relevance": "PMO/PjMOの皆様は、基幹システムの障害発生時の対応フローと、再発防止策の計画・実行についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "tver.jp",
+          "url": "https://tver.jp/episodes/ep01dvv4w5"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AI活用とガバナンス整備の重要性が高まる、企業・金融機関での実装戦略・支援サービスが展開",
+      "summary": "AI活用が広がるにつれ、データ管理、ガバナンス、人材育成、リスク管理の両立が経営課題となっている。企業ではAI活用推進とガバナンス整備を一体で支援するサービスが提供され、AIガバナンスの実装を包括的に支援する動きが進んでいる。",
+      "relevance": "PMO/PjMOの皆様は、AI導入におけるガバナンス構築のベストプラクティスと、リスク管理体制の整備についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17123894/body/?ref=topics"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-18-115624-63/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-18-124422-27/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-snow/snowflake/news/97402f775a849b61"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2630uk67/"
+        },
+        {
+          "name": "dhbr.diamond.jp",
+          "url": "https://dhbr.diamond.jp/articles/-/14074"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI時代の行政能力を「行政AX」と再定義、デジタル庁・総務省ガイドラインに沿う実装フレームを整備",
+      "summary": "政府は自治体DX推進計画、デジタル庁生成AI調達・利活用ガイドライン、総務省自治体AI導入ガイドブック等に沿った、AI時代の行政能力を「行政AX」と再定義する実装フレームを整備している。",
+      "relevance": "PMO/PjMOの皆様は、AI活用における最新の政府ガイドラインと、行政AX実現に向けた実装フレームについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000346.000033909&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000346.000033909.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "国内大手ITベンダーがAnthropicと協業、AI人材育成・業種別AIソリューション提供へ",
+      "summary": "NEC、日立、富士通がAnthropicと協業し、AI人材育成を強化するとともに、金融・製造・自治体向けに業種別AIソリューションを展開する。AIエージェントが物理世界を再構築する可能性にも言及されている。",
+      "relevance": "PMO/PjMOの皆様は、AI人材育成の最新動向と、業種特化型AIソリューションの導入可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19559925?news_ref=watch_20_nw18988759"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/35f634a9-5ba8-4e7d-80e4-bd4b848fb182"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "日本政府、フィジカルAIに1兆円投資、経済産業省・NEDOがマルチモーダル基盤モデル開発を支援",
+      "summary": "日本政府はフィジカルAIに1兆円を投資し、経済産業省およびNEDOが「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル」の開発事業を支援する。NVIDIA「Vera Rubin」基盤のAI工場についても言及されている。",
+      "relevance": "PMO/PjMOの皆様は、フィジカルAI分野への政府投資動向と、関連する基盤モデル開発の進捗についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260718/1318885.html"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20260718/861838.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIモデル「Claude Fable 5」と中国「Kimi K3」の性能競争、フロントエンド開発ベンチマークで「Kimi K3」が首位",
+      "summary": "AIモデル「Claude Fable 5」がサブスクリプションサービスに統合された一方、中国のMoonshot AIが開発した「Kimi K3」がフロントエンド開発ベンチマークで首位を獲得し、「Claude Fable 5」を逆転した。",
+      "relevance": "PMO/PjMOの皆様は、最新AIモデルの性能比較と、行政システムへの適用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/3602/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "中国、AIガバナンスにおける国際協調と公正なシステム構築を提唱、新組織「WAICO」発足",
+      "summary": "中国の習近平国家主席は上海のAI会議で、AI開発とガバナンスにおける国際協調を呼びかけ、公正で合理的なシステム構築に関する4つの意見を提示した。中国主導のAIガバナンス組織「WAICO」が発足し、29カ国が合意書に署名した。",
+      "relevance": "PMO/PjMOの皆様は、国際的なAIガバナンスの動向と、それに伴う国内制度への影響についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/article/detail/31861292/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7b598944-fef5-4651-8f5e-c632153953ad"
+        },
+        {
+          "name": "kucoin.com",
+          "url": "https://www.kucoin.com/ja/news/flash/public-first-action-allocates-15m-to-support-gop-lawmakers-on-ai-safety"
+        },
+        {
+          "name": "chinanews.jp",
+          "url": "https://chinanews.jp/archives/35424"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/trung-quoc-cong-bo-ke-hoach-hanh-dong-ai-toan-cau"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/trung-quoc-neu-4-de-xuat-ve-phat-trien-va-quan-tri-ai"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/18/ARTI1784354735584129"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20260718/861847.html"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/photo/861847.html"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/hoi-nghi-ai-the-gioi-2026-thuc-day-quan-tri-ai-toan-cau"
+        },
+        {
+          "name": "japan.hani.co.kr",
+          "url": "https://japan.hani.co.kr/arti/international/cn_tw/56732.html"
+        },
+        {
+          "name": "japan.hani.co.kr",
+          "url": "http://japan.hani.co.kr/arti/international/cn_tw/56732.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "フォーバル子会社、経済産業省DX認定制度に基づく「DX認定事業者」に認定",
+      "summary": "フォーバルは、子会社の三知が経済産業省のDX認定制度に基づく「DX認定事業者」に認定されたことを発表した。",
+      "relevance": "PMO/PjMOの皆様は、DX認定制度の最新動向と、認定取得による組織への影響についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "diamond.jp",
+          "url": "https://diamond.jp/zai/articles/-/1070317"
+        },
+        {
+          "name": "s.kabutan.jp",
+          "url": "https://s.kabutan.jp/news/n202607170885/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "自治体、ガバメントクラウドファンディングを活用した地域活性化・イベント開催支援を推進",
+      "summary": "複数の自治体が、地域活性化や地域住民の交流促進を目的として、ガバメントクラウドファンディングを活用した資金調達に取り組んでいる。花火大会の開催費用支援や、施設整備の応援などが実施されている。",
+      "relevance": "PMO/PjMOの皆様は、ガバメントクラウドファンディングの活用事例から、地域貢献型プロジェクトの推進策をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "town.minamiaizu.lg.jp",
+          "url": "https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/tateiwasogoshisho_shinkoka/oshirase/3979.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19559521?news_ref=20_20"
+        },
+        {
+          "name": "oita-press.co.jp",
+          "url": "https://www.oita-press.co.jp/1010000000/2026/07/18/JDC2026070102369"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "総務省、ICTリテラシー実態調査の結果を公表、偽情報拡散傾向も明らかに",
+      "summary": "総務省は、利用者のICTリテラシーに関する認識や、偽・誤情報の拡散傾向を調査した結果を公表した。",
+      "relevance": "PMO/PjMOの皆様は、ICTリテラシー向上策と、偽情報対策におけるAIの活用可能性についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "kknews.co.jp",
+          "url": "https://www.kknews.co.jp/news/20260718o02"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 18, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_18_2026",
+          "pub_date": "2026-07-18T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-18T17:37:39.262Z"
+}

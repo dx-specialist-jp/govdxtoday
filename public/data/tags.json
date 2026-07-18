@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "クレジットカード決済障害、経済産業省がVISAに原因究明と再発防止策を要求",
+        "summary": "クレジットカード決済システムにおいて発生した障害に対し、経済産業省はVISAに対し、原因究明と再発防止策の実施を求めた。",
+        "source": "tver.jp",
+        "url": "https://tver.jp/episodes/ep01dvv4w5",
+        "relevance": "PMO/PjMOの皆様は、基幹システムの障害発生時の対応フローと、再発防止策の計画・実行についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-17",
         "date_ja": "2026年7月17日（金）",
         "title": "お知らせ：JPCERT/CC 四半期レポート［2026年4月1日～2026年6月30日］",
@@ -2350,6 +2360,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "AIモデル「Claude Fable 5」と中国「Kimi K3」の性能競争、フロントエンド開発ベンチマークで「Kimi K3」が首位",
+        "summary": "AIモデル「Claude Fable 5」がサブスクリプションサービスに統合された一方、中国のMoonshot AIが開発した「Kimi K3」がフロントエンド開発ベンチマークで首位を獲得し、「Claude Fable 5」を逆転した。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+        "relevance": "PMO/PjMOの皆様は、最新AIモデルの性能比較と、行政システムへの適用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "日本政府、フィジカルAIに1兆円投資、経済産業省・NEDOがマルチモーダル基盤モデル開発を支援",
+        "summary": "日本政府はフィジカルAIに1兆円を投資し、経済産業省およびNEDOが「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル」の開発事業を支援する。NVIDIA「Vera Rubin」基盤のAI工場についても言及されている。",
+        "source": "rbbtoday.com",
+        "url": "https://www.rbbtoday.com/release/prtimes2-today/20260718/1318885.html",
+        "relevance": "PMO/PjMOの皆様は、フィジカルAI分野への政府投資動向と、関連する基盤モデル開発の進捗についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "国内大手ITベンダーがAnthropicと協業、AI人材育成・業種別AIソリューション提供へ",
+        "summary": "NEC、日立、富士通がAnthropicと協業し、AI人材育成を強化するとともに、金融・製造・自治体向けに業種別AIソリューションを展開する。AIエージェントが物理世界を再構築する可能性にも言及されている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19559925?news_ref=watch_20_nw18988759",
+        "relevance": "PMO/PjMOの皆様は、AI人材育成の最新動向と、業種特化型AIソリューションの導入可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "AI時代の行政能力を「行政AX」と再定義、デジタル庁・総務省ガイドラインに沿う実装フレームを整備",
+        "summary": "政府は自治体DX推進計画、デジタル庁生成AI調達・利活用ガイドライン、総務省自治体AI導入ガイドブック等に沿った、AI時代の行政能力を「行政AX」と再定義する実装フレームを整備している。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000346.000033909&g=prt",
+        "relevance": "PMO/PjMOの皆様は、AI活用における最新の政府ガイドラインと、行政AX実現に向けた実装フレームについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "AI活用とガバナンス整備の重要性が高まる、企業・金融機関での実装戦略・支援サービスが展開",
+        "summary": "AI活用が広がるにつれ、データ管理、ガバナンス、人材育成、リスク管理の両立が経営課題となっている。企業ではAI活用推進とガバナンス整備を一体で支援するサービスが提供され、AIガバナンスの実装を包括的に支援する動きが進んでいる。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17123894/body/?ref=topics",
+        "relevance": "PMO/PjMOの皆様は、AI導入におけるガバナンス構築のベストプラクティスと、リスク管理体制の整備についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-18",
         "date_ja": "2026年7月18日（土）",
         "title": "Googleの「Gemini Spark」が日本語に対応、24時間稼働のパーソナルAIエージェントとして提供",
@@ -3064,6 +3124,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "フォーバル子会社、経済産業省DX認定制度に基づく「DX認定事業者」に認定",
+        "summary": "フォーバルは、子会社の三知が経済産業省のDX認定制度に基づく「DX認定事業者」に認定されたことを発表した。",
+        "source": "diamond.jp",
+        "url": "https://diamond.jp/zai/articles/-/1070317",
+        "relevance": "PMO/PjMOの皆様は、DX認定制度の最新動向と、認定取得による組織への影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "中国、AIガバナンスにおける国際協調と公正なシステム構築を提唱、新組織「WAICO」発足",
+        "summary": "中国の習近平国家主席は上海のAI会議で、AI開発とガバナンスにおける国際協調を呼びかけ、公正で合理的なシステム構築に関する4つの意見を提示した。中国主導のAIガバナンス組織「WAICO」が発足し、29カ国が合意書に署名した。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/31861292/",
+        "relevance": "PMO/PjMOの皆様は、国際的なAIガバナンスの動向と、それに伴う国内制度への影響についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-15",
         "date_ja": "2026年7月15日（水）",
         "title": "EU AI法、中国AI戦略、自動運転インフラ戦略など、AI規制・戦略動向が進行",
@@ -3145,6 +3225,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "自治体、ガバメントクラウドファンディングを活用した地域活性化・イベント開催支援を推進",
+        "summary": "複数の自治体が、地域活性化や地域住民の交流促進を目的として、ガバメントクラウドファンディングを活用した資金調達に取り組んでいる。花火大会の開催費用支援や、施設整備の応援などが実施されている。",
+        "source": "town.minamiaizu.lg.jp",
+        "url": "https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/tateiwasogoshisho_shinkoka/oshirase/3979.html",
+        "relevance": "PMO/PjMOの皆様は、ガバメントクラウドファンディングの活用事例から、地域貢献型プロジェクトの推進策をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-16",
         "date_ja": "2026年7月16日（木）",
@@ -3672,6 +3762,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "July 18, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_18_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-18",
         "date_ja": "2026年7月18日（土）",
         "title": "Gemini Enterprise と Google Cloud Marketplace でエージェントを公開するためのデベロッパー ガイド",
@@ -3979,6 +4078,16 @@
       }
     ],
     "働き方/業務改革": [
+      {
+        "date": "2026-07-19",
+        "date_ja": "2026年7月19日（日）",
+        "title": "総務省、ICTリテラシー実態調査の結果を公表、偽情報拡散傾向も明らかに",
+        "summary": "総務省は、利用者のICTリテラシーに関する認識や、偽・誤情報の拡散傾向を調査した結果を公表した。",
+        "source": "kknews.co.jp",
+        "url": "https://www.kknews.co.jp/news/20260718o02",
+        "relevance": "PMO/PjMOの皆様は、ICTリテラシー向上策と、偽情報対策におけるAIの活用可能性についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-12",
         "date_ja": "2026年7月12日（日）",
@@ -4357,22 +4466,22 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 30,
+    "セキュリティ": 31,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 57,
+    "AI活用": 62,
     "クラウド/インフラ": 14,
-    "制度/ガイドライン": 8,
-    "自治体DX事例": 9,
+    "制度/ガイドライン": 10,
+    "自治体DX事例": 10,
     "AWS最新情報": 48,
-    "Google Cloud最新情報": 34,
-    "働き方/業務改革": 3,
+    "Google Cloud最新情報": 35,
+    "働き方/業務改革": 4,
     "さくらのクラウド最新情報": 25,
     "AIガバナンス": 7,
     "ガバメントクラウド": 1,
     "調達・契約": 2,
     "デジタル庁": 1
   },
-  "updated_at": "2026-07-17T17:47:55.132Z"
+  "updated_at": "2026-07-18T17:37:39.266Z"
 }
