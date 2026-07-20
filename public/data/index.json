@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-21",
+      "summary_short": "Elastic、AWS AIセキュリティコンピテンシーの…など6件",
+      "article_count": 6,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-20",
       "summary_short": "2027年、日本は半導体・AI・行政改革の結実を迎え歴史…など5件",
       "article_count": 5,

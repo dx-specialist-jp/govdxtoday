@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-21",
+  "date_ja": "2026年7月21日（火）",
+  "news_summary": [
+    "ElasticがAWS AIセキュリティコンピテンシー認定を取得し、AWS上でのAI活用セキュリティを強化。",
+    "上海世界人工知能会議でAIガバナンス構築・試験評価能力開発・安全基準確立支援の成果を発表。",
+    "米政府指示でAnthropic Claude Fable 5への一時的規制が解除され、提供が再開された。",
+    "経済産業省のGXフューチャー・リーグに2688社が参画し、GX推進に向けた連携が拡大。",
+    "Google CloudがGPU不足対策として、AI採用増に対応するための独自チップ開発に注力。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Elastic、AWS AIセキュリティコンピテンシーの認定を取得",
+      "summary": "Elasticは、AWS金融サービスコンピテンシー、AWS政府機関コンピテンシー、AWS AIコンピテンシー、AWSエデュケーションコンピテンシーなど、複数のAWSコンピテンシーを取得しました。",
+      "relevance": "AWSにおけるAIセキュリティ関連のコンピテンシー認定動向について、将来的なクラウド利用におけるセキュリティ要件の確認や、ベンダー選定の参考としてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/company-news/article-93CH-1608730"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "上海で開催された世界人工知能会議（WAIC）におけるAIガバナンスに関する議論と成果発表",
+      "summary": "2026年世界人工知能会議（WAIC）が上海で開催され、AIガバナンス、AIエージェントセキュリティ、AI倫理教育、AIの都市ガバナンスへの活用など、多岐にわたるテーマで議論が行われました。AIガバナンスの構築やAIシステムの試験・評価能力開発、安全基準確立支援に関する成果が発表されました。",
+      "relevance": "国際的なAIガバナンスの動向や、AIシステムの開発・運用におけるセキュリティ・倫理的側面について、国内のガイドライン策定やプロジェクト管理体制構築の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/060ad1db-e885-47b6-ae68-88d62577b6ef"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/china-anchors-a-new-ai-governance-bloc-in-shanghai/"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/photo/861961.html"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/article/20260720/861961.html"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/trung-quoc-mo-rong-ung-dung-ai-vao-quan-tri-do-thi"
+        },
+        {
+          "name": "phemex.com",
+          "url": "https://phemex.com/ja/news/article/2026-world-ai-conference-concludes-with-over-20-billion-yuan-in-procurement-93839"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/1d15d3e3-9da4-4f14-991b-f79bac03b719"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "http://j.people.com.cn/n3/2026/0720/c94474-20479702.html"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/hoi-nghi-ai-the-gioi-2026-cong-bo-hang-loat-thanh-tuu-doi-moi"
+        },
+        {
+          "name": "japanese.china.org.cn",
+          "url": "http://japanese.china.org.cn/jp/txt/2026-07/20/content_118608043.htm"
+        },
+        {
+          "name": "japanese.china.org.cn",
+          "url": "http://japanese.china.org.cn/politics/txt/2026-07/20/content_118608239.htm"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17129608/?ref=news-summary_1431679"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "http://j.people.com.cn/n3/2026/0720/c94474-20479553.html"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/echolocation/business/echolocation-8045"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/the-gioi-tim-loi-giai-cho-ky-nguyen-ai-tu-trung-quoc"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/society/12100935"
+        },
+        {
+          "name": "dhbr.diamond.jp",
+          "url": "https://dhbr.diamond.jp/articles/-/14498"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/31865707/"
+        },
+        {
+          "name": "weex.com",
+          "url": "https://www.weex.com/ja/news/detail/a-man-illegally-crossed-into-myanmars-myawaddy-and-other-places-to-participate-in-telecom-fraud-luring-victims-to-invest-in-virtual-currency-and-was-sentenced-fia1tphkrkolximf5jqvpu90"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Google Home スピーカー、Gemini対応で会話能力が向上",
+      "summary": "Google Homeスピーカーが6年ぶりに刷新され、Geminiに対応したことで、会話能力が向上しました。",
+      "relevance": "AI技術の進化がコンシューマー向け製品にもたらす影響について、将来的な行政サービスへの応用可能性や、ユーザビリティ向上策の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/420/4420736/galleryimg.html?num=2&utm_source=yahoonews&utm_medium=feed&utm_campaign=4420736"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "Google Cloud、GPU不足に対応するため独自のチップに注力",
+      "summary": "Google Cloudは、AIの急増する採用に対応するため、GPU不足に対処するべく独自のチップ開発に注力しています。",
+      "relevance": "AI開発・運用におけるインフラストラクチャの動向について、将来的なクラウド利用や調達戦略の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "voi.id",
+          "url": "https://voi.id/ja/technology/584939"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "米政府の指示によるAnthropic Claude Fable 5への一時的規制解除と提供再開",
+      "summary": "AnthropicのAIモデル「Claude Fable 5」は、米政府の指示により一時的に規制された後、2026年7月1日から提供が再開されました。このAIはアメリカ政府が介入するほど高性能とされています。",
+      "relevance": "AIモデルの利用に関する規制動向や、政府の介入事例について、調達や利用ガイドライン策定の観点からご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17130769/?ref=pickstream_2085"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/31867416/"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260719-claude-fable-5-plan/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省、GXフューチャー・リーグに2688社が参画",
+      "summary": "経済産業省は、2026年度に発足した「GXフューチャー・リーグ」に2688社が参画したことを発表しました。",
+      "relevance": "政府主導のGX推進プログラムにおける参加状況について、他省庁の同様の取り組みの参考や、DX推進との関連性についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/07/20/news-26408/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "22社51名の参加者が2時間で業務アプリを自作し発表 ！Claude ・Kiro実践ワークショップの記録",
+          "url": "https://aws.amazon.com/jp/blogs/news/ai-coding-workshop20260608/",
+          "pub_date": "2026-07-20T09:01:54.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 20, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_20_2026",
+          "pub_date": "2026-07-20T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-20T19:19:17.516Z"
+}
