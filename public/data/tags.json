@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "AI駆動の脆弱性調整イニシアチブ「Gold Eagle」発表、重要インフラのサイバー脆弱性検知・優先順位付けへ",
+        "summary": "米ホワイトハウスは、AI駆動の脆弱性調整イニシアチブ「Gold Eagle」を発表し、政府機関等がサイバー脆弱性の検知・優先順位付けを行う。米政府は安全保障上の懸念からAnthropicのAIモデルへのアクセスを停止。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/white-house-gold-eagle-ai-vulnerability-2026/",
+        "relevance": "サイバー脆弱性検知・優先順位付けにおけるAI活用と、AIモデル利用における安全保障上の懸念についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-21",
         "date_ja": "2026年7月21日（火）",
         "title": "Elastic、AWS AIセキュリティコンピテンシーの認定を取得",
@@ -2370,6 +2380,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "赤澤経済産業大臣、製造業・廃炉現場のデータ活用とAI連携に言及",
+        "summary": "経済産業大臣は、我が国が持つ製造業や廃炉現場のデータをAIと連携させて活用していくことの重要性に言及した。",
+        "source": "meti.go.jp",
+        "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260721001.html",
+        "relevance": "製造業や廃炉現場におけるデータ活用とAI連携の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "AI時代の企業に求められるセキュリティとガバナンス戦略、AIガバナンス協会にPerplexity Japanが入会",
+        "summary": "AI活用とセキュリティ、ガバナンス整備を一体で支援するサービスや、AI時代に企業に求められるセキュリティとガバナンス戦略が提言されている。AIガバナンス協会にPerplexity Japanが正会員として入会。",
+        "source": "dlri.co.jp",
+        "url": "https://www.dlri.co.jp/report/asset/634519.html",
+        "relevance": "AI活用におけるセキュリティとガバナンスの重要性、および関連団体への参画状況についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "博報堂DYHD・日立ら「人間中心のAI」新団体設立 - 産学連携で社会実装へ",
+        "summary": "博報堂DYホールディングス、日立製作所、GMOペパボ、スマートガバナンスらが、慶應義塾大学や東京大学などの学術界を含む約30名で「人間中心のAIコンソーシアム」を設立し、社会実装を目指す。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/3760eb1e-e232-4c60-ae31-9c103f0301ea",
+        "relevance": "「人間中心のAI」の社会実装に向けた産学連携の取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "政府、AI活用推進へ「重点計画」策定 - 次期マイナカードは29年度に、ガバメントAI「源内」を推進",
+        "summary": "政府はAI活用を推進する「重点計画」を策定し、ガバメントAI「源内」の全府省庁での実証事業を進める。次期マイナンバーカードは2029年度に発行予定。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/d3c0ede84cf004bcf02cf5a501f2f7e0ea2e5f41",
+        "relevance": "政府のAI活用推進計画と、ガバメントAI「源内」の実証事業の進捗についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "政府・提携先に限定提供の脆弱性対策特化AIモデル「Gemini 3.5 Flash Cyber」発表、主力「Pro」の導入は遅延",
+        "summary": "Googleは脆弱性対策に特化した軽量AIモデル「Gemini 3.5 Flash Cyber」を政府機関や認定パートナーに限定提供開始。主力モデル「Pro」の導入遅延は長期化する見込み。",
+        "source": "pc.watch.impress.co.jp",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2126734.html",
+        "relevance": "脆弱性対策に特化したAIモデルの政府機関への提供状況や、AI開発における遅延・費用の課題についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-21",
         "date_ja": "2026年7月21日（火）",
         "title": "Google Home スピーカー、Gemini対応で会話能力が向上",
@@ -3174,6 +3234,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "中国、AIグローバルガバナンス協力推進を強調 - 2026年世界AI大会閉幕",
+        "summary": "2026年世界AI大会では、中国がAIグローバルガバナンス協力推進の取り組みを示し、AIを共同の繁栄と安全を守る重要技術として位置づけている。中国はAIガバナンスを社会管理に活用。",
+        "source": "japanese.china.org.cn",
+        "url": "http://japanese.china.org.cn/politics/txt/2026-07/21/content_118610161.htm",
+        "relevance": "AIグローバルガバナンスに関する国際的な動向と、中国のAIガバナンスへの取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-21",
         "date_ja": "2026年7月21日（火）",
         "title": "経済産業省、GXフューチャー・リーグに2688社が参画",
@@ -3316,6 +3386,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "総務省「地域社会DX推進パッケージ事業」、AI・自動運転等の先進的ソリューション実証支援",
+        "summary": "総務省は「地域社会DX推進パッケージ事業」において、AI・自動運転等の先進的ソリューションや通信インフラ整備の補助、デジタル人材・体制確保支援を行う。",
+        "source": "nttdata-strategy.com",
+        "url": "https://www.nttdata-strategy.com/newsrelease/news/260721/",
+        "relevance": "地域社会におけるDX推進のためのAI・先進的ソリューションの実証支援策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "自治体向けAIシステム「zevo」、画像対応AIモデル「GPT-Image-2」を2026年7月21日より提供開始",
+        "summary": "自治体向けAIシステム「自治体AI zevo」は、ChatGPT、Claude、Geminiに加えて、画像対応AIモデル「GPT-Image-2」を全利用自治体へ提供開始する。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/663686",
+        "relevance": "自治体における生成AIの画像対応機能の導入事例と、LGWAN環境での活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-20",
         "date_ja": "2026年7月20日（月）",
         "title": "国土交通省、物流施設DX実証の二次公募を開始、システム連携・自動化機器導入を支援",
@@ -3427,6 +3517,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "EDA on the Cloud 2026 – Tokyo (2026年8月4日開催)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/eda-tokyo-20260804/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "AWS Summit Japan 2026 に見る Resilience at AWS",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-resilience/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "週刊生成AI with AWS – 2026/7/13 週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260713/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "週刊AWS – 2026/7/13週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260713/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-21",
         "date_ja": "2026年7月21日（火）",
@@ -3871,6 +3997,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "Turner Industries の安全なクラウド ファースト インフラストラクチャのブループリント",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "Cloud Run サンドボックスで AI 生成コードを安全に実行",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "最新 AI エージェント事例を厳選！ Gemini Enterprise で企業の業務を変える",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-ai-agent-case-studies/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "Google が「2026 IDC MarketScape for Worldwide Foundation Model Software」でリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "Google Cloud で誰でも利用できるようになった AlphaEvolve で、より困難な課題も解決",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-21",
         "date_ja": "2026年7月21日（火）",
         "title": "July 20, 2026",
@@ -4239,6 +4410,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "「初回合格へ一直線！さくらのAI検定スタートダッシュウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/21/1968225430/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "[障害] さくらのクラウド NoSQL",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39453",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-18",
         "date_ja": "2026年7月18日（土）",
         "title": "「 Climbers X Week 2026」にて弊社代表 田中が登壇します",
@@ -4538,6 +4727,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-07-22",
+        "date_ja": "2026年7月22日（水）",
+        "title": "地方自治体、ガバメントクラウドファンディング活用で伝統行事の継続支援を募集",
+        "summary": "京都府宮津市や山梨県富士河口湖町などで、伝統行事の継続開催や子供の体験事業充実のため、ガバメントクラウドファンディングを活用した寄附募集が行われている。",
+        "source": "sanspo.com",
+        "url": "https://www.sanspo.com/pressrelease/atpress/Y5RV27D3TJIPJAHZJHJ3MIKTPM/",
+        "relevance": "ガバメントクラウドファンディングの活用事例と、地域活性化におけるDX推進の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-09",
         "date_ja": "2026年7月9日（木）",
         "title": "ガバメントクラウドファンディングの事例紹介",
@@ -4596,23 +4795,23 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 32,
+    "セキュリティ": 33,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 65,
+    "AI活用": 70,
     "クラウド/インフラ": 15,
-    "制度/ガイドライン": 14,
-    "自治体DX事例": 11,
-    "AWS最新情報": 49,
-    "Google Cloud最新情報": 36,
+    "制度/ガイドライン": 15,
+    "自治体DX事例": 13,
+    "AWS最新情報": 53,
+    "Google Cloud最新情報": 41,
     "働き方/業務改革": 4,
-    "さくらのクラウド最新情報": 25,
+    "さくらのクラウド最新情報": 27,
     "AIガバナンス": 7,
-    "ガバメントクラウド": 1,
+    "ガバメントクラウド": 2,
     "調達・契約": 2,
     "デジタル庁": 1,
     "調達/契約": 1
   },
-  "updated_at": "2026-07-20T19:19:17.520Z"
+  "updated_at": "2026-07-21T18:52:32.352Z"
 }

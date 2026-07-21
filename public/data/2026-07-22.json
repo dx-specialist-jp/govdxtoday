@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-22",
+  "date_ja": "2026年7月22日（水）",
+  "news_summary": [
+    "米国政府はAI駆動の脆弱性調整イニシアチブ「Gold Eagle」を発表し、サイバー脆弱性検知・優先順位付けを進める。",
+    "Googleは政府機関等に脆弱性対策特化AIモデル「Gemini 3.5 Flash Cyber」を限定提供開始、主力モデル導入は遅延。",
+    "政府はAI活用推進「重点計画」を策定、ガバメントAI「源内」の実証事業を全府省庁で推進する。",
+    "博報堂DYHD、日立製作所らが学術界と「人間中心のAIコンソーシアム」を設立し、AIの社会実装を目指す。",
+    "AIガバナンス協会にPerplexity Japanが入会、AI時代の企業セキュリティとガバナンス戦略が提言されている。",
+    "経済産業大臣は、製造業・廃炉現場のデータをAIと連携させて活用することの重要性に言及した。",
+    "中国は2026年世界AI大会でAIグローバルガバナンス協力推進を強調し、AIを共同繁栄と安全を守る技術と位置づける。",
+    "自治体向けAIシステム「zevo」は2026年7月21日より、画像対応AIモデル「GPT-Image-2」の提供を開始する。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Drupalプラグイン「AI Agents」における不正な認証の脆弱性",
+      "url": "https://jvn.jp/jp/JVN20592637/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
+      "url": "https://jvn.jp/jp/JVN40509781/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AI駆動の脆弱性調整イニシアチブ「Gold Eagle」発表、重要インフラのサイバー脆弱性検知・優先順位付けへ",
+      "summary": "米ホワイトハウスは、AI駆動の脆弱性調整イニシアチブ「Gold Eagle」を発表し、政府機関等がサイバー脆弱性の検知・優先順位付けを行う。米政府は安全保障上の懸念からAnthropicのAIモデルへのアクセスを停止。",
+      "relevance": "サイバー脆弱性検知・優先順位付けにおけるAI活用と、AIモデル利用における安全保障上の懸念についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/white-house-gold-eagle-ai-vulnerability-2026/"
+        },
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/96023?page=5"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "政府・提携先に限定提供の脆弱性対策特化AIモデル「Gemini 3.5 Flash Cyber」発表、主力「Pro」の導入は遅延",
+      "summary": "Googleは脆弱性対策に特化した軽量AIモデル「Gemini 3.5 Flash Cyber」を政府機関や認定パートナーに限定提供開始。主力モデル「Pro」の導入遅延は長期化する見込み。",
+      "relevance": "脆弱性対策に特化したAIモデルの政府機関への提供状況や、AI開発における遅延・費用の課題についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "pc.watch.impress.co.jp",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2126734.html"
+        },
+        {
+          "name": "jetstream.blog",
+          "url": "https://jetstream.blog/2026/07/22/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber-3-5-pro/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7842bf17-d71b-4fd8-ac55-18eff2327921"
+        },
+        {
+          "name": "mezha.net",
+          "url": "https://mezha.net/jp/bukvy/6288d170_alphabet_delays_gemini/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "政府、AI活用推進へ「重点計画」策定 - 次期マイナカードは29年度に、ガバメントAI「源内」を推進",
+      "summary": "政府はAI活用を推進する「重点計画」を策定し、ガバメントAI「源内」の全府省庁での実証事業を進める。次期マイナンバーカードは2029年度に発行予定。",
+      "relevance": "政府のAI活用推進計画と、ガバメントAI「源内」の実証事業の進捗についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/d3c0ede84cf004bcf02cf5a501f2f7e0ea2e5f41"
+        },
+        {
+          "name": "watch.impress.co.jp",
+          "url": "https://www.watch.impress.co.jp/docs/news/2126624.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "博報堂DYHD・日立ら「人間中心のAI」新団体設立 - 産学連携で社会実装へ",
+      "summary": "博報堂DYホールディングス、日立製作所、GMOペパボ、スマートガバナンスらが、慶應義塾大学や東京大学などの学術界を含む約30名で「人間中心のAIコンソーシアム」を設立し、社会実装を目指す。",
+      "relevance": "「人間中心のAI」の社会実装に向けた産学連携の取り組みについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/3760eb1e-e232-4c60-ae31-9c103f0301ea"
+        },
+        {
+          "name": "group.gmo",
+          "url": "https://group.gmo/news/article/10109/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260721/pr1/00m/020/281000c"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AI時代の企業に求められるセキュリティとガバナンス戦略、AIガバナンス協会にPerplexity Japanが入会",
+      "summary": "AI活用とセキュリティ、ガバナンス整備を一体で支援するサービスや、AI時代に企業に求められるセキュリティとガバナンス戦略が提言されている。AIガバナンス協会にPerplexity Japanが正会員として入会。",
+      "relevance": "AI活用におけるセキュリティとガバナンスの重要性、および関連団体への参画状況についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dlri.co.jp",
+          "url": "https://www.dlri.co.jp/report/asset/634519.html"
+        },
+        {
+          "name": "mdpr.jp",
+          "url": "https://mdpr.jp/other/detail/4817126"
+        },
+        {
+          "name": "logi-today.com",
+          "url": "https://www.logi-today.com/979219"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/421/4421056/"
+        },
+        {
+          "name": "senken.co.jp",
+          "url": "https://senken.co.jp/posts/cscloud-260721"
+        },
+        {
+          "name": "shinmai.co.jp",
+          "url": "https://www.shinmai.co.jp/news/article/PRPW202607172735"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19565882?news_ref=watch_60_nw19485732"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1884887"
+        },
+        {
+          "name": "afpbb.com",
+          "url": "https://www.afpbb.com/articles/-/3644877?cx_part=top_category&cx_position=2"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000029.000157647&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000945.000030942.html"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/83566/clocus-partners-with-straiker-to-target-agentic-ai-security-market"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "赤澤経済産業大臣、製造業・廃炉現場のデータ活用とAI連携に言及",
+      "summary": "経済産業大臣は、我が国が持つ製造業や廃炉現場のデータをAIと連携させて活用していくことの重要性に言及した。",
+      "relevance": "製造業や廃炉現場におけるデータ活用とAI連携の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "meti.go.jp",
+          "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260721001.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "中国、AIグローバルガバナンス協力推進を強調 - 2026年世界AI大会閉幕",
+      "summary": "2026年世界AI大会では、中国がAIグローバルガバナンス協力推進の取り組みを示し、AIを共同の繁栄と安全を守る重要技術として位置づけている。中国はAIガバナンスを社会管理に活用。",
+      "relevance": "AIグローバルガバナンスに関する国際的な動向と、中国のAIガバナンスへの取り組みについてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "japanese.china.org.cn",
+          "url": "http://japanese.china.org.cn/politics/txt/2026-07/21/content_118610161.htm"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/21/ARTI1784634409435166"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "https://j.people.com.cn/n3/2026/0721/c94474-20480150.html"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/21/ARTI1784609497421810"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV7N3FP2V7NUHBI01ZM.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "自治体向けAIシステム「zevo」、画像対応AIモデル「GPT-Image-2」を2026年7月21日より提供開始",
+      "summary": "自治体向けAIシステム「自治体AI zevo」は、ChatGPT、Claude、Geminiに加えて、画像対応AIモデル「GPT-Image-2」を全利用自治体へ提供開始する。",
+      "relevance": "自治体における生成AIの画像対応機能の導入事例と、LGWAN環境での活用可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/663686"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000209.000056138.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省「地域社会DX推進パッケージ事業」、AI・自動運転等の先進的ソリューション実証支援",
+      "summary": "総務省は「地域社会DX推進パッケージ事業」において、AI・自動運転等の先進的ソリューションや通信インフラ整備の補助、デジタル人材・体制確保支援を行う。",
+      "relevance": "地域社会におけるDX推進のためのAI・先進的ソリューションの実証支援策についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "nttdata-strategy.com",
+          "url": "https://www.nttdata-strategy.com/newsrelease/news/260721/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "地方自治体、ガバメントクラウドファンディング活用で伝統行事の継続支援を募集",
+      "summary": "京都府宮津市や山梨県富士河口湖町などで、伝統行事の継続開催や子供の体験事業充実のため、ガバメントクラウドファンディングを活用した寄附募集が行われている。",
+      "relevance": "ガバメントクラウドファンディングの活用事例と、地域活性化におけるDX推進の可能性についてご検討ください。",
+      "category": "ガバメントクラウド",
+      "sources": [
+        {
+          "name": "sanspo.com",
+          "url": "https://www.sanspo.com/pressrelease/atpress/Y5RV27D3TJIPJAHZJHJ3MIKTPM/"
+        },
+        {
+          "name": "zakzak.co.jp",
+          "url": "https://www.zakzak.co.jp/pressrelease/atpress/Y5RV27D3TJIPJAHZJHJ3MIKTPM/"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1884919"
+        },
+        {
+          "name": "kyodo.co.jp",
+          "url": "https://www.kyodo.co.jp/pr/2026-07-21_4023742/"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/1498340"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/157240/posts/1445393"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊AWS – 2026/7/13週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260713/",
+          "pub_date": "2026-07-21T09:03:14.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026/7/13 週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260713/",
+          "pub_date": "2026-07-21T05:18:21.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Summit Japan 2026 に見る Resilience at AWS",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-resilience/",
+          "pub_date": "2026-07-21T03:47:42.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "EDA on the Cloud 2026 – Tokyo (2026年8月4日開催)",
+          "url": "https://aws.amazon.com/jp/blogs/news/eda-tokyo-20260804/",
+          "pub_date": "2026-07-20T20:04:19.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "Google Cloud で誰でも利用できるようになった AlphaEvolve で、より困難な課題も解決",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+          "pub_date": "2026-07-21T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google が「2026 IDC MarketScape for Worldwide Foundation Model Software」でリーダーに選出",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/",
+          "pub_date": "2026-07-21T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "最新 AI エージェント事例を厳選！ Gemini Enterprise で企業の業務を変える",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-ai-agent-case-studies/",
+          "pub_date": "2026-07-21T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Cloud Run サンドボックスで AI 生成コードを安全に実行",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+          "pub_date": "2026-07-21T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Turner Industries の安全なクラウド ファースト インフラストラクチャのブループリント",
+          "url": "https://cloud.google.com/blog/ja/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
+          "pub_date": "2026-07-21T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "[障害] さくらのクラウド NoSQL",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39453",
+          "pub_date": "2026-07-21T11:02:24.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「初回合格へ一直線！さくらのAI検定スタートダッシュウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/21/1968225430/",
+          "pub_date": "2026-07-21T03:00:05.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-21T18:52:32.348Z"
+}
