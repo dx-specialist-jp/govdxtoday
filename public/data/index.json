@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-23",
+      "summary_short": "AIを悪用した攻撃への対抗策として、EDR導入の次のステ…など8件",
+      "article_count": 8,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-07-22",
       "summary_short": "AI駆動の脆弱性調整イニシアチブ「Gold Eagle」…など10件",
       "article_count": 10,
