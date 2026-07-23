@@ -1,0 +1,398 @@
+{
+  "date": "2026-07-24",
+  "date_ja": "2026年7月24日（金）",
+  "news_summary": [
+    "JPCERT/CCが2026年4-6月期レポートを公開、インシデント統計や活動を掲載",
+    "JPCERT/CCがAPT-C-60による2026年の攻撃事例とインフラを公開",
+    "自治体ネットワークのα'モデル採用が2倍超に増加、生成AI活用調査も進展",
+    "中央省庁で生成AI活用し国会答弁作成業務負担軽減の実証実験開始",
+    "Googleが政府・提携先限定でセキュリティ特化型AI「Gemini 3.5 Flash Cyber」発表",
+    "AIガバナンス確立へデータガバナンスが不可欠、韓国・EUでAI法整備進む",
+    "米政府が「Claude Fable 5」利用開始3日で停止指示、AIモデル利用制限も",
+    "ガバメントクラウド移行に伴い電子入札システム統合検討、クラウドファンディング活用も"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: WordPressにリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: VMware Avi Load Balancerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Drupal coreに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のZoom製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: SonicWallのSMA1000シリーズに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSAP製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Firefoxに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ISC BINDにおける複数の脆弱性（2026年7月）",
+      "url": "https://jvn.jp/vu/JVNVU97496543/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98636554/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98875819/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN32082029/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "Weekly Report: JPCERT/CCが2026年4月から6月分の「JPCERT/CC 四半期レポート」を公開",
+    "summary": "JPCERT/CCが2026年4-6月期レポート公開\nインシデント統計や国内外活動を掲載",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#13",
+    "pub_date": "2026-07-23"
+  },
+  "sub_articles": [
+    {
+      "section_name": "セキュリティ速報",
+      "title": "Weekly Report: JPCERT/CCが「APT-C-60による2026年の攻撃」を公開",
+      "summary": "JPCERT/CCが「APT-C-60による2026年の攻撃」公開\n初期侵害や攻撃インフラを解説",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#15",
+      "pub_date": "2026-07-23"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "自治体ネットワークの分離モデル採用と生成AI活用実態",
+      "summary": "自治体ネットワークにおけるα'モデル採用が前年比2倍超に増加しており、生成AIの活用実態についても調査が進められている。",
+      "relevance": "自治体におけるネットワーク分離モデルの動向や生成AIの活用事例を参考に、自組織のセキュリティ対策やITインフラ整備についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29610"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "中央省庁における国会答弁作成業務への生成AI活用実証とDX推進",
+      "summary": "国会答弁の想定問答作成業務の負担軽減のため、AWSや生成AIを活用した実証実験が行われている。アナログ規制の見直しや地方自治体のDX/AX推進にもデジタル庁のリーダーシップが期待されている。",
+      "relevance": "国会答弁作成支援のような定型業務における生成AIの適用可能性について、既存業務への影響と導入効果の試算をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/news/2607/23/news08.html"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/123742/posts/1447505"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Geminiシリーズの最新モデル発表とAIモデルの利用制限に関する動向",
+      "summary": "Googleはセキュリティに特化した「Gemini 3.5 Flash Cyber」を発表し、悪用防止のため政府・提携先に限定提供する。また、Gemini 3.5 Flash-Lite & Gemini 3.6 Flashなどの新モデルが発表されている。",
+      "relevance": "最新のAIモデルの機能、提供範囲、およびセキュリティ対策の動向を把握し、行政システムへの適用可能性やリスクについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "msn.com",
+          "url": "https://www.msn.com/ja-jp/news/techandscience/gemini-3-5-flash-cyber-%E6%82%AA%E7%94%A8%E9%98%B2%E6%AD%A2%E3%81%B8%E6%94%BF%E5%BA%9C-%E6%8F%90%E6%90%BA%E5%85%88%E3%81%AB%E9%99%90%E5%AE%9A/ar-AA28opKM"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19573300?news_ref=watch_60_nw19142680"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17140187/"
+        },
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00012/?i_cid=nbpnxr_top_tre"
+        },
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00010/?i_cid=nbpnxr_top_tre"
+        },
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2823011?display=1"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスの確立とデータ基盤の進化、および国際的な動向",
+      "summary": "AIの全社導入にはデータガバナンスが不可欠であり、AI民主化のためには「運営する」フェーズへの移行が求められている。韓国ではAI基本法改正案が施行され、EUではAI法が制定されるなど、AIガバナンスに関する国際的な議論が進んでいる。",
+      "relevance": "AI導入におけるデータガバナンス体制の構築や、国内外のAI規制動向を踏まえたリスク管理についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "wisdom.nec.com",
+          "url": "https://wisdom.nec.com/ja/feature/ai/2026072401/index.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24678"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news006.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/0b67717c-bb17-4a71-b32c-1034427017d8"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f879ca3a04e9cdda53c6bc516388821b976bcfa3"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/paper/20012621/30008695/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19572391?news_ref=20_20"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/world/ntv_news24-2026072204337327?page=3"
+        },
+        {
+          "name": "media.rakuten-sec.net",
+          "url": "https://media.rakuten-sec.net/articles/-/53000"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ef2b8f38-e0d8-428c-b541-2cbd84236aa9"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIコーディングツールへの開発版Bun組み込みと米政府によるAIモデル利用停止",
+      "summary": "AIコーディングツール「Claude Code」の実行ファイルから、正式リリース前の「Bun v1.4.0」が確認された。また、一般提供開始から3日で米政府の指示により「Claude Fable 5」が利用停止となった。",
+      "relevance": "AI開発ツールの進化や、国家安全保障等の理由によるAIモデルの利用制限事例を把握し、システム開発やAI利用におけるリスク管理についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=z9z-T-OS1Uc"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ガバメントクラウドへの移行とガバメントクラウドファンディングの活用",
+      "summary": "政府共通のクラウド基盤「ガバメントクラウド」への移行に伴い、電子入札システムの統合が検討されている。また、ガバメントクラウドファンディングを活用した地域振興や事業支援の事例も報告されている。",
+      "relevance": "ガバメントクラウドへの移行計画や、ガバメントクラウドファンディングの活用による事業推進の可能性についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "decn.co.jp",
+          "url": "https://www.decn.co.jp/?p=186257"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/company-news/article-93CH-1613961"
+        },
+        {
+          "name": "amamishimbun.co.jp",
+          "url": "https://amamishimbun.co.jp/2026/07/23/63079/"
+        },
+        {
+          "name": "city.miyazu.kyoto.jp",
+          "url": "https://www.city.miyazu.kyoto.jp/soshiki/3/30396.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19574705?news_ref=watch_20_nw19510901"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Google Cloud Runの自動フェイルオーバー機能一般提供開始",
+      "summary": "Google Cloud Runにおいて、自動フェイルオーバー機能が一般提供開始となった。",
+      "relevance": "クラウドサービスの最新機能について、行政システムにおける可用性向上や冗長化対策の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17145581/?ref=user"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "米財務省の節税金融商品調査と財務省の入札・調達関連情報",
+      "summary": "米財務省が節税金融商品を調査し、投資家に注意喚起を行っている。国内では財務省による国庫短期証券や利付債の入札予定額などが発表されている。",
+      "relevance": "財政・金融分野における海外の規制動向や、政府調達関連の入札情報について、関連するプロジェクトの観点からご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/kanzei20260723.html"
+        },
+        {
+          "name": "sp.m.jiji.com",
+          "url": "https://sp.m.jiji.com/amp/article/show/3829165"
+        },
+        {
+          "name": "newsweekjapan.jp",
+          "url": "https://www.newsweekjapan.jp/articles/-/329185"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "デジタル・AI技術の活用推進とDX人材育成、および関連政策動向",
+      "summary": "経済産業省はAI時代に不可欠なデータマネジメント人材育成を推進しており、NEDOは競争力のある生成AI基盤モデル開発を支援している。また、国土交通省は港湾DX普及のためデジタル標準化を推進している。",
+      "relevance": "国のデジタル化支援策やDX推進プログラム、AI・データ活用に関する最新動向を把握し、担当プロジェクトへの適用可能性をご検討ください。",
+      "category": "デジタル庁",
+      "sources": [
+        {
+          "name": "nedo.go.jp",
+          "url": "https://www.nedo.go.jp/ugoki/ZZ_101531.html"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/shorts/obREq7nO210"
+        },
+        {
+          "name": "minkabu.jp",
+          "url": "https://minkabu.jp/news/4575106"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/soutsu/shikoku/press/20260723.html"
+        },
+        {
+          "name": "mlit.go.jp",
+          "url": "https://www.mlit.go.jp/report/press/port05_hh_000449.html"
+        },
+        {
+          "name": "enecho.meti.go.jp",
+          "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/ai_digital_guideline.html"
+        },
+        {
+          "name": "nishinippon.co.jp",
+          "url": "https://www.nishinippon.co.jp/item/1518373/"
+        },
+        {
+          "name": "jetro.go.jp",
+          "url": "https://www.jetro.go.jp/gov_procurement/national/articles/398947/2026072300300000.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000084.000044685.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/soutsu/shinetsu/sbt/hodo/02sotsu04_01_000702.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "スマートグラス × 音声 AI エージェントで実現する店舗業務のハンズフリー支援",
+          "url": "https://aws.amazon.com/jp/blogs/news/smart-glasses-voice-ai-hands-free-store-operations/",
+          "pub_date": "2026-07-23T01:48:17.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "Google Cloud で Claude を大規模に展開: エンタープライズ本番環境向けに構築された最先端の AI",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
+          "pub_date": "2026-07-23T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「さくらのVPSサービス約款」改定のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/23/1968225435/",
+          "pub_date": "2026-07-23T02:00:44.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-23T15:55:46.222Z"
+}

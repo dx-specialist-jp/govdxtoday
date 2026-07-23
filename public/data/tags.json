@@ -2,6 +2,34 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "Weekly Report: JPCERT/CCが「APT-C-60による2026年の攻撃」を公開",
+        "summary": "JPCERT/CCが「APT-C-60による2026年の攻撃」公開\n初期侵害や攻撃インフラを解説",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#15",
+        "type": "government"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "Weekly Report: JPCERT/CCが2026年4月から6月分の「JPCERT/CC 四半期レポート」を公開",
+        "summary": "JPCERT/CCが2026年4-6月期レポート公開\nインシデント統計や国内外活動を掲載",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#13",
+        "type": "government"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "自治体ネットワークの分離モデル採用と生成AI活用実態",
+        "summary": "自治体ネットワークにおけるα'モデル採用が前年比2倍超に増加しており、生成AIの活用実態についても調査が進められている。",
+        "source": "it.impress.co.jp",
+        "url": "https://it.impress.co.jp/articles/-/29610",
+        "relevance": "自治体におけるネットワーク分離モデルの動向や生成AIの活用事例を参考に、自組織のセキュリティ対策やITインフラ整備についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
         "title": "AIを悪用した攻撃への対抗策として、EDR導入の次のステップが重要視される",
@@ -2390,6 +2418,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "AIコーディングツールへの開発版Bun組み込みと米政府によるAIモデル利用停止",
+        "summary": "AIコーディングツール「Claude Code」の実行ファイルから、正式リリース前の「Bun v1.4.0」が確認された。また、一般提供開始から3日で米政府の指示により「Claude Fable 5」が利用停止となった。",
+        "source": "gigazine.net",
+        "url": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/",
+        "relevance": "AI開発ツールの進化や、国家安全保障等の理由によるAIモデルの利用制限事例を把握し、システム開発やAI利用におけるリスク管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "AIガバナンスの確立とデータ基盤の進化、および国際的な動向",
+        "summary": "AIの全社導入にはデータガバナンスが不可欠であり、AI民主化のためには「運営する」フェーズへの移行が求められている。韓国ではAI基本法改正案が施行され、EUではAI法が制定されるなど、AIガバナンスに関する国際的な議論が進んでいる。",
+        "source": "wisdom.nec.com",
+        "url": "https://wisdom.nec.com/ja/feature/ai/2026072401/index.html",
+        "relevance": "AI導入におけるデータガバナンス体制の構築や、国内外のAI規制動向を踏まえたリスク管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "Geminiシリーズの最新モデル発表とAIモデルの利用制限に関する動向",
+        "summary": "Googleはセキュリティに特化した「Gemini 3.5 Flash Cyber」を発表し、悪用防止のため政府・提携先に限定提供する。また、Gemini 3.5 Flash-Lite & Gemini 3.6 Flashなどの新モデルが発表されている。",
+        "source": "msn.com",
+        "url": "https://www.msn.com/ja-jp/news/techandscience/gemini-3-5-flash-cyber-%E6%82%AA%E7%94%A8%E9%98%B2%E6%AD%A2%E3%81%B8%E6%94%BF%E5%BA%9C-%E6%8F%90%E6%90%BA%E5%85%88%E3%81%AB%E9%99%90%E5%AE%9A/ar-AA28opKM",
+        "relevance": "最新のAIモデルの機能、提供範囲、およびセキュリティ対策の動向を把握し、行政システムへの適用可能性やリスクについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "中央省庁における国会答弁作成業務への生成AI活用実証とDX推進",
+        "summary": "国会答弁の想定問答作成業務の負担軽減のため、AWSや生成AIを活用した実証実験が行われている。アナログ規制の見直しや地方自治体のDX/AX推進にもデジタル庁のリーダーシップが期待されている。",
+        "source": "techtarget.itmedia.co.jp",
+        "url": "https://techtarget.itmedia.co.jp/tt/news/2607/23/news08.html",
+        "relevance": "国会答弁作成支援のような定型業務における生成AIの適用可能性について、既存業務への影響と導入効果の試算をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
         "title": "中国AI「Kimi K3」がGPT級の性能で話題、アクセス殺到で新規受付一時停止",
@@ -3132,6 +3200,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "Google Cloud Runの自動フェイルオーバー機能一般提供開始",
+        "summary": "Google Cloud Runにおいて、自動フェイルオーバー機能が一般提供開始となった。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17145581/?ref=user",
+        "relevance": "クラウドサービスの最新機能について、行政システムにおける可用性向上や冗長化対策の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "ガバメントクラウドへの移行とガバメントクラウドファンディングの活用",
+        "summary": "政府共通のクラウド基盤「ガバメントクラウド」への移行に伴い、電子入札システムの統合が検討されている。また、ガバメントクラウドファンディングを活用した地域振興や事業支援の事例も報告されている。",
+        "source": "decn.co.jp",
+        "url": "https://www.decn.co.jp/?p=186257",
+        "relevance": "ガバメントクラウドへの移行計画や、ガバメントクラウドファンディングの活用による事業推進の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
         "title": "官公庁におけるクラウド調達件数が5年間で3.8倍に拡大",
@@ -3577,6 +3665,15 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "スマートグラス × 音声 AI エージェントで実現する店舗業務のハンズフリー支援",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/smart-glasses-voice-ai-hands-free-store-operations/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
@@ -4102,6 +4199,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "Google Cloud で Claude を大規模に展開: エンタープライズ本番環境向けに構築された最先端の AI",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
         "title": "BigQuery Graph を使用して不正防止のためにネットワーク分析をスケーリング",
@@ -4570,6 +4676,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "「さくらのVPSサービス約款」改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/23/1968225435/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-22",
         "date_ja": "2026年7月22日（水）",
         "title": "「初回合格へ一直線！さくらのAI検定スタートダッシュウェビナー」を開催いたします",
@@ -4909,6 +5024,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "米財務省の節税金融商品調査と財務省の入札・調達関連情報",
+        "summary": "米財務省が節税金融商品を調査し、投資家に注意喚起を行っている。国内では財務省による国庫短期証券や利付債の入札予定額などが発表されている。",
+        "source": "mof.go.jp",
+        "url": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/kanzei20260723.html",
+        "relevance": "財政・金融分野における海外の規制動向や、政府調達関連の入札情報について、関連するプロジェクトの観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-14",
         "date_ja": "2026年7月14日（火）",
         "title": "三菱地所、国土交通省の事業採択を受け物流施設内での自動運転トラック誘導・管制システム実証開始",
@@ -4930,6 +5055,16 @@
       }
     ],
     "デジタル庁": [
+      {
+        "date": "2026-07-24",
+        "date_ja": "2026年7月24日（金）",
+        "title": "デジタル・AI技術の活用推進とDX人材育成、および関連政策動向",
+        "summary": "経済産業省はAI時代に不可欠なデータマネジメント人材育成を推進しており、NEDOは競争力のある生成AI基盤モデル開発を支援している。また、国土交通省は港湾DX普及のためデジタル標準化を推進している。",
+        "source": "nedo.go.jp",
+        "url": "https://www.nedo.go.jp/ugoki/ZZ_101531.html",
+        "relevance": "国のデジタル化支援策やDX推進プログラム、AI・データ活用に関する最新動向を把握し、担当プロジェクトへの適用可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-18",
         "date_ja": "2026年7月18日（土）",
@@ -4967,24 +5102,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 34,
+    "セキュリティ": 37,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 74,
-    "クラウド/インフラ": 16,
+    "AI活用": 78,
+    "クラウド/インフラ": 18,
     "制度/ガイドライン": 15,
     "自治体DX事例": 13,
-    "AWS最新情報": 58,
-    "Google Cloud最新情報": 46,
+    "AWS最新情報": 59,
+    "Google Cloud最新情報": 47,
     "働き方/業務改革": 5,
-    "さくらのクラウド最新情報": 27,
+    "さくらのクラウド最新情報": 28,
     "AIガバナンス": 7,
     "ガバメントクラウド": 2,
-    "調達・契約": 2,
-    "デジタル庁": 1,
+    "調達・契約": 3,
+    "デジタル庁": 2,
     "調達/契約": 1,
     "プロジェクト管理": 1
   },
-  "updated_at": "2026-07-22T15:43:07.176Z"
+  "updated_at": "2026-07-23T15:55:46.226Z"
 }
