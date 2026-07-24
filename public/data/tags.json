@@ -2418,6 +2418,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "人間中心のAIコンソーシアム設立、AI政策提言や研究開発を推進",
+        "summary": "博報堂DYホールディングス、日立製作所、GMOペパボ、スマートガバナンスなどが「人間中心のAIコンソーシアム」を設立。AIの先端研究や技術開発、AI政策提言などを行う。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1000_10008/",
+        "relevance": "人間中心のAI政策提言や産学連携によるAI研究開発の動向を注視し、行政DX推進における倫理的・社会的な側面からのAI活用について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "AIコーディングツール・Gemini Canvasの活用によるアプリ開発支援",
+        "summary": "AIコーディングツール「Claude Code」に正式リリース前のBun v1.4.0が組み込まれていたことが確認された。また、Gemini Canvasはプログラミング経験がなくてもAIに指示を出すことでアプリ開発が可能となる。",
+        "source": "gigazine.net",
+        "url": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/",
+        "relevance": "AIコーディングツールや、プログラミング経験がなくてもアプリケーション開発を支援するツールの動向を把握し、行政システム開発や業務効率化における活用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "AI政策推進機能の抜本的強化に関する緊急提言：体制強化とデジタル庁との協働を推進",
+        "summary": "AI技術評価の必要性と緊急性が高まっていることを踏まえ、内閣府AI政策推進室の体制を強化し、デジタル庁との協働によるAX（AIトランスフォーメーション）を推進する緊急提言がなされた。",
+        "source": "jimin.jp",
+        "url": "https://www.jimin.jp/news/policy/213867.html",
+        "relevance": "AI政策推進体制の強化とデジタル庁との連携強化の動きについて、PMO/PjMO担当者は情報収集し、組織横断的なAI活用推進体制の構築をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "総務省情報通信白書：個人での生成AI利用率は増加も諸外国に立ち遅れ",
+        "summary": "総務省の調査によると、個人での生成AI利用経験者は58.8%に増加したが、諸外国と比較して利用率は低い水準にある。海外ではAIを道具や友人として認識する傾向が強く、日本と認識に違いが見られる。",
+        "source": "home-tv.co.jp",
+        "url": "https://www.home-tv.co.jp/news/content/?news_id=000521472",
+        "relevance": "個人での生成AI利用状況と諸外国との比較を踏まえ、行政機関におけるAI活用推進の現状と課題について、PMO/PjMO担当者の皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "行政機関向けAI基盤「源内」の活用推進とエコシステム構築に向けた説明会開催",
+        "summary": "行政と産業界が連携し、ガバメントAI「源内」基盤上に新たなエコシステムを構築する機会として、オンライン説明会が開催される。AI導入による立法支援・調査業務の高度化や公報資料のオンライン配布が柱となる。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+        "relevance": "ガバメントAI基盤「源内」のOSS版（Ver 2.0）の計画や活用事例について、PMO/PjMO担当者は情報収集し、自組織でのAI活用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "AIコーディングツールへの開発版Bun組み込みと米政府によるAIモデル利用停止",
@@ -3200,6 +3250,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "ワークデイの計画ツールが連邦政府のセキュリティ認可を取得、ガバメントクラウド上で稼働",
+        "summary": "ワークデイ・アダプティブ・プランニングは、ワークデイ・ガバメント・クラウドの一部として稼働し、連邦政府のセキュリティ認可を取得した。人的資本管理および財務ソリューションと連携して機能する。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/company-news/article-93CH-1613961",
+        "relevance": "ガバメントクラウド上で稼働するワークデイの計画ツールが連邦政府のセキュリティ認可を取得した事例を参考に、PMO/PjMO担当者は、クラウド利用におけるセキュリティ要件と認可プロセスについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "Google Cloud Runの自動フェイルオーバー機能一般提供開始",
@@ -3381,6 +3441,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "総務省、SNS上の不適切投稿に関し事業者5社に勧告",
+        "summary": "総務省は、SNS上の不適切投稿に関する問題について、事業者5社に対して勧告を行った。生成AIの利用が個人で半数超となっている状況とあわせて注目されている。",
+        "source": "news.web.nhk",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015185231000",
+        "relevance": "SNS上の不適切投稿に対する総務省の勧告事例を参考に、PMO/PjMO担当者は、行政が関わる情報発信やシステムにおけるコンテンツ管理・利用ガイドラインの整備についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "AIガバナンスに関する国内外の動向と規制・ガイドライン策定の動き",
+        "summary": "米国でAIの「キルスイッチ」法案が提出され、罰則を伴う強制的な法的規制への移行が進む。中国は途上国とのAI協力拡大で影響力拡大を狙い、タイは「信頼」を軸としたAIハブ競争を進める。国内でも産学コンソーシアム設立やAIセーフティ評価ガイド策定の動きがある。",
+        "source": "youtube.com",
+        "url": "https://www.youtube.com/watch?v=tOIx-HszPzU",
+        "relevance": "AIガバナンスに関する国内外の規制動向やガイドライン策定の動きを注視し、AI導入・運用におけるリスク管理体制の構築をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-22",
         "date_ja": "2026年7月22日（水）",
@@ -3665,6 +3745,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "AWS Certified Machine Learning Engineer – Associate アップデート (MLA-C02) のお知らせ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "【開催報告】AWS Summit Japan 2026 – AWS for Telcom 展示ブース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-telcom/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "ISA/IEC 62443を踏まえたAWSでのOTとクラウドの接続設計",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/isaiec62443/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "【開催報告】Neuron Community – 2026 Vol.1",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/neuron-community-2026-vol-1/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
@@ -4199,6 +4315,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "C4N の一般提供を開始: クラウドで最高レベルの vCPU あたりのネットワークとブロック ストレージの I/O を x86 ワークロードで実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/compute/c4n-network-and-storage-optimized-vms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "IDC: 適切なネットワーキング アプローチがエージェント型 AI の基盤となる理由",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "Google が 2026 年 Gartner® Magic Quadrant™ で会話型 AI プラットフォーム部門のリーダーに選出、ビジョンと実行能力が最高評価を獲得",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "Google Cloud で Claude を大規模に展開: エンタープライズ本番環境向けに構築された最先端の AI",
@@ -4676,6 +4819,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "「第11期デジタルビジネス推進研究会」にてクラウド事業戦略本部 角が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/24/1968225456/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "「さくらのVPSサービス約款」改定のお知らせ",
@@ -5090,6 +5242,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-07-25",
+        "date_ja": "2026年7月25日（土）",
+        "title": "省庁別補正予算の分析：経済産業省は当初予算の2.6倍、デジタル庁は共通システム等に重点",
+        "summary": "省庁別の補正予算の現状分析によると、経済産業省の補正予算は当初予算の2.6倍に達した。デジタル庁は、政府の共通システムや国民生活・企業活動の基盤となる情報システム整備に重点を置いている。",
+        "source": "nli-research.co.jp",
+        "url": "https://www.nli-research.co.jp/report/detail/id=86346?mobileapp=1&site=nli",
+        "relevance": "省庁別の補正予算やデジタル庁の重点施策について、PMO/PjMO担当者は情報収集し、自組織のプロジェクト予算確保や優先順位付けの参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
         "title": "円安が一時39年ぶり水準に達し、政府内に動揺と手詰まり感が広がる",
@@ -5106,20 +5268,20 @@
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 78,
-    "クラウド/インフラ": 18,
-    "制度/ガイドライン": 15,
+    "AI活用": 83,
+    "クラウド/インフラ": 19,
+    "制度/ガイドライン": 17,
     "自治体DX事例": 13,
-    "AWS最新情報": 59,
-    "Google Cloud最新情報": 47,
+    "AWS最新情報": 63,
+    "Google Cloud最新情報": 50,
     "働き方/業務改革": 5,
-    "さくらのクラウド最新情報": 28,
+    "さくらのクラウド最新情報": 29,
     "AIガバナンス": 7,
     "ガバメントクラウド": 2,
     "調達・契約": 3,
     "デジタル庁": 2,
     "調達/契約": 1,
-    "プロジェクト管理": 1
+    "プロジェクト管理": 2
   },
-  "updated_at": "2026-07-23T15:55:46.226Z"
+  "updated_at": "2026-07-24T15:26:41.417Z"
 }

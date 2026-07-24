@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-25",
+      "summary_short": "行政機関向けAI基盤「源内」の活用推進とエコシステム構築…など9件",
+      "article_count": 9,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-07-24",
       "summary_short": "Weekly Report: JPCERT/CCが2026年…など2件",
       "article_count": 11,

@@ -1,0 +1,329 @@
+{
+  "date": "2026-07-25",
+  "date_ja": "2026年7月25日（土）",
+  "news_summary": [
+    "行政機関向けAI基盤「源内」の活用推進とエコシステム構築説明会が開催される。",
+    "個人での生成AI利用率は増加も、諸外国に比べて低い水準に留まっている。",
+    "内閣府AI政策推進室の体制強化とデジタル庁との協働によるAX推進提言あり。",
+    "AIコーディングツールGemini Canvasはプログラミング経験なくアプリ開発可能。",
+    "人間中心のAIコンソーシアムがAI政策提言や研究開発を推進するため設立。",
+    "デジタル庁は政府共通システムや情報システム整備に補正予算を重点配分。",
+    "ワークデイの計画ツールが連邦政府セキュリティ認可を取得しガバメントクラウド稼働。",
+    "AIガバナンスで米国は法的規制、中国は途上国協力、タイはAIハブ競争を進める。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年07月23日）",
+      "url": "https://jvn.jp/vu/JVNVU93636354/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Silverhand製Logtoにおける認証や認可に影響する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99418634/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ISC BINDにおける複数の脆弱性（2026年7月）",
+      "url": "https://jvn.jp/vu/JVNVU97496543/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: バックアップソフトウェア「Duplicati」における不適切な権限割り当てに関する脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98636554/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Analog Way製メディアサーバー「Picturall Quad Compact Mark II」におけるローカル権限昇格の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98875819/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: リコー製プリンターおよび複合機のSSH通信機能におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN32082029/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "行政機関向けAI基盤「源内」の活用推進とエコシステム構築に向けた説明会開催",
+      "summary": "行政と産業界が連携し、ガバメントAI「源内」基盤上に新たなエコシステムを構築する機会として、オンライン説明会が開催される。AI導入による立法支援・調査業務の高度化や公報資料のオンライン配布が柱となる。",
+      "relevance": "ガバメントAI基盤「源内」のOSS版（Ver 2.0）の計画や活用事例について、PMO/PjMO担当者は情報収集し、自組織でのAI活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6"
+        },
+        {
+          "name": "portal.ijamp.jiji.com",
+          "url": "https://portal.ijamp.jiji.com/portal/news/detail/2026072400107"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省情報通信白書：個人での生成AI利用率は増加も諸外国に立ち遅れ",
+      "summary": "総務省の調査によると、個人での生成AI利用経験者は58.8%に増加したが、諸外国と比較して利用率は低い水準にある。海外ではAIを道具や友人として認識する傾向が強く、日本と認識に違いが見られる。",
+      "relevance": "個人での生成AI利用状況と諸外国との比較を踏まえ、行政機関におけるAI活用推進の現状と課題について、PMO/PjMO担当者の皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "home-tv.co.jp",
+          "url": "https://www.home-tv.co.jp/news/content/?news_id=000521472"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5c02a9b2eb220d82a5ae5dca30cc77957b2d745a"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV7R2V53V7RULFA00SM.html"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000521472.html"
+        },
+        {
+          "name": "nagoyatv.com",
+          "url": "https://www.nagoyatv.com/news/seiji.html?id=000521472"
+        },
+        {
+          "name": "qab.co.jp",
+          "url": "https://www.qab.co.jp/quebee/video/000521472/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f6c09c02e7ef5fd3459b082d8a7b15461e34f2c3"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AI政策推進機能の抜本的強化に関する緊急提言：体制強化とデジタル庁との協働を推進",
+      "summary": "AI技術評価の必要性と緊急性が高まっていることを踏まえ、内閣府AI政策推進室の体制を強化し、デジタル庁との協働によるAX（AIトランスフォーメーション）を推進する緊急提言がなされた。",
+      "relevance": "AI政策推進体制の強化とデジタル庁との連携強化の動きについて、PMO/PjMO担当者は情報収集し、組織横断的なAI活用推進体制の構築をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jimin.jp",
+          "url": "https://www.jimin.jp/news/policy/213867.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIコーディングツール・Gemini Canvasの活用によるアプリ開発支援",
+      "summary": "AIコーディングツール「Claude Code」に正式リリース前のBun v1.4.0が組み込まれていたことが確認された。また、Gemini Canvasはプログラミング経験がなくてもAIに指示を出すことでアプリ開発が可能となる。",
+      "relevance": "AIコーディングツールや、プログラミング経験がなくてもアプリケーション開発を支援するツールの動向を把握し、行政システム開発や業務効率化における活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/"
+        },
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00012/?i_cid=nbpnxr_top_tre"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "人間中心のAIコンソーシアム設立、AI政策提言や研究開発を推進",
+      "summary": "博報堂DYホールディングス、日立製作所、GMOペパボ、スマートガバナンスなどが「人間中心のAIコンソーシアム」を設立。AIの先端研究や技術開発、AI政策提言などを行う。",
+      "relevance": "人間中心のAI政策提言や産学連携によるAI研究開発の動向を注視し、行政DX推進における倫理的・社会的な側面からのAI活用について、PMO/PjMO担当者はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_10008/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "省庁別補正予算の分析：経済産業省は当初予算の2.6倍、デジタル庁は共通システム等に重点",
+      "summary": "省庁別の補正予算の現状分析によると、経済産業省の補正予算は当初予算の2.6倍に達した。デジタル庁は、政府の共通システムや国民生活・企業活動の基盤となる情報システム整備に重点を置いている。",
+      "relevance": "省庁別の補正予算やデジタル庁の重点施策について、PMO/PjMO担当者は情報収集し、自組織のプロジェクト予算確保や優先順位付けの参考にご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "nli-research.co.jp",
+          "url": "https://www.nli-research.co.jp/report/detail/id=86346?mobileapp=1&site=nli"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ワークデイの計画ツールが連邦政府のセキュリティ認可を取得、ガバメントクラウド上で稼働",
+      "summary": "ワークデイ・アダプティブ・プランニングは、ワークデイ・ガバメント・クラウドの一部として稼働し、連邦政府のセキュリティ認可を取得した。人的資本管理および財務ソリューションと連携して機能する。",
+      "relevance": "ガバメントクラウド上で稼働するワークデイの計画ツールが連邦政府のセキュリティ認可を取得した事例を参考に、PMO/PjMO担当者は、クラウド利用におけるセキュリティ要件と認可プロセスについてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/company-news/article-93CH-1613961"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIガバナンスに関する国内外の動向と規制・ガイドライン策定の動き",
+      "summary": "米国でAIの「キルスイッチ」法案が提出され、罰則を伴う強制的な法的規制への移行が進む。中国は途上国とのAI協力拡大で影響力拡大を狙い、タイは「信頼」を軸としたAIハブ競争を進める。国内でも産学コンソーシアム設立やAIセーフティ評価ガイド策定の動きがある。",
+      "relevance": "AIガバナンスに関する国内外の規制動向やガイドライン策定の動きを注視し、AI導入・運用におけるリスク管理体制の構築をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=tOIx-HszPzU"
+        },
+        {
+          "name": "news.ksb.co.jp",
+          "url": "https://news.ksb.co.jp/ann/article/16754915"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/2087ab46-63b8-4733-95ae-e333316fce42"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/959d7d795eb11965d608a49aa524bd1863bf5a6f"
+        },
+        {
+          "name": "afpbb.com",
+          "url": "https://www.afpbb.com/articles/-/3645066?act=all"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/fpt-tro-thanh-doanh-nghiep-viet-nam-dau-tien-dat-chung-nhan-quan-ly-ai"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ai-chi-tao-ra-gia-tri-khi-doanh-nghiep-lam-chu-du-lieu"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/072300041/?P=2&i_cid=nbpnxt_nextpage_child_a"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24745"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000001404.000078149.html"
+        },
+        {
+          "name": "nttdata.com",
+          "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0724"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35250934/"
+        },
+        {
+          "name": "seitaikai.com",
+          "url": "https://www.seitaikai.com/post/rayven"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000098.000068656.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/4efc2595-a9ef-4e07-a097-75694c64db2b"
+        },
+        {
+          "name": "yakuji.co.jp",
+          "url": "https://www.yakuji.co.jp/entry137009.html"
+        },
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2823221?display=1"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省、SNS上の不適切投稿に関し事業者5社に勧告",
+      "summary": "総務省は、SNS上の不適切投稿に関する問題について、事業者5社に対して勧告を行った。生成AIの利用が個人で半数超となっている状況とあわせて注目されている。",
+      "relevance": "SNS上の不適切投稿に対する総務省の勧告事例を参考に、PMO/PjMO担当者は、行政が関わる情報発信やシステムにおけるコンテンツ管理・利用ガイドラインの整備についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.web.nhk",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015185231000"
+        }
+      ],
+      "score": 4
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【開催報告】Neuron Community – 2026 Vol.1",
+          "url": "https://aws.amazon.com/jp/blogs/news/neuron-community-2026-vol-1/",
+          "pub_date": "2026-07-24T09:14:38.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "ISA/IEC 62443を踏まえたAWSでのOTとクラウドの接続設計",
+          "url": "https://aws.amazon.com/jp/blogs/news/isaiec62443/",
+          "pub_date": "2026-07-24T07:21:25.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】AWS Summit Japan 2026 – AWS for Telcom 展示ブース",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-telcom/",
+          "pub_date": "2026-07-24T03:58:11.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Certified Machine Learning Engineer – Associate アップデート (MLA-C02) のお知らせ",
+          "url": "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+          "pub_date": "2026-07-23T23:59:16.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "Google が 2026 年 Gartner® Magic Quadrant™ で会話型 AI プラットフォーム部門のリーダーに選出、ビジョンと実行能力が最高評価を獲得",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+          "pub_date": "2026-07-24T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "IDC: 適切なネットワーキング アプローチがエージェント型 AI の基盤となる理由",
+          "url": "https://cloud.google.com/blog/ja/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+          "pub_date": "2026-07-24T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "C4N の一般提供を開始: クラウドで最高レベルの vCPU あたりのネットワークとブロック ストレージの I/O を x86 ワークロードで実現",
+          "url": "https://cloud.google.com/blog/ja/products/compute/c4n-network-and-storage-optimized-vms/",
+          "pub_date": "2026-07-24T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「第11期デジタルビジネス推進研究会」にてクラウド事業戦略本部 角が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/24/1968225456/",
+          "pub_date": "2026-07-24T07:50:30.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-24T15:26:41.412Z"
+}
