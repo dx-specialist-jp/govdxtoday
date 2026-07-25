@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-26",
+  "date_ja": "2026年7月26日（日）",
+  "news_summary": [
+    "フロンティアAIのサイバー攻撃利用リスクとAIガバナンスの重要性が高まっています。",
+    "デジタル庁開発のガバメントAI「源内」活用に向けたサミットが開催され、安全な利用環境整備がテーマです。",
+    "Anthropicの新AIモデル「Claude Opus 5」は、コストと性能を調整できる「努力レベル」機能を搭載しました。",
+    "AIガバナンスの国際動向が進む中、韓国はAIネイティブ国家、米国は官民連携強化を目指しています。",
+    "総務省情報通信白書によると、生成AI利用率は58.8%に倍増し、AX（AI Transformation）への転換が示唆されます。",
+    "ガバメントクラウドへの採択に向け、AWS、Azure、Google、Oracleなどのクラウドベンダーが競争しています。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "フロンティアAIのサイバー攻撃利用リスクとAIガバナンスの重要性",
+      "summary": "AnthropicのClaude Mythos等のフロンティアAIがサイバー攻撃に悪用される懸念が指摘されており、AIガバナンスの重要性が増しています。シャドウAIの脅威からの組織保護が課題です。",
+      "relevance": "AIの悪用リスクと組織的な対策の必要性について、AIガバナンス体制の構築と運用管理をご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "sustainablejapan.jp",
+          "url": "https://sustainablejapan.jp/2026/07/25/gartner-security-frontier-ai/128472"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31191990/"
+        },
+        {
+          "name": "hrzine.jp",
+          "url": "https://hrzine.jp/article/detail/7994"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/event_info/30015016/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31191732/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタル庁開発のガバメントAI「源内」活用に向けたサミット開催",
+      "summary": "デジタル庁が開発・展開するガバメントAI「源内」の活用について、開発者らが登壇するサミットが開催されます。行政における生成AIの安全・安心な利用環境整備がテーマです。",
+      "relevance": "行政機関における生成AIの安全かつ効果的な活用推進に向けた具体的な事例として、ガバメントAI「源内」の取り組みをご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-25-178637-2/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000002.000178637.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Anthropicの新AIモデル「Claude Opus 5」登場、コストと性能のバランスを考慮した「努力レベル」機能搭載",
+      "summary": "Anthropicは「Claude Opus 5」をリリースし、APIリクエストごとに計算量とコストを調整できる「努力レベル」機能を搭載しました。これは、エージェント用途の判断力とタスク完遂力を向上させるものです。",
+      "relevance": "大規模言語モデルのコスト効率と性能向上の最新動向として、AIモデル選定やAPI連携における「努力レベル」機能の活用をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ja.martincid.com",
+          "url": "https://ja.martincid.com/technology-ja/claude-opus-5-near-fable-half-price/"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/3/7/359_7_r_20260725_1784935117659503"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000211.000056138.html"
+        },
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスの国際動向と国内におけるAI活用・利用率の動向",
+      "summary": "AIガバナンスに関する国際的な議論が進む中、韓国はAIネイティブ国家を目指しており、米国務省はAIガバナンスを含む官民連携を強化しています。国内では生成AIの利用率が倍増しています。",
+      "relevance": "AIの責任ある開発・利用と国際的な規制動向を踏まえ、自組織におけるAIガバナンス戦略と具体的な活用策をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/0582c0ae-d2d3-4303-a4b4-6c60353d2d75"
+        },
+        {
+          "name": "arabnews.jp",
+          "url": "https://www.arabnews.jp/article/middle-east/article_182671/"
+        },
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-industry/2026/07/25/AWGZRJS2B5BB5HLEWJPSHXS664/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/4ef1679c-b2ea-4cb8-855f-1300abc317bf"
+        },
+        {
+          "name": "coinpost.jp",
+          "url": "https://coinpost.jp/?p=727306"
+        },
+        {
+          "name": "abema.tv",
+          "url": "https://abema.tv/video/episode/89-66_s99_p7351"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17165019/?ref=user"
+        },
+        {
+          "name": "bitbank.cc",
+          "url": "https://bitbank.cc/knowledge/breaking/article/y40j0gyu9y7w"
+        },
+        {
+          "name": "voi.id",
+          "url": "https://voi.id/ja/amp/586555"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/6c78ee2d-d476-4af0-a334-3ef84a6ca5c3"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/101619"
+        },
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=119916"
+        },
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/96099?page=6"
+        },
+        {
+          "name": "brasilnippou.com",
+          "url": "https://brasilnippou.com/ja/articles/260725-31especial"
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://www.prnewswire.com/jp/news-releases/shanghai-electricwaic-2026ai-302834261.html"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35250922/"
+        },
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/-/2826084"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=lELz7NXyuhE"
+        },
+        {
+          "name": "fnn.jp",
+          "url": "https://www.fnn.jp/articles/-/1081012"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "総務省情報通信白書における生成AI利用率の増加と各省庁の動向",
+      "summary": "総務省の「情報通信白書」によると、生成AIの利用率は58.8%と前年度から倍増しており、DXからAX（AI Transformation）への転換が示唆されています。各省庁もAI関連施策を進めています。",
+      "relevance": "生成AIの利用拡大とAIトランスフォーメーション（AX）の進展について、最新の利用動向を把握し、組織のAI戦略策定にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "monoist.itmedia.co.jp",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2607/25/news008.html"
+        },
+        {
+          "name": "japan.ajunews.com",
+          "url": "https://japan.ajunews.com/view/20260724093711160"
+        },
+        {
+          "name": "meti.go.jp",
+          "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260724001.html"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=2026072400894&g=eco"
+        },
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/economy/d95fc53fc8624ace898aeb19a797db73"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ガバメントクラウドへの採択状況とクラウド基盤の活用動向",
+      "summary": "ガバメントクラウドへの採択を目指す動きが活発化しており、AWS、Azure、Google、Oracleなどのクラウドベンダーが競争を繰り広げています。地域ITベンダーによる基盤開発も進んでいます。",
+      "relevance": "政府共通のクラウド基盤であるガバメントクラウドの動向と、公共・医療分野での活用事例について、インフラ整備・選定の参考にご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "dc.watch.impress.co.jp",
+          "url": "https://dc.watch.impress.co.jp/docs/news/event/2127598.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/175450/"
+        },
+        {
+          "name": "weeklybcn.com",
+          "url": "https://www.weeklybcn.com/journal/serial/detail/20260724_216372.html"
+        },
+        {
+          "name": "kabutan.jp",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607240641"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "職場におけるAI自動化の進捗状況に関する分析結果",
+      "summary": "グーグルによる1500万件のデータ分析の結果、職場におけるAIの自動化は10パーセント未満であることが判明しました。",
+      "relevance": "職場におけるAI導入と自動化の現状について、実際の活用度と想定される効果のギャップを把握し、自組織のDX推進計画にご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/31901925/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Kiro で GPT-5.6 が利用可能になりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6/",
+          "pub_date": "2026-07-24T23:01:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Claude Opus 5 が Kiro で利用可能になりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/opus-5/",
+          "pub_date": "2026-07-24T22:41:56.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 25, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_25_2026",
+          "pub_date": "2026-07-25T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-25T15:04:07.014Z"
+}

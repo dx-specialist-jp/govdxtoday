@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "フロンティアAIのサイバー攻撃利用リスクとAIガバナンスの重要性",
+        "summary": "AnthropicのClaude Mythos等のフロンティアAIがサイバー攻撃に悪用される懸念が指摘されており、AIガバナンスの重要性が増しています。シャドウAIの脅威からの組織保護が課題です。",
+        "source": "sustainablejapan.jp",
+        "url": "https://sustainablejapan.jp/2026/07/25/gartner-security-frontier-ai/128472",
+        "relevance": "AIの悪用リスクと組織的な対策の必要性について、AIガバナンス体制の構築と運用管理をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "Weekly Report: JPCERT/CCが「APT-C-60による2026年の攻撃」を公開",
@@ -2418,6 +2428,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "総務省情報通信白書における生成AI利用率の増加と各省庁の動向",
+        "summary": "総務省の「情報通信白書」によると、生成AIの利用率は58.8%と前年度から倍増しており、DXからAX（AI Transformation）への転換が示唆されています。各省庁もAI関連施策を進めています。",
+        "source": "monoist.itmedia.co.jp",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2607/25/news008.html",
+        "relevance": "生成AIの利用拡大とAIトランスフォーメーション（AX）の進展について、最新の利用動向を把握し、組織のAI戦略策定にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "AIガバナンスの国際動向と国内におけるAI活用・利用率の動向",
+        "summary": "AIガバナンスに関する国際的な議論が進む中、韓国はAIネイティブ国家を目指しており、米国務省はAIガバナンスを含む官民連携を強化しています。国内では生成AIの利用率が倍増しています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/0582c0ae-d2d3-4303-a4b4-6c60353d2d75",
+        "relevance": "AIの責任ある開発・利用と国際的な規制動向を踏まえ、自組織におけるAIガバナンス戦略と具体的な活用策をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "Anthropicの新AIモデル「Claude Opus 5」登場、コストと性能のバランスを考慮した「努力レベル」機能搭載",
+        "summary": "Anthropicは「Claude Opus 5」をリリースし、APIリクエストごとに計算量とコストを調整できる「努力レベル」機能を搭載しました。これは、エージェント用途の判断力とタスク完遂力を向上させるものです。",
+        "source": "ja.martincid.com",
+        "url": "https://ja.martincid.com/technology-ja/claude-opus-5-near-fable-half-price/",
+        "relevance": "大規模言語モデルのコスト効率と性能向上の最新動向として、AIモデル選定やAPI連携における「努力レベル」機能の活用をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "デジタル庁開発のガバメントAI「源内」活用に向けたサミット開催",
+        "summary": "デジタル庁が開発・展開するガバメントAI「源内」の活用について、開発者らが登壇するサミットが開催されます。行政における生成AIの安全・安心な利用環境整備がテーマです。",
+        "source": "excite.co.jp",
+        "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-25-178637-2/",
+        "relevance": "行政機関における生成AIの安全かつ効果的な活用推進に向けた具体的な事例として、ガバメントAI「源内」の取り組みをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-25",
         "date_ja": "2026年7月25日（土）",
         "title": "人間中心のAIコンソーシアム設立、AI政策提言や研究開発を推進",
@@ -3250,6 +3300,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "ガバメントクラウドへの採択状況とクラウド基盤の活用動向",
+        "summary": "ガバメントクラウドへの採択を目指す動きが活発化しており、AWS、Azure、Google、Oracleなどのクラウドベンダーが競争を繰り広げています。地域ITベンダーによる基盤開発も進んでいます。",
+        "source": "dc.watch.impress.co.jp",
+        "url": "https://dc.watch.impress.co.jp/docs/news/event/2127598.html",
+        "relevance": "政府共通のクラウド基盤であるガバメントクラウドの動向と、公共・医療分野での活用事例について、インフラ整備・選定の参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-25",
         "date_ja": "2026年7月25日（土）",
         "title": "ワークデイの計画ツールが連邦政府のセキュリティ認可を取得、ガバメントクラウド上で稼働",
@@ -3745,6 +3805,24 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "Claude Opus 5 が Kiro で利用可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/opus-5/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "Kiro で GPT-5.6 が利用可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-25",
         "date_ja": "2026年7月25日（土）",
@@ -4315,6 +4393,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "July 25, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_25_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-25",
         "date_ja": "2026年7月25日（土）",
         "title": "C4N の一般提供を開始: クラウドで最高レベルの vCPU あたりのネットワークとブロック ストレージの I/O を x86 ワークロードで実現",
@@ -4766,6 +4853,16 @@
       }
     ],
     "働き方/業務改革": [
+      {
+        "date": "2026-07-26",
+        "date_ja": "2026年7月26日（日）",
+        "title": "職場におけるAI自動化の進捗状況に関する分析結果",
+        "summary": "グーグルによる1500万件のデータ分析の結果、職場におけるAIの自動化は10パーセント未満であることが判明しました。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/topics/detail/31901925/",
+        "relevance": "職場におけるAI導入と自動化の現状について、実際の活用度と想定される効果のギャップを把握し、自組織のDX推進計画にご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-23",
         "date_ja": "2026年7月23日（木）",
@@ -5264,17 +5361,17 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 37,
+    "セキュリティ": 38,
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 83,
-    "クラウド/インフラ": 19,
+    "AI活用": 87,
+    "クラウド/インフラ": 20,
     "制度/ガイドライン": 17,
     "自治体DX事例": 13,
-    "AWS最新情報": 63,
-    "Google Cloud最新情報": 50,
-    "働き方/業務改革": 5,
+    "AWS最新情報": 65,
+    "Google Cloud最新情報": 51,
+    "働き方/業務改革": 6,
     "さくらのクラウド最新情報": 29,
     "AIガバナンス": 7,
     "ガバメントクラウド": 2,
@@ -5283,5 +5380,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 2
   },
-  "updated_at": "2026-07-24T15:26:41.417Z"
+  "updated_at": "2026-07-25T15:04:07.017Z"
 }

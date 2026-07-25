@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-26",
+      "summary_short": "フロンティアAIのサイバー攻撃利用リスクとAIガバナンス…など7件",
+      "article_count": 7,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-25",
       "summary_short": "行政機関向けAI基盤「源内」の活用推進とエコシステム構築…など9件",
       "article_count": 9,
