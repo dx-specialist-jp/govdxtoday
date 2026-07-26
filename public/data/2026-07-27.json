@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-27",
+  "date_ja": "2026年7月27日（月）",
+  "news_summary": [
+    "総務省は、浜松市・神戸市で自治体AI活用モデル事業を実施し、来年度からの全国展開を後押しする。",
+    "英政府機関の模擬試験でClaude Opus 5は一定の成果、AIガバナンスはリスク管理を超えた重要性を示唆。",
+    "中高生でAI悪用が広がる中、学習指導要領はAI利用への対策として「自ら思考・判断・表現」を重視。",
+    "Anthropic Claude Codeはシステムプロンプト80%超削除でも性能低下なく、Google WorkspaceもAIアシスタント拡充。",
+    "デジタル民主主義サミット2026では、デジタル庁開発のガバメントAI「源内」など行政AI活用が焦点。",
+    "AIガバナンスはセキュリティに加え、コスト・品質・コンプライアンス・人間中心のAIまで体系拡張が必要。",
+    "MicrosoftとKnox Systemsは政府向けAzure導入加速で協業、AI・サイバーセキュリティ機能強化へ。",
+    "ガバメントクラウド移行に伴うクラウド一極集中リスクと、システム突然停止の可能性が指摘されている。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "総務省、自治体でのAI活用本格化へ - モデル事業と代替業務精査で全国展開を後押し",
+      "summary": "総務省は、地方自治体の業務でのAI活用を促進するため、今年度に浜松市と神戸市でモデル事業を実施し、来年度から本格的な運用を後押しする方針です。",
+      "relevance": "AI活用における全国展開を視野に入れたモデル事業の進捗や、代替可能業務の精査状況について、自組織でのAI導入計画策定のためにご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/114270/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7d2a847661a250380d766d7237121a64eac41d7c"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/150508/posts/1449771"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/pickup/6589344"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7d2a847661a250380d766d7237121a64eac41d7c/images/000"
+        },
+        {
+          "name": "yomiuri.co.jp",
+          "url": "https://www.yomiuri.co.jp/politics/20260725-GYT1T00428/"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/31912541/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/yomiuri/politics/20260725-567-GYT1T00428"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "英政府機関の模擬試験でClaude Opus 5が一定の成果、AIの安全性評価は継続",
+      "summary": "英政府機関による模擬ネットワーク試験で、Claude Opus 5は10回中8回を完遂しましたが、安全性評価は留保されています。AIガバナンスもリスク管理にとどまらない重要性を示唆しています。",
+      "relevance": "AIモデルの安全性評価や、AIガバナンスがリスク管理を超えた持続可能な開発目標（SDGs）の理念とも結びつく点について、AI導入時の評価基準検討のためにご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17168415/?ref=user"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/article/20260726/862812.html"
+        },
+        {
+          "name": "inpsjapan.com",
+          "url": "https://inpsjapan.com/news/media-communication/not-an-ending-but-the-beginning-of-humanitys-choice/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "中高生にも広がるAIの悪用と、学習指導要領におけるAI利用への対応",
+      "summary": "中高生の間でAIの悪用が広がる一方、学習指導要領では2030年度以降、読書感想文の評価において「自ら思考・判断・表現できているか」が重視され、AIの安易な利用への対策が示されています。",
+      "relevance": "AIの倫理的な利用や、教育現場におけるAI活用への対応状況について、行政サービスにおけるAI利用のガイドライン策定の参考にご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/nation/20260725-567-GYT1T00440?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/politics/20260725-567-GYT1T00038?fm=topics&fm_topics_id=21d272752100609ba9dd52444ee559ff"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "Anthropic Claude Code、システムプロンプト80%超削除で性能低下なし - Google WorkspaceもAIアシスタント拡充",
+      "summary": "AnthropicはClaude Codeのシステムプロンプトを大幅に削除しても性能低下がないことを発表し、GoogleはWorkspaceでのAIアシスタント利用を拡大しています。",
+      "relevance": "AIモデルの最適化や、AIアシスタント機能のエンタープライズ環境での拡充動向について、利用可能なAIツールの選定や活用方法検討のためにご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/07/26/claude-5-context-engineering-system-prompt-80-percent/"
+        },
+        {
+          "name": "mezha.net",
+          "url": "https://mezha.net/jp/bukvy/85851f17_google_expands_gemini/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "デジタル民主主義サミット2026開催、行政におけるAI活用と政府開発システムに焦点",
+      "summary": "デジタル民主主義サミット2026では、デジタル庁が開発するガバメントAI「源内」の開発者や東京副知事らが登壇し、行政におけるAI活用と政府開発システムについて議論されます。",
+      "relevance": "行政におけるAI活用事例や、政府が開発・展開するシステムの動向について、DX推進における参考情報としてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260725/1322264.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIガバナンス体制構築の重要性 - 企業・組織での実践ガイドやコンソーシアム設立",
+      "summary": "AIガバナンスは、セキュリティ統制に加え、コストや品質管理、コンプライアンス遵守、そして「人間中心のAI」の在り方まで包含する体系へと拡張されるべきです。",
+      "relevance": "AIガバナンスの、単なるセキュリティ統制を超えた包括的な体制構築や、先進的な実践ガイド、コンソーシアムの活動について、自組織のAIガバナンス体制構築のためにご参照ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/721305"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31192023/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-ftnt/fortinet/news/69ecf485f35c5f43"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/d7d6f88d-9525-4a4f-96ae-1e4cec58e9fd"
+        },
+        {
+          "name": "sphericalinsights.com",
+          "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-cognitive-services-platform-market-2026-2035-spherical-insights-analysis"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/05a6b74a5ac43b52d8ad28961e385bf1d22c51a5?page=3"
+        },
+        {
+          "name": "xpert.digital",
+          "url": "https://xpert.digital/ja/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E9%9F%B3%E5%A3%B0ai/"
+        },
+        {
+          "name": "gii.co.jp",
+          "url": "https://www.gii.co.jp/report/ires2096613-enterprise-metadata-management-market-global.html"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31191991/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Microsoft、Knox Systemsと提携し政府向けAzure導入を加速",
+      "summary": "MicrosoftとKnox Systemsは、Azure Government Cloud上での安全な政府利用を加速するための協業を発表しました。AIやサイバーセキュリティ機能の強化を目指します。",
+      "relevance": "政府機関向けクラウドサービスの導入・拡充における、主要クラウドベンダーとパートナー企業との協業事例について、インフラ戦略検討のためにご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-msft/microsoft/news/b6f1292b739d2de2"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウドへの移行とクラウド一極集中リスク、可用性の罠",
+      "summary": "国や企業がガバメントクラウドをはじめとする大規模クラウドへの移行を進める中で、クラウド一極集中によるリスクと、止まらないシステムが突然停止する可能性について指摘されています。",
+      "relevance": "ガバメントクラウドを含む大規模クラウドへの移行に伴うリスクや、可用性確保の観点について、インフラ選定やリスク管理体制の強化のためにご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "t.co",
+          "url": "https://t.co/e74KkOAf1L"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "国連、AIガバナンス・グローバル対話を開催 - 国際的な枠組み構築へ",
+      "summary": "国連はAIガバナンスに関するグローバル対話を開催し、2026年7月以降、AIを巡る国際的な枠組み構築に向けた動きが進んでいます。",
+      "relevance": "AIの国際的な規制動向や、AIガバナンスに関するグローバルな議論の状況について、将来的な制度設計や国際連携の参考にご参照ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/114143/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "総務省「社会課題の解決に向けた没入型技術導入の手引き 2026」公表",
+      "summary": "総務省は「社会課題の解決に向けた没入型技術導入の手引き 2026」を公表し、少子高齢化に伴う労働力不足などの社会課題解決への没入型技術の応用を示しています。",
+      "relevance": "没入型技術の社会課題解決への応用や、総務省による手引きの策定状況について、新たな技術導入による業務改革の可能性検討のためにご参照ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17168124/?ref=user_3172527"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17168124/body/?ref=news-body_15262280"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [],
+  "generated_at": "2026-07-26T15:05:27.830Z"
+}
