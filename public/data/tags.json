@@ -2428,6 +2428,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "総務省・特許庁のAI活用方針とAPECでの議論",
+        "summary": "総務省は自治体のAI活用を後押しし、特許庁はAI活用の基本方針「JPO AIビジョン」を策定、APECでは生成AI開発における透明性・説明責任促進の取組が紹介されました。",
+        "source": "act1.co.jp",
+        "url": "https://act1.co.jp/2026-07-27-01/",
+        "relevance": "特許庁のAI活用基本方針やAPECでの議論内容について、行政機関におけるAI活用方針策定の参考となる点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "企業向けAIの依存見直しと新たなガバナンス課題",
+        "summary": "AIが企業活動に深く組み込まれるにつれ、AIの出力権やプロンプトの所有権、経営陣からの新たなガバナンス上の問いが生じており、AI経済は次の局面を迎えています。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/97cd57e17b648b4deb2128d46d077e7e8287a088/images/000",
+        "relevance": "AIの企業活動への組み込みに伴う新たなガバナンス上の問いについて、今後のAI利用における論点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AIガバナンス、安全性、国際協力に関する動向",
+        "summary": "AIガバナンスの実践、AI安全性に関する政策、AI時代への備え、国際協力、そしてAIガバナンス強化に向けたアップデートなどが議論されています。",
+        "source": "codezine.jp",
+        "url": "https://codezine.jp/news/detail/29128",
+        "relevance": "AIガバナンス、安全性、国際協力に関する最新の動向について、自組織のAI活用推進体制構築の参考となる点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "花王、「花王AIガバナンス方針」を策定し、安全・責任あるAI活用を推進",
+        "summary": "花王は、グローバルで安全かつ責任あるAI活用を推進するため、「花王AIガバナンス方針」を策定し、社内規程整備やガバナンス体制構築を進め、啓発活動も行います。",
+        "source": "bizzine.jp",
+        "url": "https://bizzine.jp/article/detail/13372",
+        "relevance": "民間企業によるAIガバナンス方針の策定事例として、社内規程整備や啓発活動の進め方をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AIエージェントの社会実装とガバナンス：政府「源内」、EU AI Act、民間導入格差",
+        "summary": "日本政府の「源内」やEU AI Act、民間企業の導入状況とガバナンスの考え方、AI構築と法整備、諸外国の規制・調達ルール動向について議論が進められています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17170927/?ref=user_3172527",
+        "relevance": "AIエージェントの社会実装における法的・技術的・組織的ガバナンスの動向について、政府・EU・民間企業の動向を踏まえた検討をご提案します。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-27",
         "date_ja": "2026年7月27日（月）",
         "title": "デジタル民主主義サミット2026開催、行政におけるAI活用と政府開発システムに焦点",
@@ -3350,6 +3400,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "ガバメントクラウド認定事業者、AWS、システム仮想化方針",
+        "summary": "国内唯一のガバメントクラウド認定事業者であるさくらインターネットはAI需要急拡大に対応し、AWSはサステナビリティ・コンソールに取水量データ追加、各機関システムはガバメントクラウドに載せて仮想化する方針です。",
+        "source": "businessnetwork.jp",
+        "url": "https://businessnetwork.jp/article/35937/",
+        "relevance": "ガバメントクラウド認定事業者によるAI需要への対応状況と、システム仮想化方針について、インフラ調達・運用の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-27",
         "date_ja": "2026年7月27日（月）",
         "title": "ガバメントクラウドへの移行とクラウド一極集中リスク、可用性の罠",
@@ -3572,6 +3632,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AI強制停止法案と業界反発、AIガバナンスを巡る対立",
+        "summary": "米連邦議会で提出されたAIシステム強制停止法案に対し、GoogleやOpenAIを含む77社が反対書簡に署名するなど業界の反発が拡大し、AIガバナンスを巡る対立が鮮明になっています。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/186273",
+        "relevance": "AIシステムの強制停止権限に関する法案とその業界の反応について、今後のAIガバナンスのあり方をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "米AI企業、中国発オープンソースAIで対立 - 規制強化と企業対応",
+        "summary": "中国発AIモデルの台頭に対し、米国政府は規制強化の動きを見せていますが、米企業間の対応は分かれており、AIガバナンスを巡る対立構造が鮮明になっています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17174572/?ref=user",
+        "relevance": "国際的なAI規制の動向と、それに伴う米国の企業間対立について、今後の行政システムへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-27",
         "date_ja": "2026年7月27日（月）",
         "title": "国連、AIガバナンス・グローバル対話を開催 - 国際的な枠組み構築へ",
@@ -3754,6 +3834,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "総務省、自治体のAI本格活用を後押し - 浜松市・神戸市でモデル展開",
+        "summary": "総務省は、財政難や人員不足に悩む自治体のAI本格活用を後押しするため、浜松市と神戸市でモデル展開を開始しました。",
+        "source": "xtrend.nikkei.com",
+        "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00014/?ST=nxr_thm_trendy&i_cid=nbpnxr_toptre_new",
+        "relevance": "自治体におけるAI本格活用のモデル展開事例として、他自治体への横展開可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-22",
         "date_ja": "2026年7月22日（水）",
         "title": "総務省「地域社会DX推進パッケージ事業」、AI・自動運転等の先進的ソリューション実証支援",
@@ -3885,6 +3975,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "寄稿：弁護士ドットコムにおける AWS DevOps Agent の活用事例 – インシデント対応の自動化と属人化の解消",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/bengo4com-devops-agent-case-study/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AWS Summit Japan 2026：完全自律型 AI Agent が変える SaaS の世界",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/multitenant-ai-agent-saas-architecture-aws-summit-japan-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "Security Hub が AI ワークロード保護と Microsoft Azure 対応のマルチクラウドサポートを追加",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "Amazon GuardDuty 調査エージェントのご紹介: オンデマンドの AI を活用した脅威評価",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "週刊生成AI with AWS – 2026年7月20日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260720/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-26",
         "date_ja": "2026年7月26日（日）",
@@ -4473,6 +4608,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "Google Cloud Labs: Cloud Run で AI イノベーションを加速",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "損保ジャパン、機械学習モデルの開発を AI エージェントで自動化 ─ 1 週間かかっていた実験サイクルが 1 日に",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-japan-automates-the-development-of-machine-learning-models-using-ai-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AI トークノミクス ガイド: トークン効率の高いソフトウェア エンジニアリングのための 11 の原則",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "July 27, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_27_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-26",
         "date_ja": "2026年7月26日（日）",
         "title": "July 25, 2026",
@@ -5006,6 +5177,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "「北海道女性研究者の会 50周年記念公開講演会」にてさくらインターネット研究所 朝倉が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/27/1968225449/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-25",
         "date_ja": "2026年7月25日（土）",
         "title": "「第11期デジタルビジネス推進研究会」にてクラウド事業戦略本部 角が登壇します",
@@ -5269,6 +5449,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-07-28",
+        "date_ja": "2026年7月28日（火）",
+        "title": "AI活用促進とガバナンス：現場主導のAI活用と情報漏洩リスク",
+        "summary": "AIツール導入の定着や現場主導のAI活用を進めるには、情報漏洩などのセキュリティガバナンスへの不安解消が課題であり、情シスをガバナンス設計者へ変える道筋が解説されています。",
+        "source": "xtrend.nikkei.com",
+        "url": "https://xtrend.nikkei.com/atcl/contents/18/01227/00023/?i_cid=nbpnxr_index",
+        "relevance": "現場主導のAI活用におけるセキュリティガバナンスの課題と、情報漏洩リスクへの対策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-18",
         "date_ja": "2026年7月18日（土）",
         "title": "中国、AIグローバルガバナンス確立に向け主導権をアピール 世界AI大会で習近平国家主席が4つの提案",
@@ -5465,20 +5655,20 @@
     "その他": 178,
     "行政AI": 16,
     "行政DX": 14,
-    "AI活用": 92,
-    "クラウド/インフラ": 22,
-    "制度/ガイドライン": 18,
-    "自治体DX事例": 13,
-    "AWS最新情報": 65,
-    "Google Cloud最新情報": 51,
+    "AI活用": 97,
+    "クラウド/インフラ": 23,
+    "制度/ガイドライン": 20,
+    "自治体DX事例": 14,
+    "AWS最新情報": 70,
+    "Google Cloud最新情報": 55,
     "働き方/業務改革": 7,
-    "さくらのクラウド最新情報": 29,
-    "AIガバナンス": 7,
+    "さくらのクラウド最新情報": 30,
+    "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 3,
     "デジタル庁": 2,
     "調達/契約": 1,
     "プロジェクト管理": 3
   },
-  "updated_at": "2026-07-26T15:05:27.833Z"
+  "updated_at": "2026-07-27T16:20:20.745Z"
 }

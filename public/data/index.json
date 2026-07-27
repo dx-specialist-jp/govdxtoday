@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-07-28",
+      "summary_short": "AIエージェントの社会実装とガバナンス：政府「源内」、E…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-07-27",
       "summary_short": "総務省、自治体でのAI活用本格化へ - モデル事業と代替…など10件",
       "article_count": 10,

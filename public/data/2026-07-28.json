@@ -1,0 +1,309 @@
+{
+  "date": "2026-07-28",
+  "date_ja": "2026年7月28日（火）",
+  "news_summary": [
+    "政府はAIエージェントの社会実装とガバナンスについて、EU AI Actや諸外国の規制・調達ルール動向を踏まえ議論を進めている。",
+    "総務省は自治体のAI活用を後押しし、特許庁はAI活用の基本方針「JPO AIビジョン」を策定した。",
+    "国内唯一のガバメントクラウド認定事業者はAI需要拡大に対応し、各機関システムはガバメントクラウドで仮想化する方針。",
+    "花王はグローバルで安全かつ責任あるAI活用のため「花王AIガバナンス方針」を策定し、社内規程整備を進めている。",
+    "AIが企業活動に深く組み込まれ、AI出力権やプロンプト所有権など新たなガバナンス課題が生じている。",
+    "米連邦議会提出のAIシステム強制停止法案に対し、Googleら77社が反対表明し、AIガバナンスを巡る対立が拡大している。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIエージェントの社会実装とガバナンス：政府「源内」、EU AI Act、民間導入格差",
+      "summary": "日本政府の「源内」やEU AI Act、民間企業の導入状況とガバナンスの考え方、AI構築と法整備、諸外国の規制・調達ルール動向について議論が進められています。",
+      "relevance": "AIエージェントの社会実装における法的・技術的・組織的ガバナンスの動向について、政府・EU・民間企業の動向を踏まえた検討をご提案します。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17170927/?ref=user_3172527"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17170927/body/?ref=news-body_17168124"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news-in-app/17170927/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "花王、「花王AIガバナンス方針」を策定し、安全・責任あるAI活用を推進",
+      "summary": "花王は、グローバルで安全かつ責任あるAI活用を推進するため、「花王AIガバナンス方針」を策定し、社内規程整備やガバナンス体制構築を進め、啓発活動も行います。",
+      "relevance": "民間企業によるAIガバナンス方針の策定事例として、社内規程整備や啓発活動の進め方をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13372"
+        },
+        {
+          "name": "kao.com",
+          "url": "https://www.kao.com/jp/newsroom/news/release/2026/20260727-001/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19588225?news_ref=watch_60_nw19480534"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000670.000070897.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンス、安全性、国際協力に関する動向",
+      "summary": "AIガバナンスの実践、AI安全性に関する政策、AI時代への備え、国際協力、そしてAIガバナンス強化に向けたアップデートなどが議論されています。",
+      "relevance": "AIガバナンス、安全性、国際協力に関する最新の動向について、自組織のAI活用推進体制構築の参考となる点をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "codezine.jp",
+          "url": "https://codezine.jp/news/detail/29128"
+        },
+        {
+          "name": "u-tokyo.ac.jp",
+          "url": "https://www.u-tokyo.ac.jp/focus/ja/events/z0211_00114.html"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/101711"
+        },
+        {
+          "name": "news.dxable.com",
+          "url": "https://news.dxable.com/drata-released-custom-vendor-types-tprm-agent-evaluation-based-on-public-docs-and-general-ai-usage-policy-template/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "企業向けAIの依存見直しと新たなガバナンス課題",
+      "summary": "AIが企業活動に深く組み込まれるにつれ、AIの出力権やプロンプトの所有権、経営陣からの新たなガバナンス上の問いが生じており、AI経済は次の局面を迎えています。",
+      "relevance": "AIの企業活動への組み込みに伴う新たなガバナンス上の問いについて、今後のAI利用における論点をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/97cd57e17b648b4deb2128d46d077e7e8287a088/images/000"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/101342/page2"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "総務省・特許庁のAI活用方針とAPECでの議論",
+      "summary": "総務省は自治体のAI活用を後押しし、特許庁はAI活用の基本方針「JPO AIビジョン」を策定、APECでは生成AI開発における透明性・説明責任促進の取組が紹介されました。",
+      "relevance": "特許庁のAI活用基本方針やAPECでの議論内容について、行政機関におけるAI活用方針策定の参考となる点をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "act1.co.jp",
+          "url": "https://act1.co.jp/2026-07-27-01/"
+        },
+        {
+          "name": "meti.go.jp",
+          "url": "https://www.meti.go.jp/press/2026/07/20260727001.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01tsushin08_02000206.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド認定事業者、AWS、システム仮想化方針",
+      "summary": "国内唯一のガバメントクラウド認定事業者であるさくらインターネットはAI需要急拡大に対応し、AWSはサステナビリティ・コンソールに取水量データ追加、各機関システムはガバメントクラウドに載せて仮想化する方針です。",
+      "relevance": "ガバメントクラウド認定事業者によるAI需要への対応状況と、システム仮想化方針について、インフラ調達・運用の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35937/"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/051800247/071600003/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "米AI企業、中国発オープンソースAIで対立 - 規制強化と企業対応",
+      "summary": "中国発AIモデルの台頭に対し、米国政府は規制強化の動きを見せていますが、米企業間の対応は分かれており、AIガバナンスを巡る対立構造が鮮明になっています。",
+      "relevance": "国際的なAI規制の動向と、それに伴う米国の企業間対立について、今後の行政システムへの影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17174572/?ref=user"
+        },
+        {
+          "name": "iotnews.jp",
+          "url": "https://iotnews.jp/ai/274891/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17171090/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI強制停止法案と業界反発、AIガバナンスを巡る対立",
+      "summary": "米連邦議会で提出されたAIシステム強制停止法案に対し、GoogleやOpenAIを含む77社が反対書簡に署名するなど業界の反発が拡大し、AIガバナンスを巡る対立が鮮明になっています。",
+      "relevance": "AIシステムの強制停止権限に関する法案とその業界の反応について、今後のAIガバナンスのあり方をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186273"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/50564b44a31b6206059d398aa0949f1e76473c53"
+        },
+        {
+          "name": "logi-today.com",
+          "url": "https://www.logi-today.com/981315"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "総務省、自治体のAI本格活用を後押し - 浜松市・神戸市でモデル展開",
+      "summary": "総務省は、財政難や人員不足に悩む自治体のAI本格活用を後押しするため、浜松市と神戸市でモデル展開を開始しました。",
+      "relevance": "自治体におけるAI本格活用のモデル展開事例として、他自治体への横展開可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00014/?ST=nxr_thm_trendy&i_cid=nbpnxr_toptre_new"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000212.000056138.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/cf5031c5bf27a067fb1dfe22e147a5ded65f9c3c"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186268"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI活用促進とガバナンス：現場主導のAI活用と情報漏洩リスク",
+      "summary": "AIツール導入の定着や現場主導のAI活用を進めるには、情報漏洩などのセキュリティガバナンスへの不安解消が課題であり、情シスをガバナンス設計者へ変える道筋が解説されています。",
+      "relevance": "現場主導のAI活用におけるセキュリティガバナンスの課題と、情報漏洩リスクへの対策についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "xtrend.nikkei.com",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/01227/00023/?i_cid=nbpnxr_index"
+        },
+        {
+          "name": "e-guardian.co.jp",
+          "url": "https://www.e-guardian.co.jp/info/2026/20260727.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000424.000018759.html"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊生成AI with AWS – 2026年7月20日週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260720/",
+          "pub_date": "2026-07-27T08:24:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon GuardDuty 調査エージェントのご紹介: オンデマンドの AI を活用した脅威評価",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/",
+          "pub_date": "2026-07-27T03:57:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Security Hub が AI ワークロード保護と Microsoft Azure 対応のマルチクラウドサポートを追加",
+          "url": "https://aws.amazon.com/jp/blogs/news/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/",
+          "pub_date": "2026-07-27T03:53:57.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Summit Japan 2026：完全自律型 AI Agent が変える SaaS の世界",
+          "url": "https://aws.amazon.com/jp/blogs/news/multitenant-ai-agent-saas-architecture-aws-summit-japan-2026/",
+          "pub_date": "2026-07-27T02:59:49.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "寄稿：弁護士ドットコムにおける AWS DevOps Agent の活用事例 – インシデント対応の自動化と属人化の解消",
+          "url": "https://aws.amazon.com/jp/blogs/news/bengo4com-devops-agent-case-study/",
+          "pub_date": "2026-07-27T01:55:01.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 27, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_27_2026",
+          "pub_date": "2026-07-27T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "AI トークノミクス ガイド: トークン効率の高いソフトウェア エンジニアリングのための 11 の原則",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+          "pub_date": "2026-07-27T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "損保ジャパン、機械学習モデルの開発を AI エージェントで自動化 ─ 1 週間かかっていた実験サイクルが 1 日に",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-japan-automates-the-development-of-machine-learning-models-using-ai-agents/",
+          "pub_date": "2026-07-27T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud Labs: Cloud Run で AI イノベーションを加速",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
+          "pub_date": "2026-07-27T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「北海道女性研究者の会 50周年記念公開講演会」にてさくらインターネット研究所 朝倉が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/27/1968225449/",
+          "pub_date": "2026-07-27T04:30:03.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-27T16:20:20.741Z"
+}
