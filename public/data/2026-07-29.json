@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-29",
+  "date_ja": "2026年7月29日（水）",
+  "news_summary": [
+    "デジタル庁「源内」で行政実務用RAG開発・展開、業務マニュアル・FAQ検索へのAI活用を検討。",
+    "自治体向けAIサービス「zevo」に最新AIモデル「Claude Opus 5」が追加、行政DX・業務効率化を加速。",
+    "AIガバナンスサービスが複数登場、AI利用状況の可視化やリスク低減策策定が進む。",
+    "さくらインターネットは生成AI向けGPU需要増で業績予想を上方修正、GPUに260億円追加投資。",
+    "AWSはISMAP準拠のゲノムデータ解析特化サービス「AWS HealthOmics」を提供開始。",
+    "システムサポートはガバメントクラウド上でGoogle Cloud活用し空き家データベースシステムを開発。",
+    "デジタル庁と厚生労働省は、大病院向け電子カルテのクラウドネイティブ化に本格始動。",
+    "中国はAIガバナンス案を提示し、グローバルサウス諸国への機会提供と国際対話強化を示す。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
+      "url": "https://jvn.jp/jp/JVN03037325/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24885537/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+      "url": "https://jvn.jp/jp/JVN56870912/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "「行政実務用RAG」の開発と府省庁向けの展開について",
+    "summary": "「源内」で行政実務用RAG開発・展開\n\n▶ 各府省庁のPMO/PjMOは、デジタル庁「源内」の利用状況と「行政実務用RAG」の活用可能性を確認すること。\n▶ 業務マニュアル・FAQ検索にAIを活用する際の留意点について、デジタル庁の担当部署（高橋氏）に確認すること。\n▶ AIを行政現場に定着させるためのロードマップについて、関連部署と連携し検討すること。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n3c02c6c5694f",
+    "pub_date": "2026-07-28"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "自治体向けAIサービス「zevo」に最新AIモデル「Claude Opus 5」が追加、行政DXと作業効率化を加速",
+      "summary": "自治体AIサービス「zevo」に、従来の約2倍の性能を持つ最新AI「Claude Opus 5」が追加提供開始されました。これにより、行政DXの推進と業務効率化が加速します。",
+      "relevance": "最新AIモデルの行政システムへの適用可能性について、セキュリティやデータプライバシーの観点から、PMO/PjMOの皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2631-12/"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/claude-opus-5-vulnerability-discovery-exploit-limits/"
+        },
+        {
+          "name": "oita-press.co.jp",
+          "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c56138_r212"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの重要性が高まる中、多様なAIセキュリティ・ガバナンスサービスが登場",
+      "summary": "AIの安全な活用を支援するAIガバナンスサービスが多数登場しており、企業はAI利用状況の可視化やリスク低減策の策定を進めています。",
+      "relevance": "AIガバナンスに関する最新のサービス動向や、政府・企業における方針策定事例について、PMO/PjMOの皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251023/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251002/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35250998/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24761"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000077.000101914&g=prt"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24758"
+        },
+        {
+          "name": "pwc.com",
+          "url": "https://www.pwc.com/jp/ja/knowledge/news/legal-news/legal-20260728-3.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000095.000003070.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000275.000054434.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24757"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000057.000126939.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "政府開発の生成AI「源内」、ロボット×AIなど未来のAIテクノロジーに期待",
+      "summary": "政府は、行政でのAI活用を推進しており、生成AI「源内」をはじめ、エンボディドAIやAGIといった未来のAIテクノロジーの発展に期待を寄せています。",
+      "relevance": "政府が推進するAI技術開発の方向性について、PMO/PjMOの皆様は将来的なシステム導入の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dime.jp",
+          "url": "https://dime.jp/genre/2128347/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "さくらインターネット、生成AI向けGPU需要とガバメントクラウド採択を追い風に業績予想を上方修正しGPUに260億円追加投資",
+      "summary": "さくらインターネットは、生成AI向けGPUの好調とガバメントクラウド採択による大型・長期案件の増加を受けて、通期業績予想を上方修正し、GPUに260億円の追加投資を行います。",
+      "relevance": "ガバメントクラウド採択事業者であるさくらインターネットのインフラ投資動向について、PMO/PjMOの皆様はご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/26616a01-bd8e-4892-91b8-d9d7c5239523"
+        },
+        {
+          "name": "kabu-ir.com",
+          "url": "https://kabu-ir.com/article/521229732.html"
+        },
+        {
+          "name": "kabutan.jp",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607280744"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260728500747"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260728500705"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWS、ゲノムデータ解析に特化した「AWS HealthOmics」を提供開始、ISMAP準拠",
+      "summary": "AWSは、ゲノムデータなどの生物学的データ解析に特化したフルマネージドサービス「AWS HealthOmics」を提供開始しました。本サービスはISMAPに準拠しています。",
+      "relevance": "AWSの医療・生物学的データ解析向けサービスについて、PMO/PjMOの皆様はISMAP準拠の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "innervision.co.jp",
+          "url": "https://www.innervision.co.jp/products/release/20260906"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "システムサポート、ガバメントクラウド上でGoogle Cloudを活用し空き家データベースシステムを開発",
+      "summary": "システムサポートは、国土交通省の事業補助事業者として、ガバメントクラウド上でGoogle Cloudを活用し、空き家データベースシステムを構築・開発しました。",
+      "relevance": "ガバメントクラウド上でのGoogle Cloud活用事例として、PMO/PjMOの皆様はシステム開発の参考にご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "shikiho.toyokeizai.net",
+          "url": "https://shikiho.toyokeizai.net/news/0/952820"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁と厚労省、大病院向け電子カルテのクラウドネイティブ化へ本格始動",
+      "summary": "デジタル庁と厚生労働省は、大病院向け電子カルテなどのクラウドネイティブ化に向けた取り組みを本格化させ、「野良VPN」からの脱却を目指します。",
+      "relevance": "医療分野におけるクラウドネイティブ化の動向について、PMO/PjMOの皆様はシステム共通基盤の検討にご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news047.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "中国、AIガバナンス案を提示しグローバルサウス諸国に機会提供、国際対話も強化",
+      "summary": "中国はAIガバナンス案を提示し、グローバルサウス諸国に機会を提供するとともに、AIに関する国際対話と意思疎通を強化する姿勢を示しています。",
+      "relevance": "主要国のAIガバナンスに関する動向について、PMO/PjMOの皆様は国際的な規制動向の参考にご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "jetro.go.jp",
+          "url": "https://www.jetro.go.jp/biznews/2026/07/146edc3800d8336c.html"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/07/28/ARTI1785222274808226"
+        },
+        {
+          "name": "jp.news.cn",
+          "url": "https://jp.news.cn/20260727/de6400844e5d467c84390c021fea93a5/c.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "「ふるさとチョイス」でガバメントクラウドファンディングの受付が開始、自治体支援を促進",
+      "summary": "「ふるさとチョイス」にて、自治体が行うクラウドファンディング「ガバメントクラウドファンディング」の受付が開始され、自治体支援を促進しています。",
+      "relevance": "ガバメントクラウドファンディングの事例について、PMO/PjMOの皆様は自治体DX推進の参考にご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "zakzak.co.jp",
+          "url": "https://www.zakzak.co.jp/pressrelease/atpress/M646WE4OQVOLDH2UPN6ZH7SRAA/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19591965?news_ref=watch_20_nw18940303"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/2352456"
+        },
+        {
+          "name": "city.fujiidera.lg.jp",
+          "url": "https://www.city.fujiidera.lg.jp/soshiki/seisakukikaku/miryoku/furusato_1/21269.html"
+        },
+        {
+          "name": "city.komatsu.lg.jp",
+          "url": "https://www.city.komatsu.lg.jp/soshiki/1006/oshirase/18792.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "フォトシンスとクマヒラ、デジタル身分証普及・拡大へ協業開始",
+      "summary": "フォトシンスとクマヒラは、クラウドやIoT、セキュリティの強みを活かし、デジタル身分証の普及・拡大を目指して協業を開始しました。",
+      "relevance": "デジタル身分証の普及に向けた技術連携事例について、PMO/PjMOの皆様は行政サービス連携の参考にご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17174911/?ref=user"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "EngineLab AI: スタジオとクリエイターのための AWS 上のプロダクション環境対応 AI",
+          "url": "https://aws.amazon.com/jp/blogs/news/jp-mne-enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws-2/",
+          "pub_date": "2026-07-28T06:07:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Outpost VFX が ビジュアルエフェクト向けに AI モデルのトレーニングを AWS で加速した方法",
+          "url": "https://aws.amazon.com/jp/blogs/news/jp-mne-how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects-2/",
+          "pub_date": "2026-07-28T05:59:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "全従業員の行動変容を目指すAstemo が自己破壊を経て見つけたAI駆動開発の実効性",
+          "url": "https://aws.amazon.com/jp/blogs/news/astemo-ai-dlc/",
+          "pub_date": "2026-07-28T05:15:00.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】AWS Summit Japan 2026 物流業界向けブース展示「スマートグラス×生成AIエージェントで倉庫業務を革新」",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-2026-japan-logistics-booth-and-sessions/",
+          "pub_date": "2026-07-28T04:29:19.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "エージェンティック AI と AWS Transform でメインフレームアプリケーションを再構想 (reimagine) する",
+          "url": "https://aws.amazon.com/jp/blogs/news/reimagine-your-mainframe-applications-with-agentic-ai-and-aws-transform/",
+          "pub_date": "2026-07-27T20:21:44.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 28, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_28_2026",
+          "pub_date": "2026-07-28T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "最先端の科学的発見を加速: Google が Genesis Mission に 4,000 万ドルを提供",
+          "url": "https://cloud.google.com/blog/ja/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
+          "pub_date": "2026-07-28T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "可用性の高いマルチリージョン Cloud Run サービスの作成が簡単に",
+          "url": "https://cloud.google.com/blog/ja/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+          "pub_date": "2026-07-28T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Enterprise Agent Platform を活用する 13 のハンズオン デモ",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+          "pub_date": "2026-07-28T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "重要な第三者として英国金融セクターのレジリエンス向上に貢献",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+          "pub_date": "2026-07-28T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「【さくらのレギュラーセミナー】今すぐ始めるWebサイトのセキュリティ対策 ～最新の脅威と、今日からできる対策～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/28/1968225471/",
+          "pub_date": "2026-07-28T04:30:46.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「『守る』だけで終わらせない、クラウド運用の考え方 ～クラウド活用最前線セミナーダイジェスト～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/28/1968225464/",
+          "pub_date": "2026-07-28T02:55:43.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "さくらインターネット、「石狩データセンターコンソーシアム（石狩DCC）」の設立に参画",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/07/28/1968225444/",
+          "pub_date": "2026-07-28T02:00:59.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-28T16:06:33.734Z"
+}
