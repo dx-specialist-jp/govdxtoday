@@ -2437,6 +2437,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "Anthropic、最新AIモデル「Claude Opus 5」を発表、性能向上とコスト削減を両立",
+        "summary": "Anthropicは、最新AIモデル「Claude Opus 5」を発表した。同モデルは「Claude Fable 5」に迫る性能を半額のコストで実現し、行政・官公庁・地方自治体などでの活用が期待される。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/claude-opus-5/",
+        "relevance": "最新AIモデル「Claude Opus 5」の性能・コスト情報と、行政・官公庁・地方自治体への応用可能性について、PMO/PjMOの皆様は情報収集と導入検討をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "AI教育のSanta、Azure OpenAIベースのグローバル教育統合サービスで政府成長支援事業に選定",
+        "summary": "AI教育のSantaが、Azure OpenAIベースのグローバル教育統合サービス「Didisam」で政府の成長支援事業に選定された。Microsoftとの連携で公共市場での事業化と海外市場開拓を目指す。",
+        "source": "korit.jp",
+        "url": "https://www.korit.jp/news/edtech/besuccess-santa-microsoft-ai-didisam-260729/",
+        "relevance": "Azure OpenAIを活用した教育サービスが政府事業に選定された事例として、PMO/PjMOの皆様は、政府システムにおけるOpenAI基盤の活用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "AIガバナンス国際規格ISO/IEC 42001の認証取得・策定が進む、AIリスク管理と信頼性確保へ",
+        "summary": "ABEJAがAIマネジメントシステム（AIMS）の国際規格「ISO/IEC 42001」の認証を取得し、AIガバナンス体制の強化が不可欠となっている。AI開発・提供・利用におけるリスク管理や信頼性確保に向けた国際規格の動向が注目されている。",
+        "source": "robotstart.info",
+        "url": "https://robotstart.info/article/2026/07/29/382210.html",
+        "relevance": "AIガバナンスの国際規格の動向を踏まえ、PMO/PjMOの皆様は、各省庁・機関におけるAI導入・運用に関するリスク管理体制の整備およびISO/IEC 42001の準拠についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "デジタル庁、AI基盤「源内」を熊本地震被災自治体等へ緊急提供、災害対応での活用促進",
+        "summary": "デジタル庁は、熊本地震の被災自治体や災害対策機関に対し、政府職員向け生成AI利用環境「ガバメントAI 源内」を緊急提供した。これにより、平時をはるかに超える業務への対応や災害情報の集約をAIで支援する。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900008/",
+        "relevance": "行政における生成AIの緊急時活用事例として、PMO/PjMOの皆様は「源内」の提供範囲や活用事例、および平時からの備えについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "政府開発の生成AI「源内」、ロボット×AIなど未来のAIテクノロジーに期待",
@@ -3439,6 +3479,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "AWS HealthOmics、東京リージョンで提供開始、ゲノムデータ解析等に利用可能",
+        "summary": "AWS HealthOmicsが東京リージョンで提供開始され、ゲノムデータなど生物学的データの解析に利用できる。HIPAAおよびISMAPに準拠し、フルマネージドのバイオインフォマティクスパイプラインを提供する。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/ca2136fde0cfcc7e7a01a82f1eeb7fca13413b1a",
+        "relevance": "AWS HealthOmicsの東京リージョン提供開始とISMAP準拠の状況を踏まえ、PMO/PjMOの皆様は、政府システムにおけるヘルスケア・バイオデータ解析基盤の利用についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "さくらインターネット、ガバメントクラウドサービス提供事業者として正式採択へ向け準備",
+        "summary": "さくらインターネットは、ガバメントクラウド正式採択に向けた人員確保を完了し、国産クラウドとして初のガバメントクラウドサービス提供事業者への採択を目指している。市場機会の拡大を見込む。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ir_3778.T_20260728_efcf7ed12dfa",
+        "relevance": "ガバメントクラウドの国産サービス提供事業者としての動向を踏まえ、PMO/PjMOの皆様は、クラウドインフラ選定における国産サービスの位置づけについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "デジタル庁と厚労省、大病院向け電子カルテのクラウドネイティブ化へ本格始動",
@@ -3923,6 +3983,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "千代田区、Copilot全庁導入で月2000時間削減、AI活用の定着に向けた仕掛け",
+        "summary": "千代田区は「Microsoft 365 Copilot」を全庁導入し、10カ月で業務時間を約2000時間削減した。実証実験を経て、AIを組織に根付かせるための定着の仕掛けが奏功した。",
+        "source": "kn.itmedia.co.jp",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news042.html",
+        "relevance": "自治体におけるMicrosoft 365 Copilotの全庁導入による業務効率化事例として、PMO/PjMOの皆様は、自組織への導入可能性や定着に向けた施策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "フォトシンスとクマヒラ、デジタル身分証普及・拡大へ協業開始",
@@ -4084,6 +4154,33 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "2026 年 6 月の AWS Black Belt オンラインセミナー資料及び動画公開のご案内",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/2026-06-aws-blackbelt/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "【開催報告】AWS Summit Japan 2026 〜 流通小売・消費財・飲食業界向けブース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-rrcg-report/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "AWS Weekly Roundup: アテネのローカルゾーン、AWS 上の Claude Opus 5、.NET 用の Lambda 永続実行など (2026 年 7 月 27 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-july-27-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
@@ -4762,6 +4859,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "GKE における AI サプライ チェーンの保護: 自動 AI BOM 対応 k8s-aibom のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "Android、Google Cloud、Nexus SDV が実現する AI 定義車両",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "メンテナンスからイノベーションへ: Checkout における Managed Service for Apache Airflow への移行",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "July 29, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "重要な第三者として英国金融セクターのレジリエンス向上に貢献",
@@ -5376,6 +5509,42 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "【さくらのSSL】 サイバートラスト SSLサーバー証明書 中間CA証明書変更のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/29/1968225491/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "令和8年熊本地震に係る災害救助法の適用地域のお客さまへのご案内",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/29/1968225503/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "「AI駆動開発カンファレンス 2026夏」にてクラウド事業戦略本部 小田島が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/29/1968225506/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "「オープンソースカンファレンス2026 Kyoto」にてサービス統括本部 益邑が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/29/1968225509/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "さくらインターネット、「石狩データセンターコンソーシアム（石狩DCC）」の設立に参画",
@@ -5779,6 +5948,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-07-30",
+        "date_ja": "2026年7月30日（木）",
+        "title": "ふるさと納税型クラウドファンディング「ガバメントクラウドファンディング」の活用事例",
+        "summary": "三重県警音楽隊は演奏服新調のため、阿蘇市は道路開通記念イベントへの協力を得るため、それぞれふるさと納税制度を活用したガバメントクラウドファンディングでの資金募集を開始した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/3b133e14d840329463a8896e5da0f44528b7c954",
+        "relevance": "ガバメントクラウドファンディングによる資金調達事例として、PMO/PjMOの皆様は、公共プロジェクトの資金調達手法としての有効性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "米財務省の節税金融商品調査と財務省の入札・調達関連情報",
@@ -5881,20 +6060,20 @@
     "その他": 178,
     "行政AI": 17,
     "行政DX": 14,
-    "AI活用": 100,
-    "クラウド/インフラ": 27,
+    "AI活用": 104,
+    "クラウド/インフラ": 29,
     "制度/ガイドライン": 21,
-    "自治体DX事例": 16,
-    "AWS最新情報": 75,
-    "Google Cloud最新情報": 60,
+    "自治体DX事例": 17,
+    "AWS最新情報": 78,
+    "Google Cloud最新情報": 64,
     "働き方/業務改革": 7,
-    "さくらのクラウド最新情報": 33,
+    "さくらのクラウド最新情報": 37,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
-    "調達・契約": 3,
+    "調達・契約": 4,
     "デジタル庁": 2,
     "調達/契約": 1,
     "プロジェクト管理": 3
   },
-  "updated_at": "2026-07-28T16:06:33.739Z"
+  "updated_at": "2026-07-29T15:50:41.453Z"
 }

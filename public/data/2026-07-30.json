@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-30",
+  "date_ja": "2026年7月30日（木）",
+  "news_summary": [
+    "デジタル庁が生成AI「ガバメントAI 源内」を熊本地震被災自治体へ緊急提供した",
+    "AIガバナンス国際規格ISO/IEC 42001の認証取得・策定が進み、AIリスク管理が重要視されている",
+    "Anthropicが性能向上とコスト削減を両立した最新AIモデル「Claude Opus 5」を発表した",
+    "さくらインターネットは国産クラウドとして初のガバメントクラウドサービス提供事業者を目指す",
+    "AWS HealthOmicsが東京リージョンで提供開始、ゲノムデータ解析等に利用可能となった",
+    "千代田区はCopilot全庁導入で月2000時間削減、AI活用の定着に向けた仕掛けが奏功した"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Next.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ISC BINDに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCheck Point製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のElastic製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性",
+      "url": "https://jvn.jp/jp/JVN99975039/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
+      "url": "https://jvn.jp/vu/JVNVU99139115/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
+      "url": "https://jvn.jp/vu/JVNVU90008749/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
+      "url": "https://jvn.jp/jp/JVN03037325/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24885537/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+      "url": "https://jvn.jp/jp/JVN56870912/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁、AI基盤「源内」を熊本地震被災自治体等へ緊急提供、災害対応での活用促進",
+      "summary": "デジタル庁は、熊本地震の被災自治体や災害対策機関に対し、政府職員向け生成AI利用環境「ガバメントAI 源内」を緊急提供した。これにより、平時をはるかに超える業務への対応や災害情報の集約をAIで支援する。",
+      "relevance": "行政における生成AIの緊急時活用事例として、PMO/PjMOの皆様は「源内」の提供範囲や活用事例、および平時からの備えについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900008/"
+        },
+        {
+          "name": "economic.jp",
+          "url": "http://economic.jp/?p=115032"
+        },
+        {
+          "name": "newprinet.co.jp",
+          "url": "https://www.newprinet.co.jp/toppan%E3%80%80ntt%E3%83%87%E3%83%BC%E3%82%BF%E3%80%81fpsc%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%80%8C%E3%82%AC%E3%83%90%E3%83%A1%E3%83%B3%E3%83%88ai"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00297/072900298/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7e88858bac5d09e53ea60593756bb9c176bc7b27/images/000"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17189195/?ref=user"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7e88858bac5d09e53ea60593756bb9c176bc7b27"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/2f3ebd5f-0c1f-4049-affb-3da489d5d4f5"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンス国際規格ISO/IEC 42001の認証取得・策定が進む、AIリスク管理と信頼性確保へ",
+      "summary": "ABEJAがAIマネジメントシステム（AIMS）の国際規格「ISO/IEC 42001」の認証を取得し、AIガバナンス体制の強化が不可欠となっている。AI開発・提供・利用におけるリスク管理や信頼性確保に向けた国際規格の動向が注目されている。",
+      "relevance": "AIガバナンスの国際規格の動向を踏まえ、PMO/PjMOの皆様は、各省庁・機関におけるAI導入・運用に関するリスク管理体制の整備およびISO/IEC 42001の準拠についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/29/382210.html"
+        },
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2836511?display=1"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUC2824O0Y6A720C2000000/"
+        },
+        {
+          "name": "iij.ad.jp",
+          "url": "https://www.iij.ad.jp/news/iijnews/vol_195/detail_02.html"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/29/382209.html"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/29/382211.html"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/423/4423189/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260729501667"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24770"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000224.000010628.html"
+        },
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/archives/32478/"
+        },
+        {
+          "name": "careers.mercari.com",
+          "url": "https://careers.mercari.com/mercan/articles/62517/"
+        },
+        {
+          "name": "kpmg.com",
+          "url": "https://kpmg.com/jp/ja/insights/2026/07/ai-utilization-survey.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000219.000051640.html"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20260729/863411.html"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/commercial-services/nasdaq-adp/automatic-data-processing/news/8cd661d617bf1c1b"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251039/"
+        },
+        {
+          "name": "kpmg.com",
+          "url": "https://kpmg.com/jp/ja/media/press-releases/2026/07/kc-aiutilization-survey.html"
+        },
+        {
+          "name": "wisdom.nec.com",
+          "url": "https://wisdom.nec.com/ja/series/yamaguchi/2026080301/index.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000395.000088324.html"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AI教育のSanta、Azure OpenAIベースのグローバル教育統合サービスで政府成長支援事業に選定",
+      "summary": "AI教育のSantaが、Azure OpenAIベースのグローバル教育統合サービス「Didisam」で政府の成長支援事業に選定された。Microsoftとの連携で公共市場での事業化と海外市場開拓を目指す。",
+      "relevance": "Azure OpenAIを活用した教育サービスが政府事業に選定された事例として、PMO/PjMOの皆様は、政府システムにおけるOpenAI基盤の活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "korit.jp",
+          "url": "https://www.korit.jp/news/edtech/besuccess-santa-microsoft-ai-didisam-260729/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Anthropic、最新AIモデル「Claude Opus 5」を発表、性能向上とコスト削減を両立",
+      "summary": "Anthropicは、最新AIモデル「Claude Opus 5」を発表した。同モデルは「Claude Fable 5」に迫る性能を半額のコストで実現し、行政・官公庁・地方自治体などでの活用が期待される。",
+      "relevance": "最新AIモデル「Claude Opus 5」の性能・コスト情報と、行政・官公庁・地方自治体への応用可能性について、PMO/PjMOの皆様は情報収集と導入検討をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/claude-opus-5/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "さくらインターネット、ガバメントクラウドサービス提供事業者として正式採択へ向け準備",
+      "summary": "さくらインターネットは、ガバメントクラウド正式採択に向けた人員確保を完了し、国産クラウドとして初のガバメントクラウドサービス提供事業者への採択を目指している。市場機会の拡大を見込む。",
+      "relevance": "ガバメントクラウドの国産サービス提供事業者としての動向を踏まえ、PMO/PjMOの皆様は、クラウドインフラ選定における国産サービスの位置づけについてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ir_3778.T_20260728_efcf7ed12dfa"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ir_3778.T_20260728_b066c713ff83"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWS HealthOmics、東京リージョンで提供開始、ゲノムデータ解析等に利用可能",
+      "summary": "AWS HealthOmicsが東京リージョンで提供開始され、ゲノムデータなど生物学的データの解析に利用できる。HIPAAおよびISMAPに準拠し、フルマネージドのバイオインフォマティクスパイプラインを提供する。",
+      "relevance": "AWS HealthOmicsの東京リージョン提供開始とISMAP準拠の状況を踏まえ、PMO/PjMOの皆様は、政府システムにおけるヘルスケア・バイオデータ解析基盤の利用についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/ca2136fde0cfcc7e7a01a82f1eeb7fca13413b1a"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/anthropic-claude-opus-5-release/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "千代田区、Copilot全庁導入で月2000時間削減、AI活用の定着に向けた仕掛け",
+      "summary": "千代田区は「Microsoft 365 Copilot」を全庁導入し、10カ月で業務時間を約2000時間削減した。実証実験を経て、AIを組織に根付かせるための定着の仕掛けが奏功した。",
+      "relevance": "自治体におけるMicrosoft 365 Copilotの全庁導入による業務効率化事例として、PMO/PjMOの皆様は、自組織への導入可能性や定着に向けた施策についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "kn.itmedia.co.jp",
+          "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news042.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ふるさと納税型クラウドファンディング「ガバメントクラウドファンディング」の活用事例",
+      "summary": "三重県警音楽隊は演奏服新調のため、阿蘇市は道路開通記念イベントへの協力を得るため、それぞれふるさと納税制度を活用したガバメントクラウドファンディングでの資金募集を開始した。",
+      "relevance": "ガバメントクラウドファンディングによる資金調達事例として、PMO/PjMOの皆様は、公共プロジェクトの資金調達手法としての有効性をご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3b133e14d840329463a8896e5da0f44528b7c954"
+        },
+        {
+          "name": "sanspo.com",
+          "url": "https://www.sanspo.com/pressrelease/atpress/M646WE4OQVOLDH2UPN6ZH7SRAA/"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Weekly Roundup: アテネのローカルゾーン、AWS 上の Claude Opus 5、.NET 用の Lambda 永続実行など (2026 年 7 月 27 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-july-27-2026/",
+          "pub_date": "2026-07-29T08:27:25.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】AWS Summit Japan 2026 〜 流通小売・消費財・飲食業界向けブース",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-rrcg-report/",
+          "pub_date": "2026-07-29T06:45:02.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "2026 年 6 月の AWS Black Belt オンラインセミナー資料及び動画公開のご案内",
+          "url": "https://aws.amazon.com/jp/blogs/news/2026-06-aws-blackbelt/",
+          "pub_date": "2026-07-29T03:31:09.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 29, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_29_2026",
+          "pub_date": "2026-07-29T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "メンテナンスからイノベーションへ: Checkout における Managed Service for Apache Airflow への移行",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
+          "pub_date": "2026-07-29T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Android、Google Cloud、Nexus SDV が実現する AI 定義車両",
+          "url": "https://cloud.google.com/blog/ja/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+          "pub_date": "2026-07-29T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "GKE における AI サプライ チェーンの保護: 自動 AI BOM 対応 k8s-aibom のご紹介",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+          "pub_date": "2026-07-29T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「オープンソースカンファレンス2026 Kyoto」にてサービス統括本部 益邑が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/29/1968225509/",
+          "pub_date": "2026-07-29T07:00:31.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「AI駆動開発カンファレンス 2026夏」にてクラウド事業戦略本部 小田島が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/07/29/1968225506/",
+          "pub_date": "2026-07-29T07:00:07.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "令和8年熊本地震に係る災害救助法の適用地域のお客さまへのご案内",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/29/1968225503/",
+          "pub_date": "2026-07-29T04:45:58.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのSSL】 サイバートラスト SSLサーバー証明書 中間CA証明書変更のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/29/1968225491/",
+          "pub_date": "2026-07-29T02:00:40.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-29T15:50:41.447Z"
+}
