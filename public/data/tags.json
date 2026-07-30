@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年4～6月）」",
+        "summary": "JPCERT/CC Eyesの「TSUBAMEレポート Overflow（2026年4～6月）」が公開されました。\n\n▶ JPCERT/CC Eyesのレポート内容を確認する。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/07/tsubame-overflow20260406.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-26",
         "date_ja": "2026年7月26日（日）",
         "title": "フロンティアAIのサイバー攻撃利用リスクとAIガバナンスの重要性",
@@ -2154,6 +2164,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "罹災証明書（り災証明書）をオンラインで申請する方法【令和8年熊本地震】",
+        "summary": "令和8年熊本地震により、罹災証明書（り災証明書）のオンライン申請方法が案内されています。\n\n▶ 災害時のオンライン申請体制と、関連システムの運用状況を確認する。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/ne4f237bf506b",
+        "type": "government"
+      },
+      {
         "date": "2026-07-29",
         "date_ja": "2026年7月29日（水）",
         "title": "「行政実務用RAG」の開発と府省庁向けの展開について",
@@ -2436,6 +2455,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "2026世界ロボット大会（WRC）企業視察ツアーの開催",
+        "summary": "2026年世界ロボット大会（WRC）の企業視察ツアーが開催される予定である。",
+        "source": "robotstart.info",
+        "url": "https://robotstart.info/article/2026/07/30/382213.html",
+        "relevance": "ロボティクス分野の最新動向や技術革新に触れる機会として、視察ツアーへの参加をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "熊本地震発生とデジタル庁によるマイナポータルでの罹災証明書オンライン申請案内",
+        "summary": "令和8年熊本地震発生を受け、デジタル庁はマイナポータルでの罹災証明書のオンライン申請手順と対象自治体を案内している。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17195442/?ref=technology",
+        "relevance": "災害発生時の行政サービス提供体制や、デジタル技術を活用した被災者支援の迅速化について、参考にしてください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AI企業Anthropicへの政府請負業者によるClaude利用制限",
+        "summary": "AI企業Anthropicに対し、米国政府とシリコンバレーのエコシステムから圧力がかかり、政府請負業者は2026年8月31日までにClaudeの全利用を終了する必要がある。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ad985d72-53e7-49a9-a8c3-53c180730df6",
+        "relevance": "AIツールの利用に関する政府の動向や、特定のAIサービスへの依存リスクについて、情報収集・評価を行うことを推奨します。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AIガバナンスの強化と企業・組織におけるAI利活用・管理の実態調査",
+        "summary": "AIエージェントの普及に伴うガバナンスの課題が指摘されており、信頼できるモデルガバナンス、透明性、規制対応によるAIイノベーションや、AI活用成熟度、組織的なAIガバナンス体制の整備状況に関する調査結果が示されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=20260729078357&g=bw",
+        "relevance": "AI導入におけるガバナンス体制の重要性を理解し、組織内でのAI利活用や管理に関する方針策定にご活用ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AI時代のセキュリティとガバナンス、および政府CIOポータルの動向",
+        "summary": "AI時代における自治体のセキュリティ対策やAIガバナンスの重要性が指摘され、デジタル庁が公開する「源内」や、政府CIOポータル、内閣府・経済産業省のAI・半導体ワーキンググループの動向が示されている。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/extra/google_government_tu_1/35250454/",
+        "relevance": "AI活用におけるセキュリティリスクとガバナンス体制の構築について、最新の政府方針や専門家の見解をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "デジタル庁の生成AI「源内」を活用した自治体AXの実証実験",
+        "summary": "デジタル庁が提供する自治体向け生成AIオープンソース「源内」を活用し、福岡県宮若市で業務引継ぎ効率化や情報アクセス環境整備の実証実験が開始された。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19602815?news_ref=watch_20_nw18828004",
+        "relevance": "自治体における生成AIの活用事例として、業務効率化や情報共有の観点から「源内」の導入可能性についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
@@ -3479,6 +3558,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "ガバメントクラウドの移行進捗と、政府共通クラウド基盤への採択動向",
+        "summary": "ガバメントクラウドの移行は2026年度末時点で約7割まで進んでおり、さくらインターネットが採択されたことに加え、ソフトバンクがマイクロソフトと連携し国内最大級の計算基盤を構築している。",
+        "source": "jtuc-rengo.or.jp",
+        "url": "https://www.jtuc-rengo.or.jp/news/news_detail.php?id=2398",
+        "relevance": "ガバメントクラウドの移行状況と、先進的なクラウド基盤構築の動向について情報収集し、今後のシステム戦略立案にご活用ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "米沢市役所における「リモートPCアレイ」導入によるPC複数台持ち問題の解決",
+        "summary": "米沢市役所が「リモートPCアレイ」を導入し、職員のPC複数台持ちの問題を解決するとともに、OSサポート終了やガバメントクラウド対応の課題に対応した。",
+        "source": "newscast.jp",
+        "url": "https://newscast.jp/smart/news/6916075",
+        "relevance": "端末管理の効率化と標準化システムへの対応という観点から、リモートPCソリューションの導入事例をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
         "title": "AWS HealthOmics、東京リージョンで提供開始、ゲノムデータ解析等に利用可能",
@@ -3983,6 +4082,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "奈良市、東大阪市、阿蘇市におけるガバメントクラウドファンディングの活用事例",
+        "summary": "奈良市、東大阪市、阿蘇市で、文化振興や地域活性化を目的としたガバメントクラウドファンディング（ふるさと納税）が実施されている。",
+        "source": "mainichi.jp",
+        "url": "https://mainichi.jp/articles/20260730/pr2/00m/020/096000c",
+        "relevance": "地域課題解決やプロジェクト推進のための資金調達手法として、ガバメントクラウドファンディングの事例をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
         "title": "千代田区、Copilot全庁導入で月2000時間削減、AI活用の定着に向けた仕掛け",
@@ -4154,6 +4263,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "寄稿：三菱UFJフィナンシャル・グループの DX を牽引する Japan Digital Design、Aurora DSQL の採用で DB コストを約 87% 削減し、運用負荷ほぼゼロを実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/db-customercase-japan-digital-design-dsql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "Isabelle/HOL: Nitro Isolation Engine を支える定理証明支援系",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "形式的検証済みの Nitro Isolation Engine が Amazon EC2 の仮想マシン分離を数学的に保証",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AWS Nitro Isolation Engine: AWS Nitro System におけるハイパーバイザーの形式的検証",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "オープンソースサプライチェーン攻撃の背後にいる北朝鮮のハッカーグループを Amazon が特定",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/",
+        "type": "cloud"
+      },
       {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
@@ -4859,6 +5013,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "Google Cloud、2026 年 Gartner® Magic Quadrant™ の AI インフラストラクチャ部門でリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "Frontier and Center: 誰が評価ツールを評価するのか？",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/evaluate-agent-performance/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AI エージェントの準備は完了。では、データは？",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "Borderless Lakehouse: AWS、Databricks、Snowflake のデータを AI エージェントで活用",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/introducing-the-borderless-lakehouse/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "AI アプリが本番環境で失敗する理由と Google がそれらを解決した方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
         "title": "GKE における AI サプライ チェーンの保護: 自動 AI BOM 対応 k8s-aibom のご紹介",
@@ -5509,6 +5708,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-07-31",
+        "date_ja": "2026年7月31日（金）",
+        "title": "【さくらのクラウド】「サービスごとに権限範囲を限定したIAMロール」機能追加のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/30/1968225516/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-07-30",
         "date_ja": "2026年7月30日（木）",
         "title": "【さくらのSSL】 サイバートラスト SSLサーバー証明書 中間CA証明書変更のお知らせ",
@@ -6056,18 +6264,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 38,
+    "セキュリティ": 39,
     "その他": 178,
-    "行政AI": 17,
+    "行政AI": 18,
     "行政DX": 14,
-    "AI活用": 104,
-    "クラウド/インフラ": 29,
+    "AI活用": 110,
+    "クラウド/インフラ": 31,
     "制度/ガイドライン": 21,
-    "自治体DX事例": 17,
-    "AWS最新情報": 78,
-    "Google Cloud最新情報": 64,
+    "自治体DX事例": 18,
+    "AWS最新情報": 83,
+    "Google Cloud最新情報": 69,
     "働き方/業務改革": 7,
-    "さくらのクラウド最新情報": 37,
+    "さくらのクラウド最新情報": 38,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
@@ -6075,5 +6283,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 3
   },
-  "updated_at": "2026-07-29T15:50:41.453Z"
+  "updated_at": "2026-07-30T15:52:08.942Z"
 }

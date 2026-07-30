@@ -1,0 +1,375 @@
+{
+  "date": "2026-07-31",
+  "date_ja": "2026年7月31日（金）",
+  "news_summary": [
+    "令和8年熊本地震発生を受け、マイナポータルでの罹災証明書オンライン申請案内が開始されました。",
+    "デジタル庁は生成AIオープンソース「源内」を活用した自治体AX実証実験を福岡県宮若市で開始しました。",
+    "AI時代における自治体のセキュリティ対策とAIガバナンスの重要性が指摘されています。",
+    "AIエージェント普及に伴い、信頼できるモデルガバナンスや透明性、規制対応が課題となっています。",
+    "米国政府は政府請負業者に対し、AI企業Anthropicの「Claude」利用を2026年8月31日までに終了するよう要請しました。",
+    "米沢市役所は「リモートPCアレイ」導入でPC複数台持ち問題とOSサポート終了課題に対応しました。",
+    "JPCERT/CC Eyesの「TSUBAMEレポート Overflow（2026年4～6月）」が公開されました。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91587639/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
+      "url": "https://jvn.jp/vu/JVNVU98815601/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "罹災証明書（り災証明書）をオンラインで申請する方法【令和8年熊本地震】",
+    "summary": "令和8年熊本地震により、罹災証明書（り災証明書）のオンライン申請方法が案内されています。\n\n▶ 災害時のオンライン申請体制と、関連システムの運用状況を確認する。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/ne4f237bf506b",
+    "pub_date": "2026-07-30"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年4～6月）」",
+      "summary": "JPCERT/CC Eyesの「TSUBAMEレポート Overflow（2026年4～6月）」が公開されました。\n\n▶ JPCERT/CC Eyesのレポート内容を確認する。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "JPCERT/CC 注意喚起",
+          "url": "https://blogs.jpcert.or.jp/ja/2026/07/tsubame-overflow20260406.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "デジタル庁の生成AI「源内」を活用した自治体AXの実証実験",
+      "summary": "デジタル庁が提供する自治体向け生成AIオープンソース「源内」を活用し、福岡県宮若市で業務引継ぎ効率化や情報アクセス環境整備の実証実験が開始された。",
+      "relevance": "自治体における生成AIの活用事例として、業務効率化や情報共有の観点から「源内」の導入可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19602815?news_ref=watch_20_nw18828004"
+        },
+        {
+          "name": "socialbusiness.aishas.co.jp",
+          "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/33354/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-30-28653-249/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000249.000028653.html"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/bef56fa3-01a6-4380-b491-1acc3ad6c596"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI時代のセキュリティとガバナンス、および政府CIOポータルの動向",
+      "summary": "AI時代における自治体のセキュリティ対策やAIガバナンスの重要性が指摘され、デジタル庁が公開する「源内」や、政府CIOポータル、内閣府・経済産業省のAI・半導体ワーキンググループの動向が示されている。",
+      "relevance": "AI活用におけるセキュリティリスクとガバナンス体制の構築について、最新の政府方針や専門家の見解をご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/extra/google_government_tu_1/35250454/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17197784/?ref=pickstream_2108"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/525ec16d9e02f44966cb5ecc002f0cc38c5d9f2a?page=2"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251072/2/"
+        },
+        {
+          "name": "softbank.jp",
+          "url": "https://www.softbank.jp/sbnews/entry/20260730_01"
+        },
+        {
+          "name": "monoist.itmedia.co.jp",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html"
+        },
+        {
+          "name": "k-tai.watch.impress.co.jp",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2129213.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの強化と企業・組織におけるAI利活用・管理の実態調査",
+      "summary": "AIエージェントの普及に伴うガバナンスの課題が指摘されており、信頼できるモデルガバナンス、透明性、規制対応によるAIイノベーションや、AI活用成熟度、組織的なAIガバナンス体制の整備状況に関する調査結果が示されている。",
+      "relevance": "AI導入におけるガバナンス体制の重要性を理解し、組織内でのAI利活用や管理に関する方針策定にご活用ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=20260729078357&g=bw"
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://www.businesswire.com/news/home/20260729078357/ja"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/c74c6aac-ed0a-42cb-b54a-e5208c08de12"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/521b63e7-04f7-46da-8442-20ad435eb748"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/d5286cde-1b39-4f10-a246-a77d0b2fc53f"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000134.000109343.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24783"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251088/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000211.000029239.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/a7d69a2d9fa7753172fea786f19e1ebfc7a98910/images/000"
+        },
+        {
+          "name": "kpmg.com",
+          "url": "https://kpmg.com/jp/ja/insights/2026/07/global-techreport-im.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24779"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000189.000063011.html"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13383"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/023b4cf2774ddd9d2ec82efb13747f0a875140db?page=2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI企業Anthropicへの政府請負業者によるClaude利用制限",
+      "summary": "AI企業Anthropicに対し、米国政府とシリコンバレーのエコシステムから圧力がかかり、政府請負業者は2026年8月31日までにClaudeの全利用を終了する必要がある。",
+      "relevance": "AIツールの利用に関する政府の動向や、特定のAIサービスへの依存リスクについて、情報収集・評価を行うことを推奨します。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ad985d72-53e7-49a9-a8c3-53c180730df6"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "熊本地震発生とデジタル庁によるマイナポータルでの罹災証明書オンライン申請案内",
+      "summary": "令和8年熊本地震発生を受け、デジタル庁はマイナポータルでの罹災証明書のオンライン申請手順と対象自治体を案内している。",
+      "relevance": "災害発生時の行政サービス提供体制や、デジタル技術を活用した被災者支援の迅速化について、参考にしてください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17195442/?ref=technology"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "2026世界ロボット大会（WRC）企業視察ツアーの開催",
+      "summary": "2026年世界ロボット大会（WRC）の企業視察ツアーが開催される予定である。",
+      "relevance": "ロボティクス分野の最新動向や技術革新に触れる機会として、視察ツアーへの参加をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/07/30/382213.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "米沢市役所における「リモートPCアレイ」導入によるPC複数台持ち問題の解決",
+      "summary": "米沢市役所が「リモートPCアレイ」を導入し、職員のPC複数台持ちの問題を解決するとともに、OSサポート終了やガバメントクラウド対応の課題に対応した。",
+      "relevance": "端末管理の効率化と標準化システムへの対応という観点から、リモートPCソリューションの導入事例をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/6916075"
+        },
+        {
+          "name": "kabutan.jp",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607300539"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドの移行進捗と、政府共通クラウド基盤への採択動向",
+      "summary": "ガバメントクラウドの移行は2026年度末時点で約7割まで進んでおり、さくらインターネットが採択されたことに加え、ソフトバンクがマイクロソフトと連携し国内最大級の計算基盤を構築している。",
+      "relevance": "ガバメントクラウドの移行状況と、先進的なクラウド基盤構築の動向について情報収集し、今後のシステム戦略立案にご活用ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jtuc-rengo.or.jp",
+          "url": "https://www.jtuc-rengo.or.jp/news/news_detail.php?id=2398"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/175927/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "奈良市、東大阪市、阿蘇市におけるガバメントクラウドファンディングの活用事例",
+      "summary": "奈良市、東大阪市、阿蘇市で、文化振興や地域活性化を目的としたガバメントクラウドファンディング（ふるさと納税）が実施されている。",
+      "relevance": "地域課題解決やプロジェクト推進のための資金調達手法として、ガバメントクラウドファンディングの事例をご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260730/pr2/00m/020/096000c"
+        },
+        {
+          "name": "koubo.jp",
+          "url": "https://koubo.jp/article/103293"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000454.000036429.html"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/detail/1/2/5/572_5_r_20260729_1785330612697395"
+        },
+        {
+          "name": "south65.jp",
+          "url": "https://south65.jp/%E9%98%BF%E8%98%87%E5%B8%82%E3%80%81%E6%BB%9D%E5%AE%A4%E5%9D%82%E9%81%93%E8%B7%AF%E3%81%AE%E9%96%8B%E9%80%9A%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F/"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "オープンソースサプライチェーン攻撃の背後にいる北朝鮮のハッカーグループを Amazon が特定",
+          "url": "https://aws.amazon.com/jp/blogs/news/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/",
+          "pub_date": "2026-07-30T04:16:08.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Nitro Isolation Engine: AWS Nitro System におけるハイパーバイザーの形式的検証",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/",
+          "pub_date": "2026-07-30T00:52:58.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "形式的検証済みの Nitro Isolation Engine が Amazon EC2 の仮想マシン分離を数学的に保証",
+          "url": "https://aws.amazon.com/jp/blogs/news/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation/",
+          "pub_date": "2026-07-30T00:46:18.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Isabelle/HOL: Nitro Isolation Engine を支える定理証明支援系",
+          "url": "https://aws.amazon.com/jp/blogs/news/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine/",
+          "pub_date": "2026-07-30T00:38:50.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "寄稿：三菱UFJフィナンシャル・グループの DX を牽引する Japan Digital Design、Aurora DSQL の採用で DB コストを約 87% 削減し、運用負荷ほぼゼロを実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/db-customercase-japan-digital-design-dsql/",
+          "pub_date": "2026-07-30T00:30:20.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "AI アプリが本番環境で失敗する理由と Google がそれらを解決した方法",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+          "pub_date": "2026-07-30T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Borderless Lakehouse: AWS、Databricks、Snowflake のデータを AI エージェントで活用",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/introducing-the-borderless-lakehouse/",
+          "pub_date": "2026-07-30T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AI エージェントの準備は完了。では、データは？",
+          "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+          "pub_date": "2026-07-30T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Frontier and Center: 誰が評価ツールを評価するのか？",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/evaluate-agent-performance/",
+          "pub_date": "2026-07-30T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud、2026 年 Gartner® Magic Quadrant™ の AI インフラストラクチャ部門でリーダーに選出",
+          "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+          "pub_date": "2026-07-30T00:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【さくらのクラウド】「サービスごとに権限範囲を限定したIAMロール」機能追加のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/30/1968225516/",
+          "pub_date": "2026-07-30T06:30:25.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-30T15:52:08.938Z"
+}
