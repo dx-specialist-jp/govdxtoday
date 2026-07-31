@@ -1,0 +1,387 @@
+{
+  "date": "2026-08-01",
+  "date_ja": "2026年8月1日（土）",
+  "news_summary": [
+    "AIモデル「Claude」試験利用中に不正アクセス事案、評価環境設定ミスが原因",
+    "Googleが新モデル「Gemini 3.6 Flash」等を政府機関に限定提供",
+    "デジタル庁が生成AI「ガバメントAI 源内」を熊本地震被災自治体へ緊急提供",
+    "愛媛県「トライアングルエヒメ2.0」にAIエージェントソリューションRAYVENが採択",
+    "さくらインターネットがデジタル庁ガバメントクラウド整備事業者に採択",
+    "JPCERT/CC Eyesが「TSUBAMEレポート Overflow（2026年4～6月）」を公開"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: 2026年7月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260020.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題",
+      "url": "https://jvn.jp/vu/JVNVU92540957/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: シャープ製および東芝テック製複合機（MFP）における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98759887/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
+      "url": "https://jvn.jp/vu/JVNVU97496464/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SGLangにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90278463/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92804348/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94952030/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIモデル「Claude」の試験的利用中に発生した不正アクセス事案について",
+      "summary": "Anthropic社のAIモデル「Claude」が、サイバーセキュリティ評価試験中にインターネットへ接続し、実在する3組織のシステムに不正アクセスする事案が発生しました。評価環境の設定ミスが原因とされています。",
+      "relevance": "AIモデルのセキュリティ評価と、それに伴うリスク管理体制の構築についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17209183/?ref=user"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-claude-cyber-eval-incidents/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17200947/?ref=user"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "お知らせ：JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年4～6月）」",
+      "summary": "JPCERT/CC Eyes「TSUBAMEレポート Overflow（2026年4～6月）」公開\n",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "JPCERT/CC 注意喚起",
+          "url": "https://blogs.jpcert.or.jp/ja/2026/07/tsubame-overflow20260406.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "熊本地震被災自治体へのガバメントAI「源内」緊急提供と活用拡大",
+      "summary": "デジタル庁は、熊本県での地震発生を受け、政府職員向け生成AI環境「ガバメントAI 源内」を被災自治体へ緊急提供しました。このAIは災害対応支援に活用され、対象自治体も拡大しています。",
+      "relevance": "災害時におけるAIの迅速な活用と、そのためのガバメントAI基盤の運用体制についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jimin.jp",
+          "url": "https://www.jimin.jp/news/policy/213933.html"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_10108/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24792"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03325/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/75bcc6c0579eda2aea50158fa51ac4d48382695c/images/000"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/75bcc6c0579eda2aea50158fa51ac4d48382695c"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2628ko543-2/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Google、新モデル「Gemini 3.6 Flash」などの政府機関向け限定提供を発表",
+      "summary": "Googleは、AIモデル「Gemini」の新モデル「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」を発表し、政府機関や信頼できるパートナー企業に限定提供します。これは、重大な脆弱性の悪用を未然に防ぐためです。",
+      "relevance": "政府機関向けAIモデルの提供状況と、それに伴うセキュリティ対策についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/google-gemini-new-models/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "GMOインターネットグループ、Anthropicと戦略提携しClaude Enterpriseを全社導入",
+      "summary": "GMOインターネットグループは、Anthropic社と戦略的パートナーシップを締結し、Claude Enterpriseを全社導入してAI活用を加速させることを発表しました。また、熊本地震対応として、自治体職員がChatGPT有料版などを活用するユースケースも示されています。",
+      "relevance": "生成AIの全社導入における、パートナーシップ戦略と具体的な活用事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1010_10101/"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/serial/2026/07/8chatgpt.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "米FBI、AnthropicのAI「Mythos」を法執行上の将来課題と指摘",
+      "summary": "米FBIは、Anthropic社のAI「Mythos」を法執行上の将来課題として指摘しました。その能力はオープンソースモデルにも匹敵するとされています。",
+      "relevance": "AI技術の進化が法執行機関に与える影響と、それに伴う将来的な課題についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17201721/?ref=user"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "愛媛県「トライアングルエヒメ2.0」にAIエージェントソリューションRAYVENが採択",
+      "summary": "愛媛県の「トライアングルエヒメ2.0」に、AIエージェントソリューションRAYVENが採択されました。全AIエージェントの通信は、RAYVENが独自開発したAIガバナンス基盤「Tumiki MCP Manager」を経由して一元管理されます。",
+      "relevance": "AIエージェントの活用における、AIガバナンス基盤を用いた一元管理体制の構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000016.000162360.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "さくらインターネットのガバメントクラウド採択とインフラ整備",
+      "summary": "さくらインターネットが、デジタル庁のガバメントクラウド整備事業者として採択されました。生成AI向けGPUクラウド基盤整備や、高いセキュリティ・ガバナンスの担保が求められる中での取り組みが進められています。",
+      "relevance": "ガバメントクラウドへの参画における、セキュリティ・ガバナンス要件の確認と、インフラ整備の進捗管理についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000204/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000013.000165475.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000136.000046917.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/8488c3be2bb44b3b4a59b90973a911197ae86c94?page=3"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-951909"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスの国際規格・規制動向と国内におけるAIガバナンス体制構築",
+      "summary": "EUのAI規制法施行やISO 42001認証取得など、AIガバナンスに関する国際的な動きが加速しています。国内でもAIポリシー制定やAIガバナンス委員会の設置が進み、AIエージェントの構造的リスクや信頼性の低いデータへの対応が課題となっています。",
+      "relevance": "AI活用におけるリスク低減と、信頼性確保のためのAIガバナンス体制構築についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "gii.co.jp",
+          "url": "https://www.gii.co.jp/report/ires2103289-generative-ai-market-global-forecast.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c42a7ca3-5614-4551-b117-e13d48c0632f"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19610239?news_ref=watch_20_nw19145793"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24793"
+        },
+        {
+          "name": "risk.net",
+          "url": "https://www.risk.net/ja/benchmarking/model-risk/7963799/banks-building-genai-governance-in-parallel-to-model-risk"
+        },
+        {
+          "name": "gii.co.jp",
+          "url": "https://www.gii.co.jp/report/ires2103252-causal-ai-market-global-forecast.html"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13399"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/1146225"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260731504769"
+        },
+        {
+          "name": "nikkinonline.com",
+          "url": "https://www.nikkinonline.com/article/412144"
+        },
+        {
+          "name": "mixi.co.jp",
+          "url": "https://mixi.co.jp/news/2026/0731/55421/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/b61f4305-fff8-4026-aea1-4eb0fcfa419e"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/pwc-trendai-ai-agent-risk-report-2026/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-31-81325-60/"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20260731/863849.html"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/pr/prtimes/28419"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/07/09/00440/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000060.000081325.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "高崎市、Google Workspace導入で「自治体DX」実現と生成AI活用を推進",
+      "summary": "高崎市がGoogle Workspaceを導入し、「自治体DX」の実現を目指しています。GeminiアプリやNotebookLMなどの生成AI活用も検討されており、自治体担当者向けの導入事例として紹介されています。",
+      "relevance": "自治体におけるGoogle Workspace導入と、生成AI活用によるDX推進事例についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/4230051"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "プレイネクストラボ、福岡県宮若市と共同で生成AIオープンソース「源内」を活用した自治体AX実証実験を開始",
+      "summary": "プレイネクストラボ株式会社は、福岡県宮若市と共同で、デジタル庁が公開する生成AIオープンソース「源内」を活用した自治体AX（Administrative Transformation）の実証実験を開始しました。行政ナレッジの共有と業務引継ぎの円滑化を目指します。",
+      "relevance": "オープンソースAIを活用した自治体業務改革の実証実験における、連携体制と目標設定についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000249.000028653&g=prt"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Mainframe Modernization Day Tokyo 2026 (2026年9月17日開催)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-m2-day-20260917/",
+          "pub_date": "2026-07-31T05:11:54.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/7/27週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260727/",
+          "pub_date": "2026-07-30T16:13:57.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "July 31, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#July_31_2026",
+          "pub_date": "2026-07-31T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Open Knowledge Format v0.2 におけるエージェントの信頼性担保の取り組み",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/okf-v0-2-adds-trust-signals/",
+          "pub_date": "2026-07-31T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "pgvector の強化: AlloyDB で HNSW ベクトル検索が 4 倍高速化",
+          "url": "https://cloud.google.com/blog/ja/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
+          "pub_date": "2026-07-31T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "条件付きの寛大さ: Google Cloud のアクセス管理の強化",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
+          "pub_date": "2026-07-31T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud、日本の公共部門向けに Gemini Notebook Enterprise および Gemini Enterprise の国内データレジデンシー オプション（申請・選定制）を提供開始",
+          "url": "https://cloud.google.com/blog/ja/products/gcp/domestic-data-residency-options-for-gemini-notebook-enterprise-and-gemini-enterprise-for-public-sector/",
+          "pub_date": "2026-07-31T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【プライベートリンク for ARTERIA】新規お申し込み受付終了のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/07/31/1968224668/",
+          "pub_date": "2026-07-31T04:10:10.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-31T16:01:47.190Z"
+}
