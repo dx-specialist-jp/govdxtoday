@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "防衛省、機密情報を民間クラウドで運用へ",
+        "summary": "防衛省が機密情報を民間クラウドで運用することを発表した。これに対し、ハッキングによる身代金の心配や国内業者への限定を求める声もある。",
+        "source": "togetter.com",
+        "url": "https://togetter.com/li/2728419",
+        "relevance": "機密情報を民間クラウドで運用する際のセキュリティリスクと対策について、プロジェクトにおけるクラウド選定基準やセキュリティ要件の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-02",
         "date_ja": "2026年8月2日（日）",
         "title": "注意喚起: 2026年7月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (更新)",
@@ -2495,6 +2505,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "国産AI開発と「攻めのAIガバナンス」が提唱される",
+        "summary": "日本はAI開発競争で後れを取っているが、国産AI「Noetra」の野望や、他国に依存しない「ローカルLLM」と「攻めのAIガバナンス」が提唱されている。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2847367?display=1",
+        "relevance": "国産AI開発の動向や「攻めのAIガバナンス」の考え方について、プロジェクトにおけるAI技術選定やリスク管理戦略の参考にしてください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "AIガバナンスの重要性が高まる中、各種サービスや方針が発表・策定",
+        "summary": "EU AI法を起点に、AIガバナンスは企業経営の新たな標準となりつつあり、各社がAIガバナンス構築支援サービスや方針策定を進めている。AIのリスク管理、コスト管理、証跡提供を統合するプラットフォームなども登場している。",
+        "source": "rbbtoday.com",
+        "url": "https://www.rbbtoday.com/release/prtimes2-today/20260803/1328675.html",
+        "relevance": "AIガバナンスの重要性が高まる中、国内外の規制動向や民間企業の取り組みを参考に、AIプロジェクトにおけるガバナンス体制の構築をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "政府、第Ⅱ期AI基本計画を閣議決定、AI主権と国際連携を推進",
+        "summary": "政府は「第Ⅱ期AI基本計画」を閣議決定し、AIエージェントの社会実装とガバナンス、AI主権の確立を目指す。AIの進展がもたらす多面的な影響や国際連携についても展望が示されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17221290/?ref=economic",
+        "relevance": "AI基本計画の閣議決定やAI主権に関する動向について、プロジェクトにおけるAI活用方針の策定にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
         "title": "ホテル特化AIエージェントシステム「JOINTPOOL AI」による業務支援",
@@ -3687,6 +3727,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "AWS、政府機関向けにデータ分析・AI・機械学習サービスを提供",
+        "summary": "AWSは、政府機関がデータ分析、人工知能、機械学習を利用したサービスを迅速に展開できる基盤を提供しており、スケーラビリティとコスト効果を強みとしている。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4524056",
+        "relevance": "AWSの政府機関向けサービス活用事例について、プロジェクトにおけるクラウドインフラ選定やサービス選定の参考にしてください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "ガバメントクラウド移行後の標準化・SaaS管理環境構築が進展",
+        "summary": "ガバメントクラウドへの移行後、地方公共団体情報システムの標準化やSaaS管理環境(コントロールプレーン)の設計・構築が進められている。ServiceNow AI Platformを活用した取り組みも行われている。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/186392/posts/1458323",
+        "relevance": "ガバメントクラウド移行後の運用やSaaS管理環境の構築について、プロジェクトの進捗管理や課題管理にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
         "title": "デジタル庁によるガバメントクラウド提供とAI戦略",
@@ -4291,6 +4351,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "鳴門市、災害備えにトイレカーを導入",
+        "summary": "鳴門市は、地震などの災害に備え、水洗トイレ5室を備えたトイレカーを初めて導入した。災害時に避難所等での活用が想定されている。",
+        "source": "topics.or.jp",
+        "url": "https://www.topics.or.jp/articles/-/1473272",
+        "relevance": "自治体における災害対策としての備品導入事例について、防災計画や危機管理体制の整備にご活用ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "ポケモンカード、デジタル庁提供の本人認証システムを導入",
+        "summary": "ポケモンカードゲーム公式は、商品販売やイベントにおいて、デジタル庁提供の「デジタル認証アプリ」を使用した本人認証システムを導入開始した。",
+        "source": "news.tnc.ne.jp",
+        "url": "https://news.tnc.ne.jp/entame/922558_1.html",
+        "relevance": "マイナンバーカードを活用した本人認証システムの導入事例について、行政手続きにおける本人確認方法の検討にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
         "title": "ベトナム・タイニン省における行政違反処理のためのデータ標準化",
@@ -4532,6 +4612,33 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "Amazon Inspector SBOM Generator で Java のネストされた依存関係を特定する方法",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "Amazon Inspector SBOM Generator をプラグインで拡張",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/extend-amazon-inspector-sbom-generator-with-plugins/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "週刊生成AI with AWS – 2026/7/27週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260727/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
@@ -5309,6 +5416,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "AlloyDB AI で PostgreSQL の多言語全文検索における制限を解消する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "10 組の自律型映画制作チームから学んだ、AI エージェントのチームワークのあり方",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "アイドル状態のアクセラレータを最小限に抑える: llm-d での協調型タイムスライスによるネイティブ RL ジョブのインターリーブ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "August 03, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_03_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-02",
         "date_ja": "2026年8月2日（日）",
         "title": "August 01, 2026",
@@ -5986,6 +6129,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "DX推進指標自己診断フォーマットのWebフォーム化とガイダンス資料公開",
+        "summary": "IPAと経済産業省は、DX推進における自社の状況把握に活用される「DX推進指標自己診断フォーマット」をWebフォーム化し、ガイダンス資料を公開した。提出方法の刷新により利便性向上を図る。",
+        "source": "ipa.go.jp",
+        "url": "https://www.ipa.go.jp/pressrelease/2026/press20260803.html",
+        "relevance": "DX推進指標のWebフォーム化やガイダンス資料について、組織のDX推進状況の把握や改善計画の策定にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
         "title": "高崎市におけるGoogle Workspace導入による業務効率化と生成AI活用",
@@ -6077,6 +6230,24 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "【さくらのVPS】Windows Serverのアカウントロック対策強化に伴う10％OFFクーポン配布のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/03/1968225500/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-04",
+        "date_ja": "2026年8月4日（火）",
+        "title": "「SOC2 Type2報告書」および「SOC3報告書」更新のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/03/1968225521/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-01",
         "date_ja": "2026年8月1日（土）",
@@ -6653,18 +6824,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 43,
+    "セキュリティ": 44,
     "その他": 178,
     "行政AI": 18,
     "行政DX": 14,
-    "AI活用": 119,
-    "クラウド/インフラ": 35,
+    "AI活用": 122,
+    "クラウド/インフラ": 37,
     "制度/ガイドライン": 25,
-    "自治体DX事例": 24,
-    "AWS最新情報": 86,
-    "Google Cloud最新情報": 75,
-    "働き方/業務改革": 9,
-    "さくらのクラウド最新情報": 39,
+    "自治体DX事例": 26,
+    "AWS最新情報": 89,
+    "Google Cloud最新情報": 79,
+    "働き方/業務改革": 10,
+    "さくらのクラウド最新情報": 41,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
@@ -6672,5 +6843,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 4
   },
-  "updated_at": "2026-08-02T15:02:01.988Z"
+  "updated_at": "2026-08-03T16:30:40.525Z"
 }

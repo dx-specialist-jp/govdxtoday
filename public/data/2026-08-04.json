@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-04",
+  "date_ja": "2026年8月4日（火）",
+  "news_summary": [
+    "防衛省が機密情報を民間クラウドで運用する方針を発表した。",
+    "政府は第Ⅱ期AI基本計画を閣議決定し、AI主権と国際連携を推進する。",
+    "EU AI法を起点に、AIガバナンス構築支援サービスや方針策定が進んでいる。",
+    "国産AI開発と、他国に依存しない「ローカルLLM」および「攻めのAIガバナンス」が提唱された。",
+    "ガバメントクラウド移行後、地方公共団体情報システムの標準化とSaaS管理環境構築が進展した。",
+    "AWSは政府機関向けにデータ分析・AI・機械学習サービスを提供する基盤を提供開始した。",
+    "ポケモンカードゲーム公式がデジタル庁提供の本人認証システムを導入した。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98879231/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: サイボウズ Garoonにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN72334274/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: VPS.orgのone-click deploymentテンプレートにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91736352/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "防衛省、機密情報を民間クラウドで運用へ",
+      "summary": "防衛省が機密情報を民間クラウドで運用することを発表した。これに対し、ハッキングによる身代金の心配や国内業者への限定を求める声もある。",
+      "relevance": "機密情報を民間クラウドで運用する際のセキュリティリスクと対策について、プロジェクトにおけるクラウド選定基準やセキュリティ要件の見直しをご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "togetter.com",
+          "url": "https://togetter.com/li/2728419"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、第Ⅱ期AI基本計画を閣議決定、AI主権と国際連携を推進",
+      "summary": "政府は「第Ⅱ期AI基本計画」を閣議決定し、AIエージェントの社会実装とガバナンス、AI主権の確立を目指す。AIの進展がもたらす多面的な影響や国際連携についても展望が示されている。",
+      "relevance": "AI基本計画の閣議決定やAI主権に関する動向について、プロジェクトにおけるAI活用方針の策定にご活用ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17221290/?ref=economic"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000485.html"
+        },
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/administration/55354/"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/aihaku-sum2026-2ndsp/"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/08/03/news-27603/"
+        },
+        {
+          "name": "chunichi.co.jp",
+          "url": "https://www.chunichi.co.jp/article/1291070"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの重要性が高まる中、各種サービスや方針が発表・策定",
+      "summary": "EU AI法を起点に、AIガバナンスは企業経営の新たな標準となりつつあり、各社がAIガバナンス構築支援サービスや方針策定を進めている。AIのリスク管理、コスト管理、証跡提供を統合するプラットフォームなども登場している。",
+      "relevance": "AIガバナンスの重要性が高まる中、国内外の規制動向や民間企業の取り組みを参考に、AIプロジェクトにおけるガバナンス体制の構築をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260803/1328675.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24802"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "http://j.people.com.cn/n3/2026/0803/c94474-20484668.html"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/newsroom/information/2026/ey-japan-info-2026-08-03"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/08/03/382224.html"
+        },
+        {
+          "name": "venturesquare.net",
+          "url": "https://www.venturesquare.net/jp/1103058/"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/prtimes/966170.html"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/88499/rimini-street-launches-managed-ai-agent-governance-service"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19617052?news_ref=watch_60_nw19615185"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000357.000028308.html"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/03/ai-api-20260803/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19616935?news_ref=top_newComments"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000006.000170867&g=prt"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/8399483"
+        },
+        {
+          "name": "syogyo.jp",
+          "url": "https://www.syogyo.jp/news/2026/08/post_044468"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000001.000187868.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000168115.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24795"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13394"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24795"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "国産AI開発と「攻めのAIガバナンス」が提唱される",
+      "summary": "日本はAI開発競争で後れを取っているが、国産AI「Noetra」の野望や、他国に依存しない「ローカルLLM」と「攻めのAIガバナンス」が提唱されている。",
+      "relevance": "国産AI開発の動向や「攻めのAIガバナンス」の考え方について、プロジェクトにおけるAI技術選定やリスク管理戦略の参考にしてください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2847367?display=1"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ガバメントクラウド移行後の標準化・SaaS管理環境構築が進展",
+      "summary": "ガバメントクラウドへの移行後、地方公共団体情報システムの標準化やSaaS管理環境(コントロールプレーン)の設計・構築が進められている。ServiceNow AI Platformを活用した取り組みも行われている。",
+      "relevance": "ガバメントクラウド移行後の運用やSaaS管理環境の構築について、プロジェクトの進捗管理や課題管理にご活用ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/186392/posts/1458323"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000212.000029239.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWS、政府機関向けにデータ分析・AI・機械学習サービスを提供",
+      "summary": "AWSは、政府機関がデータ分析、人工知能、機械学習を利用したサービスを迅速に展開できる基盤を提供しており、スケーラビリティとコスト効果を強みとしている。",
+      "relevance": "AWSの政府機関向けサービス活用事例について、プロジェクトにおけるクラウドインフラ選定やサービス選定の参考にしてください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4524056"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ポケモンカード、デジタル庁提供の本人認証システムを導入",
+      "summary": "ポケモンカードゲーム公式は、商品販売やイベントにおいて、デジタル庁提供の「デジタル認証アプリ」を使用した本人認証システムを導入開始した。",
+      "relevance": "マイナンバーカードを活用した本人認証システムの導入事例について、行政手続きにおける本人確認方法の検討にご活用ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.tnc.ne.jp",
+          "url": "https://news.tnc.ne.jp/entame/922558_1.html"
+        },
+        {
+          "name": "nack5.co.jp",
+          "url": "https://www.nack5.co.jp/oricon/2471685/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "鳴門市、災害備えにトイレカーを導入",
+      "summary": "鳴門市は、地震などの災害に備え、水洗トイレ5室を備えたトイレカーを初めて導入した。災害時に避難所等での活用が想定されている。",
+      "relevance": "自治体における災害対策としての備品導入事例について、防災計画や危機管理体制の整備にご活用ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "topics.or.jp",
+          "url": "https://www.topics.or.jp/articles/-/1473272"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "DX推進指標自己診断フォーマットのWebフォーム化とガイダンス資料公開",
+      "summary": "IPAと経済産業省は、DX推進における自社の状況把握に活用される「DX推進指標自己診断フォーマット」をWebフォーム化し、ガイダンス資料を公開した。提出方法の刷新により利便性向上を図る。",
+      "relevance": "DX推進指標のWebフォーム化やガイダンス資料について、組織のDX推進状況の把握や改善計画の策定にご活用ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "ipa.go.jp",
+          "url": "https://www.ipa.go.jp/pressrelease/2026/press20260803.html"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊生成AI with AWS – 2026/7/27週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260727/",
+          "pub_date": "2026-08-03T05:17:13.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/7/27週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260727/",
+          "pub_date": "2026-08-03T05:07:32.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Inspector SBOM Generator をプラグインで拡張",
+          "url": "https://aws.amazon.com/jp/blogs/news/extend-amazon-inspector-sbom-generator-with-plugins/",
+          "pub_date": "2026-08-03T03:28:42.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Inspector SBOM Generator で Java のネストされた依存関係を特定する方法",
+          "url": "https://aws.amazon.com/jp/blogs/news/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/",
+          "pub_date": "2026-08-03T03:21:27.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 03, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_03_2026",
+          "pub_date": "2026-08-03T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "アイドル状態のアクセラレータを最小限に抑える: llm-d での協調型タイムスライスによるネイティブ RL ジョブのインターリーブ",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+          "pub_date": "2026-08-03T02:20:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "10 組の自律型映画制作チームから学んだ、AI エージェントのチームワークのあり方",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+          "pub_date": "2026-08-03T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AlloyDB AI で PostgreSQL の多言語全文検索における制限を解消する方法",
+          "url": "https://cloud.google.com/blog/ja/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
+          "pub_date": "2026-08-03T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「SOC2 Type2報告書」および「SOC3報告書」更新のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/03/1968225521/",
+          "pub_date": "2026-08-03T04:00:51.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのVPS】Windows Serverのアカウントロック対策強化に伴う10％OFFクーポン配布のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/03/1968225500/",
+          "pub_date": "2026-08-03T02:00:16.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-03T16:30:40.520Z"
+}
