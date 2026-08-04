@@ -1,0 +1,293 @@
+{
+  "date": "2026-08-05",
+  "date_ja": "2026年8月5日（水）",
+  "news_summary": [
+    "被災自治体向けに臨時のガバメントAI源内が提供され、都城市はAIで行政変革と市民サービス向上を目指す。",
+    "LGWAN対応の地方自治体向け生成AIプラットフォーム「JAPAN AI 行政」提供開始、AIガバナンス認証制度「C認証」も展開。",
+    "一般社団法人日本ディープラーニング協会がAIガバナンス第三者認証制度「C認証」を創設し、安心・安全なAI導入を支援。",
+    "行政向け生成AI「QommonsAI」はセキュリティ強化と数千万件以上のデータに基づくエビデンス基盤を整備。",
+    "AWS Summit Japan 2026でAI時代のセキュリティ変革に関する講演が予定されている。",
+    "IaCにおけるAIコーディングが進む一方、インフラチームのガバナンス整備が追い付かず、設定ミスやコンプライアンス違反が多発。",
+    "ServiceNow AI Platform活用によるガバメントクラウド移行後のSaaS管理環境の設計・構築・検証が両備システムズにより担当。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92804348/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: freo2におけるアップロードするファイルの検証が不十分な脆弱性",
+      "url": "https://jvn.jp/jp/JVN52865575/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AWS Summit Japan 2026登壇決定、AI時代のセキュリティ変革について講演",
+      "summary": "AWS Summit Japan 2026にて、AI時代のセキュリティ変革に関する講演が予定されています。",
+      "relevance": "PMO/PjMO担当者は、AI活用におけるセキュリティリスクと、それに対応するための最新のセキュリティ対策動向について、プロジェクトのセキュリティ要件定義の参考としてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c166898_r26"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "被災自治体等向けAI活用支援、都城市はAIで行政変革と市民サービス向上へ",
+      "summary": "被災自治体等がAIを活用して災害情報の集約・整理・共有を行えるよう、臨時のガバメントAI源内が提供されます。また、都城市はAIで行政を変革し、市民サービス向上を目指します。",
+      "relevance": "PMO/PjMO担当者は、災害時におけるAI活用支援の動向と、自治体におけるAI活用による行政変革事例について、情報収集と横展開の可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/7a65d3a0-b31e-49f1-a0e4-e59d13b39527"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/166559/posts/1458649"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "地方自治体向け生成AIプラットフォーム「JAPAN AI 行政」提供開始、AIガバナンス認証制度も",
+      "summary": "LGWAN対応の自治体向けAIサービス「JAPAN AI 行政」が提供開始され、文書作成や議事録作成などの自治体業務を支援します。また、AIガバナンスの第三者認証制度「C認証」も企業・自治体向けに展開されています。",
+      "relevance": "PMO/PjMO担当者は、自治体向け生成AIプラットフォームの導入事例や、AIガバナンス認証制度の活用について、組織内でのAI導入・管理体制構築の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000101.000120362.html"
+        },
+        {
+          "name": "j-town.net",
+          "url": "https://j-town.net/provider/atpress_town/619428/"
+        },
+        {
+          "name": "j-cast.com",
+          "url": "https://www.j-cast.com/kaisha/provider/atPress_kaisha/620498"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス第三者認証制度「C認証」創設、安心・安全なAI導入支援体制整備が進む",
+      "summary": "一般社団法人日本ディープラーニング協会（JDLA）は、AIガバナンスの第三者認証制度「C認証」を創設しました。企業・自治体のAIガバナンス体制を認証し、安心・安全なAI導入を支援する体制整備が進んでいます。",
+      "relevance": "PMO/PjMO担当者は、AIガバナンス認証制度の導入状況や、企業・自治体におけるAIガバナンス体制構築のベストプラクティスについて、プロジェクトの推進体制構築の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP710770_U6A800C2000000/"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/fuji-soft-ai-governance-certification/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000180.000121022&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000217.000061382.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000179.000121022.html"
+        },
+        {
+          "name": "jdla.org",
+          "url": "https://www.jdla.org/news/20260804001/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUC037F70T00C26A8000000/"
+        },
+        {
+          "name": "spap.jst.go.jp",
+          "url": "https://spap.jst.go.jp/asean/news/260801/topic_na_03.html"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/07/15/00445/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/07/28/06385/?i_cid=nbpnxta_sied_under_tag"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "行政向け生成AI「QommonsAI」アップデート、セキュリティ強化とエビデンス基盤を整備",
+      "summary": "Polimill株式会社は、行政向け生成AI「QommonsAI」をアップデートし、セキュリティを強化しました。国内外の法律・政策・論文・自治体事例など数千万件以上のデータをもとに、エビデンス基盤を整備しています。",
+      "relevance": "PMO/PjMO担当者は、行政向け生成AIのセキュリティ強化動向や、エビデンスに基づいたAI活用の具体例について、導入検討時のリスク管理の観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260803/pr2/00m/020/803000c"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "IaCに広がるAIコーディング、インフラチームのガバナンス整備が追い付かず",
+      "summary": "AIによる開発加速に伴い、IaC（Infrastructure as Code）におけるAIコーディングが進む一方、インフラチームのガバナンス整備が追い付かず、設定ミスやコンプライアンス違反が多発している実態が明らかになっています。",
+      "relevance": "PMO/PjMO担当者は、IaCにおけるAIコーディングの進展と、それに伴うガバナンス上の課題について、開発プロセス全体の品質管理・リスク管理の観点からご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news049.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "DX・AI・業務改革・ERP導入・PMOコンサルティングサービス提供、ACP有限責任事業組合へ加盟",
+      "summary": "Ascend株式会社はACP有限責任事業組合へ加盟し、DX・AI・業務改革・ERP導入・PMOを中心としたコンサルティングサービスを提供しています。",
+      "relevance": "PMO/PjMO担当者は、DX推進やAI導入プロジェクトにおけるコンサルティングサービスの活用事例について、プロジェクトマネジメント高度化や体制強化の観点からご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000012.000172819.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ServiceNow Japan、ガバメントクラウド移行後SaaS管理環境の設計・構築・検証を担当",
+      "summary": "両備システムズはServiceNow AI Platformを活用し、ガバメントクラウド上におけるSaaS管理環境（コントロールプレーン）の設計・構築および検証を担当します。",
+      "relevance": "PMO/PjMO担当者は、ガバメントクラウド移行後のSaaS管理環境構築におけるAIプラットフォームの活用事例について、クラウド移行プロジェクトのガバナンス強化の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19620007?news_ref=top_newComments"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "9月施行、行政AI調達ルール改定へ デジタル庁、事業者評価チェック項目更新",
+      "summary": "デジタル庁は、生成AIの調達・利活用に関する行政機関向けガイドラインの改定版（第2.0版）を9月1日に全面施行します。事業者を評価するチェック項目も更新されます。",
+      "relevance": "PMO/PjMO担当者は、改定された行政AI調達ルールと事業者評価チェック項目について、新規プロジェクトや既存プロジェクトへの影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/62cdd0ec0e828b9b93ec85f8a8bd5661a00ebc6f?page=3"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186276"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "静岡県磐田市、生成AI活用で書類審査業務効率化へアンドドットと連携協定締結",
+      "summary": "静岡県磐田市は、アンドドットと生成AIを活用した書類審査業務の効率化に関する連携協定を締結しました。250を超える自治体のAI支援実績を持つ同社が磐田市の行政DXを支援します。",
+      "relevance": "PMO/PjMO担当者は、先進自治体における生成AIを活用した業務効率化事例について、自組織でのAI導入可能性や効果測定の方法をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c125579_r103"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "dSPACE と AWS で実現する自動運転 AI 開発の効率化 ～MLOps によるデータ駆動型開発の実践～",
+          "url": "https://aws.amazon.com/jp/blogs/news/dspace-aws-mlops-autonomous-driving/",
+          "pub_date": "2026-08-04T06:44:06.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "2枚のピザを囲んで語る業務変革 — 35社62名が参加した大阪開催 Claude・Kiro実践ワークショップの記録",
+          "url": "https://aws.amazon.com/jp/blogs/news/ai-coding-workshop20260702/",
+          "pub_date": "2026-08-04T06:22:22.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Aurora DSQL における接続プーリング戦略",
+          "url": "https://aws.amazon.com/jp/blogs/news/connection-pooling-strategies-in-amazon-aurora-dsql/",
+          "pub_date": "2026-08-04T04:50:23.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告＆資料公開】AWS メディア業界向け勉強会開催報告 – リアルタイムの翻訳生成や基幹システムの移行などのメディア業界事例",
+          "url": "https://aws.amazon.com/jp/blogs/news/jpmne-media-seminar-local-july-2026/",
+          "pub_date": "2026-08-04T02:09:27.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 04, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_04_2026",
+          "pub_date": "2026-08-04T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "BigQuery と %%bqsql マジックで SQL と Python のギャップを埋める",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/bridge-sql-and-python-with-bigquery/",
+          "pub_date": "2026-08-04T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "列レベルのセキュリティを強化: BigQuery で IAM データ ガバナンス タグを使用する",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+          "pub_date": "2026-08-04T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「【さくらのレギュラーセミナー】AI時代のWebサイト運営入門 ～AIクローラー・スクレイピング対策とアクセス制御の考え方～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/04/1968225528/",
+          "pub_date": "2026-08-04T04:50:19.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのVPS】SLA（サービス品質保証）提供開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/04/1968225460/",
+          "pub_date": "2026-08-04T02:00:04.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-04T16:14:48.790Z"
+}

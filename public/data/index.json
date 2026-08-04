@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-05",
+      "summary_short": "AWS Summit Japan 2026登壇決定、AI…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-04",
       "summary_short": "防衛省、機密情報を民間クラウドで運用へ…など9件",
       "article_count": 9,

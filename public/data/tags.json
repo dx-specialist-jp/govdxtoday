@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "AWS Summit Japan 2026登壇決定、AI時代のセキュリティ変革について講演",
+        "summary": "AWS Summit Japan 2026にて、AI時代のセキュリティ変革に関する講演が予定されています。",
+        "source": "sannichi.co.jp",
+        "url": "https://www.sannichi.co.jp/prtimes/others/c166898_r26",
+        "relevance": "PMO/PjMO担当者は、AI活用におけるセキュリティリスクと、それに対応するための最新のセキュリティ対策動向について、プロジェクトのセキュリティ要件定義の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
         "title": "防衛省、機密情報を民間クラウドで運用へ",
@@ -2505,6 +2515,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "行政向け生成AI「QommonsAI」アップデート、セキュリティ強化とエビデンス基盤を整備",
+        "summary": "Polimill株式会社は、行政向け生成AI「QommonsAI」をアップデートし、セキュリティを強化しました。国内外の法律・政策・論文・自治体事例など数千万件以上のデータをもとに、エビデンス基盤を整備しています。",
+        "source": "mainichi.jp",
+        "url": "https://mainichi.jp/articles/20260803/pr2/00m/020/803000c",
+        "relevance": "PMO/PjMO担当者は、行政向け生成AIのセキュリティ強化動向や、エビデンスに基づいたAI活用の具体例について、導入検討時のリスク管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "AIガバナンス第三者認証制度「C認証」創設、安心・安全なAI導入支援体制整備が進む",
+        "summary": "一般社団法人日本ディープラーニング協会（JDLA）は、AIガバナンスの第三者認証制度「C認証」を創設しました。企業・自治体のAIガバナンス体制を認証し、安心・安全なAI導入を支援する体制整備が進んでいます。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/article/DGXZRSP710770_U6A800C2000000/",
+        "relevance": "PMO/PjMO担当者は、AIガバナンス認証制度の導入状況や、企業・自治体におけるAIガバナンス体制構築のベストプラクティスについて、プロジェクトの推進体制構築の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "地方自治体向け生成AIプラットフォーム「JAPAN AI 行政」提供開始、AIガバナンス認証制度も",
+        "summary": "LGWAN対応の自治体向けAIサービス「JAPAN AI 行政」が提供開始され、文書作成や議事録作成などの自治体業務を支援します。また、AIガバナンスの第三者認証制度「C認証」も企業・自治体向けに展開されています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000101.000120362.html",
+        "relevance": "PMO/PjMO担当者は、自治体向け生成AIプラットフォームの導入事例や、AIガバナンス認証制度の活用について、組織内でのAI導入・管理体制構築の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "被災自治体等向けAI活用支援、都城市はAIで行政変革と市民サービス向上へ",
+        "summary": "被災自治体等がAIを活用して災害情報の集約・整理・共有を行えるよう、臨時のガバメントAI源内が提供されます。また、都城市はAIで行政を変革し、市民サービス向上を目指します。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/7a65d3a0-b31e-49f1-a0e4-e59d13b39527",
+        "relevance": "PMO/PjMO担当者は、災害時におけるAI活用支援の動向と、自治体におけるAI活用による行政変革事例について、情報収集と横展開の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
         "title": "国産AI開発と「攻めのAIガバナンス」が提唱される",
@@ -3727,6 +3777,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "ServiceNow Japan、ガバメントクラウド移行後SaaS管理環境の設計・構築・検証を担当",
+        "summary": "両備システムズはServiceNow AI Platformを活用し、ガバメントクラウド上におけるSaaS管理環境（コントロールプレーン）の設計・構築および検証を担当します。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19620007?news_ref=top_newComments",
+        "relevance": "PMO/PjMO担当者は、ガバメントクラウド移行後のSaaS管理環境構築におけるAIプラットフォームの活用事例について、クラウド移行プロジェクトのガバナンス強化の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
         "title": "AWS、政府機関向けにデータ分析・AI・機械学習サービスを提供",
@@ -4099,6 +4159,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "9月施行、行政AI調達ルール改定へ デジタル庁、事業者評価チェック項目更新",
+        "summary": "デジタル庁は、生成AIの調達・利活用に関する行政機関向けガイドラインの改定版（第2.0版）を9月1日に全面施行します。事業者を評価するチェック項目も更新されます。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/62cdd0ec0e828b9b93ec85f8a8bd5661a00ebc6f?page=3",
+        "relevance": "PMO/PjMO担当者は、改定された行政AI調達ルールと事業者評価チェック項目について、新規プロジェクトや既存プロジェクトへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-03",
         "date_ja": "2026年8月3日（月）",
         "title": "円相場変動に対する日米の協調対応",
@@ -4350,6 +4420,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "静岡県磐田市、生成AI活用で書類審査業務効率化へアンドドットと連携協定締結",
+        "summary": "静岡県磐田市は、アンドドットと生成AIを活用した書類審査業務の効率化に関する連携協定を締結しました。250を超える自治体のAI支援実績を持つ同社が磐田市の行政DXを支援します。",
+        "source": "sannichi.co.jp",
+        "url": "https://www.sannichi.co.jp/prtimes/others/c125579_r103",
+        "relevance": "PMO/PjMO担当者は、先進自治体における生成AIを活用した業務効率化事例について、自組織でのAI導入可能性や効果測定の方法をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
@@ -4612,6 +4692,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "【開催報告＆資料公開】AWS メディア業界向け勉強会開催報告 – リアルタイムの翻訳生成や基幹システムの移行などのメディア業界事例",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/jpmne-media-seminar-local-july-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "Amazon Aurora DSQL における接続プーリング戦略",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/connection-pooling-strategies-in-amazon-aurora-dsql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "2枚のピザを囲んで語る業務変革 — 35社62名が参加した大阪開催 Claude・Kiro実践ワークショップの記録",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-coding-workshop20260702/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "dSPACE と AWS で実現する自動運転 AI 開発の効率化 ～MLOps によるデータ駆動型開発の実践～",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/dspace-aws-mlops-autonomous-driving/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
@@ -5415,6 +5531,33 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "列レベルのセキュリティを強化: BigQuery で IAM データ ガバナンス タグを使用する",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "BigQuery と %%bqsql マジックで SQL と Python のギャップを埋める",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bridge-sql-and-python-with-bigquery/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "August 04, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_04_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
@@ -6231,6 +6374,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "【さくらのVPS】SLA（サービス品質保証）提供開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/04/1968225460/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "「【さくらのレギュラーセミナー】AI時代のWebサイト運営入門 ～AIクローラー・スクレイピング対策とアクセス制御の考え方～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/04/1968225528/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
         "title": "【さくらのVPS】Windows Serverのアカウントロック対策強化に伴う10％OFFクーポン配布のお知らせ",
@@ -6782,6 +6943,26 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "DX・AI・業務改革・ERP導入・PMOコンサルティングサービス提供、ACP有限責任事業組合へ加盟",
+        "summary": "Ascend株式会社はACP有限責任事業組合へ加盟し、DX・AI・業務改革・ERP導入・PMOを中心としたコンサルティングサービスを提供しています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000012.000172819.html",
+        "relevance": "PMO/PjMO担当者は、DX推進やAI導入プロジェクトにおけるコンサルティングサービスの活用事例について、プロジェクトマネジメント高度化や体制強化の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-05",
+        "date_ja": "2026年8月5日（水）",
+        "title": "IaCに広がるAIコーディング、インフラチームのガバナンス整備が追い付かず",
+        "summary": "AIによる開発加速に伴い、IaC（Infrastructure as Code）におけるAIコーディングが進む一方、インフラチームのガバナンス整備が追い付かず、設定ミスやコンプライアンス違反が多発している実態が明らかになっています。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news049.html",
+        "relevance": "PMO/PjMO担当者は、IaCにおけるAIコーディングの進展と、それに伴うガバナンス上の課題について、開発プロセス全体の品質管理・リスク管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-02",
         "date_ja": "2026年8月2日（日）",
         "title": "為替介入と財務省による情報発信",
@@ -6824,24 +7005,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 44,
+    "セキュリティ": 45,
     "その他": 178,
     "行政AI": 18,
     "行政DX": 14,
-    "AI活用": 122,
-    "クラウド/インフラ": 37,
-    "制度/ガイドライン": 25,
-    "自治体DX事例": 26,
-    "AWS最新情報": 89,
-    "Google Cloud最新情報": 79,
+    "AI活用": 126,
+    "クラウド/インフラ": 38,
+    "制度/ガイドライン": 26,
+    "自治体DX事例": 27,
+    "AWS最新情報": 93,
+    "Google Cloud最新情報": 82,
     "働き方/業務改革": 10,
-    "さくらのクラウド最新情報": 41,
+    "さくらのクラウド最新情報": 43,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
     "デジタル庁": 2,
     "調達/契約": 1,
-    "プロジェクト管理": 4
+    "プロジェクト管理": 6
   },
-  "updated_at": "2026-08-03T16:30:40.525Z"
+  "updated_at": "2026-08-04T16:14:48.795Z"
 }
