@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "Weekly Report: JPCERT/CCが「TSUBAMEレポート Overflow（2026年4-6月）」を公開",
+        "summary": "JPCERT/CCが「TSUBAMEレポート Overflow（2026年4-6月）」を公開\n\n▶ JPCERT/CCが公開した「TSUBAMEレポート Overflow（2026年4-6月）」の内容を確認してください。\n▶ 国内外のセンサー観測動向や活動状況に関する参考情報です。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#15",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
         "title": "AWS Summit Japan 2026登壇決定、AI時代のセキュリティ変革について講演",
@@ -2223,6 +2233,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "「ガバメントAI 源内」における国産クラウドを活用した国産基盤モデルの試用環境",
+        "summary": "「ガバメントAI 源内」で国産クラウド・基盤モデルの試用開始\n\n▶ デジタル庁の「ガバメントAI 源内」が、国産クラウド「さくらのクラウド」上で国産基盤モデルの試用を開始したことを把握してください。\n▶ 国産モデルの政府による活用推進に関する動向として参照してください。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/nf1a953fae8b7",
+        "type": "government"
+      },
+      {
         "date": "2026-07-31",
         "date_ja": "2026年7月31日（金）",
         "title": "罹災証明書（り災証明書）をオンラインで申請する方法【令和8年熊本地震】",
@@ -2514,6 +2533,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "AIガバナンスの重要性とシャドーAIのリスク、および国際的な動向",
+        "summary": "AIエージェントの普及により、シャドーAIのリスクやガバナンス不全が顕在化しており、AIガバナンス強化が喫緊の課題となっている。国際的にもAIガバナンスに関する議論が進み、オープンソースプロジェクトも発足している。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/670052",
+        "relevance": "AIガバナンスの必要性、シャドーAIへの対策、および国際的なAI規制動向について、PMO/PjMOの皆様はリスク管理体制の整備をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "日本ディープラーニング協会によるAIガバナンス認証制度「C認証」の開始",
+        "summary": "日本ディープラーニング協会（JDLA）は、企業のAIガバナンス体制を第三者認証する「C認証（AI Governance Core）」制度を開始した。これにより、AIの安全な利用に向けたルールや組織体制の整備が促進される。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/article/DGKKZO97976520U6A800C2TB1000/",
+        "relevance": "AIガバナンス体制の構築・評価に関する第三者認証制度の動向について、PMO/PjMOの皆様は自組織のAI活用におけるガバナンス強化策としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "AIエージェントによる不正行為と政府機関によるAI利用実態調査",
+        "summary": "英国政府機関がAIエージェントによる不正行為を確認し、サイバーセキュリティ能力テストを実施。一方、米政府はAI安全性審査で「オープン型」を除外する方針。GDSはCopilotの利用実態調査を行い、4割の継続利用に留まる結果となった。",
+        "source": "techno-edge.net",
+        "url": "https://www.techno-edge.net/article/2026/08/05/5366.html",
+        "relevance": "AIエージェントの利用に伴うリスクと、政府機関におけるAI利用の動向について、PMO/PjMOの皆様は情報収集とリスク評価をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
@@ -3777,6 +3826,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "ガバメントクラウドの活用と関連する取り組み・動向",
+        "summary": "さくらインターネットは、ガバメントクラウド対応で行政・独立行政法人案件の獲得を目指す。また、自治体ではガバメントクラウド利用料削減策の検討や、システム標準化・移行が進められている。空き家情報管理SaaSもガバメントクラウド上で構築・運用される。",
+        "source": "sakura.ad.jp",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225534/",
+        "relevance": "ガバメントクラウドの活用状況、SIerの対応、および自治体におけるコスト削減策やシステム移行の動向について、PMO/PjMOの皆様はインフラ選定やコスト管理をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
         "title": "ServiceNow Japan、ガバメントクラウド移行後SaaS管理環境の設計・構築・検証を担当",
@@ -4158,6 +4217,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "米政府、中国製AI対策の難しさとオープンウェイトAIの規制",
+        "summary": "アメリカ政府は、急速に普及する中国製のオープンウェイトAIモデルの封じ込めに苦労しており、その対策の実効性に課題があると指摘されている。",
+        "source": "businessinsider.jp",
+        "url": "https://www.businessinsider.jp/article/2608-chinese-ai-models-claude-kimik3-deepseek-regulation-anthropic-openai-stocks/",
+        "relevance": "海外におけるAI規制と、特にオープンソースAIモデルへの対応方針について、PMO/PjMOの皆様は将来的な日本への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "デジタル庁・関係省庁の動向とAI・IT関連施策",
+        "summary": "総務省は「携帯電話不正利用防止法の改正に基づく制度整備の方向性」を公表。国土交通省・経済産業省は電動車による医療機器給電マニュアルを改定。総務省の調査では、国内企業の生成AI活用率が86%に迫る。",
+        "source": "dempa-times.co.jp",
+        "url": "https://www.dempa-times.co.jp/administration/55534/",
+        "relevance": "デジタル庁および関係省庁のAI・IT関連施策、法改正動向について、PMO/PjMOの皆様は関連するシステム要件やガイドラインの変更をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
@@ -4692,6 +4771,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "AWS 認定の上位・下位関係を理解して効率的に認定を更新しましょう",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-certification-hierarchy-recertification-guide/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "1 つのエージェントで、あらゆるクライアントに: Kiro エージェントハーネスをどう構築したか",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/one-agent/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "Kiro Crew の紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-crew/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "KNFSD ファイルキャッシュのご紹介: NFS ストレージをクラウドに拡張",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/jp-mne-introducing-knfsd-file-cache-extending-your-nfs-storage-into-the-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "AWS Weekly のまとめ: Bedrock の GPT モデルの値下げ、Prometheus メトリクス向けの CloudWatch マネージドコレクターなど (2026年8月3日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
@@ -6272,6 +6396,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "矢崎総業、AIと人の協働による次世代スマートファクトリー実現へ",
+        "summary": "矢崎総業は、新拠点「Innovation Hub - REN（錬）」において、AIやロボティクスを活用した次世代ものづくりへの取り組みを本格化させている。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/act/19/00014/072400123/?i_cid=nbpnxta_reco",
+        "relevance": "民間企業におけるAIと人の協働による業務改革事例について、PMO/PjMOの皆様は人的リソースの最適化とAI活用による生産性向上をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-04",
         "date_ja": "2026年8月4日（火）",
         "title": "DX推進指標自己診断フォーマットのWebフォーム化とガイダンス資料公開",
@@ -6373,6 +6507,33 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "「【SIer向け】ガバメントクラウド対応！省庁・独法案件を勝ち取る「さくらのクラウド」提案塾」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225534/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "「さくらで解決！高騰するITインフラへの対策 ～選択としての『さくらのクラウド』～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225537/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-06",
+        "date_ja": "2026年8月6日（木）",
+        "title": "「OpenStreetMap関西カンファレンス2026」にてマーケティング本部 法林が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225548/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
@@ -7005,18 +7166,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 45,
+    "セキュリティ": 46,
     "その他": 178,
-    "行政AI": 18,
+    "行政AI": 19,
     "行政DX": 14,
-    "AI活用": 126,
-    "クラウド/インフラ": 38,
-    "制度/ガイドライン": 26,
+    "AI活用": 129,
+    "クラウド/インフラ": 39,
+    "制度/ガイドライン": 28,
     "自治体DX事例": 27,
-    "AWS最新情報": 93,
+    "AWS最新情報": 98,
     "Google Cloud最新情報": 82,
-    "働き方/業務改革": 10,
-    "さくらのクラウド最新情報": 43,
+    "働き方/業務改革": 11,
+    "さくらのクラウド最新情報": 46,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
@@ -7024,5 +7185,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 6
   },
-  "updated_at": "2026-08-04T16:14:48.795Z"
+  "updated_at": "2026-08-05T16:01:08.179Z"
 }

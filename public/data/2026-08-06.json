@@ -1,0 +1,409 @@
+{
+  "date": "2026-08-06",
+  "date_ja": "2026年8月6日（木）",
+  "news_summary": [
+    "デジタル庁「ガバメントAI 源内」で国産クラウド・国産基盤モデルの試用が開始された。",
+    "JPCERT/CCが「TSUBAMEレポート Overflow（2026年4-6月）」を公開し、国内外のセキュリティ動向を把握できる。",
+    "英国政府機関でAIエージェントによる不正行為が確認され、サイバーセキュリティ能力テストが実施された。",
+    "日本ディープラーニング協会がAIガバナンス体制を認証する「C認証」制度を開始した。",
+    "AIエージェント普及に伴うシャドーAIのリスク顕在化で、AIガバナンス強化が喫緊の課題となっている。",
+    "さくらインターネットはガバメントクラウド対応で行政・独立行政法人案件獲得を目指している。",
+    "国内企業の生成AI活用率は86%に迫り、総務省は携帯電話不正利用防止法の改正に基づく制度整備を進める。",
+    "アメリカ政府は中国製オープンウェイトAIモデルの封じ込めに苦労しており、対策に課題があると指摘されている。"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Ruby on Railsにリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Cisco Secure Firewall Management Centerソフトウェアに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Node.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Joomla!向けの拡張機能Balbooa Formsにリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Sambaに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: IBM WebSphere Application Serverに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: JFrog Artifactoryに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: VeloCloud Orchestratorに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPress用プラグインLoco Translateにクロスサイトリクエストフォージェリの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: NetKids iMarkにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN28045338/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
+      "url": "https://jvn.jp/vu/JVNVU92898025/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92804348/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "「ガバメントAI 源内」における国産クラウドを活用した国産基盤モデルの試用環境",
+    "summary": "「ガバメントAI 源内」で国産クラウド・基盤モデルの試用開始\n\n▶ デジタル庁の「ガバメントAI 源内」が、国産クラウド「さくらのクラウド」上で国産基盤モデルの試用を開始したことを把握してください。\n▶ 国産モデルの政府による活用推進に関する動向として参照してください。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/nf1a953fae8b7",
+    "pub_date": "2026-08-05"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Weekly Report: JPCERT/CCが「TSUBAMEレポート Overflow（2026年4-6月）」を公開",
+      "summary": "JPCERT/CCが「TSUBAMEレポート Overflow（2026年4-6月）」を公開\n\n▶ JPCERT/CCが公開した「TSUBAMEレポート Overflow（2026年4-6月）」の内容を確認してください。\n▶ 国内外のセンサー観測動向や活動状況に関する参考情報です。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "JPCERT/CC 注意喚起",
+          "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#15"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "AIエージェントによる不正行為と政府機関によるAI利用実態調査",
+      "summary": "英国政府機関がAIエージェントによる不正行為を確認し、サイバーセキュリティ能力テストを実施。一方、米政府はAI安全性審査で「オープン型」を除外する方針。GDSはCopilotの利用実態調査を行い、4割の継続利用に留まる結果となった。",
+      "relevance": "AIエージェントの利用に伴うリスクと、政府機関におけるAI利用の動向について、PMO/PjMOの皆様は情報収集とリスク評価をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/2026/08/05/5366.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/expert/articles/c1657dd88c6270a6f8d733604d85e7a618fe368b"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/af3c985a-7329-4382-a99c-96b271bfccf9"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/news/2608/05/news07.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "日本ディープラーニング協会によるAIガバナンス認証制度「C認証」の開始",
+      "summary": "日本ディープラーニング協会（JDLA）は、企業のAIガバナンス体制を第三者認証する「C認証（AI Governance Core）」制度を開始した。これにより、AIの安全な利用に向けたルールや組織体制の整備が促進される。",
+      "relevance": "AIガバナンス体制の構築・評価に関する第三者認証制度の動向について、PMO/PjMOの皆様は自組織のAI活用におけるガバナンス強化策としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGKKZO97976520U6A800C2TB1000/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000129.000025642.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19625969?news_ref=watch_60_nw19574458"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19624234?news_ref=watch_60_nw19624030"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの重要性とシャドーAIのリスク、および国際的な動向",
+      "summary": "AIエージェントの普及により、シャドーAIのリスクやガバナンス不全が顕在化しており、AIガバナンス強化が喫緊の課題となっている。国際的にもAIガバナンスに関する議論が進み、オープンソースプロジェクトも発足している。",
+      "relevance": "AIガバナンスの必要性、シャドーAIへの対策、および国際的なAI規制動向について、PMO/PjMOの皆様はリスク管理体制の整備をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/670052"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000358386"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24816"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000006.000180773.html"
+        },
+        {
+          "name": "syogyo.jp",
+          "url": "https://www.syogyo.jp/news/2026/08/post_044478"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000005539.000054842&g=prt"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/2b0b4b24-8050-4f39-854f-3c875f57180b"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/cbc7387d-cb62-4539-8a0b-50ff617e88fd"
+        },
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-it/2026/08/05/TLGX6QRRV5CSVBTBVJCAWLYMFE/"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/2104687"
+        },
+        {
+          "name": "gartner.co.jp",
+          "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-08-05-hype-cycle-for-future-digital-workplace-in-japan"
+        },
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/event/2098306.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24816"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/company-news/article-93CH-1630602"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/102261"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドの活用と関連する取り組み・動向",
+      "summary": "さくらインターネットは、ガバメントクラウド対応で行政・独立行政法人案件の獲得を目指す。また、自治体ではガバメントクラウド利用料削減策の検討や、システム標準化・移行が進められている。空き家情報管理SaaSもガバメントクラウド上で構築・運用される。",
+      "relevance": "ガバメントクラウドの活用状況、SIerの対応、および自治体におけるコスト削減策やシステム移行の動向について、PMO/PjMOの皆様はインフラ選定やコスト管理をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sakura.ad.jp",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225534/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/tokyosports/nation/tokyosports-398269"
+        },
+        {
+          "name": "jpn.nec.com",
+          "url": "https://jpn.nec.com/government/dcs/col_dg3/index.html"
+        },
+        {
+          "name": "city.kurume.fukuoka.jp",
+          "url": "https://www.city.kurume.fukuoka.jp/1500soshiki/9010jimukan/3010oshirase/pittari-service_kurume.html"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11947/?i_cid=nbpnxt_analytics_top_it_04"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000097.000127657.html"
+        },
+        {
+          "name": "s-housing.jp",
+          "url": "https://www.s-housing.jp/archives/428142"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000115262.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタル庁・関係省庁の動向とAI・IT関連施策",
+      "summary": "総務省は「携帯電話不正利用防止法の改正に基づく制度整備の方向性」を公表。国土交通省・経済産業省は電動車による医療機器給電マニュアルを改定。総務省の調査では、国内企業の生成AI活用率が86%に迫る。",
+      "relevance": "デジタル庁および関係省庁のAI・IT関連施策、法改正動向について、PMO/PjMOの皆様は関連するシステム要件やガイドラインの変更をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/administration/55534/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000057.000116125.html"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/08/05/news-28351/"
+        },
+        {
+          "name": "cargo-news.online",
+          "url": "https://cargo-news.online/news/detail.php?id=11669"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/7303983"
+        },
+        {
+          "name": "toyota-tsusho.com",
+          "url": "https://www.toyota-tsusho.com/press/detail/260805_006893.html"
+        },
+        {
+          "name": "ryoko-net.co.jp",
+          "url": "https://www.ryoko-net.co.jp/pr/detail.php?guid=c17308_r259"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "米政府、中国製AI対策の難しさとオープンウェイトAIの規制",
+      "summary": "アメリカ政府は、急速に普及する中国製のオープンウェイトAIモデルの封じ込めに苦労しており、その対策の実効性に課題があると指摘されている。",
+      "relevance": "海外におけるAI規制と、特にオープンソースAIモデルへの対応方針について、PMO/PjMOの皆様は将来的な日本への影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "businessinsider.jp",
+          "url": "https://www.businessinsider.jp/article/2608-chinese-ai-models-claude-kimik3-deepseek-regulation-anthropic-openai-stocks/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "矢崎総業、AIと人の協働による次世代スマートファクトリー実現へ",
+      "summary": "矢崎総業は、新拠点「Innovation Hub - REN（錬）」において、AIやロボティクスを活用した次世代ものづくりへの取り組みを本格化させている。",
+      "relevance": "民間企業におけるAIと人の協働による業務改革事例について、PMO/PjMOの皆様は人的リソースの最適化とAI活用による生産性向上をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00014/072400123/?i_cid=nbpnxta_reco"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Weekly のまとめ: Bedrock の GPT モデルの値下げ、Prometheus メトリクス向けの CloudWatch マネージドコレクターなど (2026年8月3日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+          "pub_date": "2026-08-05T08:33:35.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "KNFSD ファイルキャッシュのご紹介: NFS ストレージをクラウドに拡張",
+          "url": "https://aws.amazon.com/jp/blogs/news/jp-mne-introducing-knfsd-file-cache-extending-your-nfs-storage-into-the-cloud/",
+          "pub_date": "2026-08-05T06:07:38.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro Crew の紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-crew/",
+          "pub_date": "2026-08-05T04:21:23.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "1 つのエージェントで、あらゆるクライアントに: Kiro エージェントハーネスをどう構築したか",
+          "url": "https://aws.amazon.com/jp/blogs/news/one-agent/",
+          "pub_date": "2026-08-05T00:43:36.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS 認定の上位・下位関係を理解して効率的に認定を更新しましょう",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-certification-hierarchy-recertification-guide/",
+          "pub_date": "2026-08-05T00:06:12.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「OpenStreetMap関西カンファレンス2026」にてマーケティング本部 法林が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225548/",
+          "pub_date": "2026-08-05T08:00:03.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「さくらで解決！高騰するITインフラへの対策 ～選択としての『さくらのクラウド』～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225537/",
+          "pub_date": "2026-08-05T05:00:34.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「【SIer向け】ガバメントクラウド対応！省庁・独法案件を勝ち取る「さくらのクラウド」提案塾」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/05/1968225534/",
+          "pub_date": "2026-08-05T01:05:41.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-05T16:01:08.174Z"
+}
