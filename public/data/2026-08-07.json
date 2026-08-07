@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-07",
+  "date_ja": "2026年8月7日（金）",
+  "news_summary": [
+    "AnthropicはClaude Enterprise向けにプロンプトの社内サーバー判定機能をベータ公開した",
+    "AIガバナンス体制構築のため、日本ディープラーニング協会の第三者認証制度「C認証」の受付が開始された",
+    "ガバメントクラウドの認知度は76.6%に達し、NTT西日本が閉域環境での生成AI活用支援を提案している",
+    "67.5%の国産クラウド利用意向に対し、NTT西日本はガバメントクラウドや閉域環境での生成AI活用支援を提案",
+    "地方自治体がガバメントクラウドファンディングで地域のプロジェクトへの寄附を募集している"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
+      "url": "https://jvn.jp/vu/JVNVU92139835/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
+      "url": "https://jvn.jp/vu/JVNVU92842469/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96816564/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Anthropic、AIの安全性と米国政府との関係構築に注力、 Claude Enterprise向け新機能も公開",
+      "summary": "Anthropicは、AIの安全性評価機関による厳格なテストをクリアし、米国政府との対話を進めている。Claude Enterprise向けには、推論前にプロンプトを社内サーバーで判定する新機能がベータ公開された。",
+      "relevance": "AIモデルの安全性評価と、政府機関との連携・規制対応の動向について、PMO/PjMOの皆様はご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/07/internal-server-checks-ai-usage-in-5-seconds/"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/jama-japia-claude-mythos-ai-cybersecurity-supply-chain/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17256481/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス体制構築への関心高まる、第三者認証制度「C認証」の普及進む",
+      "summary": "AIの高度化に伴い、AIガバナンス体制の構築が急務となっている。日本ディープラーニング協会が提供する第三者認証制度「C認証」の一般申請受付が開始され、先行取得を支援する事例も登場している。",
+      "relevance": "AI活用におけるリスク管理とコンプライアンス遵守のためのガバナンス体制構築について、PMO/PjMOの皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251423/"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/caio-chief-ai-officer/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000271.000010295.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3cc98620faa339db5289f10a093b948308730b68?page=4"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/08/07/382247.html"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/622377"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17261572/?ref=picked-news_9985"
+        },
+        {
+          "name": "advertimes.com",
+          "url": "https://www.advertimes.com/20260807/article553312/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000182.000121022.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24835"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2131486.html"
+        },
+        {
+          "name": "nri.com",
+          "url": "https://www.nri.com/jp/media/column/scs_blog/20260807.html"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000182.000121022&g=prt"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/102429"
+        },
+        {
+          "name": "nikkan.co.jp",
+          "url": "https://www.nikkan.co.jp/articles/view/f6d1c31e5c94513bfea83e9499dcff3f"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24780?p=2&anchor=4"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000358655"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251378/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251305/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251305/3/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI性能向上とデータセンター計画、企業によるAI活用の広がり",
+      "summary": "AI性能の高度化が進む中、企業は高価格・規制リスクへの自衛策としてAI採用を広げている。英国では、物議を醸していたデータセンター計画が承認された。",
+      "relevance": "AI技術の進化とそれに伴うインフラ投資の動向について、PMO/PjMOの皆様はご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17257663/?ref=user"
+        },
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/2026081865556"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウドの認知度向上と導入支援、国産クラウドへの関心も高まる",
+      "summary": "ガバメントクラウドの認知度は76.6%に達しており、NTT西日本はガバメントクラウドや閉域環境での生成AI活用を支援する提案を行っている。また、国産クラウドを選びたいとする声も67.5%に上る。",
+      "relevance": "ガバメントクラウドの動向や、国産クラウドへの関心について、PMO/PjMOの皆様はご留意ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/article/20260807-4771561/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251397/"
+        },
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/tamonokihirohisa/"
+        },
+        {
+          "name": "city.hashimoto.lg.jp",
+          "url": "https://www.city.hashimoto.lg.jp/guide/sogoseisakubu/seisaku_kikaku/jouhouseisaku/23175.html"
+        },
+        {
+          "name": "jpn.nec.com",
+          "url": "https://jpn.nec.com/government/solution04/contents16.html"
+        },
+        {
+          "name": "jpn.nec.com",
+          "url": "https://jpn.nec.com/government/solution04/contents17.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000012.000173071.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地方自治体のプロジェクト支援事例",
+      "summary": "複数の地方自治体が、ガバメントクラウドファンディングを活用して、地域の伝統行事や環境保全、子どもの居場所づくりなどのプロジェクトへの寄附を募集している。",
+      "relevance": "ガバメントクラウドファンディングの活用事例について、PMO/PjMOの皆様はご参考にしてください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "city.sendai.jp",
+          "url": "https://www.city.sendai.jp/tatekae/kishahappyou/260806crowdfunding.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000756.000079445.html"
+        },
+        {
+          "name": "south65.jp",
+          "url": "https://south65.jp/%E6%96%B0%E5%AE%AE%E5%B8%82%E3%81%AE%E4%BC%9D%E7%B5%B1%E8%A1%8C%E4%BA%8B%E3%80%8C%E7%86%8A%E9%87%8E%E5%BE%90%E7%A6%8F%E4%B8%87%E7%87%88%E7%A5%AD%E3%80%8D%E3%81%A8%E3%80%8C%E6%96%B0%E5%AE%AE%E8%8A%B1/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000005_000185129/"
+        },
+        {
+          "name": "woman.excite.co.jp",
+          "url": "https://woman.excite.co.jp/article/lifestyle/sum_atpress_621454/"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/and/pressrelease/16663296"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Amazon DynamoDB のネイティブベクトルサポートでセマンティック検索を構築する",
+          "url": "https://aws.amazon.com/jp/blogs/news/build-semantic-search-with-native-vector-support-in-amazon-dynamodb/",
+          "pub_date": "2026-08-06T07:56:42.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "フロンティア AI による脅威変化への備え – 金融庁・日本銀行から金融機関等への要請と AWS サービスの活用",
+          "url": "https://aws.amazon.com/jp/blogs/news/preparing-for-frontier-ai-threats-fsa-boj-request-aws/",
+          "pub_date": "2026-08-06T02:24:57.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 06, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+          "pub_date": "2026-08-06T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "AlloyDB に追加されたグループ認証により、エンタープライズ規模の運用と AI エージェントのセキュリティを強化",
+          "url": "https://cloud.google.com/blog/ja/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
+          "pub_date": "2026-08-06T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "The Blueprint: Voicify が AI を活用した注文体験を顧客にとって満足度の高いものに",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+          "pub_date": "2026-08-06T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Enterprise Agent Platform の最新情報",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+          "pub_date": "2026-08-06T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Panasonic Automotive、C4A-metal と vSkipGen で自動車のイノベーションを加速",
+          "url": "https://cloud.google.com/blog/ja/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+          "pub_date": "2026-08-06T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「次世代のエンジニアへ：さくらのクラウド検定対策ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225558/",
+          "pub_date": "2026-08-06T08:00:39.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「実践事例から学ぶ、クラウド活用と運用最適化セミナー ～ミライト・ワンとさくらインターネットが語るクラウド基盤の選び方～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225554/",
+          "pub_date": "2026-08-06T06:34:09.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「防災の日に考える、いつ起こるかわからないサイバー攻撃への備え～災害と同じ視点で考えるサイバーセキュリティ～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225542/",
+          "pub_date": "2026-08-06T01:00:19.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-07T14:56:26.033Z"
+}

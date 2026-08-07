@@ -2534,6 +2534,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "AI性能向上とデータセンター計画、企業によるAI活用の広がり",
+        "summary": "AI性能の高度化が進む中、企業は高価格・規制リスクへの自衛策としてAI採用を広げている。英国では、物議を醸していたデータセンター計画が承認された。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17257663/?ref=user",
+        "relevance": "AI技術の進化とそれに伴うインフラ投資の動向について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "AIガバナンス体制構築への関心高まる、第三者認証制度「C認証」の普及進む",
+        "summary": "AIの高度化に伴い、AIガバナンス体制の構築が急務となっている。日本ディープラーニング協会が提供する第三者認証制度「C認証」の一般申請受付が開始され、先行取得を支援する事例も登場している。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/article/35251423/",
+        "relevance": "AI活用におけるリスク管理とコンプライアンス遵守のためのガバナンス体制構築について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "Anthropic、AIの安全性と米国政府との関係構築に注力、 Claude Enterprise向け新機能も公開",
+        "summary": "Anthropicは、AIの安全性評価機関による厳格なテストをクリアし、米国政府との対話を進めている。Claude Enterprise向けには、推論前にプロンプトを社内サーバーで判定する新機能がベータ公開された。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/08/07/internal-server-checks-ai-usage-in-5-seconds/",
+        "relevance": "AIモデルの安全性評価と、政府機関との連携・規制対応の動向について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-06",
         "date_ja": "2026年8月6日（木）",
         "title": "AIガバナンスの重要性とシャドーAIのリスク、および国際的な動向",
@@ -3826,6 +3856,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "ガバメントクラウドの認知度向上と導入支援、国産クラウドへの関心も高まる",
+        "summary": "ガバメントクラウドの認知度は76.6%に達しており、NTT西日本はガバメントクラウドや閉域環境での生成AI活用を支援する提案を行っている。また、国産クラウドを選びたいとする声も67.5%に上る。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/article/20260807-4771561/",
+        "relevance": "ガバメントクラウドの動向や、国産クラウドへの関心について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-06",
         "date_ja": "2026年8月6日（木）",
         "title": "ガバメントクラウドの活用と関連する取り組み・動向",
@@ -4500,6 +4540,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "ガバメントクラウドファンディングを活用した地方自治体のプロジェクト支援事例",
+        "summary": "複数の地方自治体が、ガバメントクラウドファンディングを活用して、地域の伝統行事や環境保全、子どもの居場所づくりなどのプロジェクトへの寄附を募集している。",
+        "source": "city.sendai.jp",
+        "url": "https://www.city.sendai.jp/tatekae/kishahappyou/260806crowdfunding.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、PMO/PjMOの皆様はご参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
         "title": "静岡県磐田市、生成AI活用で書類審査業務効率化へアンドドットと連携協定締結",
@@ -4771,6 +4821,24 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "フロンティア AI による脅威変化への備え – 金融庁・日本銀行から金融機関等への要請と AWS サービスの活用",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/preparing-for-frontier-ai-threats-fsa-boj-request-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "Amazon DynamoDB のネイティブベクトルサポートでセマンティック検索を構築する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/build-semantic-search-with-native-vector-support-in-amazon-dynamodb/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-06",
         "date_ja": "2026年8月6日（木）",
@@ -5656,6 +5724,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "Panasonic Automotive、C4A-metal と vSkipGen で自動車のイノベーションを加速",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "Gemini Enterprise Agent Platform の最新情報",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "The Blueprint: Voicify が AI を活用した注文体験を顧客にとって満足度の高いものに",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "AlloyDB に追加されたグループ認証により、エンタープライズ規模の運用と AI エージェントのセキュリティを強化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "August 06, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_06_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-05",
         "date_ja": "2026年8月5日（水）",
         "title": "列レベルのセキュリティを強化: BigQuery で IAM データ ガバナンス タグを使用する",
@@ -6508,6 +6621,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "「防災の日に考える、いつ起こるかわからないサイバー攻撃への備え～災害と同じ視点で考えるサイバーセキュリティ～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225542/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "「実践事例から学ぶ、クラウド活用と運用最適化セミナー ～ミライト・ワンとさくらインターネットが語るクラウド基盤の選び方～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225554/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-07",
+        "date_ja": "2026年8月7日（金）",
+        "title": "「次世代のエンジニアへ：さくらのクラウド検定対策ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/06/1968225558/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-06",
         "date_ja": "2026年8月6日（木）",
         "title": "「【SIer向け】ガバメントクラウド対応！省庁・独法案件を勝ち取る「さくらのクラウド」提案塾」を開催いたします",
@@ -7170,14 +7310,14 @@
     "その他": 178,
     "行政AI": 19,
     "行政DX": 14,
-    "AI活用": 129,
-    "クラウド/インフラ": 39,
+    "AI活用": 132,
+    "クラウド/インフラ": 40,
     "制度/ガイドライン": 28,
-    "自治体DX事例": 27,
-    "AWS最新情報": 98,
-    "Google Cloud最新情報": 82,
+    "自治体DX事例": 28,
+    "AWS最新情報": 100,
+    "Google Cloud最新情報": 87,
     "働き方/業務改革": 11,
-    "さくらのクラウド最新情報": 46,
+    "さくらのクラウド最新情報": 49,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
@@ -7185,5 +7325,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 6
   },
-  "updated_at": "2026-08-05T16:01:08.179Z"
+  "updated_at": "2026-08-07T14:56:26.038Z"
 }
