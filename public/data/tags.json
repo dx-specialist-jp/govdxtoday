@@ -2534,6 +2534,76 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "IBM、2026 IDC MarketScape for Worldwide AI-Enabled Financial Governance, Risk, and ...",
+        "summary": "IBMは、財務ガバナンス、リスク、コンプライアンスをサポートするAI活用に関する市場動向が示唆されている。",
+        "source": "ibm.com",
+        "url": "https://www.ibm.com/jp-ja/new/announcements/ibm-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-ai-enabled-financial-governance-risk-and-compliance",
+        "relevance": "財務分野におけるAI活用とガバナンスの重要性について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "AIガバナンスとAIコーディングに関する技術動向",
+        "summary": "AIインフラ投資、AIエージェント、AIコーディング、AIガバナンスといったAI関連技術の動向が報じられている。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/08/08/claude-code-default-auto-approve-risky-commands/",
+        "relevance": "AI技術の進化とガバナンスの関連性について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "ソフトバンク、「AGENTIC STAR」SaaS版にLLM Gateway機能を標準搭載しAIコーディングとガバナンスを両立",
+        "summary": "ソフトバンクは、「AGENTIC STAR」SaaS版にLLM Gateway機能を標準搭載し、AIコーディングツールの使い勝手を維持しつつ、企業ガバナンスと生成AI活用を両立する。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/e1bf12b5-d6c9-4ffe-8024-b22c4fa0a0ef",
+        "relevance": "AIコーディングツール導入におけるガバナンス両立の必要性について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "デジタル庁・各省庁のDX推進とAI活用、インフラ整備や特定詐欺対策、補助事業など多岐にわたる取り組み",
+        "summary": "デジタル庁は生成AI「源内」の提供やDX推進、総務省はデータセンター地方分散事業、7府省庁は著名人のなりすまし詐欺広告対策、国土交通省はDX補助事業やAI活用イベントなどを実施。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/playnextlab-gennai-miyawaka-city/",
+        "relevance": "各省庁におけるDX推進やAI活用事例、補助事業の動向について、PMO/PjMOの皆様はご参考ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "AIガバナンスの重要性が増す中、サイバーセキュリティや認証制度の動向が活発化",
+        "summary": "AI導入がガバナンスを追い越している状況が指摘され、AIレジリエンス、サイバーセキュリティ、第三者認証制度など、AIガバナンスに関する取り組みが活発化している。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/a46d75e0-6597-4dfd-b4a5-90dd08be8a77",
+        "relevance": "AI活用におけるリスク管理とガバナンス体制構築の必要性について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "APECデジタルAI大臣会合、データ連携基盤とAIガバナンスに関する国際的協調の枠組みを議論",
+        "summary": "経済産業省などが参加したAPECデジタルAI大臣会合では、2026年7月に成都で開催され、データ連携基盤とAIガバナンスに関する国際的協調の枠組みが議論された。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/topics/mhayashi/posts/882",
+        "relevance": "国際的なAIガバナンスの動向を把握し、国内の施策への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "デジタル庁、熊本地震を受け被災自治体へ生成AI「ガバメントAI源内」を提供",
+        "summary": "デジタル庁は熊本地震を受け、被災自治体や災害支援機関に対し、政府独自の生成AI「ガバメントAI源内」を発災翌日から提供開始した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/720c92aa867c0c0c520de69bcb678f3c0ec4b1e4/images/000",
+        "relevance": "災害時の迅速な情報収集・分析や支援活動へのAI活用可能性について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
         "title": "AI性能向上とデータセンター計画、企業によるAI活用の広がり",
@@ -3856,6 +3926,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "TKC、標準仕様準拠システムおよびガバメントクラウドへの移行でコンサルティングサービス売上高が大幅増",
+        "summary": "TKCは、標準仕様準拠システムおよびガバメントクラウドへの移行を支援するコンサルティングサービスにより、前期比810.3％増の売上高を達成した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260806512599",
+        "relevance": "ガバメントクラウド移行におけるコンサルティングサービスの需要について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
         "title": "ガバメントクラウドの認知度向上と導入支援、国産クラウドへの関心も高まる",
@@ -4258,6 +4338,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "FDUA金融生成AIガイドライン1.2版、AIレジリエンスと行動の統制を重視",
+        "summary": "FDUA金融生成AIガイドライン1.2版では、技術・規制・リスク環境の変化に適応する「AIレジリエンス」が整理され、AIガバナンスの記載が強化された。",
+        "source": "innovatopia.jp",
+        "url": "https://innovatopia.jp/ai/ai-news/115441/",
+        "relevance": "AIガバナンスにおけるAIレジリエンスの概念について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-06",
         "date_ja": "2026年8月6日（木）",
         "title": "米政府、中国製AI対策の難しさとオープンウェイトAIの規制",
@@ -4540,6 +4630,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "ガバメントクラウドファンディングを活用した地域振興・文化継承プロジェクトが進行",
+        "summary": "東大阪市では映画プロジェクト、小浜市では花火大会、三芳町では世界農業遺産の農法継承のためにガバメントクラウドファンディング（GCF）による寄付募集が実施されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000066.000146065&g=prt",
+        "relevance": "ガバメントクラウドファンディングの活用事例と、地域課題解決への貢献について、PMO/PjMOの皆様はご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
         "title": "ガバメントクラウドファンディングを活用した地方自治体のプロジェクト支援事例",
@@ -4821,6 +4921,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "どの AI ツールをどの FinOps ユースケースに使うか？",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/which-ai-tool-for-which-finops-use-case/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "AI Agent は “つながり” で進化する ─ Amazon Connect Customer × Salesforce MCP 連携",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/integration-as-intelligence-amazon-connect-customer-integrates-with-salesforce-via-mcp/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "Amazon DynamoDB が、あらゆる規模でリアルタイムのベクトル検索をサポートするようになりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "ランタイムインスタンス: Amazon Bedrock AgentCore 上の本番環境の AI エージェント用のパーシステントコンピューティング",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "エージェンティックエンタープライズを AWS for SAP MCP Server on Amazon Bedrock AgentCore で実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/building-agentic-enterprises-on-aws-using-aws-for-sap-mcp-server-on-amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
@@ -5724,6 +5869,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "Google Cloud の AI 支出向けに強化された費用管理による早期の検出と厳格な適用",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "少ないリソースでより多くの成果を上げる: GKE でエージェントあたりの費用を 75% 削減する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "Best Buy、Workforce Identity 連携で AI ワークロードをスケールし、アクセスを保護",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "任意のコーディング エージェントを使用したエージェント開発ライフサイクルの自動化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "August 07, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_07_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
         "title": "Panasonic Automotive、C4A-metal と vSkipGen で自動車のイノベーションを加速",
@@ -6621,6 +6811,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/07/1968225562/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-08",
+        "date_ja": "2026年8月8日（土）",
+        "title": "「RAGチャットのその先へ &#8211; InfiniCloud® AIがファインチューンで実現する業務AX化」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/07/1968225573/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-07",
         "date_ja": "2026年8月7日（金）",
         "title": "「防災の日に考える、いつ起こるかわからないサイバー攻撃への備え～災害と同じ視点で考えるサイバーセキュリティ～」を開催いたします",
@@ -7310,14 +7518,14 @@
     "その他": 178,
     "行政AI": 19,
     "行政DX": 14,
-    "AI活用": 132,
-    "クラウド/インフラ": 40,
-    "制度/ガイドライン": 28,
-    "自治体DX事例": 28,
-    "AWS最新情報": 100,
-    "Google Cloud最新情報": 87,
+    "AI活用": 139,
+    "クラウド/インフラ": 41,
+    "制度/ガイドライン": 29,
+    "自治体DX事例": 29,
+    "AWS最新情報": 105,
+    "Google Cloud最新情報": 92,
     "働き方/業務改革": 11,
-    "さくらのクラウド最新情報": 49,
+    "さくらのクラウド最新情報": 51,
     "AIガバナンス": 8,
     "ガバメントクラウド": 2,
     "調達・契約": 4,
@@ -7325,5 +7533,5 @@
     "調達/契約": 1,
     "プロジェクト管理": 6
   },
-  "updated_at": "2026-08-07T14:56:26.038Z"
+  "updated_at": "2026-08-08T14:31:55.567Z"
 }

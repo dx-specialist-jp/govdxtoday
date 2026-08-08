@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-08",
+      "summary_short": "デジタル庁、熊本地震を受け被災自治体へ生成AI「ガバメン…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-08-07",
       "summary_short": "Anthropic、AIの安全性と米国政府との関係構築に…など5件",
       "article_count": 5,

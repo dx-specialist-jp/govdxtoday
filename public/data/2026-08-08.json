@@ -1,0 +1,332 @@
+{
+  "date": "2026-08-08",
+  "date_ja": "2026年8月8日（土）",
+  "news_summary": [
+    "デジタル庁は熊本地震で被災自治体へ生成AI「ガバメントAI源内」を提供開始した。",
+    "APECデジタルAI大臣会合でデータ連携基盤とAIガバナンスの国際的協調枠組みが議論された。",
+    "AIガバナンス強化のためAIレジリエンス、サイバーセキュリティ、第三者認証制度の動向が活発化。",
+    "デジタル庁は生成AI「源内」提供、総務省はデータセンター地方分散、7府省庁は詐欺広告対策を実施。",
+    "TKCは標準仕様準拠システムおよびガバメントクラウド移行支援で売上高が大幅増となった。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁、熊本地震を受け被災自治体へ生成AI「ガバメントAI源内」を提供",
+      "summary": "デジタル庁は熊本地震を受け、被災自治体や災害支援機関に対し、政府独自の生成AI「ガバメントAI源内」を発災翌日から提供開始した。",
+      "relevance": "災害時の迅速な情報収集・分析や支援活動へのAI活用可能性について、PMO/PjMOの皆様はご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/720c92aa867c0c0c520de69bcb678f3c0ec4b1e4/images/000"
+        },
+        {
+          "name": "nagoyatv.com",
+          "url": "https://www.nagoyatv.com/news/syakai.html?id=000524898"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/720c92aa867c0c0c520de69bcb678f3c0ec4b1e4"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/nation/tvasahinews-000524898"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "APECデジタルAI大臣会合、データ連携基盤とAIガバナンスに関する国際的協調の枠組みを議論",
+      "summary": "経済産業省などが参加したAPECデジタルAI大臣会合では、2026年7月に成都で開催され、データ連携基盤とAIガバナンスに関する国際的協調の枠組みが議論された。",
+      "relevance": "国際的なAIガバナンスの動向を把握し、国内の施策への影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/topics/mhayashi/posts/882"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17268878/?ref=user_3172527"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの重要性が増す中、サイバーセキュリティや認証制度の動向が活発化",
+      "summary": "AI導入がガバナンスを追い越している状況が指摘され、AIレジリエンス、サイバーセキュリティ、第三者認証制度など、AIガバナンスに関する取り組みが活発化している。",
+      "relevance": "AI活用におけるリスク管理とガバナンス体制構築の必要性について、PMO/PjMOの皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a46d75e0-6597-4dfd-b4a5-90dd08be8a77"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/and/pressrelease/16655793"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/0d5cd155-a84b-4f0e-9427-a46ccc0e546a"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17264940/?block=categories&ref=index"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000015_000170384/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-zs/zscaler/news/7f03e7d94d91f81e"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/425/4425898/"
+        },
+        {
+          "name": "akamai.com",
+          "url": "https://www.akamai.com/ja/newsroom/press-release/akamai-workforce-protector-advances-enterprise-security"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2131713.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19638557"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "デジタル庁・各省庁のDX推進とAI活用、インフラ整備や特定詐欺対策、補助事業など多岐にわたる取り組み",
+      "summary": "デジタル庁は生成AI「源内」の提供やDX推進、総務省はデータセンター地方分散事業、7府省庁は著名人のなりすまし詐欺広告対策、国土交通省はDX補助事業やAI活用イベントなどを実施。",
+      "relevance": "各省庁におけるDX推進やAI活用事例、補助事業の動向について、PMO/PjMOの皆様はご参考ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/playnextlab-gennai-miyawaka-city/"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/08/08/news-28063/"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000450/"
+        },
+        {
+          "name": "netkeizai.com",
+          "url": "https://netkeizai.com/articles/detail/19498"
+        },
+        {
+          "name": "socialbusiness.aishas.co.jp",
+          "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/28493/"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/08/08/news-28079/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ソフトバンク、「AGENTIC STAR」SaaS版にLLM Gateway機能を標準搭載しAIコーディングとガバナンスを両立",
+      "summary": "ソフトバンクは、「AGENTIC STAR」SaaS版にLLM Gateway機能を標準搭載し、AIコーディングツールの使い勝手を維持しつつ、企業ガバナンスと生成AI活用を両立する。",
+      "relevance": "AIコーディングツール導入におけるガバナンス両立の必要性について、PMO/PjMOの皆様はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/e1bf12b5-d6c9-4ffe-8024-b22c4fa0a0ef"
+        },
+        {
+          "name": "softbank.jp",
+          "url": "https://www.softbank.jp/business/news/2026/0807-01"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/36475"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスとAIコーディングに関する技術動向",
+      "summary": "AIインフラ投資、AIエージェント、AIコーディング、AIガバナンスといったAI関連技術の動向が報じられている。",
+      "relevance": "AI技術の進化とガバナンスの関連性について、PMO/PjMOの皆様はご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/08/claude-code-default-auto-approve-risky-commands/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "IBM、2026 IDC MarketScape for Worldwide AI-Enabled Financial Governance, Risk, and ...",
+      "summary": "IBMは、財務ガバナンス、リスク、コンプライアンスをサポートするAI活用に関する市場動向が示唆されている。",
+      "relevance": "財務分野におけるAI活用とガバナンスの重要性について、PMO/PjMOの皆様はご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ibm.com",
+          "url": "https://www.ibm.com/jp-ja/new/announcements/ibm-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-ai-enabled-financial-governance-risk-and-compliance"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "TKC、標準仕様準拠システムおよびガバメントクラウドへの移行でコンサルティングサービス売上高が大幅増",
+      "summary": "TKCは、標準仕様準拠システムおよびガバメントクラウドへの移行を支援するコンサルティングサービスにより、前期比810.3％増の売上高を達成した。",
+      "relevance": "ガバメントクラウド移行におけるコンサルティングサービスの需要について、PMO/PjMOの皆様はご留意ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260806512599"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "FDUA金融生成AIガイドライン1.2版、AIレジリエンスと行動の統制を重視",
+      "summary": "FDUA金融生成AIガイドライン1.2版では、技術・規制・リスク環境の変化に適応する「AIレジリエンス」が整理され、AIガバナンスの記載が強化された。",
+      "relevance": "AIガバナンスにおけるAIレジリエンスの概念について、PMO/PjMOの皆様はご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/115441/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地域振興・文化継承プロジェクトが進行",
+      "summary": "東大阪市では映画プロジェクト、小浜市では花火大会、三芳町では世界農業遺産の農法継承のためにガバメントクラウドファンディング（GCF）による寄付募集が実施されている。",
+      "relevance": "ガバメントクラウドファンディングの活用事例と、地域課題解決への貢献について、PMO/PjMOの皆様はご留意ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000066.000146065&g=prt"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-08-08-146065-66/image/1/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19642400?news_ref=watch_20_nw19631947"
+        },
+        {
+          "name": "www1.city.obama.fukui.jp",
+          "url": "https://www1.city.obama.fukui.jp/news/boshu/p007218.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000066.000146065.html"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "エージェンティックエンタープライズを AWS for SAP MCP Server on Amazon Bedrock AgentCore で実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/building-agentic-enterprises-on-aws-using-aws-for-sap-mcp-server-on-amazon-bedrock-agentcore/",
+          "pub_date": "2026-08-07T09:26:35.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "ランタイムインスタンス: Amazon Bedrock AgentCore 上の本番環境の AI エージェント用のパーシステントコンピューティング",
+          "url": "https://aws.amazon.com/jp/blogs/news/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+          "pub_date": "2026-08-07T08:54:58.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon DynamoDB が、あらゆる規模でリアルタイムのベクトル検索をサポートするようになりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+          "pub_date": "2026-08-07T08:22:59.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AI Agent は “つながり” で進化する ─ Amazon Connect Customer × Salesforce MCP 連携",
+          "url": "https://aws.amazon.com/jp/blogs/news/integration-as-intelligence-amazon-connect-customer-integrates-with-salesforce-via-mcp/",
+          "pub_date": "2026-08-07T03:53:57.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "どの AI ツールをどの FinOps ユースケースに使うか？",
+          "url": "https://aws.amazon.com/jp/blogs/news/which-ai-tool-for-which-finops-use-case/",
+          "pub_date": "2026-08-07T02:12:27.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 07, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_07_2026",
+          "pub_date": "2026-08-07T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "任意のコーディング エージェントを使用したエージェント開発ライフサイクルの自動化",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+          "pub_date": "2026-08-07T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Best Buy、Workforce Identity 連携で AI ワークロードをスケールし、アクセスを保護",
+          "url": "https://cloud.google.com/blog/ja/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+          "pub_date": "2026-08-07T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "少ないリソースでより多くの成果を上げる: GKE でエージェントあたりの費用を 75% 削減する方法",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+          "pub_date": "2026-08-07T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud の AI 支出向けに強化された費用管理による早期の検出と厳格な適用",
+          "url": "https://cloud.google.com/blog/ja/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+          "pub_date": "2026-08-07T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「RAGチャットのその先へ &#8211; InfiniCloud® AIがファインチューンで実現する業務AX化」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/07/1968225573/",
+          "pub_date": "2026-08-07T07:40:04.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/07/1968225562/",
+          "pub_date": "2026-08-07T06:10:53.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-08T14:31:55.562Z"
+}
