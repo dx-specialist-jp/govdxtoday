@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-09",
+      "summary_short": "被災自治体等へのガバメントAI「源内」臨時提供と民間事業…など6件",
+      "article_count": 6,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-08-08",
       "summary_short": "デジタル庁、熊本地震を受け被災自治体へ生成AI「ガバメン…など10件",
       "article_count": 10,
