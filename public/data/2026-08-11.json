@@ -1,0 +1,329 @@
+{
+  "date": "2026-08-11",
+  "date_ja": "2026年8月11日（火）",
+  "news_summary": [
+    "デジタル庁は作業手順の曖昧さから個人情報誤送付事案を公表し、対策を検討している。",
+    "財務省ウェブサイトで森友学園関連文書等68件が一時閲覧不可となる事案が発生した。",
+    "EUのAI Act適用などAIガバナンスの国際潮流を受け、国内でも透明性あるガバナンスが求められている。",
+    "京王電鉄は生成AIによる画像認識で職員の身だしなみ評価システムを導入した。",
+    "ソフトバンクと順天堂大学は国産医療AI「Med-Sarashina」で研修医教育効率化の研究を開始。",
+    "水中ポンプ監視ソリューションが国土交通省に登録、生成AIが異常検知・通知を行う。",
+    "AWSがガバメントクラウドで8割超を占め、肥大化に伴うリスクと国産クラウド採択への言及がある。",
+    "経済産業省管理職級職員が銀行口座を不正譲渡したとして懲戒処分を受けた。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN40467227/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）",
+      "url": "https://jvn.jp/vu/JVNVU91804527/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95261826/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "源内 Web 開発概要",
+    "summary": "源内 Web 開発概要、技術スタックと活用方法を公開\n\n▶ \"源内\"のWeb開発におけるガバメントクラウド、AIコーディングツールの活用状況を確認。\n▶ 今後公開予定の詳細記事で、技術選定や導入効果を把握。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n3ef31ec45995",
+    "pub_date": "2026-08-10"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "デジタル庁 2026年7月の活動報告",
+      "summary": "デジタル庁 2026年7月の活動報告を共有\n\n▶ 2026年7月のデジタル庁の主要政策・サービス・プロジェクト進捗を確認。\n▶ DX推進やAI活用に関連する動向を把握し、自庁の取り組みとの連携を検討。",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n04615094dea9",
+      "pub_date": "2026-08-10"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "デジタル庁における個人情報誤送付事案と対策",
+      "summary": "デジタル庁は、作業手順の曖昧さから個人情報を誤って他省庁に送付する事案が発生した。これは、資格管理団体職員に関する個人情報を含むログイン履歴ファイルであった。",
+      "relevance": "個人情報保護の観点から、システム運用における手順書の明確化や、情報送付前の確認体制の強化についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2630ko12/"
+        },
+        {
+          "name": "security-next.com",
+          "url": "https://www.security-next.com/188603"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17276768/?block=categories&ref=index"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "財務省ウェブサイトにおける一時的な閲覧不可事案",
+      "summary": "財務省のウェブサイトで、森友学園を巡る決裁文書改ざん問題の調査報告書など、計68件のコンテンツが一時的に閲覧できない状態になった。",
+      "relevance": "政府系ウェブサイトの安定運用や、情報公開におけるリスク管理体制についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "tokyo-np.co.jp",
+          "url": "https://www.tokyo-np.co.jp/article/507842?rct=politics"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスの国際的な潮流と国内での実践",
+      "summary": "EUのAI Act適用や経済産業省のガイドライン更新が進む中、企業ではAIガバナンスが世界的な経営課題となっている。AIの活動をリアルタイムに可視化し、透明性のあるガバナンスを実現する取り組みが求められている。",
+      "relevance": "AI導入におけるリスク管理や、国際的な規制動向を踏まえたガバナンス体制の構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "m.jp.investing.com",
+          "url": "https://m.jp.investing.com/news/stock-market-news/article-1640782?ampMode=1"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/du-lieu-phan-tan-can-duong-ai-trong-ngan-hang"
+        },
+        {
+          "name": "weeklybcn.com",
+          "url": "https://www.weeklybcn.com/topics_detail8/id=216781"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/itlawyer/n/n9040c418a612"
+        },
+        {
+          "name": "miitel.com",
+          "url": "https://miitel.com/jp/column/bank-ai-risk/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251459/"
+        },
+        {
+          "name": "jpn.nec.com",
+          "url": "https://jpn.nec.com/press/202608/images/1001-01-01.pdf"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260810/pr2/00m/020/040000c"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/event_info/30015059/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/d072a900289f5635d44cabccf785e240b09481b2"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000005.000155622.html"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/91066/big-tech-steps-up-coding-ai-push-arm-with-china-ai-performance"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news-in-app/17276636/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/ml/backnumber/detail/202675907/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251435/2/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251224/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "http://japan.zdnet.com/article/35251435/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/sua-luat-xuat-ban-de-nghi-luat-hoa-nguyen-tac-quan-tri-ai-trong-xuat-ban"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31196567/"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/business20/2026/08/aiai_15.html"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "京王電鉄における生成AIによる身だしなみ評価システム導入",
+      "summary": "京王電鉄は、生成AIによる画像認識を活用し、身だしなみを項目別に判定して総合的な評価を行うシステムを導入した。",
+      "relevance": "生成AIを活用した業務効率化や、従業員のサービス向上に繋がる活用事例としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/93504/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ソフトバンクと順天堂大による国産医療AI共同研究",
+      "summary": "ソフトバンクと順天堂大学は、国産医療AI「Med-Sarashina」を活用し、研修医教育の効率化に向けた共同研究を開始した。",
+      "relevance": "AIを活用した人材育成や、公的機関との共同研究の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c55d9fde-0bab-4cac-b686-34f8ca617e14"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "水中ポンプ監視ソリューションにおける生成AI活用",
+      "summary": "MODEと共同開発した水中ポンプ監視ソリューションが国土交通省の新技術情報提供システムに登録され、生成AIが異常検知やリアルタイム通知を行う。",
+      "relevance": "インフラ監視分野における生成AIの活用事例として、リアルタイム検知・通知の仕組みについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "safie.co.jp",
+          "url": "https://safie.co.jp/news/5025/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドの利用状況とリスク",
+      "summary": "AWSがガバメントクラウドで8割超を占める状況が報じられており、ガバメントクラウドの肥大化に伴うリスクが指摘されている。さくらインターネットは国産初ガバメントクラウド採択についても言及している。",
+      "relevance": "ガバメントクラウドの利用状況や、リスク分散の観点からの調達戦略についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17279104/?ref=user"
+        },
+        {
+          "name": "biz-journal.jp",
+          "url": "https://biz-journal.jp/ai/pickup-news/post_337308.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "経済産業省管理職級職員の懲戒処分",
+      "summary": "経済産業省は、管理職級の職員が銀行口座を不正に譲渡したとして、停職3カ月の懲戒処分を発表した。",
+      "relevance": "公務員倫理やコンプライアンス遵守の観点から、職員の行動規範や監督体制についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV8B2J2WV8BULFA010M.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "総務省による自治体のAI本格活用後押しとモデル展開",
+      "summary": "総務省は、自治体のAI本格活用を後押しするため、浜松市と神戸市でモデル展開を行う。",
+      "relevance": "自治体におけるAI活用推進の具体的な取り組みや、モデル事業の成果についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "holg.jp",
+          "url": "https://www.holg.jp/jirei/pick735/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "サウジアラビア政府調達・購買法（Government Tenders and Procurement Law）の公表",
+      "summary": "サウジアラビア財務省は、閣議で承認された「政府調達・購買法」の主要な内容を公表した。",
+      "relevance": "海外における政府調達・購買に関する法制度の動向についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "jetro.go.jp",
+          "url": "https://www.jetro.go.jp/biznews/2026/08/9b8236c1b92af334.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS が Agent Plugins をサポート: ポータブルなエージェント拡張のためのオープン標準",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/",
+          "pub_date": "2026-08-10T12:31:46.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS DevOps Agent と Kiro CLI によるインシデント修正の自動化",
+          "url": "https://aws.amazon.com/jp/blogs/news/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/",
+          "pub_date": "2026-08-10T07:58:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/8/3週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260803/",
+          "pub_date": "2026-08-10T07:19:45.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro powers は Agent Plugins のサポートを開始します",
+          "url": "https://aws.amazon.com/jp/blogs/news/powers-supports-plugins/",
+          "pub_date": "2026-08-10T06:59:55.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026/8/3 週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260803/",
+          "pub_date": "2026-08-10T05:40:41.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 10, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_10_2026",
+          "pub_date": "2026-08-10T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「AI時代のデータセンター最前線」にて執行役員 宍戸が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/10/1968225582/",
+          "pub_date": "2026-08-10T03:00:43.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-10T15:55:58.761Z"
+}

@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-11",
+      "summary_short": "源内 Web 開発概要…など2件",
+      "article_count": 12,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-09",
       "summary_short": "被災自治体等へのガバメントAI「源内」臨時提供と民間事業…など6件",
       "article_count": 6,
