@@ -2,8 +2,8 @@ name: Daily Content Update ─ GovDX Today
 
 on:
   schedule:
-    # UTC 14:00 にキュー投入 → GitHub Actions の遅延（約7時間）により実際は JST 翌朝 6:00 頃に実行される
-    - cron: '0 14 * * *'
+    # JST 0:00 = UTC 15:00（前日）
+    - cron: '0 15 * * *'
   workflow_dispatch:
     inputs:
       target_date:
