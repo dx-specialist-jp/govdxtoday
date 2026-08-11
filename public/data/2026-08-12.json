@@ -1,0 +1,292 @@
+{
+  "date": "2026-08-12",
+  "date_ja": "2026年8月12日（水）",
+  "news_summary": [
+    "デジタル庁の国家資格システムで個人情報漏えい、原因は対象者限定処理の失敗と判明",
+    "静岡市清水区役所でAIアバターロボ「AICO」による行政窓口案内実証事業が開始された",
+    "エクサウィザーズの自治体向け生成AI「エクサベース AI for 自治体」が全国約6割の都道府県に導入済",
+    "各府省PjMOは「源内」Web開発概要、技術スタック、GitHub、AIコーディングツールの活用を把握せよ",
+    "AIガバナンス確立が国際的・国内的課題、企業・自治体での実践ガイドや認証制度検討が進む",
+    "国土交通省・経済産業省がDX推進、インフラ課題解決へ中古車性能点検や自動運転等で取り組み",
+    "オラクル社はGoogle Cloudとの提携拡大、Gemini活用した政府向け契約を推進中",
+    "準天頂衛星システム「みちびき7号機」の打ち上げが成功した"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN40467227/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "源内 Web 開発概要",
+    "summary": "「源内」Web開発概要、技術スタックと活用事例\n\n▶ 各府省PjMOは、ガバメントクラウド・GitHub・AIコーディングツールを活用した「源内」Web開発の概要を把握すること。\n▶ 詳細技術記事の公開予定に留意し、今後の技術動向や導入検討の参考とすること。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n3ef31ec45995",
+    "pub_date": "2026-08-10"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁における国家資格システムでの個人情報漏えい事案とその原因",
+      "summary": "デジタル庁の国家資格システムにおいて、個人情報漏えいが発生しました。漏えいの原因は、対象者を限定する処理の失敗にあるとされています。",
+      "relevance": "PMO/PjMOの皆様は、個人情報保護の観点から、デジタル庁の事案を教訓としてシステム設計や運用におけるセキュリティ対策のご確認をお願いいたします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/11/news010.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスと責任あるAIの確立に向けた国際的・国内的な動向と企業・自治体での取り組み",
+      "summary": "AIの普及に伴い、子どもの権利保護やデータプラットフォーム構築、AIガバナンスの確立が国際的な課題となっています。国内外でAIガバナンスの重要性が高まり、企業や自治体での実践ガイドや認証制度の検討が進んでいます。",
+      "relevance": "PMO/PjMOの皆様は、AI導入にあたっての倫理的・法的な側面を考慮し、組織内でのAIガバナンス体制構築をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/lhq-keu-goi-hanh-dong-khan-cap-bao-ve-the-he-tre-truoc-cac-rui-ro-tu-thong-tin-tren-khong-gian-mang"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ngan-hang-so-tang-toc-du-lieu-va-ai-mo-duong-cho-he-sinh-thai-moi"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/qy_research/n/ne9f5aec06ec3"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/11/ai-daily-news-2026-08-10/"
+        },
+        {
+          "name": "pasqualepillitteri.it",
+          "url": "https://pasqualepillitteri.it/ja/news/10531/sekinin-aru-ai-5-tsu-no-shippai"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17283894/body/?ref=topics"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/transcripts/article-93CH-1641577"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31196828/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGKKZO98079570Q6A810C2L60000/"
+        },
+        {
+          "name": "arabnews.jp",
+          "url": "https://www.arabnews.jp/article/arts-culture/article_183892/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000185_000121022/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/0c7ccbcc5d307c763ffc22c9573a1cc7bde66006"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "静岡市清水区役所でのAIアバターロボ「AICO」による行政窓口案内実証事業",
+      "summary": "静岡市清水区役所において、株式会社ファーストローンチのAIアバター「AICO」を活用した庁舎総合案内の実証実験が開始されました。これにより、歩くAIアバターロボが行政窓口での案内サービスを提供します。",
+      "relevance": "PMO/PjMOの皆様は、行政窓口におけるAIアバター活用事例として、住民サービスの向上や業務効率化の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32041009/"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/pr/prtimes/28961"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19651842?news_ref=watch_20_nw18819551"
+        },
+        {
+          "name": "socialbusiness.aishas.co.jp",
+          "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/29081/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "エクサウィザーズの自治体向け生成AI「エクサベース AI for 自治体」の全国的な導入状況",
+      "summary": "エクサウィザーズの自治体向け生成AIサービス「エクサベース AI for 自治体」が、全国約6割の都道府県に導入されました。このサービスは行政専用ネットワークLGWANに対応し、AIエージェントを標準搭載しています。",
+      "relevance": "PMO/PjMOの皆様は、自治体における生成AI導入の進展状況を踏まえ、政府・自治体向けAIソリューションの選定や導入計画策定の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/08/10polimill-2/"
+        },
+        {
+          "name": "kabu-ir.com",
+          "url": "https://kabu-ir.com/article/521320385.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19650001?news_ref=top_newComments"
+        },
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/archives/32501/"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/177104/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "韓国Motif、独自LLM「Motif 2」をMicrosoft Azure Marketplaceに登録しグローバル展開を加速",
+      "summary": "韓国のMotif社は、独自開発したLLM「Motif 2」をMicrosoft Azure Marketplaceに登録し、グローバル展開を加速させています。後継モデル「Motif 3」はオープンソースで高評価を得ています。",
+      "relevance": "PMO/PjMOの皆様は、海外LLMベンダーのクラウドプラットフォーム連携動向に注目し、将来的な政府システムへの影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ca9e7fea-7fde-4b45-a0b2-e823eb8c445b"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "オラクル、Google Cloudとの提携拡大と「みちびき7号機」打ち上げ成功",
+      "summary": "オラクル社はGoogle Cloudとの提携を拡大し、Geminiを活用した政府向け契約を進めています。一方、H3ロケット9号機による準天頂衛星システム「みちびき7号機」の打ち上げが成功しました。",
+      "relevance": "PMO/PjMOの皆様は、クラウドベンダーの提携動向や衛星システム開発・活用に関する情報にアンテナを張り、プロジェクトへの影響をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-orcl/oracle/news/886538f72994d965"
+        },
+        {
+          "name": "kantei.go.jp",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260811message.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "国土交通省・経済産業省によるDX推進とインフラ課題解決への取り組み",
+      "summary": "国土交通省と経済産業省は、DX推進やインフラ課題解決に向けた取り組みを進めています。中古車性能点検、自動運転、家づくりDX、地理空間情報活用、現場ファースト運動などが挙げられます。",
+      "relevance": "PMO/PjMOの皆様は、国土交通省および経済産業省が進めるDX戦略やインフラ関連のIT施策動向にご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "starnewskorea.com",
+          "url": "https://www.starnewskorea.com/ja/business-life/2026/08/11/2026081116094467018"
+        },
+        {
+          "name": "d-sharing.jp",
+          "url": "https://www.d-sharing.jp/a/news/20260811103700"
+        },
+        {
+          "name": "matsuyama.keizai.biz",
+          "url": "https://matsuyama.keizai.biz/release/627327/"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/and/pressrelease/16665505"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19651479?news_ref=watch_20_nw19611875"
+        },
+        {
+          "name": "d-sharing.jp",
+          "url": "https://www.d-sharing.jp/p-1017/news-152216"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "愛知県観光コンベンション局顧問による生成AI時代の観光行政におけるEBPMとKKDの活用",
+      "summary": "愛知県観光コンベンション局顧問は、生成AI時代の観光行政において、EBPM（証拠に基づく政策立案）とKKD（勘と経験と度胸）の融合の重要性を指摘しています。",
+      "relevance": "PMO/PjMOの皆様は、観光行政におけるEBPMと生成AIの活用事例から、データに基づいた意思決定と最新技術の融合による業務改革の可能性をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "kankokeizai.com",
+          "url": "https://www.kankokeizai.com/2608111700kks/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地域振興・防災支援事例",
+      "summary": "ガバメントクラウドファンディングを活用し、地域活性化や防災支援のための資金調達が進められています。草加よさこいサンバフェスティバルや災害時のトイレトラック購入などに活用されています。",
+      "relevance": "PMO/PjMOの皆様は、ガバメントクラウドファンディングの活用事例から、地域課題解決やプロジェクト資金調達の新たな手法についてご検討ください。",
+      "category": "ガバメントクラウド",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/148462/posts/1465327"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19650309?news_ref=20_20"
+        },
+        {
+          "name": "komei.or.jp",
+          "url": "https://www.komei.or.jp/km/musashino-oono-atsuko/2026/08/10/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "タイ・ベトナム・英国財務省によるデジタル化・金融インフラ改革の動向",
+      "summary": "タイ財務省は自動車メーカー誘致へ物品税優遇策を、ベトナム財務省は国家予算管理の法的枠組み改良を進めています。英国財務省はブロックチェーン実証実験に参画しています。",
+      "relevance": "PMO/PjMOの皆様は、海外の財務省におけるデジタル化や金融インフラ改革の事例を参考に、関連する調達・契約・規制動向にご留意ください。",
+      "category": "調達/契約",
+      "sources": [
+        {
+          "name": "ja.laodong.vn",
+          "url": "https://ja.laodong.vn/thi-truong/gia-xang-dau-ban-le-hom-nay-118-1749282.ldo"
+        },
+        {
+          "name": "bangkokshuho.com",
+          "url": "https://bangkokshuho.com/thainews-1363/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/15b31cdb-232e-49dd-af82-30150cf1fbb7"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bo-tai-chinh-tiep-tuc-hoan-thien-khuon-kho-phap-ly-phuc-vu-cong-tac-quan-ly-ngan-sach-nha-nuoc"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS が Anthropic および OpenAI と協業し、AWS Continuum を開発者ワークフローに統合します",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/",
+          "pub_date": "2026-08-10T19:47:06.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-11T15:56:03.723Z"
+}

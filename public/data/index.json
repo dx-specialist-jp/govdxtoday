@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-12",
+      "summary_short": "源内 Web 開発概要…など1件",
+      "article_count": 11,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-11",
       "summary_short": "源内 Web 開発概要…など2件",
       "article_count": 12,
