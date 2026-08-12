@@ -33,8 +33,14 @@ const GOV_SOURCES = [
 // 日本語版サイトのRSSのみを対象とする（公式の日本語版が存在しないAzure Updates・
 // AWS Service Health・Oracle Blogsは対象外。Google Cloud リリースノートのみ、
 // 日本語URLが存在しないがタイトルが日付のみで翻訳不要なため例外的に採用）
+//
+// AWS 新着情報のみ type: 'api' でJSON APIを参照する。RSS版（aws.amazon.com/jp/new/feed/）は
+// 実際の https://aws.amazon.com/jp/new/ ページの更新に対して配信が数日遅れる／止まることが
+// あるため、ページ自体が内部で呼び出しているのと同じ公開JSON APIを直接叩き、ページと同じ
+// 最新情報を取得する
+const AWS_WHATS_NEW_API_URL = 'https://aws.amazon.com/api/dirs/items/search?item.directoryId=whats-new-v2&sort_by=item.additionalFields.postDateTime&sort_order=desc&size=30&item.locale=ja_JP';
 const CLOUD_SOURCES = [
-  { provider: 'AWS',                  name: 'AWS 新着情報',                 url: 'https://aws.amazon.com/jp/new/feed/' },
+  { provider: 'AWS',                  name: 'AWS 新着情報',                 url: AWS_WHATS_NEW_API_URL, type: 'api' },
   { provider: 'AWS',                  name: 'AWS 公式ブログ',               url: 'https://aws.amazon.com/jp/blogs/news/feed/' },
   { provider: 'Google Cloud',         name: 'Google Cloud リリースノート',   url: 'https://cloud.google.com/feeds/gcp-release-notes.xml' },
   { provider: 'Google Cloud',         name: 'Google Cloud 公式ブログ',       url: 'https://cloudblog.withgoogle.com/ja/rss/' },
@@ -188,6 +194,23 @@ function parseCloudItems(xml, sourceName, provider) {
   return parseItemsRaw(xml).map((item) => ({ ...item, sourceName, provider }));
 }
 
+// AWS 新着情報用: https://aws.amazon.com/jp/new/ ページが内部で呼び出しているのと同じ
+// JSON API（AWS_WHATS_NEW_API_URL）のレスポンスをRSSと同じ形（title/url/description/pubDate）に変換する
+function parseAwsWhatsNewApi(json, sourceName, provider) {
+  let data;
+  try { data = JSON.parse(json); } catch { return []; }
+  return (data.items || [])
+    .map(({ item }) => {
+      const f = item?.additionalFields || {};
+      const title = stripHtml(f.headline || '');
+      const url = f.headlineUrl ? `https://aws.amazon.com/jp${f.headlineUrl}` : '';
+      const description = stripHtml(f.postBody || '').slice(0, 200);
+      const pubDate = f.postDateTime || item?.dateCreated || '';
+      return { title, url, description, pubDate, sourceName, provider };
+    })
+    .filter((i) => i.title && i.url);
+}
+
 // ── RSS フェッチ ──────────────────────────────────────────────────────
 async function fetchFeed(url, name, charset = null) {
   try {
@@ -217,8 +240,10 @@ async function fetchCloudFeed(src) {
       signal: AbortSignal.timeout(15000),
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
-    return parseCloudItems(xml, src.name, src.provider);
+    const body = await res.text();
+    return src.type === 'api'
+      ? parseAwsWhatsNewApi(body, src.name, src.provider)
+      : parseCloudItems(body, src.name, src.provider);
   } catch (err) {
     console.warn(`[WARN] ${src.name}: ${err.message}`);
     return [];
