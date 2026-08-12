@@ -1,0 +1,333 @@
+{
+  "date": "2026-08-13",
+  "date_ja": "2026年8月13日（木）",
+  "news_summary": [
+    "AIガバナンスに関する国際規格ISO/IEC 42001認証取得や第三者認証制度「C認証」がリリースされた。",
+    "医療特化LLM「Med-Sarashina-Juntendo」が順天堂大学等と共同開発され、診断・文書作成支援での活用が進む。",
+    "現場作業DXクラウド「BLAS」が経済産業省「デジタル化・AI導入補助金2026」の対象ソフトウェアに認定された。",
+    "デジタル庁は法務分野で利用可能な生成AI4ツールをテストし、DX推進と情シス体制の課題に言及した。",
+    "地方自治体はJ-Startup採択企業からの調達で「4号随契」を活用しやすくなる運用が要請された。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: 2026年8月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260022.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
+      "url": "https://jvn.jp/vu/JVNVU96623328/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96740507/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年8月）",
+      "url": "https://jvn.jp/vu/JVNVU98375707/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月11日）",
+      "url": "https://jvn.jp/vu/JVNVU95587179/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Microsoft 製品の脆弱性対策について(2026年8月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0812-ms.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIガバナンスの重要性が高まる中、規制圧力や認証制度、関連ツールの開発・提供が進展",
+      "summary": "AI開発の一時停止要求や、AIガバナンス団体への注目、AI国際規格ISO/IEC 42001認証取得、第三者認証制度「C認証」のリリース、データAIガバナンスツール「LakeShepherd」の先行提供など、AIガバナンスに関する動きが活発化している。",
+      "relevance": "AI活用におけるリスク管理と倫理的側面、および関連する規制動向や認証制度についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "atpartners.co.jp",
+          "url": "https://www.atpartners.co.jp/news/2026-08-12-qualified-health-a-medical-ai-company-partners-with-lcmc-health-to-roll-out-its-generative-ai-platform-company-wide-to-15-000-healthcare-professionals"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32050242/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260812/pr2/00m/020/549000c"
+        },
+        {
+          "name": "panewslab.com",
+          "url": "https://www.panewslab.com/ja/articles/019ff44c-255b-721d-b6bc-a07d5381af9d"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19655323?news_ref=watch_60_nw10335"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000002.000182442.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260812/pr2/00m/020/467000c"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000093.000038497.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260812/pr2/00m/020/424000c"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/56fef1d2-32fd-4439-a9a7-83cdd31fdffb"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000064.000121741.html"
+        },
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/news/2131490.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32046442/"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/102749"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19653770?news_ref=watch_60_nw18815822"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/abeja-iso42001-certification/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000359.000028308.html"
+        },
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/blog/your-predictive-ai-foundation-is-the-fastest-path-to-agentic-ai-value/"
+        },
+        {
+          "name": "businesslawyers.jp",
+          "url": "https://www.businesslawyers.jp/articles/1561"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "SB Intuitions、順天堂大学等と医療特化LLM共同研究、診断・文書作成支援で活用",
+      "summary": "SB Intuitionsは順天堂大学等と共同で、医療情報に関する各省庁の定める基準に準拠した医療特化LLM「Med-Sarashina-Juntendo」を開発し、診断・文書作成支援での活用を進めている。",
+      "relevance": "医療分野における生成AIの活用事例や、関連する規制・標準についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "medicaltech-news.com",
+          "url": "https://medicaltech-news.com/management/12375/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "現場作業DXクラウド「BLAS」、経済産業省の「デジタル化・AI導入補助金2026」対象ソフトウェアに認定",
+      "summary": "ベイシスが提供する現場作業DXクラウド「BLAS」が、経済産業省が実施する「デジタル化・AI導入補助金2026」の対象ソフトウェアに認定された。",
+      "relevance": "DX推進における補助金制度の活用状況や、対象となるソフトウェアについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "diamond.jp",
+          "url": "https://diamond.jp/zai/articles/-/1071438"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "デジタル庁による「法令クイズ」で法務に使える生成AI4ツールをテスト、DX推進と情シス体制の課題に言及",
+      "summary": "デジタル庁が実施した「法令クイズ」にて、法務分野で利用可能な生成AI4ツールがテストされ、DX推進と情シス体制の課題について言及されている。",
+      "relevance": "生成AIの法務分野での活用可能性や、デジタル庁の取り組みについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/05853c6fea8fdcb4bf663473a30ba1c0d5960698"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "LG Uplus、AWS基盤の公共クラウド事業を韓国で本格拡大、デジタルサービスプラットフォーム登録完了",
+      "summary": "LG Uplusは、AWSのIaaS仲介サービスを韓国科学技術情報通信部のデジタルサービス利用支援システムに登録し、公共機関向けクラウド事業を本格拡大する。生成AI活用も提案。",
+      "relevance": "ガバメントクラウドにおけるAWSの活用状況や、公共機関向けサービス提供における連携・支援体制についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7dffaa59-79ee-4dd0-9849-737713ecf101"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/92135/lg-u-plus-steps-up-aws-based-public-cloud-business"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地域活性化事業の実施事例",
+      "summary": "静岡県浜松市では、地域活性化事業として「みんなで応援地域活性化事業（はまきた産業祭）」においてガバメントクラウドファンディングを実施し、子どもたちの仕事体験を支援している。",
+      "relevance": "クラウドファンディングを活用した地域活性化の事例や、ガバメントクラウドの可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/alink/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000555.000049248&g=prt"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-08-12-49248-555/"
+        },
+        {
+          "name": "t.co",
+          "url": "https://t.co/afHMeNdguM"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000555.000049248.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "愛媛県のハウスメーカー・コラボハウス、経済産業省「DX認定事業者」に認定",
+      "summary": "愛媛県のハウスメーカーであるコラボハウスが、家づくりに向き合う時間をデジタルの力で効率化し、経済産業省の「DX認定事業者」に認定された。",
+      "relevance": "DX推進による業務効率化の事例や、DX認定制度の活用についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260811/1335429.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "政府、英国競争・市場庁のマイクロソフト調査に言及、地方自治体のJ-Startup採択企業活用促進も",
+      "summary": "政府は、英国競争・市場庁によるマイクロソフトの調査に言及するとともに、地方自治体がJ-Startup採択企業から新商品・新サービスを調達する際、「4号随契」を活用しやすくする運用を自治体へ要請した。",
+      "relevance": "政府調達における優良なITベンダーの活用促進や、海外のIT企業に対する規制動向についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "sustainablejapan.jp",
+          "url": "https://sustainablejapan.jp/2026/08/12/cma-microsoft-365/129432"
+        },
+        {
+          "name": "d-sharing.jp",
+          "url": "https://www.d-sharing.jp/a/news/20260812063900-2"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省・環境省、PETボトル循環・容リ制度見直しへ検討会開催、入札価格の乱高下・海外流出にメス",
+      "summary": "経済産業省と環境省は、PETボトル循環および容器包装リサイクル法に基づく制度の見直しに向けた検討会を開催し、入札価格の乱高下や海外流出の問題に対応する。",
+      "relevance": "環境規制における調達・契約プロセスの見直しや、関連する政策動向についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "plasticjournal.net",
+          "url": "https://plasticjournal.net/backnumber/companies-and-people/24886.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AI・DX支援業界で累計800アポイント達成、高まるAI・DXニーズと営業現場の課題に対応",
+      "summary": "AI・DX支援業界において、高まるAI・DXニーズと営業現場の課題に対応するため、累計800アポイントを達成する成果を上げている。",
+      "relevance": "AI・DX推進における営業・マーケティング支援の事例についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000666_000050843/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Motorway が Strands と AgentCore で構築した AI エージェント評価パイプラインの紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+          "pub_date": "2026-08-12T07:18:20.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon OpenSearch Service が GPU アクセラレーションで 10 億規模のベクトルインデックスを構築する仕組み",
+          "url": "https://aws.amazon.com/jp/blogs/news/how-gpu-acceleration-builds-billion-scale-vector-indexes-on-amazon-opensearch-service/",
+          "pub_date": "2026-08-12T02:27:38.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "1 年間の経験。45 億行のコード。160 万時間の節約。そして私たちが学んだこと。",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-transform-one-year-milestone/",
+          "pub_date": "2026-08-12T01:08:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon CloudWatch アラームをアクション可能なシグナルに変える",
+          "url": "https://aws.amazon.com/jp/blogs/news/turn-your-amazon-cloudwatch-alarms-into-actionable-signals/",
+          "pub_date": "2026-08-12T00:51:42.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 12, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_12_2026",
+          "pub_date": "2026-08-12T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「シークレット情報をどう守るか？ ～KMSとシークレットマネージャで実現する安全なクラウド運用～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/12/1968225601/",
+          "pub_date": "2026-08-12T01:30:52.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「公共システムのクラウド基盤・運用を学ぶウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/08/12/1968225598/",
+          "pub_date": "2026-08-12T00:30:50.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-12T15:54:55.335Z"
+}
