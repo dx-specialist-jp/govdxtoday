@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "デジタル庁システム運用における職員150名の個人情報漏えい事案",
+        "summary": "デジタル庁のシステム運用において、資格管理団体を対象とした職員150名の個人情報漏えいが発生した。",
+        "source": "act1.co.jp",
+        "url": "https://act1.co.jp/2026-08-13-01/",
+        "relevance": "個人情報保護の観点から、システム運用におけるセキュリティ対策と情報管理体制の重要性について、再確認することをご推奨します。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "総務省、AIセキュリティガイドラインの活用と都道府県・市区町村へのサイバーセキュリティ確保要請",
+        "summary": "総務省は、AIセキュリティガイドラインの活用が進んでいない状況を踏まえ、都道府県知事と市区町村長にサイバーセキュリティ確保を要請した。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news047.html",
+        "relevance": "AIセキュリティガイドラインの理解促進と、地方公共団体におけるサイバーセキュリティ体制の強化について、関連部署との連携をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-12",
         "date_ja": "2026年8月12日（水）",
         "title": "デジタル庁における国家資格システムでの個人情報漏えい事案とその原因",
@@ -2263,6 +2283,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
+        "summary": "行政手続等調査データ（約7.5万件）を自然言語分析可能に\n\n▶ 各府省PjMOは、本技術検証結果を参考に、自省庁の保有する行政手続等関連データを自然言語分析可能とするための検討を開始すること。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+        "type": "government"
+      },
+      {
         "date": "2026-08-12",
         "date_ja": "2026年8月12日（水）",
         "title": "源内 Web 開発概要",
@@ -2590,6 +2619,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "生成AIとAIエージェントの業務活用と将来展望",
+        "summary": "コネクタブルーは成果報酬型のAI検索最適化サービスを開始し、レコレールはAIエージェントが行政で活用された場合の生活変化について論じている。",
+        "source": "sakigake.jp",
+        "url": "https://www.sakigake.jp/news/article/20260813PR0022/",
+        "relevance": "生成AIの進化、特にAIエージェントの行政業務への活用可能性と、それに伴う影響について、将来的な視点での情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "Microsoft 365 Copilot導入による業務効率化と生成AIのセキュリティ・ガバナンス対策",
+        "summary": "三井化学はMicrosoft 365 Copilotを全社導入しDXを加速しており、First Recon AIはCopilot利用企業向けに生成AIの機密情報漏えい対策とAIガバナンスを解説している。",
+        "source": "microsoft.com",
+        "url": "https://www.microsoft.com/ja-jp/customers/story/26949-mitsui-chemicals-microsoft-365-copilot",
+        "relevance": "生成AIツールの導入・活用における、セキュリティ対策とガバナンス体制の構築について、事例を参考に検討することをご推奨します。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "AIエージェントの進化とAIガバナンス、セキュリティ対策の重要性が高まる",
+        "summary": "AIエージェントは複雑なタスクを完遂する能力が期待される一方、AIガバナンス、リスク、セキュリティ対策の整備が不可欠となっている。国際的なAIガバナンス対話も推進されている。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/fpt-va-vien-nghien-cuu-ai-hang-dau-the-gioi-mo-rong-hop-tac-thuc-day-lam-chu-cong-nghe-chien-luoc",
+        "relevance": "AIエージェント導入におけるリスクとガバナンス体制の構築について、関係部署と連携し検討することをご提案します。",
+        "type": "news"
+      },
       {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
@@ -4133,6 +4192,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "ITCEN CLOIT、「デジタルサービス利用支援システム」へのAWSサービス登録で公共分野提供を拡大",
+        "summary": "ITCEN CLOITは、韓国知能情報社会振興院(NIA)の「デジタルサービス利用支援システム」にAWSサービスを登録し、公共分野での提供を拡大する。",
+        "source": "digitaltoday.co.kr",
+        "url": "https://www.digitaltoday.co.kr/jp/view/92601/itcencroit-expands-aws-cloud-supply-for-public-sector-agencies",
+        "relevance": "AWSの公共分野におけるパートナー認定や、政府・公共機関向けサービス提供の事例について、参考にできる点がないかご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "政府、機密性の高い情報を扱うための米国製クラウド導入を検討",
+        "summary": "政府は、データやアプリケーションをネットワークで管理・保存するクラウドサービスについて、機密性の高い情報を扱うための米国製クラウドの導入を検討している。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/articles/ASV8B3T3JV8BUTFK009M.html",
+        "relevance": "政府共通クラウド（ガバメントクラウド）の利用状況や、機密情報取り扱いに関するセキュリティ要件の動向について、最新情報をご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
         "title": "LG Uplus、AWS基盤の公共クラウド事業を韓国で本格拡大、デジタルサービスプラットフォーム登録完了",
@@ -4897,6 +4976,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "長野県小諸市がガバメントクラウドファンディングを活用し「飯綱山公園ドッグラン」のリニューアルを進める",
+        "summary": "長野県小諸市は、老朽化した「飯綱山公園ドッグラン」のリニューアルのため、ガバメントクラウドファンディングを活用した寄付金の募集を開始した。",
+        "source": "sanspo.com",
+        "url": "https://www.sanspo.com/pressrelease/kyodo_prwire/UH7RNNRUM5J33H626U2WF5QEZU/",
+        "relevance": "ガバメントクラウドファンディングの活用事例として、本件における寄付金募集のプロセスや成果について情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
         "title": "愛媛県のハウスメーカー・コラボハウス、経済産業省「DX認定事業者」に認定",
@@ -5228,6 +5317,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "AWS ウィークリーまとめ:AWS ヒーローズサミット、Amazon Bedrock、Dogwood、Kiro Crew のウェブサーチなど (2026年8月10 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "【開催報告】ISV SaaS 事業者向け 8 社合同 AI-DLC Unicorn Gym",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/joint-ai-dlc-unicorn-gym-isv-202607/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "Kiro でライフサイエンス研究を加速する: 100 以上のオープンソースデータベースへの統合 AI インターフェース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerating-life-sciences-research-with-kiro-a-unified-ai-interface-to-100-open-source-databases/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "AWS HealthOmics ワークフローで PacBio 全ゲノムシーケンシングのバリアント解析パイプラインをベンチマークする",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/publicsector-benchmarking-pacbio-whole-genome-sequencing-variant-pipeline-analysis-with-aws-healthomics-workflows/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "MGI、Sentieon、AWS で強化するゲノムデータストレージとワークフロー",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/enhanced-genomic-data-storage-and-workflows-with-mgi-sentieon-and-aws/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
@@ -6266,6 +6400,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "August 13, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
         "title": "August 12, 2026",
@@ -7123,6 +7266,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "PayPay登録ユーザー数7500万人突破、国内キャッシュレス決済シェア20％超",
+        "summary": "PayPayの国内登録ユーザー数が7500万人を突破し、キャッシュレス決済回数シェアは20％を超えた。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2630ko78/",
+        "relevance": "民間サービスにおけるユーザー数やシェアの動向は、将来的な行政サービス連携の参考になる可能性があります。情報収集の一環としてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
         "title": "AI・DX支援業界で累計800アポイント達成、高まるAI・DXニーズと営業現場の課題に対応",
@@ -7929,6 +8082,16 @@
     ],
     "デジタル庁": [
       {
+        "date": "2026-08-14",
+        "date_ja": "2026年8月14日（金）",
+        "title": "デジタル庁、経済産業省、国交省のDX推進とAI活用、地域DXの課題",
+        "summary": "デジタル庁は2025年、行政業務における生成AIの調達・活用促進を目指し、経済産業省はDX認定事業者に認定、国交省はデータ活用イベントを開催する。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/release/31197892/",
+        "relevance": "各省庁のDX推進施策や、地域DXにおける「縦割り」克服の視点など、組織横断的な取り組みや課題について情報収集することをお勧めします。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-24",
         "date_ja": "2026年7月24日（金）",
         "title": "デジタル・AI技術の活用推進とDX人材育成、および関連政策動向",
@@ -8045,24 +8208,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 49,
+    "セキュリティ": 51,
     "その他": 178,
-    "行政AI": 22,
+    "行政AI": 23,
     "行政DX": 14,
-    "AI活用": 154,
-    "クラウド/インフラ": 44,
+    "AI活用": 157,
+    "クラウド/インフラ": 46,
     "制度/ガイドライン": 32,
-    "自治体DX事例": 33,
-    "AWS最新情報": 115,
-    "Google Cloud最新情報": 95,
-    "働き方/業務改革": 13,
+    "自治体DX事例": 34,
+    "AWS最新情報": 120,
+    "Google Cloud最新情報": 96,
+    "働き方/業務改革": 14,
     "さくらのクラウド最新情報": 54,
     "AIガバナンス": 8,
     "ガバメントクラウド": 3,
     "調達・契約": 7,
-    "デジタル庁": 2,
+    "デジタル庁": 3,
     "調達/契約": 2,
     "プロジェクト管理": 7
   },
-  "updated_at": "2026-08-12T15:54:55.340Z"
+  "updated_at": "2026-08-13T15:54:45.721Z"
 }

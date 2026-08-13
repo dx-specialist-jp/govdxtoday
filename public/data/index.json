@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-14",
+      "summary_short": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分…など1件",
+      "article_count": 11,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-13",
       "summary_short": "AIガバナンスの重要性が高まる中、規制圧力や認証制度、関…など10件",
       "article_count": 10,

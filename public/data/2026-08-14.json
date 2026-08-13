@@ -1,0 +1,391 @@
+{
+  "date": "2026-08-14",
+  "date_ja": "2026年8月14日（金）",
+  "news_summary": [
+    "デジタル庁システム運用で職員150名の個人情報漏えい事案が発生しました。",
+    "総務省は、AIセキュリティガイドライン活用状況を踏まえ、都道府県・市区町村にサイバーセキュリティ確保を要請しました。",
+    "政府は、機密性の高い情報を扱うため、米国製クラウドサービスの導入を検討しています。",
+    "行政手続等調査データ約7.5万件が、MCPによる自然言語分析可能になりました。",
+    "AIエージェントの複雑なタスク完遂能力向上に伴い、AIガバナンスとセキュリティ対策の整備が不可欠です。",
+    "Microsoft 365 Copilot導入によるDX加速と、生成AIの機密情報漏えい対策・AIガバナンスが議論されています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：CyberNewsFlash「JetBrains TeamCity（オンプレミス版）におけるリモートコード実行につながる脆弱性（CVE-2026-63077）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: macOSの画面共有に不適切な認証の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のZyxel製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPressに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ProgressのMarkLogic Serverに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Jenkinsおよび複数のJenkins用プラグインに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: NetKids iMarkに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Giteaにパストラバーサルの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Bouncy Castle Javaに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Adobe Campaign Classicに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: サイボウズ Garoonにクロスサイトスクリプティングの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: pgAdmin 4に複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Better Authに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
+    "summary": "行政手続等調査データ（約7.5万件）を自然言語分析可能に\n\n▶ 各府省PjMOは、本技術検証結果を参考に、自省庁の保有する行政手続等関連データを自然言語分析可能とするための検討を開始すること。",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+    "pub_date": "2026-08-13"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "総務省、AIセキュリティガイドラインの活用と都道府県・市区町村へのサイバーセキュリティ確保要請",
+      "summary": "総務省は、AIセキュリティガイドラインの活用が進んでいない状況を踏まえ、都道府県知事と市区町村長にサイバーセキュリティ確保を要請した。",
+      "relevance": "AIセキュリティガイドラインの理解促進と、地方公共団体におけるサイバーセキュリティ体制の強化について、関連部署との連携をご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news047.html"
+        },
+        {
+          "name": "s.netsecurity.ne.jp",
+          "url": "https://s.netsecurity.ne.jp/article/2026/08/13/55915.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁システム運用における職員150名の個人情報漏えい事案",
+      "summary": "デジタル庁のシステム運用において、資格管理団体を対象とした職員150名の個人情報漏えいが発生した。",
+      "relevance": "個人情報保護の観点から、システム運用におけるセキュリティ対策と情報管理体制の重要性について、再確認することをご推奨します。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "act1.co.jp",
+          "url": "https://act1.co.jp/2026-08-13-01/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIエージェントの進化とAIガバナンス、セキュリティ対策の重要性が高まる",
+      "summary": "AIエージェントは複雑なタスクを完遂する能力が期待される一方、AIガバナンス、リスク、セキュリティ対策の整備が不可欠となっている。国際的なAIガバナンス対話も推進されている。",
+      "relevance": "AIエージェント導入におけるリスクとガバナンス体制の構築について、関係部署と連携し検討することをご提案します。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/fpt-va-vien-nghien-cuu-ai-hang-dau-the-gioi-mo-rong-hop-tac-thuc-day-lam-chu-cong-nghe-chien-luoc"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/engorgio-lakeshepherd-data-governance/"
+        },
+        {
+          "name": "digiday.jp",
+          "url": "https://digiday.jp/agencies/269813_hcai/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000014.000186443.html"
+        },
+        {
+          "name": "media.rakuten-sec.net",
+          "url": "https://media.rakuten-sec.net/articles/-/53175?page=2"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a46fe4bf-6e49-4d78-b2f5-573c0e13c196"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/9827352"
+        },
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-it/2026/08/13/ZFCL25DG5RDPBFFYU3BGTUTOHY/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000078.000101914&g=prt"
+        },
+        {
+          "name": "eltes.co.jp",
+          "url": "https://eltes.co.jp/news/20260813"
+        },
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/release/dpr141291.html"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP711094_T10C26A8000000/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260813/pr2/00m/020/193000c"
+        },
+        {
+          "name": "nikkan.co.jp",
+          "url": "https://www.nikkan.co.jp/releases/view/222508"
+        },
+        {
+          "name": "snowflake.com",
+          "url": "https://www.snowflake.com/ja/artificial-intelligence/agents/"
+        },
+        {
+          "name": "snowflake.com",
+          "url": "https://www.snowflake.com/ja/artificial-intelligence/business/enterprise/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/cac-co-quan-bao-chi-can-mot-co-che-de-nhung-nguyen-tac-do-co-the-van-hanh-trong-thuc-te"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-08-13-101914-78/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260813/pr2/00m/020/101000c"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19657487?news_ref=watch_20_nw18988759"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "Microsoft 365 Copilot導入による業務効率化と生成AIのセキュリティ・ガバナンス対策",
+      "summary": "三井化学はMicrosoft 365 Copilotを全社導入しDXを加速しており、First Recon AIはCopilot利用企業向けに生成AIの機密情報漏えい対策とAIガバナンスを解説している。",
+      "relevance": "生成AIツールの導入・活用における、セキュリティ対策とガバナンス体制の構築について、事例を参考に検討することをご推奨します。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "microsoft.com",
+          "url": "https://www.microsoft.com/ja-jp/customers/story/26949-mitsui-chemicals-microsoft-365-copilot"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "生成AIとAIエージェントの業務活用と将来展望",
+      "summary": "コネクタブルーは成果報酬型のAI検索最適化サービスを開始し、レコレールはAIエージェントが行政で活用された場合の生活変化について論じている。",
+      "relevance": "生成AIの進化、特にAIエージェントの行政業務への活用可能性と、それに伴う影響について、将来的な視点での情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/article/20260813PR0022/"
+        },
+        {
+          "name": "jfn-pods.com",
+          "url": "https://jfn-pods.com/program/300004982/article/XcyHqXHB0Y"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、機密性の高い情報を扱うための米国製クラウド導入を検討",
+      "summary": "政府は、データやアプリケーションをネットワークで管理・保存するクラウドサービスについて、機密性の高い情報を扱うための米国製クラウドの導入を検討している。",
+      "relevance": "政府共通クラウド（ガバメントクラウド）の利用状況や、機密情報取り扱いに関するセキュリティ要件の動向について、最新情報をご確認ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV8B3T3JV8BUTFK009M.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ITCEN CLOIT、「デジタルサービス利用支援システム」へのAWSサービス登録で公共分野提供を拡大",
+      "summary": "ITCEN CLOITは、韓国知能情報社会振興院(NIA)の「デジタルサービス利用支援システム」にAWSサービスを登録し、公共分野での提供を拡大する。",
+      "relevance": "AWSの公共分野におけるパートナー認定や、政府・公共機関向けサービス提供の事例について、参考にできる点がないかご確認ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/92601/itcencroit-expands-aws-cloud-supply-for-public-sector-agencies"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/it/12125238"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "長野県小諸市がガバメントクラウドファンディングを活用し「飯綱山公園ドッグラン」のリニューアルを進める",
+      "summary": "長野県小諸市は、老朽化した「飯綱山公園ドッグラン」のリニューアルのため、ガバメントクラウドファンディングを活用した寄付金の募集を開始した。",
+      "relevance": "ガバメントクラウドファンディングの活用事例として、本件における寄付金募集のプロセスや成果について情報収集をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "sanspo.com",
+          "url": "https://www.sanspo.com/pressrelease/kyodo_prwire/UH7RNNRUM5J33H626U2WF5QEZU/"
+        },
+        {
+          "name": "niigata-nippo.co.jp",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/886706"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "PayPay登録ユーザー数7500万人突破、国内キャッシュレス決済シェア20％超",
+      "summary": "PayPayの国内登録ユーザー数が7500万人を突破し、キャッシュレス決済回数シェアは20％を超えた。",
+      "relevance": "民間サービスにおけるユーザー数やシェアの動向は、将来的な行政サービス連携の参考になる可能性があります。情報収集の一環としてご留意ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2630ko78/"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "デジタル庁、経済産業省、国交省のDX推進とAI活用、地域DXの課題",
+      "summary": "デジタル庁は2025年、行政業務における生成AIの調達・活用促進を目指し、経済産業省はDX認定事業者に認定、国交省はデータ活用イベントを開催する。",
+      "relevance": "各省庁のDX推進施策や、地域DXにおける「縦割り」克服の視点など、組織横断的な取り組みや課題について情報収集することをお勧めします。",
+      "category": "デジタル庁",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31197892/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000137.000038371.html"
+        },
+        {
+          "name": "digital-construction.jp",
+          "url": "https://digital-construction.jp/administration/3875"
+        },
+        {
+          "name": "weeklybcn.com",
+          "url": "https://www.weeklybcn.com/journal/issue/detail/20260813_216707.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17295836/?ref=user"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/spv/2608/13/news014.html"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "MGI、Sentieon、AWS で強化するゲノムデータストレージとワークフロー",
+          "url": "https://aws.amazon.com/jp/blogs/news/enhanced-genomic-data-storage-and-workflows-with-mgi-sentieon-and-aws/",
+          "pub_date": "2026-08-13T07:17:16.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS HealthOmics ワークフローで PacBio 全ゲノムシーケンシングのバリアント解析パイプラインをベンチマークする",
+          "url": "https://aws.amazon.com/jp/blogs/news/publicsector-benchmarking-pacbio-whole-genome-sequencing-variant-pipeline-analysis-with-aws-healthomics-workflows/",
+          "pub_date": "2026-08-13T06:19:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro でライフサイエンス研究を加速する: 100 以上のオープンソースデータベースへの統合 AI インターフェース",
+          "url": "https://aws.amazon.com/jp/blogs/news/accelerating-life-sciences-research-with-kiro-a-unified-ai-interface-to-100-open-source-databases/",
+          "pub_date": "2026-08-13T06:19:49.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】ISV SaaS 事業者向け 8 社合同 AI-DLC Unicorn Gym",
+          "url": "https://aws.amazon.com/jp/blogs/news/joint-ai-dlc-unicorn-gym-isv-202607/",
+          "pub_date": "2026-08-13T02:58:30.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS ウィークリーまとめ:AWS ヒーローズサミット、Amazon Bedrock、Dogwood、Kiro Crew のウェブサーチなど (2026年8月10 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+          "pub_date": "2026-08-13T01:26:32.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 13, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_13_2026",
+          "pub_date": "2026-08-13T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-13T15:54:45.715Z"
+}
