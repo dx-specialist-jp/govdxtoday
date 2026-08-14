@@ -2,6 +2,25 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
+        "summary": "CISA ICS Advisory/ICS Medical Advisory 2026年8月13日公表\n\n▶ 各府省PMOは、米国CISAが公表したICS Advisory/ICS Medical Advisory（2026年8月13日）の内容を確認し、必要に応じた対策を検討。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU97860021/",
+        "type": "government"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+        "summary": "トランプ大統領は、民間企業によるサイバー攻撃作戦を認める覚書に署名した。GoogleやAnthropicは中国系サイバー犯罪組織によるAI悪用を報告している。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20260814_2000000535",
+        "relevance": "AIの悪用によるサイバー攻撃リスクの増大について、PMO/PjMOとしてセキュリティ対策強化の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
         "title": "デジタル庁システム運用における職員150名の個人情報漏えい事案",
@@ -2283,6 +2302,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
+        "summary": "約7.5万件の行政手続等調査データを自然言語分析可能に\n\n▶ デジタル庁は、行政手続等調査データ約7.5万件をMCPで自然言語分析可能にする技術検証を実施。各府省PMOは、同様の技術活用可能性を検討。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+        "type": "government"
+      },
+      {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
         "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
@@ -2619,6 +2647,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "生成AI時代の高度IT人材育成とAIロボット・フィジカルAIの推進",
+        "summary": "経済産業省は、2040年にAI・ロボット等利活用人材が約339万人不足すると推計しており、日越の産学連携による生成AI時代の高度IT人材育成を進めている。AIロボットやフィジカルAIを見据えた基盤モデル開発も施策として挙げられている。",
+        "source": "mainichi.jp",
+        "url": "https://mainichi.jp/articles/20260814/pr2/00m/020/065000c",
+        "relevance": "将来的なIT人材不足を見据えた育成策や、AIロボット・フィジカルAI分野の政策動向について、PMO/PjMOとして人材戦略や技術開発支援の観点からご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "Anthropic、Claudeの生成テキストに隠し透かしを導入",
+        "summary": "Anthropicは、Claudeの生成テキストに人間には見えない隠し透かし（AIが生成した文章をシステムが識別するコード）を組み込み始めた。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news035.html",
+        "relevance": "生成AIの利用における識別技術の進化について、PMO/PjMOとして情報生成の透明性や悪用防止策の観点からご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "行政におけるデータとトラスト、ガバメントAIの取り組み",
+        "summary": "デジタル社会におけるデータとトラストを地域で育み、行政での活用を進める。政府ではガバメントAI源内の取り組みが進められている。",
+        "source": "dreamnews.jp",
+        "url": "https://www.dreamnews.jp/press/0000359205",
+        "relevance": "行政におけるデータ利活用とAI導入の動向について、PMO/PjMOとして推進体制やデータガバナンスの観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入",
+        "summary": "厚生労働省は、情報公開事務の迅速化のため、生成AIサービス「OCI Enterprise AI」を活用した対話型AI RAG基盤を導入した。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html",
+        "relevance": "生成AIとRAG基盤を活用した行政事務の効率化事例について、PMO/PjMOとして業務改革の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "AIガバナンス規制・ガイドライン整備と企業・組織における対応",
+        "summary": "AIの技術的進展とリスクを踏まえ、各国でAIガバナンス規制やガイドラインの整備が進んでいる。企業や組織には、透明性と説明責任を備えた体系的なAIガバナンス体制の構築が求められている。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/tri-tue-nhan-tao-trong-bao-chi-tu-cong-cu-ho-tro-den-chien-luoc-quan-tri-toan-dien",
+        "relevance": "AIガバナンスに関する国内外の規制動向や、組織におけるAI導入・運用に関する最新の知見について、PMO/PjMOとしてガバナンス体制構築の観点からご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
@@ -4192,6 +4270,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "ガバメントクラウドの整備とシステム開発事業への活用",
+        "summary": "デジタル庁が主導するガバメントクラウドは、国や地方自治体が共同で利用する共通基盤である。システム開発事業においても、ガバメントクラウド関連需要の取り込みにより黒字化している。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260810516396",
+        "relevance": "ガバメントクラウドの活用状況と、システム開発におけるその影響について、PMO/PjMOとしてインフラ整備や調達戦略の観点からご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
         "title": "ITCEN CLOIT、「デジタルサービス利用支援システム」へのAWSサービス登録で公共分野提供を拡大",
@@ -4654,6 +4742,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "タイ財務省の自動車物品税改革と事業登録手続きに関するオンライン会議",
+        "summary": "タイ財務省は、自動車物品税の抜本改革を検討しており、FTA輸入車には高税率を適用する方針である。また、事業登録手続きに関するオンライン会議が開催された。",
+        "source": "bangkokshuho.com",
+        "url": "https://bangkokshuho.com/thainews-1387/",
+        "relevance": "他国の省庁における制度改革や、オンライン会議による手続きの効率化事例について、PMO/PjMOとして参考となる点がないかご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "財務省による流動性供給入札および国債発行",
+        "summary": "財務省は、流動性供給（第459回）入札を実施し、追加発行した国債の銘柄と発行額（額面ベース）を発表した。米財務省も30年債入札を実施した。",
+        "source": "mof.go.jp",
+        "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
+        "relevance": "国債発行や入札に関する財務省の動向について、PMO/PjMOとして財政政策や経済指標の観点からご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-12",
         "date_ja": "2026年8月12日（水）",
         "title": "国土交通省・経済産業省によるDX推進とインフラ課題解決への取り組み",
@@ -4975,6 +5083,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "自治体におけるガバメントクラウドファンディングの実施",
+        "summary": "松伏町では、町民まつり開催支援のため、初となるガバメントクラウドファンディングに挑戦している。杉戸町長も松伏町役場を訪問した。",
+        "source": "ubenippo.co.jp",
+        "url": "https://ubenippo.co.jp/2026/08/14/7260714/",
+        "relevance": "自治体DXにおける新たな資金調達手法としてのガバメントクラウドファンディングについて、PMO/PjMOとして広報・企画立案の観点からご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
@@ -5317,6 +5435,24 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "Amazon EKS Auto Mode 上で Agones を安定稼働させる設計のポイント",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/agones-on-eks-automode-practice/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "「聞くだけで、必要な情報が集まる」航空オペレーション基盤を Kiro で実現する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/building-aviation-ai-operations-platform-with-bedrock-and-kiro/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-14",
         "date_ja": "2026年8月14日（金）",
@@ -7408,6 +7544,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-08-15",
+        "date_ja": "2026年8月15日（土）",
+        "title": "令和8年8月13日からの大雨に伴う災害に係る災害救助法の適用地域のお客さまへのご案内",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/14/1968225610/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
         "title": "「公共システムのクラウド基盤・運用を学ぶウェビナー」を開催いたします",
@@ -8208,18 +8353,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 51,
+    "セキュリティ": 53,
     "その他": 178,
-    "行政AI": 23,
+    "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 157,
-    "クラウド/インフラ": 46,
-    "制度/ガイドライン": 32,
-    "自治体DX事例": 34,
-    "AWS最新情報": 120,
+    "AI活用": 162,
+    "クラウド/インフラ": 47,
+    "制度/ガイドライン": 34,
+    "自治体DX事例": 35,
+    "AWS最新情報": 122,
     "Google Cloud最新情報": 96,
     "働き方/業務改革": 14,
-    "さくらのクラウド最新情報": 54,
+    "さくらのクラウド最新情報": 55,
     "AIガバナンス": 8,
     "ガバメントクラウド": 3,
     "調達・契約": 7,
@@ -8227,5 +8372,5 @@
     "調達/契約": 2,
     "プロジェクト管理": 7
   },
-  "updated_at": "2026-08-13T15:54:45.721Z"
+  "updated_at": "2026-08-14T15:45:50.655Z"
 }

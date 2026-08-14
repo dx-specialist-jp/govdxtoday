@@ -1,0 +1,313 @@
+{
+  "date": "2026-08-15",
+  "date_ja": "2026年8月15日（土）",
+  "news_summary": [
+    "米国CISAが公表したICS Advisory/ICS Medical Advisoryの確認と対策検討が必要",
+    "デジタル庁は行政手続等調査データを自然言語分析可能にする技術検証を実施",
+    "厚生労働省は情報公開事務迅速化に生成AI・RAG基盤を導入",
+    "AnthropicはClaude生成テキストに隠し透かしを導入開始",
+    "経済産業省は2040年にAI・ロボット利活用人材不足を推計、人材育成を推進",
+    "ガバメントクラウド整備が進み、システム開発事業での活用が黒字化に貢献"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：CyberNewsFlash「JetBrains TeamCity（オンプレミス版）におけるリモートコード実行につながる脆弱性（CVE-2026-63077）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "注意喚起: MetabaseのSQLインジェクションの脆弱性（CVE-2026-72898）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260023.html",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
+    "summary": "CISA ICS Advisory/ICS Medical Advisory 2026年8月13日公表\n\n▶ 各府省PMOは、米国CISAが公表したICS Advisory/ICS Medical Advisory（2026年8月13日）の内容を確認し、必要に応じた対策を検討。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://jvn.jp/vu/JVNVU97860021/",
+    "pub_date": "2026-08-14"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
+      "summary": "約7.5万件の行政手続等調査データを自然言語分析可能に\n\n▶ デジタル庁は、行政手続等調査データ約7.5万件をMCPで自然言語分析可能にする技術検証を実施。各府省PMOは、同様の技術活用可能性を検討。",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+      "pub_date": "2026-08-13"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+      "summary": "トランプ大統領は、民間企業によるサイバー攻撃作戦を認める覚書に署名した。GoogleやAnthropicは中国系サイバー犯罪組織によるAI悪用を報告している。",
+      "relevance": "AIの悪用によるサイバー攻撃リスクの増大について、PMO/PjMOとしてセキュリティ対策強化の観点からご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20260814_2000000535"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンス規制・ガイドライン整備と企業・組織における対応",
+      "summary": "AIの技術的進展とリスクを踏まえ、各国でAIガバナンス規制やガイドラインの整備が進んでいる。企業や組織には、透明性と説明責任を備えた体系的なAIガバナンス体制の構築が求められている。",
+      "relevance": "AIガバナンスに関する国内外の規制動向や、組織におけるAI導入・運用に関する最新の知見について、PMO/PjMOとしてガバナンス体制構築の観点からご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/tri-tue-nhan-tao-trong-bao-chi-tu-cong-cu-ho-tro-den-chien-luoc-quan-tri-toan-dien"
+        },
+        {
+          "name": "arabnews.jp",
+          "url": "https://www.arabnews.jp/article/saudi-arabia/article_184178/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ai-dang-thay-doi-cach-van-hanh-va-phan-phoi-noi-dung-bao-chi"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/dien-dan-ai-quoc-te-wan-ifra-2026-toa-soan-can-quan-tri-ai-de-tang-toc"
+        },
+        {
+          "name": "j.people.com.cn",
+          "url": "http://j.people.com.cn/n3/2026/0814/c94474-20488820.html"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/4041028"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17303811/?ref=user"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000010.000114554&g=prt"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/article/59c91c51-f989-4d89-a8c2-d45e01f520a7"
+        },
+        {
+          "name": "media-innovation.jp",
+          "url": "https://media-innovation.jp/article/2026/08/14/143621.html"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/insights/financial-services/ai-governance-required-for-organizations"
+        },
+        {
+          "name": "bureauveritas.jp",
+          "url": "https://www.bureauveritas.jp/certification/newsroom/260814"
+        },
+        {
+          "name": "cio.com",
+          "url": "https://www.cio.com/article/4206942/%E3%81%AA%E3%81%9Cai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AF%E6%A9%9F%E8%83%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E6%9C%AC%E5%BD%93%E3%81%AB.html"
+        },
+        {
+          "name": "fortunebusinessinsights.com",
+          "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2-ai-%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%B8%82%E5%A0%B4-118885"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/173929b628b945f7cf1ae80d679d1edac1966be2?page=5"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/173929b628b945f7cf1ae80d679d1edac1966be2/images/000"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000011.000158761.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/91bca788-f81a-4166-a4ee-c251af0c57f4"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入",
+      "summary": "厚生労働省は、情報公開事務の迅速化のため、生成AIサービス「OCI Enterprise AI」を活用した対話型AI RAG基盤を導入した。",
+      "relevance": "生成AIとRAG基盤を活用した行政事務の効率化事例について、PMO/PjMOとして業務改革の観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "行政におけるデータとトラスト、ガバメントAIの取り組み",
+      "summary": "デジタル社会におけるデータとトラストを地域で育み、行政での活用を進める。政府ではガバメントAI源内の取り組みが進められている。",
+      "relevance": "行政におけるデータ利活用とAI導入の動向について、PMO/PjMOとして推進体制やデータガバナンスの観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000359205"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19661486?news_ref=watch_50_nw19590627"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Anthropic、Claudeの生成テキストに隠し透かしを導入",
+      "summary": "Anthropicは、Claudeの生成テキストに人間には見えない隠し透かし（AIが生成した文章をシステムが識別するコード）を組み込み始めた。",
+      "relevance": "生成AIの利用における識別技術の進化について、PMO/PjMOとして情報生成の透明性や悪用防止策の観点からご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news035.html"
+        },
+        {
+          "name": "mezha.net",
+          "url": "https://mezha.net/jp/bukvy/3c996df4_anthropic_adds_hidden/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "生成AI時代の高度IT人材育成とAIロボット・フィジカルAIの推進",
+      "summary": "経済産業省は、2040年にAI・ロボット等利活用人材が約339万人不足すると推計しており、日越の産学連携による生成AI時代の高度IT人材育成を進めている。AIロボットやフィジカルAIを見据えた基盤モデル開発も施策として挙げられている。",
+      "relevance": "将来的なIT人材不足を見据えた育成策や、AIロボット・フィジカルAI分野の政策動向について、PMO/PjMOとして人材戦略や技術開発支援の観点からご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260814/pr2/00m/020/065000c"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/st/186514"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドの整備とシステム開発事業への活用",
+      "summary": "デジタル庁が主導するガバメントクラウドは、国や地方自治体が共同で利用する共通基盤である。システム開発事業においても、ガバメントクラウド関連需要の取り込みにより黒字化している。",
+      "relevance": "ガバメントクラウドの活用状況と、システム開発におけるその影響について、PMO/PjMOとしてインフラ整備や調達戦略の観点からご留意ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260810516396"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260813519586"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "財務省による流動性供給入札および国債発行",
+      "summary": "財務省は、流動性供給（第459回）入札を実施し、追加発行した国債の銘柄と発行額（額面ベース）を発表した。米財務省も30年債入札を実施した。",
+      "relevance": "国債発行や入札に関する財務省の動向について、PMO/PjMOとして財政政策や経済指標の観点からご参照ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm"
+        },
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814.htm"
+        },
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260814.htm"
+        },
+        {
+          "name": "m.jp.investing.com",
+          "url": "https://m.jp.investing.com/news/forex-news/article-1647764?ampMode=1"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "タイ財務省の自動車物品税改革と事業登録手続きに関するオンライン会議",
+      "summary": "タイ財務省は、自動車物品税の抜本改革を検討しており、FTA輸入車には高税率を適用する方針である。また、事業登録手続きに関するオンライン会議が開催された。",
+      "relevance": "他国の省庁における制度改革や、オンライン会議による手続きの効率化事例について、PMO/PjMOとして参考となる点がないかご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "bangkokshuho.com",
+          "url": "https://bangkokshuho.com/thainews-1387/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/so-tai-chinh-tham-gia-hoi-nghi-truc-tuyen-ve-cong-tac-dang-ky-kinh-doanh"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "自治体におけるガバメントクラウドファンディングの実施",
+      "summary": "松伏町では、町民まつり開催支援のため、初となるガバメントクラウドファンディングに挑戦している。杉戸町長も松伏町役場を訪問した。",
+      "relevance": "自治体DXにおける新たな資金調達手法としてのガバメントクラウドファンディングについて、PMO/PjMOとして広報・企画立案の観点からご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "ubenippo.co.jp",
+          "url": "https://ubenippo.co.jp/2026/08/14/7260714/"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/180102/posts/1467692"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/180102/posts/1467537"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "「聞くだけで、必要な情報が集まる」航空オペレーション基盤を Kiro で実現する",
+          "url": "https://aws.amazon.com/jp/blogs/news/building-aviation-ai-operations-platform-with-bedrock-and-kiro/",
+          "pub_date": "2026-08-14T07:13:05.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon EKS Auto Mode 上で Agones を安定稼働させる設計のポイント",
+          "url": "https://aws.amazon.com/jp/blogs/news/agones-on-eks-automode-practice/",
+          "pub_date": "2026-08-14T01:33:03.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "令和8年8月13日からの大雨に伴う災害に係る災害救助法の適用地域のお客さまへのご案内",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/08/14/1968225610/",
+          "pub_date": "2026-08-14T09:30:29.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-14T15:45:50.649Z"
+}
