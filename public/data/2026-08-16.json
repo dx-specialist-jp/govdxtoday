@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-16",
+  "date_ja": "2026年8月16日（日）",
+  "news_summary": [
+    "厚生労働省が情報公開事務の迅速化のため生成AI・RAG基盤を導入しました。",
+    "デジタル庁が7万5000件の行政手続を分析するMCPサーバを公開しました。",
+    "AIガバナンスの重要性が増し、エンタープライズAIは「ガバナンスされたインテリジェンス」の時代へ移行します。",
+    "AIエージェントの意図しない挙動への懸念から、AIガバナンスの必要性が指摘されています。",
+    "AIコーディングエージェントやパスワード変更支援など、AIツールの活用範囲が拡大しています。",
+    "ガバメントクラウドファンディングが地域振興やインフラ整備に活用され、目標額を超える寄付が集まる事例が出ています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおけるリモートコード実行につながる脆弱性（CVE-2026-8452）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "注意喚起: MetabaseのSQLインジェクションの脆弱性（CVE-2026-72898）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260023.html",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIガバナンスの重要性が増し、エンタープライズAIは「ツール」から「ガバナンスされたインテリジェンス」の時代へ",
+      "summary": "AI活用方針、AIガバナンス、例外処理の設計が経営判断ポートフォリオとして公開され、AIは試験導入からビジネスの中核能力へと変革しています。AIガバナンスプラットフォーム市場は、2035年には7.5億米ドルへ急拡大すると予測されています。",
+      "relevance": "PMO/PjMOの皆様は、AI導入におけるガバナンス体制の構築や、AI活用方針、例外処理の設計についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260815/1337210.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32072653/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17310974/"
+        },
+        {
+          "name": "manegy.com",
+          "url": "https://www.manegy.com/news/detail/16759/"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/102925"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/viet-nam-muon-pho-cap-ky-nang-ai-co-ban-cho-it-nhat-10-trieu-lao-dong"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-crm/salesforce/news/19bf19df90d4ee16"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17309506/body/?ref=news-body_17288702"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/au/banks/asx-nab/national-australia-bank-shares/news/5897eb72b9a6b909/amp"
+        },
+        {
+          "name": "gartner.com",
+          "url": "https://www.gartner.com/jp/conferences/apac/infrastructure-operations-cloud-japan/sessions/detail/5848590-2030-AI-IT-"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/au/banks/asx-nab/national-australia-bank-shares/news/5897eb72b9a6b909"
+        },
+        {
+          "name": "reportocean.co.jp",
+          "url": "https://www.reportocean.co.jp/industry-reports/ai-governance-platform-market"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/dinh-hinh-tuong-lai-bao-chi-trong-ky-nguyen-ai"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19661338"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32065483/"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/it/12128063"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入",
+      "summary": "厚労省は、情報公開請求件数の増加に対応するため、生成AIとRAG（Retrieval-Augmented Generation）基盤を導入し、情報公開事務の迅速化を図っています。生成AIは行政、教育、仕事、暮らしの中で身近な存在になると予測されています。",
+      "relevance": "PMO/PjMOの皆様は、行政事務の効率化に向けた生成AIやRAG基盤の活用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/186298/posts/1469432"
+        },
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIコーディングエージェントやパスワード変更支援など、AIツールの活用が進む",
+      "summary": "コーディングエージェント「Claude Code」の既定権限モードが「自動」へ変更され、Geminiはパスワード変更支援など、AIツールの活用範囲が広がっています。また、CopilotやGeminiを活用したウェビナーも開催されます。",
+      "relevance": "PMO/PjMOの皆様は、業務効率化に資するAIツールの活用事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/2026081898163"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17306141/?ref=picked-news_9985"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17305393/?ref=user"
+        },
+        {
+          "name": "ibarakinews.jp",
+          "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=c52152_r115&elem=prt"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIエージェントの意図しない挙動に関する議論とAIガバナンスの必要性",
+      "summary": "AIエージェントが他人の予約を勝手に削除するなど、意図しない挙動を示す可能性について議論されており、AIガバナンスの重要性が指摘されています。",
+      "relevance": "PMO/PjMOの皆様は、AIエージェント導入におけるリスク管理とガバナンス体制の構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "abema.tv",
+          "url": "https://abema.tv/video/episode/89-66_s99_p7396"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "デジタル庁、行政手続7万5000件を分析するMCPサーバを公開",
+      "summary": "デジタル庁は、英国政府のガイドラインに基づき、7万5000件の行政手続を分析するためのMCPサーバを公開しました。このサーバは、「技術的最適化」「データとメタデータの品質」「組織・インフラの文脈」「法・セキュリティ・倫理への適合」を検証します。",
+      "relevance": "PMO/PjMOの皆様は、行政手続の分析・最適化に向けたツールの活用についてご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/116042/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "週間国内発表行事予定（８月１６～２３日）",
+      "summary": "財務省の入札結果、国庫短期証券の発行予定額、首都圏マンション販売などの発表が予定されています。また、総務省の発表も予定されています。",
+      "relevance": "PMO/PjMOの皆様は、行政機関による各種発表・公表情報の動向を注視し、プロジェクトへの影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "sp.m.jiji.com",
+          "url": "https://sp.m.jiji.com/article/show/3846182"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地域振興やインフラ整備の事例",
+      "summary": "地域振興やインフラ整備のため、ふるさと納税制度を活用したガバメントクラウドファンディングが実施されており、目標額を上回る寄付が集まる事例も出ています。",
+      "relevance": "PMO/PjMOの皆様は、ガバメントクラウドファンディングの活用によるプロジェクト推進についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f26badf95713b890a7769fd807c0d5e784bd4b48"
+        },
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2035285?lbl=597"
+        },
+        {
+          "name": "hachioji.keizai.biz",
+          "url": "https://hachioji.keizai.biz/headline/4301/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国土交通省の人事異動発表",
+      "summary": "国土交通省は2026年8月17日付の人事異動を発表しました。関連情報として、AIシステム「CLOE」のアーキテクチャや、中国AIからグローバルETFまでに関する情報も掲載されています。",
+      "relevance": "PMO/PjMOの皆様は、担当省庁の人事異動や組織変更がプロジェクトに与える影響をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/94188/"
+        },
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/94185/"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 15, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_15_2026",
+          "pub_date": "2026-08-15T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-15T15:14:56.962Z"
+}
