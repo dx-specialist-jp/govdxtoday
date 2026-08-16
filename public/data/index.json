@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-17",
+      "summary_short": "宮城県、保育現場での生成AI活用促進に向けたワークショッ…など3件",
+      "article_count": 3,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-16",
       "summary_short": "AIガバナンスの重要性が増し、エンタープライズAIは「ツ…など8件",
       "article_count": 8,

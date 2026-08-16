@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-17",
+  "date_ja": "2026年8月17日（月）",
+  "news_summary": [
+    "宮城県が保育現場での生成AI活用促進のためワークショップを開催しました。",
+    "国際的なAI協力でAIガバナンスが選択条件となる可能性、EUはAI技術規制を強化します。",
+    "浜松市と小諸市がガバメントクラウドファンディングを、それぞれイベント運営費や施設整備に活用しました。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおけるリモートコード実行につながる脆弱性（CVE-2026-8452）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "宮城県、保育現場での生成AI活用促進に向けたワークショップ開催",
+      "summary": "宮城県は、保育現場での生成AI（ChatGPT）活用を促進するため、ワークショップを開催しました。",
+      "relevance": "行政分野における生成AIの具体的な活用事例として、業務効率化やサービス向上への応用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/articles/20260815khn000028.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンス強化と国際協力の動向",
+      "summary": "国際的なAI協力の枠組みにおいて、AIガバナンスが「選択」の条件となる可能性が示唆されています。EUはAI技術規制を強化し、イノベーションと公共の利益の両立を目指します。",
+      "relevance": "AIガバナンスに関する国際的な動向や各国の規制強化について、自庁のAI導入・活用方針策定の参考にご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "xenospectrum.com",
+          "url": "https://xenospectrum.com/pax-silica-ai-coalition-choice/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/eu-siet-chat-quan-ly-cong-nghe-ai"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ngan-hang-thoi-ai-khi-du-lieu-thanh-loi-the-canh-tranh"
+        },
+        {
+          "name": "global.fujitsu",
+          "url": "https://global.fujitsu/ja-JP/wayfinders/trust-in-ai"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ai-dang-tai-dinh-hinh-thi-truong-lao-dong-viet-nam"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/16/grok-copilot/"
+        },
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4545480"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/manegy/business/manegy-16759"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "自治体によるガバメントクラウドファンディングの活用事例",
+      "summary": "浜松市は人形劇まつりの運営費補填、小諸市はドッグランのリニューアルのため、ガバメントクラウドファンディングを実施しています。",
+      "relevance": "ガバメントクラウドファンディングの実施状況について、地域課題解決や事業推進のための新たな資金調達手法としてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2035829"
+        },
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2035827?lbl=597"
+        },
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/94204/"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "寄稿：Claude Code on AWSで創薬研究・業務を加速する – ＪＣＲファーマのAIエージェント活用事例",
+          "url": "https://aws.amazon.com/jp/blogs/news/jcrpharm-claude-code-on-aws/",
+          "pub_date": "2026-08-15T21:56:11.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 16, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_16_2026",
+          "pub_date": "2026-08-16T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-16T15:16:11.856Z"
+}
