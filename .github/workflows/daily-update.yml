@@ -99,12 +99,42 @@ jobs:
           git add public/data/
           git diff --staged --quiet && echo "変更なし" && exit 0
           git commit -m "chore: 日次更新 $(TZ='Asia/Tokyo' date +'%Y-%m-%d')"
-          git push
+
+          # ジョブの再実行（re-run）時、actions/checkout は最初のイベント発生時点の
+          # コミットを checkout するため、その間に別の attempt が既に push 済みだと
+          # ここでの push が non-fast-forward で失敗する。fetch + rebase で追従して
+          # からリトライすることで、再実行時にも安全に反映できるようにする。
+          for i in 1 2 3; do
+            if git push; then
+              break
+            fi
+            if [ "$i" = 3 ]; then
+              echo "::error::git push に3回失敗しました" >&2
+              exit 1
+            fi
+            echo "push失敗、リベースしてリトライします ($i/3)..."
+            git fetch origin main
+            git rebase origin/main
+          done
+
           # GITHUB_TOKEN による push は deploy.yml の on.push を自動起動しない
           # （GitHub Actions の仕様）ため、workflow_dispatch で明示的に起動する。
           # ビルド・GitHub Pages デプロイは deploy.yml 側が行う。このワーク
           # フロー自身はデプロイを行わない（理由は冒頭のコメント参照）。
-          gh workflow run deploy.yml --ref main
+          #
+          # GitHub API が一時的に 503 を返すことがあるため（2026-08-18に実際発生）、
+          # push 成功後のこの呼び出しだけで失敗させないようリトライする。
+          for i in 1 2 3; do
+            if gh workflow run deploy.yml --ref main; then
+              break
+            fi
+            if [ "$i" = 3 ]; then
+              echo "::error::deploy.yml の起動に3回失敗しました" >&2
+              exit 1
+            fi
+            echo "deploy.yml起動失敗、リトライします ($i/3)..."
+            sleep 10
+          done
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
