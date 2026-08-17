@@ -2648,6 +2648,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "国土交通省、不動産業界向けAI実証事業を本格始動",
+        "summary": "国土交通省は、不動産会社の業務効率化を目指し、不動産業界で初めてとなるAI活用実証事業を本格的に開始した。",
+        "source": "zenchin.com",
+        "url": "https://www.zenchin.com/news/content-5934.php",
+        "relevance": "省庁が主導する業界横断的なAI活用実証事業の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "AIガバナンス体制構築へ第三者認証制度創設、企業・組織による方針策定や専門サービス提供が進む",
+        "summary": "日本ディープラーニング協会がAIガバナンス体制を審査する第三者認証制度「C認証」を創設した。花王はAIガバナンス方針を策定し、NTTドコモビジネスは機密データを外部に出さないAI専用環境を提供開始するなど、AIの安全かつ責任ある活用に向けた取り組みが進んでいる。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000034_000087208/",
+        "relevance": "AIの安全かつ責任ある活用推進に向けた、第三者認証制度の動向や、各組織におけるAIガバナンス方針策定の参考についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "AIプロジェクトの95％が延期、インフラ刷新とAIガバナンス体制構築が急務",
+        "summary": "Clouderaの調査によると、企業の95%がAIプロジェクトを延期しており、既存インフラの拡張性・ガバナンス対応の遅れや、AI導入によるインフラコスト増が課題となっている。",
+        "source": "enterprisezine.jp",
+        "url": "https://enterprisezine.jp/article/detail/24855",
+        "relevance": "AIプロジェクト推進におけるインフラ要件や、AIガバナンス体制構築の必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "自治体向けAIサービス「zevo」にGemini 3.7 Flash提供開始、イスラエル政府は国家AI戦略でフィジカルAIを重点分野に",
+        "summary": "自治体向けAIサービス「zevo」にGemini 3.7 Flashが提供開始され、利用可能な生成AIシリーズが拡充された。一方、イスラエル政府は国家AI戦略においてフィジカルAIを重点分野として位置づけている。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000215.000056138.html",
+        "relevance": "自治体でのAI活用事例として、新しいAIモデルの導入状況や、他国のAI戦略動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-17",
         "date_ja": "2026年8月17日（月）",
         "title": "宮城県、保育現場での生成AI活用促進に向けたワークショップ開催",
@@ -4320,6 +4360,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "ガバメントクラウドにおけるAWSの政府システム8割超独占と、さくらインターネットのガバメントクラウド正式認定",
+        "summary": "AWSがガバメントクラウドにおいて政府システムを8割超占める一方、さくらインターネットは自社クラウドサービスがガバメントクラウド正式認定を受けた。",
+        "source": "scsk.jp",
+        "url": "https://www.scsk.jp/sp/itpnavi/article/2026/08/sovereigncloud.html",
+        "relevance": "ガバメントクラウドにおける主要クラウドベンダーの動向や、認定要件への対応状況についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-15",
         "date_ja": "2026年8月15日（土）",
         "title": "ガバメントクラウドの整備とシステム開発事業への活用",
@@ -4792,6 +4842,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "財務省関税局、税関中長期構想2030で越境eコマース対応強化とAEO事業者の協力不可欠性を強調",
+        "summary": "財務省関税局は「税関中長期構想2030」を公表し、越境eコマースへの対応強化とAEO（認定事業者）の協力を不可欠とする方針を示した。",
+        "source": "daily-cargo.com",
+        "url": "https://www.daily-cargo.com/news/logistics/2026/08/179361/",
+        "relevance": "税関行政におけるDX推進や、事業者連携のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-17",
         "date_ja": "2026年8月17日（月）",
         "title": "AIガバナンス強化と国際協力の動向",
@@ -5153,6 +5213,36 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "静岡市、政令指定都市として全国初となる国土交通省「二地域居住先導的プロジェクト」に採択",
+        "summary": "静岡市は、国土交通省の「二地域居住先導的プロジェクト実装事業」に、政令指定都市として全国で初めて採択された。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KZMPTT3YDN6AGDJ4H6CKW5NW",
+        "relevance": "国のプロジェクトに採択された先進的な地方自治体の取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "ガバメントクラウドファンディング®、累計プロジェクト数5000件突破と和歌山市の事例",
+        "summary": "ふるさと納税を活用した「ガバメントクラウドファンディング®」の累計プロジェクト数が5000件を突破した。また、和歌山市におけるGCFでの混乱に関する説明が公開されている。",
+        "source": "socialbusiness.aishas.co.jp",
+        "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/29915/",
+        "relevance": "ガバメントクラウドファンディングの活用事例や、プロジェクト推進における留意点についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "自治体のコスト削減事例：舞鶴市「脱Windows」で6億円、千代田区Copilotで月2000時間削減",
+        "summary": "舞鶴市はWindowsからの脱却で6億円、千代田区はCopilot導入で月2000時間の業務時間削減を実現するなど、自治体におけるITツールの導入効果が報告されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17316235/?ref=user",
+        "relevance": "他自治体のITツール導入によるコスト削減・業務効率化事例について、自組織への適用可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-17",
         "date_ja": "2026年8月17日（月）",
@@ -5525,6 +5615,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "AWS ジャパン地域創生支援プログラム（LEAP by AWS ジャパン）を発表 — 地域経済のAIトランスフォーメーションを包括支援",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/local-economy-acceleration-program/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "月刊 AWS 製造 2026 年 8 月号",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202608/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "週刊AWS – 2026/8/10週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260810/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "週刊生成AI with AWS – 2026年8月10日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260810/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "【開催報告】第四北越銀行/AWS 共催データコラボレーションワークショップ in 新潟：地域産業のデータ連携による新たな価値創出",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/data-collaboration-workshop-niigata/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-17",
         "date_ja": "2026年8月17日（月）",
@@ -7671,6 +7806,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-15",
         "date_ja": "2026年8月15日（土）",
         "title": "令和8年8月13日からの大雨に伴う災害に係る災害救助法の適用地域のお客さまへのご案内",
@@ -8386,6 +8530,16 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-08-18",
+        "date_ja": "2026年8月18日（火）",
+        "title": "国土交通省関東地方整備局、猛暑対策評価を江戸川のWTO工事で初試行",
+        "summary": "国土交通省関東地方整備局は、猛暑対策の評価を江戸川のWTO（政府調達協定）対象工事で初めて試行した。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KZDPB05X1RV976TM25MNNNT8",
+        "relevance": "政府調達における新たな評価基準の導入動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-12",
         "date_ja": "2026年8月12日（水）",
         "title": "タイ・ベトナム・英国財務省によるデジタル化・金融インフラ改革の動向",
@@ -8494,20 +8648,20 @@
     "その他": 178,
     "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 167,
-    "クラウド/インフラ": 47,
-    "制度/ガイドライン": 36,
-    "自治体DX事例": 37,
-    "AWS最新情報": 123,
+    "AI活用": 171,
+    "クラウド/インフラ": 48,
+    "制度/ガイドライン": 37,
+    "自治体DX事例": 40,
+    "AWS最新情報": 128,
     "Google Cloud最新情報": 98,
     "働き方/業務改革": 15,
-    "さくらのクラウド最新情報": 55,
+    "さくらのクラウド最新情報": 56,
     "AIガバナンス": 8,
     "ガバメントクラウド": 3,
     "調達・契約": 7,
     "デジタル庁": 3,
-    "調達/契約": 2,
+    "調達/契約": 3,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-16T15:16:11.866Z"
+  "updated_at": "2026-08-17T15:20:11.758Z"
 }

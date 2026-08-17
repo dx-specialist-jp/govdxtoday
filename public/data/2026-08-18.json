@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-18",
+  "date_ja": "2026年8月18日（火）",
+  "news_summary": [
+    "自治体向けAIサービス「zevo」にGemini 3.7 Flash提供開始、AI活用シリーズ拡充",
+    "イスラエル政府は国家AI戦略でフィジカルAIを重点分野に位置づけ",
+    "企業の95％がAIプロジェクトを延期、インフラ刷新とAIガバナンス体制構築が急務",
+    "日本ディープラーニング協会がAIガバナンス体制の第三者認証制度「C認証」を創設",
+    "国土交通省が不動産業界向けAI活用実証事業を本格始動",
+    "AWSがガバメントクラウドにおいて政府システムを8割超占有",
+    "財務省関税局は税関中長期構想2030で越境eコマース対応強化",
+    "舞鶴市がWindowsからの脱却で6億円、千代田区がCopilotで月2000時間削減"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN58692577/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN40688603/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91713656/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "自治体向けAIサービス「zevo」にGemini 3.7 Flash提供開始、イスラエル政府は国家AI戦略でフィジカルAIを重点分野に",
+      "summary": "自治体向けAIサービス「zevo」にGemini 3.7 Flashが提供開始され、利用可能な生成AIシリーズが拡充された。一方、イスラエル政府は国家AI戦略においてフィジカルAIを重点分野として位置づけている。",
+      "relevance": "自治体でのAI活用事例として、新しいAIモデルの導入状況や、他国のAI戦略動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000215.000056138.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17317227/?ref=user"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIプロジェクトの95％が延期、インフラ刷新とAIガバナンス体制構築が急務",
+      "summary": "Clouderaの調査によると、企業の95%がAIプロジェクトを延期しており、既存インフラの拡張性・ガバナンス対応の遅れや、AI導入によるインフラコスト増が課題となっている。",
+      "relevance": "AIプロジェクト推進におけるインフラ要件や、AIガバナンス体制構築の必要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24855"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/335e667884a9824f"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンス体制構築へ第三者認証制度創設、企業・組織による方針策定や専門サービス提供が進む",
+      "summary": "日本ディープラーニング協会がAIガバナンス体制を審査する第三者認証制度「C認証」を創設した。花王はAIガバナンス方針を策定し、NTTドコモビジネスは機密データを外部に出さないAI専用環境を提供開始するなど、AIの安全かつ責任ある活用に向けた取り組みが進んでいる。",
+      "relevance": "AIの安全かつ責任ある活用推進に向けた、第三者認証制度の動向や、各組織におけるAIガバナンス方針策定の参考についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000034_000087208/"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/jdla-c-certification-ai-governance/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/67e47e11094cfbfecf8bec56eef725814bcf3687/images/000"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/human-centered-ai-consortium/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/67e47e11094cfbfecf8bec56eef725814bcf3687"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a813b6ee-becd-4bc7-b82e-49acbd2d75c4"
+        },
+        {
+          "name": "fashionsnap.com",
+          "url": "https://www.fashionsnap.com/article/2026-08-17/kao-ai-governance/"
+        },
+        {
+          "name": "jp.reuters.com",
+          "url": "https://jp.reuters.com/world/china/A6QZGTLDJ5P4VFVBDBULFGMIE4-2026-08-17/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/reuters/world/reuters-20260817044"
+        },
+        {
+          "name": "kao.com",
+          "url": "https://www.kao.com/jp/newsroom/news/release/2026/20260817-001/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7fe6326d-54ae-42f9-926c-7bcbdb2601ab"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/c3564ec9be1e114299cc9e9aff46412db2eeb035/images/000"
+        },
+        {
+          "name": "kobe-np.co.jp",
+          "url": "https://www.kobe-np.co.jp/info/prtimes/202608/c54434_r278.shtml"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2133096.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/e329f46dbc53474db05942f7f2860bd4bb7d5e8a"
+        },
+        {
+          "name": "sas.com",
+          "url": "https://www.sas.com/ja_jp/news/press-releases/2026/august/agentic-ai-executive-povs.html"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000099.000049307&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000099.000049307.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "国土交通省、不動産業界向けAI実証事業を本格始動",
+      "summary": "国土交通省は、不動産会社の業務効率化を目指し、不動産業界で初めてとなるAI活用実証事業を本格的に開始した。",
+      "relevance": "省庁が主導する業界横断的なAI活用実証事業の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "zenchin.com",
+          "url": "https://www.zenchin.com/news/content-5934.php"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウドにおけるAWSの政府システム8割超独占と、さくらインターネットのガバメントクラウド正式認定",
+      "summary": "AWSがガバメントクラウドにおいて政府システムを8割超占める一方、さくらインターネットは自社クラウドサービスがガバメントクラウド正式認定を受けた。",
+      "relevance": "ガバメントクラウドにおける主要クラウドベンダーの動向や、認定要件への対応状況についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "scsk.jp",
+          "url": "https://www.scsk.jp/sp/itpnavi/article/2026/08/sovereigncloud.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/acc6ae36b027001a5d0b7d2059e4887d2d869d0b/images/000"
+        },
+        {
+          "name": "sakura.ad.jp",
+          "url": "https://www.sakura.ad.jp/recruit/midcareer/994/"
+        },
+        {
+          "name": "biz-journal.jp",
+          "url": "https://biz-journal.jp/ai/pickup-news/post_337312.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "財務省関税局、税関中長期構想2030で越境eコマース対応強化とAEO事業者の協力不可欠性を強調",
+      "summary": "財務省関税局は「税関中長期構想2030」を公表し、越境eコマースへの対応強化とAEO（認定事業者）の協力を不可欠とする方針を示した。",
+      "relevance": "税関行政におけるDX推進や、事業者連携のあり方についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "daily-cargo.com",
+          "url": "https://www.daily-cargo.com/news/logistics/2026/08/179361/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "自治体のコスト削減事例：舞鶴市「脱Windows」で6億円、千代田区Copilotで月2000時間削減",
+      "summary": "舞鶴市はWindowsからの脱却で6億円、千代田区はCopilot導入で月2000時間の業務時間削減を実現するなど、自治体におけるITツールの導入効果が報告されている。",
+      "relevance": "他自治体のITツール導入によるコスト削減・業務効率化事例について、自組織への適用可能性をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17316235/?ref=user"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドファンディング®、累計プロジェクト数5000件突破と和歌山市の事例",
+      "summary": "ふるさと納税を活用した「ガバメントクラウドファンディング®」の累計プロジェクト数が5000件を突破した。また、和歌山市におけるGCFでの混乱に関する説明が公開されている。",
+      "relevance": "ガバメントクラウドファンディングの活用事例や、プロジェクト推進における留意点についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "socialbusiness.aishas.co.jp",
+          "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/29915/"
+        },
+        {
+          "name": "oita-press.co.jp",
+          "url": "https://www.oita-press.co.jp/1010000000/2026/08/17/JDC2026081201489"
+        },
+        {
+          "name": "trustbank.co.jp",
+          "url": "https://www.trustbank.co.jp/newsroom/newsrelease/press1016/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/kisspress/region/kisspress-64881"
+        },
+        {
+          "name": "kisspress.jp",
+          "url": "https://kisspress.jp/news/64881/"
+        },
+        {
+          "name": "news.wa-net.net",
+          "url": "https://news.wa-net.net/?p=12671"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "静岡市、政令指定都市として全国初となる国土交通省「二地域居住先導的プロジェクト」に採択",
+      "summary": "静岡市は、国土交通省の「二地域居住先導的プロジェクト実装事業」に、政令指定都市として全国で初めて採択された。",
+      "relevance": "国のプロジェクトに採択された先進的な地方自治体の取り組みについてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "digital.kentsu.co.jp",
+          "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KZMPTT3YDN6AGDJ4H6CKW5NW"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "国土交通省関東地方整備局、猛暑対策評価を江戸川のWTO工事で初試行",
+      "summary": "国土交通省関東地方整備局は、猛暑対策の評価を江戸川のWTO（政府調達協定）対象工事で初めて試行した。",
+      "relevance": "政府調達における新たな評価基準の導入動向についてご検討ください。",
+      "category": "調達/契約",
+      "sources": [
+        {
+          "name": "digital.kentsu.co.jp",
+          "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KZDPB05X1RV976TM25MNNNT8"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【開催報告】第四北越銀行/AWS 共催データコラボレーションワークショップ in 新潟：地域産業のデータ連携による新たな価値創出",
+          "url": "https://aws.amazon.com/jp/blogs/news/data-collaboration-workshop-niigata/",
+          "pub_date": "2026-08-17T08:58:40.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026年8月10日週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260810/",
+          "pub_date": "2026-08-17T08:38:57.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/8/10週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260810/",
+          "pub_date": "2026-08-17T08:36:51.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "月刊 AWS 製造 2026 年 8 月号",
+          "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202608/",
+          "pub_date": "2026-08-17T06:45:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS ジャパン地域創生支援プログラム（LEAP by AWS ジャパン）を発表 — 地域経済のAIトランスフォーメーションを包括支援",
+          "url": "https://aws.amazon.com/jp/blogs/news/local-economy-acceleration-program/",
+          "pub_date": "2026-08-17T04:02:14.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+          "pub_date": "2026-08-17T02:30:39.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-17T15:20:11.754Z"
+}
