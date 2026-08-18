@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-19",
+      "summary_short": "政府、AI時代の国家公務員像の明確化へ有識者検討会を始動…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-18",
       "summary_short": "自治体向けAIサービス「zevo」にGemini 3.7…など10件",
       "article_count": 10,

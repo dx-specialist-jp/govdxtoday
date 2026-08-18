@@ -2648,6 +2648,76 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "国交省、排水機場のAIモニタリングシステム開発で民間事業者を公募、劣化傾向把握と維持管理体制確保へ",
+        "summary": "国土交通省は、AIを活用して排水機場等の河川機械設備の劣化傾向を迅速に把握し、機能喪失防止や適切な維持管理体制を確保するためのAIモニタリングシステム開発で民間事業者を公募する。",
+        "source": "digital-construction.jp",
+        "url": "https://digital-construction.jp/news/3892",
+        "relevance": "国交省によるAIモニタリングシステム開発の公募動向について、PMO/PjMO担当者はインフラ管理におけるAI活用の先進事例として、庁内での応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "企業のAIトラフィック一元管理、AIガバナンスプラットフォームやAI Gatewayの国内展開",
+        "summary": "生成AI・LLMの業務利用拡大を受け、企業のAIトラフィックを一元管理するAI Gatewayや、AIエージェントガバナンスプラットフォームが国内展開され、統制・ガバナンス需要に対応する。",
+        "source": "digitaltoday.co.kr",
+        "url": "https://www.digitaltoday.co.kr/jp/view/93966/cloud-networks-to-supply-kong-ai-traffic-management-gateway-in-south-korea",
+        "relevance": "AIトラフィックの統制・ガバナンス需要に対応するAI GatewayやAIエージェントガバナンスプラットフォームの動向について、PMO/PjMO担当者は庁内でのAI利用における管理体制構築をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "ベトナムとASEAN諸国、銀行・自治体におけるAIガバナンスへの適応策を模索",
+        "summary": "ベトナムでは、AIアプリケーションの必要性が業務上の圧力から生じており、銀行や自治体でAIガバナンス原則の確立、管理、説明責任、データ保護、顧客権利確保が要請されている。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/thong-doc-ung-dung-ai-trong-ngan-hang-phai-kiem-soat-duoc-rui-ro",
+        "relevance": "海外におけるAIガバナンスの取り組み状況について、PMO/PjMO担当者は規制動向やベストプラクティスを把握し、国内でのAI導入・運用体制構築に役立つ視点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "IPA「DX動向2026」に見るAI利活用の現状と企業変革へ向けた投資戦略",
+        "summary": "IPAの「DX動向2026」では、AI導入の広がりとDX成果の乖離、評価指標の不在、データ連携とガバナンス体制の整備、人材育成、事業変革への投資戦略が示されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17322836/body/",
+        "relevance": "IPAのDX動向レポートにおけるAI利活用とDX成果の乖離、ガバナンス体制整備の課題について、PMO/PjMO担当者は庁内のDX推進状況との関連をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "JDLAが創設したAIガバナンス第三者認証制度「C認証」が広がる、ABEJAが先行取得",
+        "summary": "JDLAは、AIガバナンス体制を第三者の立場から認証する新制度「C認証」の提供を開始し、ABEJAが先行取得企業となった。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000228.000010628.html",
+        "relevance": "AIガバナンスの重要性が高まる中、第三者認証制度の動向について、PMO/PjMO担当者は情報収集し、組織としてのAIガバナンス体制構築をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "政府が「国家代表人工知能(AI)」モデル開発を競う精鋭チームを3ヶ所に圧縮、自治体AI zevoにGemini 3.7 Flash提供開始",
+        "summary": "政府が「国家代表人工知能(AI)」モデル開発のため精鋭チームを3ヶ所に絞り込み、自治体向けAIシステム「自治体AI zevo」ではGemini 3.7 Flashの提供を開始する。",
+        "source": "mk.co.kr",
+        "url": "https://www.mk.co.kr/jp/it/12130395",
+        "relevance": "国のAIモデル開発動向や、自治体でのGemini活用事例について、PMO/PjMO担当者は情報収集し、類似システムの導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "政府、AI時代の国家公務員像の明確化へ有識者検討会を始動し、生成AI利用基盤「源内」の実証事業を開始",
+        "summary": "政府はAI時代の国家公務員像を明確化するため有識者検討会を始動させ、デジタル庁は全府省庁職員を対象とした生成AI利用基盤「源内」の大規模実証事業を開始する。",
+        "source": "dempa-digital.com",
+        "url": "https://dempa-digital.com/article/723013",
+        "relevance": "生成AIの業務活用に向けた政府の方針や実証事業の動向について、PMO/PjMO担当者は情報収集し、庁内での活用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-18",
         "date_ja": "2026年8月18日（火）",
         "title": "国土交通省、不動産業界向けAI実証事業を本格始動",
@@ -5214,6 +5284,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "自治体DX推進のための業務見直しの進め方とデジタル庁・総務省の指針",
+        "summary": "自治体DX推進には、AI-OCRや各種クラウド活用に加え、デジタル庁「デジタル社会の実現に向けた重点計画」や総務省「自治体DX」の指針を踏まえた業務見直しの進め方が重要である。",
+        "source": "jt-tsushin.jp",
+        "url": "https://www.jt-tsushin.jp/articles/service/platform-glocal-spool-20260818",
+        "relevance": "自治体DX推進のための業務見直しの進め方について、PMO/PjMO担当者は中央省庁の指針を踏まえ、組織内のDX推進計画策定をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-18",
         "date_ja": "2026年8月18日（火）",
         "title": "静岡市、政令指定都市として全国初となる国土交通省「二地域居住先導的プロジェクト」に採択",
@@ -5615,6 +5695,33 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "AWS Certificate Manager が E メールによるドメイン検証を終了、DNS 検証への移行をご案内します",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "AWS Bedrock LLM Day Japan【開催報告】",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-bedrock-llm-day-japan%E3%80%90%E9%96%8B%E5%82%AC%E5%A0%B1%E5%91%8A%E3%80%91/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "【開催報告】AWS Summit Japan 2026 レポート：SUMCO が挑む、Amazon Redshift × 生成 AI による半導体ウェーハ製造 DX",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/sumco-redshift-generative-ai-semiconductor-wafer-dx/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-18",
         "date_ja": "2026年8月18日（火）",
@@ -6769,6 +6876,15 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "【Next Tokyo】アーカイブ セッション配信スタート！",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/next-tokyo/next-tokyo-archive-sessions-now-available/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-17",
         "date_ja": "2026年8月17日（月）",
@@ -8394,6 +8510,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "「ガバメントクラウドファンディング」による自治体の支援募集・情報発信事例",
+        "summary": "「ふるさとチョイス」では、返礼品ではなく「使い道」で地域を応援する「ガバメントクラウドファンディング」による自治体の支援募集・情報発信事例が紹介されている。",
+        "source": "okinawatimes.co.jp",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1904605",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、PMO/PjMO担当者は、予算確保や事業推進における新たな資金調達・支援獲得の手段としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-12",
         "date_ja": "2026年8月12日（水）",
         "title": "ガバメントクラウドファンディングを活用した地域振興・防災支援事例",
@@ -8425,6 +8551,16 @@
       }
     ],
     "調達・契約": [
+      {
+        "date": "2026-08-19",
+        "date_ja": "2026年8月19日（水）",
+        "title": "5年利付国債の入札結果と長期金利の動向",
+        "summary": "財務省による5年利付国債の入札結果が発表され、長期金利は上昇し一時30年ぶり高水準となった。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/21bbcc6e-95a7-45c8-b63a-a37e2e4360d7",
+        "relevance": "国債入札結果や金利動向といった財政・金融市場の動向は、政府のIT投資やプロジェクト予算にも影響を与える可能性があるため、PMO/PjMO担当者は関連情報をご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-13",
         "date_ja": "2026年8月13日（木）",
@@ -8648,20 +8784,20 @@
     "その他": 178,
     "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 171,
+    "AI活用": 178,
     "クラウド/インフラ": 48,
     "制度/ガイドライン": 37,
-    "自治体DX事例": 40,
-    "AWS最新情報": 128,
-    "Google Cloud最新情報": 98,
+    "自治体DX事例": 41,
+    "AWS最新情報": 131,
+    "Google Cloud最新情報": 99,
     "働き方/業務改革": 15,
     "さくらのクラウド最新情報": 56,
     "AIガバナンス": 8,
-    "ガバメントクラウド": 3,
-    "調達・契約": 7,
+    "ガバメントクラウド": 4,
+    "調達・契約": 8,
     "デジタル庁": 3,
     "調達/契約": 3,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-17T15:20:11.758Z"
+  "updated_at": "2026-08-18T15:26:20.997Z"
 }
