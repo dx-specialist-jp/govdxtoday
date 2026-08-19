@@ -1,0 +1,405 @@
+{
+  "date": "2026-08-20",
+  "date_ja": "2026年8月20日（木）",
+  "news_summary": [
+    "総務省は自治体サイバー対策強化のため専門チーム派遣とIT機器調達支援を実施",
+    "総務省の「自治体情報システム強靭性向上モデル」に基づきネットワーク三層分離対応を推進",
+    "AIエージェントの登場によりAIガバナンス、倫理的・法的課題への対応が重要",
+    "AIガバナンス強化はイノベーション促進とリスクマネジメント両立に不可欠",
+    "経済産業省、国土交通省、農林水産省、デジタル庁等がAI・DX関連施策を推進",
+    "AWSジャパンは地域創生支援の新プログラム「LEAP by AWSジャパン」を発表",
+    "基幹業務システムの標準化とガバメントクラウドへの移行、ガバメントクラウドファンディング活用を推進",
+    "総務省・経済産業省はスタートアップ製品の公共調達強化と4号随契活用を促進"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: PostgreSQLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のElastic製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のVMware製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSAP製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSonicWall製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のIvanti製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: NetScaler ADCおよびNetScaler Gatewayにリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: MetabaseにSQLインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: JetBrains TeamCity（オンプレミス版）にリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: acmailerにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN47716829/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
+      "url": "https://jvn.jp/vu/JVNVU90536447/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "総務省による自治体サイバー対策強化とIT機器調達支援",
+      "summary": "総務省は、自治体のサイバー被害拡大防止のため、専門チームを派遣し、非常時だけでなくシステムの改修作業も支援する方針です。また、IT機器の調達に関する相談窓口も設置します。",
+      "relevance": "PMO/PjMOの皆様は、自治体向けIT機器調達に関する相談窓口の活用と、サイバーセキュリティ対策の強化についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/706f05b6a511194ff7018918d08e8545b48e8781"
+        },
+        {
+          "name": "sp.m.jiji.com",
+          "url": "https://sp.m.jiji.com/amp/article/show/3848612"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省の「自治体情報システム強靭性向上モデル」に基づくネットワーク三層分離対応と調達",
+      "summary": "総務省の「自治体情報システム強靭性向上モデル」に基づき、取手市役所ではネットワーク三層分離に対応するため、リモートPCアレイが導入されました。",
+      "relevance": "PMO/PjMOの皆様は、自治体情報システム強靭性向上モデルに基づくネットワーク三層分離への対応についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "jimin.jp",
+          "url": "https://www.jimin.jp/news/information/214021.html"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14813334.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIエージェントの活用とガバナンス、倫理的・法的課題への対応",
+      "summary": "AIエージェントの登場により、AIガバナンスの確立や倫理的・法的な課題への対応が重要視されています。AIの悪用対策や、AIに倫理観を植え付けるための議論が進められています。",
+      "relevance": "PMO/PjMOの皆様は、AIエージェント導入におけるリスクと、それに対するガバナンス体制の構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "x-bomberth.com",
+          "url": "https://x-bomberth.com/20260819thaipass/"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900197418.html"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000621/"
+        },
+        {
+          "name": "twobirds.com",
+          "url": "https://www.twobirds.com/ja/insights/2026/japan/legal-and-practical-considerations-for-robotics-in-the-age-of-physical-ai"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンスの重要性と実践、AI変革支援体制の構築",
+      "summary": "AIガバナンスの強化は、AIの広範な展開と事業成果に不可欠であり、イノベーション促進とリスクマネジメントの両立が求められています。AI変革を支援する組織設立や、AI利用の可視化・制御セキュリティへの投資も進んでいます。",
+      "relevance": "PMO/PjMOの皆様は、AIガバナンス体制の構築と、AI活用における「攻め」と「守り」のバランスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "deloitte.com",
+          "url": "https://www.deloitte.com/jp/ja/Industries/financial-services/perspectives/banking-on-trust.html"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/su-phat-trien-cua-ai-phai-luon-huong-toi-phuc-vu-con-nguoi"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251674/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251591/"
+        },
+        {
+          "name": "japanese.cri.cn",
+          "url": "https://japanese.cri.cn/2026/08/19/ARTI1787132977709898"
+        },
+        {
+          "name": "databricks.com",
+          "url": "https://www.databricks.com/jp/blog/evaluating-ai-agents-live-grounded-reasoning-cup"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251692/"
+        },
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1974397"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP711324_19082026000000"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00711/081300040/"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/ud/prtimesstory/6a850382126217541f000000"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000188.000121022.html"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/35628/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP711306_19082026000000"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24877"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP711289_Z10C26A8000000/"
+        },
+        {
+          "name": "moomoo.com",
+          "url": "https://www.moomoo.com/ja/community/feed/lgms-cybersecurity-growth-outlook-strengthened-by-ahsb-contribution-and-interim-117120259522965"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13435"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "経済産業省、国土交通省、農林水産省、デジタル庁等によるAI・DX関連施策",
+      "summary": "経済産業省はDX推進セミナーを開催し、AIとサイバーセキュリティ対策の重要性を強調しています。また、AI活用事例の表彰や、フィジカルAI時代のロボティクスに関する法的な課題についても言及しています。デジタル庁もDX推進に関わる施策を展開しています。",
+      "relevance": "PMO/PjMOの皆様は、各省庁が進めるAI・DX関連施策の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aist.go.jp",
+          "url": "https://www.aist.go.jp/shikoku/ja/news/shikoku_202600819-001.html"
+        },
+        {
+          "name": "sogyotecho.jp",
+          "url": "https://sogyotecho.jp/news/20260819kenkou-keiei/"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14812237.html"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00907/081900011/?i_cid=nbpnb_top_editorpicks"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWSジャパン、地域企業のAI導入支援プログラム「LEAP by AWSジャパン」を発表",
+      "summary": "アマゾン ウェブ サービス ジャパン（AWSジャパン）は、地域創生支援に関する新プログラム「LEAP by AWSジャパン」を発表しました。",
+      "relevance": "PMO/PjMOの皆様は、AWSによる地域企業向けAI導入支援プログラムの動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17327860/?ref=user"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウドへの移行とガバメントクラウドファンディングの活用",
+      "summary": "自治体DX・AX推進において、基幹業務システムの標準化とガバメントクラウドへの移行が進められています。また、ガバメントクラウドファンディングの活用により、寄附の使い道を明確に発信し、支援を募る取り組みも拡大しています。",
+      "relevance": "PMO/PjMOの皆様は、ガバメントクラウドへの移行計画と、ガバメントクラウドファンディングの活用可能性についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jichitai.works",
+          "url": "https://jichitai.works/seminars/1172"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/seminar/19nv/120500136/072701471/"
+        },
+        {
+          "name": "city.shiso.lg.jp",
+          "url": "https://www.city.shiso.lg.jp/soshiki/shichokoshitsu/hishokoho/tantojoho/kisyahappyou/R8pressrelease/21914.html"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/gallery/1904605"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省・経済産業省による新興製品の公共調達強化と4号随契の活用促進",
+      "summary": "総務省と経済産業省は、スタートアップの製品の公共調達を強化するため、地方自治法に基づく随意契約「4号随契」の活用を促進する方針です。",
+      "relevance": "PMO/PjMOの皆様は、スタートアップ製品の公共調達における4号随契の活用についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "nikkan.co.jp",
+          "url": "https://www.nikkan.co.jp/articles/view/00789719"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Agentic AI でつなぐモノ・サービスの改善サイクル 〜 蓄積する運用フェーズのデータを Amazon Quick で次の開発に活用する方法を学ぼう",
+          "url": "https://aws.amazon.com/jp/blogs/news/smart-products-ai-sdlc-operation/",
+          "pub_date": "2026-08-19T12:03:50.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Certificate Manager の ACME サポートで証明書の発行と更新を自動化",
+          "url": "https://aws.amazon.com/jp/blogs/news/automate-certificates-with-acme-support-in-aws-certificate-manager/",
+          "pub_date": "2026-08-19T05:34:37.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Security Hub Extended が 10 番目のカテゴリとしてサプライチェーンセキュリティを追加",
+          "url": "https://aws.amazon.com/jp/blogs/news/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
+          "pub_date": "2026-08-19T05:31:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "株式会社日新 × AWS：人とAIが協働する新しい物流「オプティマAI」",
+          "url": "https://aws.amazon.com/jp/blogs/news/nissin-optimaai/",
+          "pub_date": "2026-08-19T04:08:49.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "鮮度の高いインサイトで迅速な意思決定を – talabat が AWS と Google Cloud で実現したニアリアルタイム分析",
+          "url": "https://aws.amazon.com/jp/blogs/news/fresher-insights-faster-decisions-talabats-near-real-time-analytics-across-aws-and-google-cloud/",
+          "pub_date": "2026-08-19T03:01:09.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 19, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_19_2026",
+          "pub_date": "2026-08-19T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "南北アメリカにおける接続性の拡大: 海底ケーブル Alisios、Canoa、OlaLuz を発表",
+          "url": "https://cloud.google.com/blog/ja/products/infrastructure/introducing-americas-connect/",
+          "pub_date": "2026-08-19T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "開発の裏側: Google Agent Skills の構築、テスト、スケーリング",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/",
+          "pub_date": "2026-08-19T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "「The Forrester Wave™: AI Platforms, Q3 2026」で Google がリーダーに選出",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
+          "pub_date": "2026-08-19T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AI を活用した現実のメインフレーム モダナイゼーション: メインフレームからクラウドへの安全でスケーラブルな道筋",
+          "url": "https://cloud.google.com/blog/ja/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
+          "pub_date": "2026-08-19T01:40:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新）",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
+          "pub_date": "2026-08-19T06:30:04.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-19T15:25:49.147Z"
+}
