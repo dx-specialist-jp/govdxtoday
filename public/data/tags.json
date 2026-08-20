@@ -2668,6 +2668,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "AWSジャパン、地域創生プログラム「LEAP」を発表、最大5万ドル支援",
+        "summary": "AWSジャパンは、地域創生プログラム「LEAP」を発表し、最大5万ドルの支援を提供します。また、政府はNTTデータ・富士通・Preferredの国産AIを「さくらのクラウド」で試用する方針です。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/act/19/00012/082001742/?i_cid=nbpnxta_sied_newarticles",
+        "relevance": "地域創生や国産AIの活用に向けたAWSの取り組みについて、連携可能性や支援策をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "AIガバナンスとGRC体制、企業におけるAI活用とリスク管理の重要性が高まる",
+        "summary": "AI活用が進む中、企業ではAIガバナンスの確立やGRC（ガバナンス、リスク、コンプライアンス）体制の整備が喫緊の課題となっています。AIの利用拡大に伴うリスク管理や、国内外のAI規制対応が求められています。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000013.000171371&g=prt",
+        "relevance": "AI導入におけるリスク管理体制の構築や、国内外のAI規制動向を踏まえたガバナンスフレームワークの整備について、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "政府、国産AI基盤システム「源内」の本格実証を開始、18万人規模で業務支援",
+        "summary": "政府は、国家公務員の業務支援を目的に独自開発した生成AI基盤システム「源内」の大規模実証事業を開始しました。2027年度からの本格運用を目指し、文章作成や国会答弁の草案作成機能などを提供します。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/675295?rct=nationwide",
+        "relevance": "「源内」の活用範囲や、各府省庁におけるAI導入の進捗状況について、プロジェクト横断での情報収集・共有をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
         "title": "AWSジャパン、地域企業のAI導入支援プログラム「LEAP by AWSジャパン」を発表",
@@ -4982,6 +5012,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "米トランプ政権、AI戦略としてAI企業への関与を強化、規制と解禁を繰り返す",
+        "summary": "米トランプ政権は、AI企業への関与を強めており、公開前の最先端AIを政府が確認する新たな審査の枠組みを具体化しています。規制と解禁を繰り返しながらAI覇権争いを左右する戦略を進めています。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/451d77435326504bf6ce88d552723af854e3bcad",
+        "relevance": "国際的なAI規制の動向や、海外政府のAI戦略が国内のAI政策や調達に与える影響について、注視をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-18",
         "date_ja": "2026年8月18日（火）",
         "title": "財務省関税局、税関中長期構想2030で越境eコマース対応強化とAEO事業者の協力不可欠性を強調",
@@ -5353,6 +5393,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "熊本地震で携帯通信網の「備え」発動、政府のデジタル支援策も相次ぐ",
+        "summary": "熊本地震では、携帯通信網の「備え」が発動され、広域災害救急医療情報システム「EMIS」が災害モードに切り替わりました。政府は自治体へのデジタル支援策も展開しています。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701484/",
+        "relevance": "災害時の情報システム連携や、デジタル技術を活用した自治体支援策の有効性について、事例としてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-19",
         "date_ja": "2026年8月19日（水）",
@@ -5765,6 +5815,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "AWS HealthOmics と Amazon Bedrock AgentCore によるゲノムバリアント解釈の高速化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerating-genomics-variant-interpretation-with-aws-healthomics-and-amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "AWS Weekly Roundup: EC2 アプリケーションステータスチェック、IAM ロールマネージャー、OpenAI Daybreak on Bedrock など (2026 年 8 月 17 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "開発中: ベルリン、ハイデラバード、サンパウロの AWS Builder Lofts",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "PKUTECH が Amazon Bedrock を活用して実現した AI-CSPM「Egeria-Security」のセキュアな設計",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/genai-case-study-pkutech/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "Kite、AWS HealthOmics を活用し細胞治療研究向けのスケーラブルなバイオインフォマティクスを推進",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kite-advances-scalable-bioinformatics-for-cell-therapy-research-in-collaboration-with-aws-healthomics/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
@@ -6991,6 +7086,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "Spanner Graph で小売商品の検索性能を強化し、データベースのメンテナンス工数半減を達成した Target の取り組み",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "API 対応エコシステムでアジリティを獲得した Deutsche Bank の手法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "複数の結果セット: Database Migration Service における SQL Server から PostgreSQL への変換の自動化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/automating-postgres-translations-with-database-migration-service/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "Future Mode パート 2: エージェント型ブラウジングを保護するための基盤",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-21",
+        "date_ja": "2026年8月21日（金）",
+        "title": "PQC をわかりやすく解説: Google Cloud のポスト量子暗号ロードマップ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
@@ -8963,12 +9103,12 @@
     "その他": 178,
     "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 182,
+    "AI活用": 185,
     "クラウド/インフラ": 49,
-    "制度/ガイドライン": 37,
-    "自治体DX事例": 41,
-    "AWS最新情報": 136,
-    "Google Cloud最新情報": 104,
+    "制度/ガイドライン": 38,
+    "自治体DX事例": 42,
+    "AWS最新情報": 141,
+    "Google Cloud最新情報": 109,
     "働き方/業務改革": 15,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
@@ -8978,5 +9118,5 @@
     "調達/契約": 3,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-19T15:25:49.153Z"
+  "updated_at": "2026-08-20T15:28:21.775Z"
 }

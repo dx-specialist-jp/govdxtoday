@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-21",
+      "summary_short": "政府、国産AI基盤システム「源内」の本格実証を開始、18…など5件",
+      "article_count": 5,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-20",
       "summary_short": "総務省による自治体サイバー対策強化とIT機器調達支援…など8件",
       "article_count": 8,

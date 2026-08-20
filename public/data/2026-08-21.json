@@ -1,0 +1,305 @@
+{
+  "date": "2026-08-21",
+  "date_ja": "2026年8月21日（金）",
+  "news_summary": [
+    "政府は国産生成AI基盤システム「源内」の本格実証を開始し、2027年度からの運用を目指します。",
+    "AIガバナンスとGRC体制の整備が、AI活用拡大に伴うリスク管理のために喫緊の課題となっています。",
+    "AWSジャパンは地域創生プログラム「LEAP」を発表し、最大5万ドルの支援を提供します。",
+    "米トランプ政権は、公開前の最先端AIを政府が確認する新たな審査枠組みを具体化しています。",
+    "熊本地震で携帯通信網の「備え」が発動され、広域災害救急医療情報システム「EMIS」も災害モードに切り替わりました。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: 複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
+      "url": "https://jvn.jp/vu/JVNVU91609598/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: RDK-BのWebUIにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91551881/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府、国産AI基盤システム「源内」の本格実証を開始、18万人規模で業務支援",
+      "summary": "政府は、国家公務員の業務支援を目的に独自開発した生成AI基盤システム「源内」の大規模実証事業を開始しました。2027年度からの本格運用を目指し、文章作成や国会答弁の草案作成機能などを提供します。",
+      "relevance": "「源内」の活用範囲や、各府省庁におけるAI導入の進捗状況について、プロジェクト横断での情報収集・共有をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/675295?rct=nationwide"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f9d24707041615800647e37267019b743adb14f7/images/000"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186622"
+        },
+        {
+          "name": "minyu-net.com",
+          "url": "https://www.minyu-net.com/newspack/detail/2026082001000077"
+        },
+        {
+          "name": "hokkoku.co.jp",
+          "url": "https://www.hokkoku.co.jp/articles/-/2204833"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/pickup/6592378"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/national/nationalmain/1023629.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17338242/?block=categories&ref=index"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32110273/"
+        },
+        {
+          "name": "sandigi-www.webow.jp",
+          "url": "https://sandigi-www.webow.jp/article/1974840"
+        },
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/2026081917974"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3aca3f69aeb95d0cfe318bbb9ead560892e3b32a"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/articles/biz/1774834"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1905793"
+        },
+        {
+          "name": "nishinippon.co.jp",
+          "url": "https://www.nishinippon.co.jp/item/1528581/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026082001000077?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンスとGRC体制、企業におけるAI活用とリスク管理の重要性が高まる",
+      "summary": "AI活用が進む中、企業ではAIガバナンスの確立やGRC（ガバナンス、リスク、コンプライアンス）体制の整備が喫緊の課題となっています。AIの利用拡大に伴うリスク管理や、国内外のAI規制対応が求められています。",
+      "relevance": "AI導入におけるリスク管理体制の構築や、国内外のAI規制動向を踏まえたガバナンスフレームワークの整備について、ご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000013.000171371&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/story/detail/Ybjkjs3W7BZ"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000038.000140551.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7a3ad5efd7d51a71951e172463d2f15b003e590a"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000359848"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186604"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24888"
+        },
+        {
+          "name": "nttdata.com",
+          "url": "https://www.nttdata.com/global/ja/news/topics/2026/082000"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ai-ton-tien-nhung-co-tot-that-ong-chu-cac-doanh-nghiep-dau-dau"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251731/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000100.000068656.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000013.000171371.html"
+        },
+        {
+          "name": "shinnihon-ins.co.jp",
+          "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260820-3/"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/103232"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/103227"
+        },
+        {
+          "name": "forest.watch.impress.co.jp",
+          "url": "https://forest.watch.impress.co.jp/docs/serial/aidev/2132839.html"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251600/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251534/3/"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/news/2608/20/news11.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/0c97a07a-8c04-4e94-a441-d375e2d5839c"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AWSジャパン、地域創生プログラム「LEAP」を発表、最大5万ドル支援",
+      "summary": "AWSジャパンは、地域創生プログラム「LEAP」を発表し、最大5万ドルの支援を提供します。また、政府はNTTデータ・富士通・Preferredの国産AIを「さくらのクラウド」で試用する方針です。",
+      "relevance": "地域創生や国産AIの活用に向けたAWSの取り組みについて、連携可能性や支援策をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00012/082001742/?i_cid=nbpnxta_sied_newarticles"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "米トランプ政権、AI戦略としてAI企業への関与を強化、規制と解禁を繰り返す",
+      "summary": "米トランプ政権は、AI企業への関与を強めており、公開前の最先端AIを政府が確認する新たな審査の枠組みを具体化しています。規制と解禁を繰り返しながらAI覇権争いを左右する戦略を進めています。",
+      "relevance": "国際的なAI規制の動向や、海外政府のAI戦略が国内のAI政策や調達に与える影響について、注視をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/451d77435326504bf6ce88d552723af854e3bcad"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/186502"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "熊本地震で携帯通信網の「備え」発動、政府のデジタル支援策も相次ぐ",
+      "summary": "熊本地震では、携帯通信網の「備え」が発動され、広域災害救急医療情報システム「EMIS」が災害モードに切り替わりました。政府は自治体へのデジタル支援策も展開しています。",
+      "relevance": "災害時の情報システム連携や、デジタル技術を活用した自治体支援策の有効性について、事例としてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701484/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Kite、AWS HealthOmics を活用し細胞治療研究向けのスケーラブルなバイオインフォマティクスを推進",
+          "url": "https://aws.amazon.com/jp/blogs/news/kite-advances-scalable-bioinformatics-for-cell-therapy-research-in-collaboration-with-aws-healthomics/",
+          "pub_date": "2026-08-20T08:45:03.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "PKUTECH が Amazon Bedrock を活用して実現した AI-CSPM「Egeria-Security」のセキュアな設計",
+          "url": "https://aws.amazon.com/jp/blogs/news/genai-case-study-pkutech/",
+          "pub_date": "2026-08-20T08:27:24.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "開発中: ベルリン、ハイデラバード、サンパウロの AWS Builder Lofts",
+          "url": "https://aws.amazon.com/jp/blogs/news/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+          "pub_date": "2026-08-20T08:24:55.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Weekly Roundup: EC2 アプリケーションステータスチェック、IAM ロールマネージャー、OpenAI Daybreak on Bedrock など (2026 年 8 月 17 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+          "pub_date": "2026-08-20T07:56:31.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS HealthOmics と Amazon Bedrock AgentCore によるゲノムバリアント解釈の高速化",
+          "url": "https://aws.amazon.com/jp/blogs/news/accelerating-genomics-variant-interpretation-with-aws-healthomics-and-amazon-bedrock-agentcore/",
+          "pub_date": "2026-08-20T05:41:36.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "PQC をわかりやすく解説: Google Cloud のポスト量子暗号ロードマップ",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+          "pub_date": "2026-08-20T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Future Mode パート 2: エージェント型ブラウジングを保護するための基盤",
+          "url": "https://cloud.google.com/blog/ja/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
+          "pub_date": "2026-08-20T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "複数の結果セット: Database Migration Service における SQL Server から PostgreSQL への変換の自動化",
+          "url": "https://cloud.google.com/blog/ja/products/databases/automating-postgres-translations-with-database-migration-service/",
+          "pub_date": "2026-08-20T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "API 対応エコシステムでアジリティを獲得した Deutsche Bank の手法",
+          "url": "https://cloud.google.com/blog/ja/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
+          "pub_date": "2026-08-20T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Spanner Graph で小売商品の検索性能を強化し、データベースのメンテナンス工数半減を達成した Target の取り組み",
+          "url": "https://cloud.google.com/blog/ja/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+          "pub_date": "2026-08-20T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-20T15:28:21.768Z"
+}
