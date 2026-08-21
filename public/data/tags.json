@@ -2668,6 +2668,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "AI投資コストの最適化とAI利用料金の管理",
+        "summary": "AI投資コストの高騰が課題となる中、AI料金の無駄な出費を抑えるための鉄則や、AIインフラ整備への投資、画像生成AIやLLMなどの活用が示唆されています。",
+        "source": "techtarget.itmedia.co.jp",
+        "url": "https://techtarget.itmedia.co.jp/tt/news/2608/21/news03.html",
+        "relevance": "AI関連サービス利用におけるコスト管理手法や、効果的な投資判断についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "タイ政府、国民500万人に生成AIを無料開放し普及促進へ",
+        "summary": "タイ政府は、15歳以上の国民500万人を対象に、ChatGPTやGeminiなどの生成AIサービスを1年間無料で提供するプログラムを開始しました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/c86fd57a-97fd-4490-b2b2-452d701b9792",
+        "relevance": "国民へのAIリテラシー向上のための施策として、行政が提供するAIサービスのあり方や普及促進策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "国産生成AI基盤システム「源内」の本格実証開始、国会答弁作成支援など行政業務への活用目指す",
+        "summary": "政府は国家公務員業務支援のため、独自開発した生成AI基盤システム「源内」の本格実証を開始しました。約30〜40種の特化型アプリを実装し、国会答弁草案作成や矛盾検証などを想定しています。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/article/b93cf4b2-50df-4aa5-ae84-b8eab5f9f8e7",
+        "relevance": "「源内」のような国産AIシステム導入におけるプロジェクト推進体制や、AI活用による業務効率化の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-21",
         "date_ja": "2026年8月21日（金）",
         "title": "AWSジャパン、地域創生プログラム「LEAP」を発表、最大5万ドル支援",
@@ -4520,6 +4550,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "ガバメントクラウドへのさくらインターネットの採択と不正アクセス事案",
+        "summary": "さくらインターネットの「さくらのクラウド」がデジタル庁のガバメントクラウドに採択されましたが、同社で不正アクセスが発生し、最大136万件の会員情報に影響リスクが生じました。",
+        "source": "city.shibuya.tokyo.jp",
+        "url": "https://www.city.shibuya.tokyo.jp/kurashi/koseki/koseki-todokede/kosekihikakukekka.html",
+        "relevance": "ガバメントクラウド利用におけるセキュリティ対策の重要性や、クラウド事業者選定時のリスク評価についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
         "title": "ガバメントクラウドへの移行とガバメントクラウドファンディングの活用",
@@ -5012,6 +5052,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "AIガバナンスの重要性と企業・政府による取り組み",
+        "summary": "AI技術の急速な進歩に伴い、AI倫理規制、リスク管理、セキュリティ文化の構築など、AIガバナンスの重要性が高まっています。各国政府や企業が規格認証取得やガイドライン策定を進めています。",
+        "source": "voi.id",
+        "url": "https://voi.id/ja/teknologi/590683",
+        "relevance": "行政DX推進におけるAIガバナンス体制の構築や、AI導入・運用に関するリスク管理のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-21",
         "date_ja": "2026年8月21日（金）",
         "title": "米トランプ政権、AI戦略としてAI企業への関与を強化、規制と解禁を繰り返す",
@@ -5393,6 +5443,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "伊勢原市、ガバメントクラウドファンディングを活用し移動教室を実施",
+        "summary": "伊勢原市は、ふるさと納税制度を活用したガバメントクラウドファンディング（GCF）により、小学4年生向けの科学館での移動教室を実現しました。",
+        "source": "townnews.co.jp",
+        "url": "https://www.townnews.co.jp/0405/2026/08/21/849399.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例として、地域課題解決に向けた行政サービスの提供方法についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-21",
         "date_ja": "2026年8月21日（金）",
@@ -5815,6 +5875,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "Amazon S3 Tables による Amazon Redshift システムテーブルの長期保持",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/long-term-system-tables-retention-in-amazon-redshift-with-amazon-s3-tables/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "サンリオのエンジニア 6 名が 2 日間で体感した AI 駆動開発の可能性 — AI-DLC Unicorn Gym 座談会",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/sanrio-ai-dlc-unicorn-gym-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "OpenAI と AWS によるサイバー防御の加速: Daybreak Red と Daybreak Blue を Amazon Bedrock で対象のお客様に提供開始",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "ポスト量子暗号 (PQC) 移行を導く CISO 向け戦略プレイブック",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/the-cisos-guide-to-post-quantum-mandates-and-migrations/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "Amazon Aurora DSQL の可観測性の概念と Amazon CloudWatch での活用",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-21",
         "date_ja": "2026年8月21日（金）",
@@ -7086,6 +7191,42 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "AI 時代のデジタル主権: 制御とイノベーションの二者択一が不要に",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "プライバシー重視の AI で脳腫瘍研究を後押し",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "「ノイジー ネイバー」問題の解決: シャーディング アーキテクチャがマルチテナント プラットフォームを守る方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "Gemini in Database Migration Service を使用した PostgreSQL への移行の迅速化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-21",
         "date_ja": "2026年8月21日（金）",
@@ -8985,6 +9126,26 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "政府・財務省の経済施策と財政動向",
+        "summary": "総務省の消費者物価指数発表、財務省の国債費想定金利調整、米財務省の介入姿勢など、政府の経済政策や財政動向に関する情報が報じられています。",
+        "source": "news.web.nhk",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260821de45593",
+        "relevance": "経済動向がIT調達やインフラ投資に与える影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-22",
+        "date_ja": "2026年8月22日（土）",
+        "title": "政府AI「源内」実証の成否は単年度予算主義と従来のIT調達制度打破にかかる",
+        "summary": "政府AI「源内」の実証は前進していますが、その成否は、初期開発後の保守更新や現場運用の予算設計の硬直化、従来のIT調達制度を打破できるかにかかっています。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/142044/posts/1475024",
+        "relevance": "AIシステム導入における継続的な予算確保や、柔軟なIT調達制度の検討についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-18",
         "date_ja": "2026年8月18日（火）",
         "title": "国土交通省関東地方整備局、猛暑対策評価を江戸川のWTO工事で初試行",
@@ -9103,20 +9264,20 @@
     "その他": 178,
     "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 185,
-    "クラウド/インフラ": 49,
-    "制度/ガイドライン": 38,
-    "自治体DX事例": 42,
-    "AWS最新情報": 141,
-    "Google Cloud最新情報": 109,
+    "AI活用": 188,
+    "クラウド/インフラ": 50,
+    "制度/ガイドライン": 39,
+    "自治体DX事例": 43,
+    "AWS最新情報": 146,
+    "Google Cloud最新情報": 113,
     "働き方/業務改革": 15,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
     "ガバメントクラウド": 4,
     "調達・契約": 9,
     "デジタル庁": 3,
-    "調達/契約": 3,
+    "調達/契約": 5,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-20T15:28:21.775Z"
+  "updated_at": "2026-08-21T15:27:22.874Z"
 }
