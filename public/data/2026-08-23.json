@@ -1,0 +1,260 @@
+{
+  "date": "2026-08-23",
+  "date_ja": "2026年8月23日（日）",
+  "news_summary": [
+    "AIエージェントの利用拡大に対し、ガバナンス体制の整備が追いついていない状況。",
+    "国土交通省はAI実証事業で不動産会社の生産性向上を支援する方針。",
+    "経済産業省は生成AI活用でエンタメ・クリエイティブ産業の海外売上20兆円を目指す。",
+    "日立エンジニアがガバメントクラウド対応でMicrosoft Top Partner Engineer Awardを受賞。",
+    "総務省・経済産業省はAI事業者ガイドラインで製品安全対策を推進。",
+    "自治体でガバメントクラウドファンディングを活用した地域活性化事例が増加。",
+    "日台連携で半導体・AIサプライチェーン構築の重要性が指摘される。",
+    "総務省はSNS普及による郵便物減で郵便事業の縮小を検討開始。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性",
+      "url": "https://jvn.jp/jp/JVN81414813/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIエージェントの拡大とガバナンスの課題",
+      "summary": "AIエージェントの利用が急速に拡大する一方、多くの組織でガバナンス体制が追いついていない状況が明らかになっています。AIエージェント関連インシデントのリスクも指摘されています。",
+      "relevance": "AIエージェント導入に伴うリスクとガバナンス体制の整備について、最新の動向と課題をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17351543/?ref=user"
+        },
+        {
+          "name": "ja.martincid.com",
+          "url": "https://ja.martincid.com/technology-ja/tech-ai-ja/reese-witherspoon-computers-should-not-replace-humanity/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251708/"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/22/ai-daily-news-2026-08-21/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251631/"
+        },
+        {
+          "name": "voi.id",
+          "url": "https://voi.id/ja/amp/590759"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/103388"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/ai_2026-8-14-8-20/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-mstr/strategy/news/a9d70cd87151b12c/amp"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/mike-king-senior-director-product-strategy-iqvia/"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/08/22/openai-region-selection-japan-data-storage-only/"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/ai-assisted-coding-governance-developer-productivity/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251708/2/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/1a3491c2-73b7-410b-b2d9-76628963fe73"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251800/2/"
+        },
+        {
+          "name": "shikiho.toyokeizai.net",
+          "url": "https://shikiho.toyokeizai.net/news/0/955238"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/governing-agentic-ai-soc-trust-model/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251810/"
+        },
+        {
+          "name": "voi.id",
+          "url": "https://voi.id/ja/amp/590644"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20260821-4847094/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00793/070700005/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "政府によるAI実証事業とAI利用促進の動向",
+      "summary": "国のAI実証事業に複数の企業が選定され、国土交通省ではAIを活用した不動産会社の生産性向上後押しが進められています。タイでは国民のAI利用料を肩代わりする施策も導入されました。",
+      "relevance": "国のAI実証事業の進捗状況や、AI利用促進に向けた各省庁の取り組みについてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "media.moneyforward.com",
+          "url": "https://media.moneyforward.com/articles/10928/summary"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/e47f1ae660288f7e846e9d35a74d003255e40663/images/000"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/000528008.html"
+        },
+        {
+          "name": "zenchin.com",
+          "url": "https://www.zenchin.com/news/content-5939.php"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "「エンタメ・クリエイティブ産業戦略2026」と生成AI活用",
+      "summary": "経済産業省は「エンタメ・クリエイティブ産業戦略2026」を取りまとめ、海外売上高20兆円を目指しています。生成AIを活用したドラマ制作事例も紹介されています。",
+      "relevance": "エンターテイメント・クリエイティブ産業におけるAI活用戦略と、新たなコンテンツ制作手法についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "screens-lab.jp",
+          "url": "https://www.screens-lab.jp/article/31429/intro"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "日立、公共分野向けガバメントクラウド対応でエンジニアが表彰",
+      "summary": "日立のエンジニア3名が、政府・自治体向けシステムのクラウド利用環境であるガバメントクラウドに対応した功績で、Microsoft Top Partner Engineer Awardを受賞しました。",
+      "relevance": "ガバメントクラウド対応における技術力や、クラウドプロバイダーとの連携強化についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19686577?news_ref=watch_60_nw19042226"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AI事業者ガイドラインと製品安全対策",
+      "summary": "総務省・経済産業省のAI事業者ガイドラインが言及されており、経済産業省は製品の安全性向上に向けた優れた取り組みを表彰しています。AIエージェントの利用における注意点も解説されています。",
+      "relevance": "AI事業者ガイドラインの遵守状況や、製品安全対策におけるAIの活用可能性についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "trendlife.com",
+          "url": "https://trendlife.com/ja-jp/blog/https-trendlife-com-ja-jp-blog-article-kaleida-ai-agent/"
+        },
+        {
+          "name": "nikkan.co.jp",
+          "url": "https://www.nikkan.co.jp/articles/view/778412"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体におけるガバメントクラウドファンディングの活用事例",
+      "summary": "姫路市や長野県河内町などで、ガバメントクラウドファンディングを活用した地域活性化やプロジェクト推進の事例が報告されています。目標額達成に向けた取り組みが行われています。",
+      "relevance": "ガバメントクラウドファンディングの活用可能性や、成功要因となるプロジェクトの企画・広報戦略についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "iimono.town",
+          "url": "https://iimono.town/topic/events/183403/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/kisspress/region/kisspress-65013"
+        },
+        {
+          "name": "t.co",
+          "url": "https://t.co/MxkRJ6TzZs"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "日台連携による半導体・AIサプライチェーン構築",
+      "summary": "台北で開催されたシンポジウムでは、中国に対抗するため、民主主義陣営で半導体やAIのサプライチェーンを構築することの重要性が指摘されました。",
+      "relevance": "国際情勢を踏まえたサプライチェーンのリスク管理と、日台連携による技術開発の可能性についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1907178"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "総務省、郵便事業の縮小を検討",
+      "summary": "SNS普及による郵便物減少を受け、総務省は郵便事業のサービス縮小（ポスト削減、配達回数引き下げ等）を視野に入れた検討を開始しました。",
+      "relevance": "郵便事業を取り巻く環境変化と、DX推進によるサービス効率化の可能性についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/a600a25c-a3fb-4759-a0cd-4fd8f4ae879f"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "経産省の重点方針、賃上げを供給力の源泉と位置づけ",
+      "summary": "経済産業省は、労働供給制約社会における賃上げを「供給力の源泉」と位置づけ、産業構造の転換を目指す方針を示しました。",
+      "relevance": "産業構造の転換と、賃上げがもたらす生産性向上・DX推進への影響についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/topics/mhayashi/posts/894"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 22, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_22_2026",
+          "pub_date": "2026-08-22T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-22T15:15:20.300Z"
+}
