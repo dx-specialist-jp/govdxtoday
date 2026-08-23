@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-24",
+      "summary_short": "AIガバナンス体制構築やLLM実装セキュリティ診断の支援…など4件",
+      "article_count": 4,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-08-23",
       "summary_short": "AIエージェントの拡大とガバナンスの課題…など9件",
       "article_count": 9,

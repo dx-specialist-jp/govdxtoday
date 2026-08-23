@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-24",
+  "date_ja": "2026年8月24日（月）",
+  "news_summary": [
+    "AIガバナンス体制構築やLLM実装セキュリティ診断支援サービスが登場",
+    "秋田市で生成AI活用教育が実施、行政課題へのアプローチとして生成AI利用も",
+    "デジタル庁・経済産業省・財務省がAI・半導体・防衛費拡大に向けた予算要求を推進",
+    "伊勢原市がふるさと納税制度を活用したガバメントクラウドファンディングを開始"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIガバナンス体制構築やLLM実装セキュリティ診断の支援サービス登場、国際的なAI規制動向も注視",
+      "summary": "AIガバナンス体制の提供やLLM実装セキュリティ診断、AI法規制対応の鍵となるソリューションが登場。国際的なAI協力機関への支援要請や、AIガバナンス形成における州レベルの取り組みの重要性も高まっている。",
+      "relevance": "AI導入におけるガバナンス体制やセキュリティ対策、最新の国際的な規制動向について、PMO/PjMOの皆様は情報収集と体制構築のご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/5347699"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/itselect/product/1224/"
+        },
+        {
+          "name": "ja.martincid.com",
+          "url": "https://ja.martincid.com/technology-ja/gemma-1-billion-downloads-nasa-orbit/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31200580/"
+        },
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c166898_r14"
+        },
+        {
+          "name": "voi.id",
+          "url": "https://voi.id/ja/amp/590818"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24881"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/8fc2368c-ecd4-4ea1-8e62-28f9088cd24b"
+        },
+        {
+          "name": "ja.martincid.com",
+          "url": "https://ja.martincid.com/technology-ja/alibaba-qwen-ui-agent-screen-control/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17354791/?ref=pickstream_283434"
+        },
+        {
+          "name": "my.idc.com",
+          "url": "https://my.idc.com/getdoc.jsp?containerId=JPJ53498126&pageType=PRINTFRIENDLY"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "秋田市における生成AI活用教育と、生成AIを活用した行政課題へのアプローチ",
+      "summary": "秋田市では、親子で生成AIとの向き合い方を学ぶプログラミングスクールが開催されている。また、韓国では生成AIで作成されたミーム画像が行政課題への皮肉として用いられる事例も。",
+      "relevance": "生成AIの教育分野での活用や、行政課題への応用可能性について、PMO/PjMOの皆様は先進的な取り組みをご参考ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/photo/20260823AK0022/1/"
+        },
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/article/20260823AK0022/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/koreawave_3649493/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁・財務省・経済産業省主導のIT施策と、AI・半導体・防衛費拡大に向けた予算要求",
+      "summary": "デジタル庁と連携したIT施策や、AI・半導体・防衛費拡大に向けた政府の予算要求が進行中。経済産業省は洋上風力発電支援、財務省は米国債買い戻し計画を発表し、AI投資拡大と市場構造の変化も注目されている。",
+      "relevance": "中央省庁のIT施策、予算動向、AI・半導体分野への投資拡大について、PMO/PjMOの皆様は最新の政府方針をご理解いただくことが重要です。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000058.000161501.html"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/ready_fox3873/n/n0114466c434a"
+        },
+        {
+          "name": "mof.go.jp",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/2609.htm"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/khan-truong-ra-soat-go-vuong-cho-cac-du-an-ton-dong-keo-dai"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000027_000052777/"
+        },
+        {
+          "name": "moomoo.com",
+          "url": "https://www.moomoo.com/ja/community/feed/this-week-the-ministry-of-finance-s-announcement-was-the-117141307785222"
+        },
+        {
+          "name": "binance.com",
+          "url": "https://www.binance.com/ja/square/post/358483360878636"
+        },
+        {
+          "name": "tokyonewsmedia.com",
+          "url": "https://tokyonewsmedia.com/archives/26847"
+        },
+        {
+          "name": "m.jp.ajunews.com",
+          "url": "https://m.jp.ajunews.com/view/20260822162870148"
+        },
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/96612?page=4"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/thu-tuong-yeu-cau-khan-truong-de-xuat-giai-phap-thao-go-cho-cac-du-an-ton-dong-keo-dai"
+        },
+        {
+          "name": "media.moneyforward.com",
+          "url": "https://media.moneyforward.com/articles/10928?page=2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "伊勢原市がふるさと納税制度を活用したガバメントクラウドファンディングを開始",
+      "summary": "伊勢原市は、ふるさと納税制度を活用したガバメントクラウドファンディング（GCF）を開始。テーマは「教科書の知識を『記憶に残る感動』に！」。",
+      "relevance": "ガバメントクラウドファンディングの活用事例として、PMO/PjMOの皆様は、地域課題解決や住民サービス向上のための財源確保手段としてご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-849399"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/townnews/region/townnews-849399"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [],
+  "generated_at": "2026-08-23T15:17:06.109Z"
+}
