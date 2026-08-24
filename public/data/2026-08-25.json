@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-25",
+  "date_ja": "2026年8月25日（火）",
+  "news_summary": [
+    "国土交通省土佐国道事務所が土木設計プロポーザルで生成AI活用を特記仕様書に明記しました。",
+    "経済産業省がAIコンテンツ制作とクリエイター権利両立に向けた新ルール策定を進めています。",
+    "大規模言語モデルClaudeで本体・API等に広範な障害発生、政府機関向けサービスは影響なし。",
+    "さくらインターネットが生成AIとガバメントクラウドを背景に業績急回復を遂げています。",
+    "NTTデータがデジタル庁推進のガバメントクラウド開発効率化アセットの提供を開始しました。",
+    "苫小牧市等、各地の自治体でガバメントクラウドファンディングやガバメントクラウド活用事例報告。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: SKYSEA Client ViewおよびSKYMEC IT Managerにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN33423625/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SKYSEA Client Viewにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84326763/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: サクラエディタにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN74538868/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIガバナンスの重要性が増す中、国内外で関連サービスやガイドラインが整備・提供",
+      "summary": "AIの進化に伴い、AIガバナンスの重要性が高まっており、国内外で関連するロゴ刷新、実装講座、基盤整備、教育、プログラム提供、アプリ提供、調査、ガイドライン策定、認定、セミナー開催が進んでいます。",
+      "relevance": "AI活用におけるガバナンス体制の整備や、関連する規制・ガイドラインの動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/and/pressrelease/16683737"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/eventinfo/90099?ref=rss"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/08/07/00456/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/5a39070a-c42a-40f1-aee4-69b703331860"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/ai-inside-lenovo-kansai-ai-hub/"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13455"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32142889/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251866/"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/stock/12134925"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000069.000076738.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/884f7b04-5c26-466c-80e2-6622552ceb32"
+        },
+        {
+          "name": "tuvsud.com",
+          "url": "https://www.tuvsud.com/ja-jp/press-and-media/2026/august/tuv-sud-japan-to-speak-at-physical-ai-summit-2026"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/2947307"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/kikaku/20260824-4843688/"
+        },
+        {
+          "name": "appbank.net",
+          "url": "https://www.appbank.net/2026/08/24/iphone-news/3085715.php"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31200672/"
+        },
+        {
+          "name": "aws.amazon.com",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-genai-gov-guidelines-checklist-2/"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-panw/palo-alto-networks/news/fbe560cb80f68822"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1032677.html"
+        },
+        {
+          "name": "jbcchd.co.jp",
+          "url": "https://www.jbcchd.co.jp/news/2026/08/24/113000.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "大規模言語モデルClaudeで広範な障害発生、APIやCode、Cowork等に影響",
+      "summary": "大規模言語モデルClaudeにおいて、本体、API、Claude Code、Claude Coworkで広範な障害が発生しました。政府機関向けサービスは影響がないとされています。",
+      "relevance": "大規模言語モデルのサービス障害発生時の代替手段や、政府機関向けサービスにおける可用性確保の観点についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f407792ee8c1490be9c8f76b7543c3ba4b82e011"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/2026/08/24/5419.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国土交通省、土木設計プロポーザルで生成AIの活用を特記仕様書に明記",
+      "summary": "国土交通省土佐国道事務所は、土木設計プロポーザルにおいて、生成AIを積極的に活用することを特記仕様書に明記しました。",
+      "relevance": "公共事業における生成AIの活用範囲や、仕様書作成への影響についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "digital.kentsu.co.jp",
+          "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M0RE9N6N0618XPBB3AZKN88X"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "さくらインターネット、生成AIとガバメントクラウドの波に乗り急回復",
+      "summary": "さくらインターネットは、生成AIとデジタル庁が推進するガバメントクラウドという二大ビッグウェーブを背景に、株価や業績が急回復しています。",
+      "relevance": "ガバメントクラウドへの参入や、生成AI関連インフラへの投資検討についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "toyokeizai.net",
+          "url": "https://toyokeizai.net/articles/photo/955211"
+        },
+        {
+          "name": "toyokeizai.net",
+          "url": "https://toyokeizai.net/articles/-/955211?display=b"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/ready_fox3873/n/n0114466c434a"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "NTTデータ、ガバメントクラウド開発を効率化するアセットを提供",
+      "summary": "NTTデータは、デジタル庁が推進するガバメントクラウド開発を効率化するためのアセットを提供しています。",
+      "relevance": "ガバメントクラウド開発における効率化・標準化の取り組みについてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "nttdata.com",
+          "url": "https://www.nttdata.com/global/ja/recruit/uptodata/articles/7488/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "経済産業省、AIの制作とクリエイターの権利両立のための新ルール策定",
+      "summary": "経済産業省は、AIによるコンテンツ制作とクリエイターの権利を両立させるための最新戦略として、新たなルール策定を進めています。",
+      "relevance": "AI生成コンテンツに関する著作権や知的財産権の扱い、および関連する法制度の動向についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2634-20/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国土交通省、2031年からドライバーモニタリングシステムの搭載を義務化",
+      "summary": "国土交通省は、2031年から脇見運転などを検知して警報を鳴らす「ドライバーモニタリングシステム」の搭載を義務付ける方針です。",
+      "relevance": "安全運転支援システム導入に関する法制度や、関連技術の調達・導入計画についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "toonippo.co.jp",
+          "url": "https://www.toonippo.co.jp/articles/-/2346395"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "自治体におけるガバメントクラウドファンディングの活用事例が複数報告",
+      "summary": "苫小牧市、豊中市、丹波篠山市、長和町など、各地の自治体でガバメントクラウドファンディングやガバメントクラウドの活用事例が報告されています。",
+      "relevance": "ガバメントクラウドファンディングの活用可能性や、ガバメントクラウドを活用したシステム調達・運用についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "hokkaido-nl.jp",
+          "url": "https://hokkaido-nl.jp/article/43679"
+        },
+        {
+          "name": "city.toyonaka.osaka.jp",
+          "url": "https://www.city.toyonaka.osaka.jp/kenko/shougai/syogaifukushi_gyosha/shioshirase/shogaisys_proposal.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000100.000127657.html"
+        },
+        {
+          "name": "tjournal.co.jp",
+          "url": "https://tjournal.co.jp/news/post-39413/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "日本コムシス、総務省「こども霞が関見学デー」で未来のエンジニアを応援",
+      "summary": "日本コムシスは、総務省が開催した「こども霞が関見学デー」において、未来のエンジニアを応援する取り組みを行いました。",
+      "relevance": "次世代人材育成や、省庁との連携による広報・啓発活動についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "socialbusiness.aishas.co.jp",
+          "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/31162/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊生成AI with AWS – 2026/8/17週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260817/",
+          "pub_date": "2026-08-24T05:54:30.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "ソフトウェア開発を AI エージェントで加速する ── TOPPAN が体験した SDLC 主要フェーズの手応え",
+          "url": "https://aws.amazon.com/jp/blogs/news/sdlc-ai-workshop-20260612/",
+          "pub_date": "2026-08-24T04:35:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】AI 時代のアジャイル ── 異業種 4 社が語る実践と挑戦",
+          "url": "https://aws.amazon.com/jp/blogs/news/fy26-aws-jp-csm-agile-meetup-event/",
+          "pub_date": "2026-08-24T03:59:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "東京・大阪リージョンから Amazon Bedrock の OpenAI GPT-5.6 を使う：グローバルクロスリージョン推論の仕組みと考慮点",
+          "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6-global-cross-region-inference-from-japan/",
+          "pub_date": "2026-08-24T02:42:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）」対応 – 調達チェックシート要件へのAWSサンプル回答",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-genai-gov-guidelines-checklist-2/",
+          "pub_date": "2026-08-24T02:12:04.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "SOAP Architecture: S3 に眠るデータを、Google Cloud で AI エージェントの基盤に変える",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/soap-architecture-turning-data-stored-in-s3-into-a-foundation-for-ai-agents-on-google-cloud/",
+          "pub_date": "2026-08-24T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Enterprise データを Looker のセマンティック レイヤで制御してユーザーの信頼を確保",
+          "url": "https://cloud.google.com/blog/ja/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+          "pub_date": "2026-08-24T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "GKE の ClusterNetworkPolicy: マイクロサービスの制御と自律性のバランスを取る",
+          "url": "https://cloud.google.com/blog/ja/products/networking/new-clusternetworkpolicy-in-gke/",
+          "pub_date": "2026-08-24T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "WPP が AI マーケティングのためにプラットフォームとデータ エンジニアリングを運用化",
+          "url": "https://cloud.google.com/blog/ja/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+          "pub_date": "2026-08-24T00:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "エージェント型 AI のスケーリング: UiPath が AI Hypercomputer 上に高性能 GPU プラットフォームを構築した方法",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
+          "pub_date": "2026-08-24T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-24T15:34:41.137Z"
+}

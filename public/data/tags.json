@@ -2668,6 +2668,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "国土交通省、土木設計プロポーザルで生成AIの活用を特記仕様書に明記",
+        "summary": "国土交通省土佐国道事務所は、土木設計プロポーザルにおいて、生成AIを積極的に活用することを特記仕様書に明記しました。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M0RE9N6N0618XPBB3AZKN88X",
+        "relevance": "公共事業における生成AIの活用範囲や、仕様書作成への影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "大規模言語モデルClaudeで広範な障害発生、APIやCode、Cowork等に影響",
+        "summary": "大規模言語モデルClaudeにおいて、本体、API、Claude Code、Claude Coworkで広範な障害が発生しました。政府機関向けサービスは影響がないとされています。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/f407792ee8c1490be9c8f76b7543c3ba4b82e011",
+        "relevance": "大規模言語モデルのサービス障害発生時の代替手段や、政府機関向けサービスにおける可用性確保の観点についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "AIガバナンスの重要性が増す中、国内外で関連サービスやガイドラインが整備・提供",
+        "summary": "AIの進化に伴い、AIガバナンスの重要性が高まっており、国内外で関連するロゴ刷新、実装講座、基盤整備、教育、プログラム提供、アプリ提供、調査、ガイドライン策定、認定、セミナー開催が進んでいます。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/and/pressrelease/16683737",
+        "relevance": "AI活用におけるガバナンス体制の整備や、関連する規制・ガイドラインの動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-24",
         "date_ja": "2026年8月24日（月）",
         "title": "秋田市における生成AI活用教育と、生成AIを活用した行政課題へのアプローチ",
@@ -4600,6 +4630,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "NTTデータ、ガバメントクラウド開発を効率化するアセットを提供",
+        "summary": "NTTデータは、デジタル庁が推進するガバメントクラウド開発を効率化するためのアセットを提供しています。",
+        "source": "nttdata.com",
+        "url": "https://www.nttdata.com/global/ja/recruit/uptodata/articles/7488/",
+        "relevance": "ガバメントクラウド開発における効率化・標準化の取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "さくらインターネット、生成AIとガバメントクラウドの波に乗り急回復",
+        "summary": "さくらインターネットは、生成AIとデジタル庁が推進するガバメントクラウドという二大ビッグウェーブを背景に、株価や業績が急回復しています。",
+        "source": "toyokeizai.net",
+        "url": "https://toyokeizai.net/articles/photo/955211",
+        "relevance": "ガバメントクラウドへの参入や、生成AI関連インフラへの投資検討についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-23",
         "date_ja": "2026年8月23日（日）",
         "title": "日立、公共分野向けガバメントクラウド対応でエンジニアが表彰",
@@ -5112,6 +5162,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "国土交通省、2031年からドライバーモニタリングシステムの搭載を義務化",
+        "summary": "国土交通省は、2031年から脇見運転などを検知して警報を鳴らす「ドライバーモニタリングシステム」の搭載を義務付ける方針です。",
+        "source": "toonippo.co.jp",
+        "url": "https://www.toonippo.co.jp/articles/-/2346395",
+        "relevance": "安全運転支援システム導入に関する法制度や、関連技術の調達・導入計画についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "経済産業省、AIの制作とクリエイターの権利両立のための新ルール策定",
+        "summary": "経済産業省は、AIによるコンテンツ制作とクリエイターの権利を両立させるための最新戦略として、新たなルール策定を進めています。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/ytoda2634-20/",
+        "relevance": "AI生成コンテンツに関する著作権や知的財産権の扱い、および関連する法制度の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-24",
         "date_ja": "2026年8月24日（月）",
         "title": "デジタル庁・財務省・経済産業省主導のIT施策と、AI・半導体・防衛費拡大に向けた予算要求",
@@ -5523,6 +5593,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "自治体におけるガバメントクラウドファンディングの活用事例が複数報告",
+        "summary": "苫小牧市、豊中市、丹波篠山市、長和町など、各地の自治体でガバメントクラウドファンディングやガバメントクラウドの活用事例が報告されています。",
+        "source": "hokkaido-nl.jp",
+        "url": "https://hokkaido-nl.jp/article/43679",
+        "relevance": "ガバメントクラウドファンディングの活用可能性や、ガバメントクラウドを活用したシステム調達・運用についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-24",
         "date_ja": "2026年8月24日（月）",
@@ -5975,6 +6055,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）」対応 – 調達チェックシート要件へのAWSサンプル回答",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-genai-gov-guidelines-checklist-2/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "東京・大阪リージョンから Amazon Bedrock の OpenAI GPT-5.6 を使う：グローバルクロスリージョン推論の仕組みと考慮点",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6-global-cross-region-inference-from-japan/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "【開催報告】AI 時代のアジャイル ── 異業種 4 社が語る実践と挑戦",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/fy26-aws-jp-csm-agile-meetup-event/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "ソフトウェア開発を AI エージェントで加速する ── TOPPAN が体験した SDLC 主要フェーズの手応え",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/sdlc-ai-workshop-20260612/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "週刊生成AI with AWS – 2026/8/17週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260817/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-22",
         "date_ja": "2026年8月22日（土）",
@@ -7292,6 +7417,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "エージェント型 AI のスケーリング: UiPath が AI Hypercomputer 上に高性能 GPU プラットフォームを構築した方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "WPP が AI マーケティングのためにプラットフォームとデータ エンジニアリングを運用化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "GKE の ClusterNetworkPolicy: マイクロサービスの制御と自律性のバランスを取る",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/new-clusternetworkpolicy-in-gke/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "Gemini Enterprise データを Looker のセマンティック レイヤで制御してユーザーの信頼を確保",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "SOAP Architecture: S3 に眠るデータを、Google Cloud で AI エージェントの基盤に変える",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/soap-architecture-turning-data-stored-in-s3-into-a-foundation-for-ai-agents-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-23",
         "date_ja": "2026年8月23日（日）",
         "title": "August 22, 2026",
@@ -8319,6 +8489,16 @@
       }
     ],
     "働き方/業務改革": [
+      {
+        "date": "2026-08-25",
+        "date_ja": "2026年8月25日（火）",
+        "title": "日本コムシス、総務省「こども霞が関見学デー」で未来のエンジニアを応援",
+        "summary": "日本コムシスは、総務省が開催した「こども霞が関見学デー」において、未来のエンジニアを応援する取り組みを行いました。",
+        "source": "socialbusiness.aishas.co.jp",
+        "url": "https://socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/31162/",
+        "relevance": "次世代人材育成や、省庁との連携による広報・啓発活動についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-23",
         "date_ja": "2026年8月23日（日）",
@@ -9403,13 +9583,13 @@
     "その他": 178,
     "行政AI": 24,
     "行政DX": 14,
-    "AI活用": 193,
-    "クラウド/インフラ": 51,
-    "制度/ガイドライン": 41,
-    "自治体DX事例": 45,
-    "AWS最新情報": 146,
-    "Google Cloud最新情報": 114,
-    "働き方/業務改革": 17,
+    "AI活用": 196,
+    "クラウド/インフラ": 53,
+    "制度/ガイドライン": 43,
+    "自治体DX事例": 46,
+    "AWS最新情報": 151,
+    "Google Cloud最新情報": 119,
+    "働き方/業務改革": 18,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
     "ガバメントクラウド": 4,
@@ -9418,5 +9598,5 @@
     "調達/契約": 5,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-23T15:17:06.115Z"
+  "updated_at": "2026-08-24T15:34:41.144Z"
 }
