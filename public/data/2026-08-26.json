@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-26",
+  "date_ja": "2026年8月26日（水）",
+  "news_summary": [
+    "マイナポータルアプリは2026年8月25日に「マイナアプリ」に統合されます。",
+    "米財務省は量子コンピューター対応タスクフォースを発足し、金融暗号体系移行に着手しました。",
+    "政府は18万人対象に生成AI環境「源内」の実証を本格化し、2026年3月には国産LLMを選定します。",
+    "AIガバナンス国際規格ISO 42001認証取得や第三者認証制度「C認証」の導入が進んでいます。",
+    "ガバメントクラウド移行でシステム運用経費削減を重点計画とし、関連イベントも開催されます。",
+    "秋田県ではスマホ撮影とAIによる行政業務効率化の提案がDX展示会で行われます。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: 古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95422936/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache Struts 2におけるリソース枯渇の脆弱性",
+      "url": "https://jvn.jp/jp/JVN08517956/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SKYSEA Client ViewおよびSKYMEC IT Managerにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN33423625/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SKYSEA Client Viewにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84326763/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "マイナポータルのパスポート申請がもっと便利になりました（2026年8月 アップデートまとめ）",
+    "summary": "マイナポータルのパスポート申請画面が刷新\n\n▶ 2026年8月25日施行。パスポート申請関連プロジェクトの進捗・影響を確認",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n0b710e17d326",
+    "pub_date": "2026-08-25"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "マイナポータルアプリが「マイナアプリ」になりました（利用登録のご案内）",
+      "summary": "マイナポータルアプリが「マイナアプリ」に統合\n\n▶ 2026年8月25日提供開始。マイナポータル関連プロジェクトの改修・展開計画を確認",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n64bc51024681",
+      "pub_date": "2026-08-25"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "米財務省、量子コンピューター対応タスクフォース発足と金融暗号体系の移行",
+      "summary": "米財務省は、量子コンピューター対応タスクフォースを発足させ、金融暗号体系の移行に着手した。デジタル資産をめぐるセキュリティリスクも主要な点検対象としている。",
+      "relevance": "将来的なサイバーセキュリティリスクへの対応として、量子コンピューターへの対応や暗号体系の移行に関する動向をご参照ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/e88c5bf9-9c6e-4693-bbe0-b9c5782427ed"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府・自治体における生成AI「源内」の実証運用と国産LLMの評価・導入",
+      "summary": "政府は国家公務員約18万人を対象に生成AI環境「源内」の実証を本格化し、2026年3月には国産LLM7つを評価・選定する。一部自治体でも活用が開始され、国産モデル「PLaMo 3.0 Prime」も自治体AI zevoで提供開始される。",
+      "relevance": "政府・自治体でのAI活用事例として、生成AI「源内」の利用状況や国産LLMの評価・導入動向についてご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/column/article/ai-article/japanese-domestic-llm/"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ed4bz86Mgo8"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000216.000056138.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17368581/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンスの重要性と関連制度・認証、および企業・国際機関における取り組み",
+      "summary": "AIガバナンスに関する国際規格（ISO 42001）認証取得や第三者認証制度「C認証」、AI活用方針・推進体制支援、AIエージェント時代のガバナンス基盤構築などが進んでいる。国連もAIガバナンス対話を進めている。",
+      "relevance": "AI導入・活用にあたり、AIガバナンスの国際標準や国内動向、関連認証制度についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260825525845"
+        },
+        {
+          "name": "preferred.jp",
+          "url": "https://www.preferred.jp/ja/blog/lunchtime/vol076"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd111430.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a210.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121150.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd211530.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260825/pr1/00m/020/227000c"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000002.000189054.html"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1909277"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000178.000017369&g=prt"
+        },
+        {
+          "name": "simplex.inc",
+          "url": "https://www.simplex.inc/news/2026/3610/"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/626596"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/626771"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000360264"
+        },
+        {
+          "name": "ledge.ai",
+          "url": "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/tri-tue-nhan-tao-lhq-tan-dung-kha-nang-cua-ai-de-thuc-day-hoa-binh-an-ninh"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000189103.html"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2135278.html"
+        },
+        {
+          "name": "dcross.impress.co.jp",
+          "url": "https://dcross.impress.co.jp/docs/news/004815.html"
+        },
+        {
+          "name": "mediamixi.jp",
+          "url": "https://mediamixi.jp/news/12103/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "主要LLM（Claude）における機能停止・提供再開と企業需要の動向",
+      "summary": "Anthropicの最上位AIモデル「Claude Fable 5」は、米政府の輸出管理指示により一時提供停止となった後、提供が再開された。ただし、企業需要は伸び悩んでいる模様で、広範な障害も発生している。",
+      "relevance": "利用を検討している、または利用中のAIモデル（Claude等）の提供状況や障害情報について、最新動向をご確認ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/"
+        },
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/column/article/ai-article/differences-between-llms/"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/article/c1288bfd-d3d9-48df-9c09-fd48455e4377"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ガバメントクラウドへの移行とシステム運用経費削減、および関連イベントの開催",
+      "summary": "全国約2800拠点を結ぶ閉域網構築が進む中、ガバメントクラウド移行に伴うシステム運用経費の削減が重点計画に示されている。また、「地方自治情報化推進フェア2026」では生成AI活用やデータ利活用などがテーマとなる。",
+      "relevance": "ガバメントクラウドへの移行状況や、システム運用経費削減に向けた取り組みについてご留意ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000561.000049248.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19697167?news_ref=20_20"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000005.000119820.html"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/051800247/081800004/"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082002085/?P=2&i_cid=nbpnxt_nextpage_child_a"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "財務省、2027年度予算概算要求は38.6兆円、国債費が過去最高",
+      "summary": "財務省の2027年度予算概算要求案は、総額38兆6948億円となり、26年度当初比15.1%増。金利上昇により国債の利払い費が増加し、過去最高となった。",
+      "relevance": "国の予算編成動向、特にIT・DX関連予算への影響も考慮し、予算要求の概況についてご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "yamagata-np.jp",
+          "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Economics&no=2026082501001214"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "秋田県でのDX展示会における行政業務効率化の提案",
+      "summary": "秋田県で開催されるDX展示会では、リベンリ秋田が登壇し、「スマホ撮影とAIによる行政業務の効率化」について提案する。",
+      "relevance": "先進的な自治体でのDX推進事例として、AIを活用した行政業務効率化の具体的な取り組みについてご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/digitalprplatform_141770/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省委託事業における調達の課題と実態",
+      "summary": "経済産業省から高圧ガス保安協会に委託した事故調査において、本来8割調達の予定が、実際には異なる状況が発生していることが示唆されている。",
+      "relevance": "政府調達における契約形態や履行状況の管理について、事例に基づきご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "meti.go.jp",
+          "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260825001.html"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Amazon Quick と Snowflake Cortex AI によるマネーロンダリング対策のアラートトリアージの自動化",
+          "url": "https://aws.amazon.com/jp/blogs/news/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+          "pub_date": "2026-08-25T07:10:06.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "本番インシデントのトリアージを AI エージェントに任せられるようになるまで",
+          "url": "https://aws.amazon.com/jp/blogs/news/trust-agent-triage/",
+          "pub_date": "2026-08-25T06:59:27.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "継続的なプロンプト評価: LLM ジャッジとライブシグナルを使って Kiro エージェントの品質を高める方法",
+          "url": "https://aws.amazon.com/jp/blogs/news/continuous-prompt-evaluation/",
+          "pub_date": "2026-08-25T06:51:27.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "金融リファレンスアーキテクチャ日本版 v2 リリース",
+          "url": "https://aws.amazon.com/jp/blogs/news/fsi-reference-architecture-jp-v2-release/",
+          "pub_date": "2026-08-25T05:15:10.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "ラップトップを閉じても、エージェントは動き続ける。cloud sessions で開発する",
+          "url": "https://aws.amazon.com/jp/blogs/news/cloud-sessions/",
+          "pub_date": "2026-08-25T03:41:20.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "【Google Cloud Next Tokyo 26】DAY 2 基調講演まとめ：インフラからセキュリティまで、フルスタックで支える AI エージェント",
+          "url": "https://cloud.google.com/blog/ja/topics/next-tokyo/google-cloud-next-tokyo-26-day-2-keynote-summary/",
+          "pub_date": "2026-08-25T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "メジャーがサポートされるようになった BigQuery Graph を使用して、信頼できるエージェント ワークロードを実現",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+          "pub_date": "2026-08-25T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "TelevisaUnivision が Google Cloud を利用して FIFA ワールドカップを数百万人にストリーミング配信",
+          "url": "https://cloud.google.com/blog/ja/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+          "pub_date": "2026-08-25T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "エージェント型モバイルアプリ開発のためのデベロッパー デバイス プラットフォームのご紹介",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
+          "pub_date": "2026-08-25T01:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "【Google Cloud Next Tokyo 26】 DAY 1 基調講演まとめ：日本企業の現場で動き始めた AI エージェント",
+          "url": "https://cloud.google.com/blog/ja/topics/next-tokyo/google-cloud-next-tokyo-26-day-1-keynote-summary/",
+          "pub_date": "2026-08-25T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-25T15:37:07.053Z"
+}

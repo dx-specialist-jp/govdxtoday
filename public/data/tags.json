@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "米財務省、量子コンピューター対応タスクフォース発足と金融暗号体系の移行",
+        "summary": "米財務省は、量子コンピューター対応タスクフォースを発足させ、金融暗号体系の移行に着手した。デジタル資産をめぐるセキュリティリスクも主要な点検対象としている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/e88c5bf9-9c6e-4693-bbe0-b9c5782427ed",
+        "relevance": "将来的なサイバーセキュリティリスクへの対応として、量子コンピューターへの対応や暗号体系の移行に関する動向をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
         "title": "総務省の「自治体情報システム強靭性向上モデル」に基づくネットワーク三層分離対応と調達",
@@ -2322,6 +2332,24 @@
     ],
     "行政AI": [
       {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "マイナポータルアプリが「マイナアプリ」になりました（利用登録のご案内）",
+        "summary": "マイナポータルアプリが「マイナアプリ」に統合\n\n▶ 2026年8月25日提供開始。マイナポータル関連プロジェクトの改修・展開計画を確認",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n64bc51024681",
+        "type": "government"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "マイナポータルのパスポート申請がもっと便利になりました（2026年8月 アップデートまとめ）",
+        "summary": "マイナポータルのパスポート申請画面が刷新\n\n▶ 2026年8月25日施行。パスポート申請関連プロジェクトの進捗・影響を確認",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n0b710e17d326",
+        "type": "government"
+      },
+      {
         "date": "2026-08-15",
         "date_ja": "2026年8月15日（土）",
         "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に",
@@ -2667,6 +2695,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "主要LLM（Claude）における機能停止・提供再開と企業需要の動向",
+        "summary": "Anthropicの最上位AIモデル「Claude Fable 5」は、米政府の輸出管理指示により一時提供停止となった後、提供が再開された。ただし、企業需要は伸び悩んでいる模様で、広範な障害も発生している。",
+        "source": "gigazine.net",
+        "url": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/",
+        "relevance": "利用を検討している、または利用中のAIモデル（Claude等）の提供状況や障害情報について、最新動向をご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "AIガバナンスの重要性と関連制度・認証、および企業・国際機関における取り組み",
+        "summary": "AIガバナンスに関する国際規格（ISO 42001）認証取得や第三者認証制度「C認証」、AI活用方針・推進体制支援、AIエージェント時代のガバナンス基盤構築などが進んでいる。国連もAIガバナンス対話を進めている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260825525845",
+        "relevance": "AI導入・活用にあたり、AIガバナンスの国際標準や国内動向、関連認証制度についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "政府・自治体における生成AI「源内」の実証運用と国産LLMの評価・導入",
+        "summary": "政府は国家公務員約18万人を対象に生成AI環境「源内」の実証を本格化し、2026年3月には国産LLM7つを評価・選定する。一部自治体でも活用が開始され、国産モデル「PLaMo 3.0 Prime」も自治体AI zevoで提供開始される。",
+        "source": "exawizards.com",
+        "url": "https://exawizards.com/column/article/ai-article/japanese-domestic-llm/",
+        "relevance": "政府・自治体でのAI活用事例として、生成AI「源内」の利用状況や国産LLMの評価・導入動向についてご留意ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
@@ -4630,6 +4688,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "ガバメントクラウドへの移行とシステム運用経費削減、および関連イベントの開催",
+        "summary": "全国約2800拠点を結ぶ閉域網構築が進む中、ガバメントクラウド移行に伴うシステム運用経費の削減が重点計画に示されている。また、「地方自治情報化推進フェア2026」では生成AI活用やデータ利活用などがテーマとなる。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000561.000049248.html",
+        "relevance": "ガバメントクラウドへの移行状況や、システム運用経費削減に向けた取り組みについてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
         "title": "NTTデータ、ガバメントクラウド開発を効率化するアセットを提供",
@@ -5162,6 +5230,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "財務省、2027年度予算概算要求は38.6兆円、国債費が過去最高",
+        "summary": "財務省の2027年度予算概算要求案は、総額38兆6948億円となり、26年度当初比15.1%増。金利上昇により国債の利払い費が増加し、過去最高となった。",
+        "source": "yamagata-np.jp",
+        "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Economics&no=2026082501001214",
+        "relevance": "国の予算編成動向、特にIT・DX関連予算への影響も考慮し、予算要求の概況についてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
         "title": "国土交通省、2031年からドライバーモニタリングシステムの搭載を義務化",
@@ -5593,6 +5671,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "秋田県でのDX展示会における行政業務効率化の提案",
+        "summary": "秋田県で開催されるDX展示会では、リベンリ秋田が登壇し、「スマホ撮影とAIによる行政業務の効率化」について提案する。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/digitalprplatform_141770/",
+        "relevance": "先進的な自治体でのDX推進事例として、AIを活用した行政業務効率化の具体的な取り組みについてご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
@@ -6055,6 +6143,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "ラップトップを閉じても、エージェントは動き続ける。cloud sessions で開発する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/cloud-sessions/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "金融リファレンスアーキテクチャ日本版 v2 リリース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/fsi-reference-architecture-jp-v2-release/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "継続的なプロンプト評価: LLM ジャッジとライブシグナルを使って Kiro エージェントの品質を高める方法",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/continuous-prompt-evaluation/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "本番インシデントのトリアージを AI エージェントに任せられるようになるまで",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/trust-agent-triage/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "Amazon Quick と Snowflake Cortex AI によるマネーロンダリング対策のアラートトリアージの自動化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
@@ -7416,6 +7549,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "【Google Cloud Next Tokyo 26】 DAY 1 基調講演まとめ：日本企業の現場で動き始めた AI エージェント",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/next-tokyo/google-cloud-next-tokyo-26-day-1-keynote-summary/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "エージェント型モバイルアプリ開発のためのデベロッパー デバイス プラットフォームのご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "TelevisaUnivision が Google Cloud を利用して FIFA ワールドカップを数百万人にストリーミング配信",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "メジャーがサポートされるようになった BigQuery Graph を使用して、信頼できるエージェント ワークロードを実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "【Google Cloud Next Tokyo 26】DAY 2 基調講演まとめ：インフラからセキュリティまで、フルスタックで支える AI エージェント",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/next-tokyo/google-cloud-next-tokyo-26-day-2-keynote-summary/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
@@ -9311,6 +9489,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-08-26",
+        "date_ja": "2026年8月26日（水）",
+        "title": "経済産業省委託事業における調達の課題と実態",
+        "summary": "経済産業省から高圧ガス保安協会に委託した事故調査において、本来8割調達の予定が、実際には異なる状況が発生していることが示唆されている。",
+        "source": "meti.go.jp",
+        "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260825001.html",
+        "relevance": "政府調達における契約形態や履行状況の管理について、事例に基づきご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-23",
         "date_ja": "2026年8月23日（日）",
         "title": "日台連携による半導体・AIサプライチェーン構築",
@@ -9579,24 +9767,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 55,
+    "セキュリティ": 56,
     "その他": 178,
-    "行政AI": 24,
+    "行政AI": 26,
     "行政DX": 14,
-    "AI活用": 196,
-    "クラウド/インフラ": 53,
-    "制度/ガイドライン": 43,
-    "自治体DX事例": 46,
-    "AWS最新情報": 151,
-    "Google Cloud最新情報": 119,
+    "AI活用": 199,
+    "クラウド/インフラ": 54,
+    "制度/ガイドライン": 44,
+    "自治体DX事例": 47,
+    "AWS最新情報": 156,
+    "Google Cloud最新情報": 124,
     "働き方/業務改革": 18,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
     "ガバメントクラウド": 4,
-    "調達・契約": 10,
+    "調達・契約": 11,
     "デジタル庁": 3,
     "調達/契約": 5,
     "プロジェクト管理": 8
   },
-  "updated_at": "2026-08-24T15:34:41.144Z"
+  "updated_at": "2026-08-25T15:37:07.059Z"
 }
