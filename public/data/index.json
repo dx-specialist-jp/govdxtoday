@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-27",
+      "summary_short": "ガバメントAI 源内のアクセシビリティへの取り組み：「誰一人…など1件",
+      "article_count": 11,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-08-26",
       "summary_short": "マイナポータルのパスポート申請がもっと便利になりました（20…など2件",
       "article_count": 10,

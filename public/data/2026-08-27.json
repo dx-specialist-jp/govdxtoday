@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-27",
+  "date_ja": "2026年8月27日（木）",
+  "news_summary": [
+    "デジタル庁はAI活用推進のため予算を倍増要求し、生成AI試験導入を計画しています。",
+    "ガバメントAI 源内はOSS公開を進め、アクセシビリティ向上の取り組みを解説しています。",
+    "AIエージェント時代を見据え、AIガバナンス構築支援サービス提供と規制動向が示されました。",
+    "非エンジニアによるClaude Code活用で月60万円の業務効率化事例が報告されています。",
+    "ABEJAがAIガバナンス事業買収と、AI活動・コストを自動紐付けるソリューションを発表しました。",
+    "金融機関でAIガバナンス、データガバナンス、量子後暗号化イニシアチブが開始されました。",
+    "AI導入意欲とセキュリティ対策にギャップが存在する調査結果が示されています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: GeoServerにSQLインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: NECのUNIVERGE IX-R／IX-Vシリーズルータに重要な機能に対する認証の欠如の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Zimbra CollaborationにOSコマンドインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Citrix NetScaler ADCおよびNetScaler Gatewayに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: エクストライノベーション株式会社のacmailerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: MLflowにサーバーサイドリクエストフォージェリの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Roundcube Webmailに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#15",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: IBM Db2 Mirror for iに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#17",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Rustのパッケージレジストリで発生したサプライチェーン攻撃",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#18",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: macOSの画面共有機能における不適切な認証の脆弱性に関する悪用観測状況",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#19",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
+      "url": "https://jvn.jp/vu/JVNVU95772889/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
+      "url": "https://jvn.jp/vu/JVNVU90424473/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて",
+      "url": "https://jvn.jp/ta/JVNTA95077890/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
+      "url": "https://jvn.jp/vu/JVNVU94584169/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLのX.509ポリシー制限の検証における過剰なリソース消費の問題",
+      "url": "https://jvn.jp/vu/JVNVU94632906/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLに複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91213144/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "ガバメントAI 源内のアクセシビリティへの取り組み：「誰一人取り残されない、人に優しい生成AIアプリケーション」へ",
+    "summary": "「ガバメントAI 源内」のフロントエンド開発を担当しております、デザインエンジニアの岡藤です。この記事では、政府職員向けの源内Webでのアクセシビリティ向上のために取り組んだ内容を解説します。ガバメントAI 源内の一部はOSS（オープンソースソフトウェア）として公開を進めていますので、OSSを使用さ",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n69962e2eb3fc",
+    "pub_date": "2026-08-26"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁、AI活用推進のため予算倍増要求",
+      "summary": "デジタル庁はAI活用推進のため、予算を倍増要求しました。自治体による国への業務問い合わせ円滑化に向け、生成AIの試験導入などを計画しています。",
+      "relevance": "デジタル庁のAI活用推進計画および予算動向について、PMO/PjMOの皆様は、将来的な予算配分やプロジェクトへの影響についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.web.nhk",
+          "url": "https://news.web.nhk/newsweb/na/nd-20260826de46522"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5e2821f19f49e47eebf607af909e1b3c972de71e"
+        },
+        {
+          "name": "risktaisaku.com",
+          "url": "https://www.risktaisaku.com/articles/-/114685"
+        },
+        {
+          "name": "portal.ijamp.jiji.com",
+          "url": "https://portal.ijamp.jiji.com/portal/news/detail/2026082600986"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIエージェント時代を見据えたAIガバナンス構築支援サービス提供開始と規制動向",
+      "summary": "AIエージェント時代のデータ＆AIガバナンスに関するセミナーが開催され、AIガバナンス構築支援サービスも提供開始されました。AI利用に伴うリスク管理と価値最大化の両立が重要視されています。",
+      "relevance": "AIエージェントの導入やAIガバナンス体制の構築、リスク管理に関する最新動向について、PMO/PjMOの皆様は、組織内でのAI活用方針やリスク評価体制の整備についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "economic.jp",
+          "url": "http://economic.jp/?p=116603"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/eventinfo/detail/90162"
+        },
+        {
+          "name": "traders.co.jp",
+          "url": "https://www.traders.co.jp/news/article/1_2196978"
+        },
+        {
+          "name": "kabutan.jp",
+          "url": "https://kabutan.jp/disclosures/pdf/20260826/140120260826526355/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260826526355/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000120.000026498.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000093.000024769.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000012.000169775.html"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260826526120/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "非エンジニアによるAI活用による業務効率化事例",
+      "summary": "非エンジニアがClaude Codeを活用し、月60万円の成果を上げた事例が報告されています。",
+      "relevance": "AIツールを活用した業務効率化の具体的な事例について、PMO/PjMOの皆様は、職員のスキルアップや業務プロセス改善への応用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/9166/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIチャットボットの機能統合と障害発生",
+      "summary": "AnthropicはClaudeチャットとCoworkのメモリを統合し、機微な話題の保存制御機能を追加しました。一方で、Claudeで広範な障害が発生し、政府機関向けサービスは正常稼働との情報もあります。",
+      "relevance": "AIツールの機能アップデートや運用における障害発生時の影響について、PMO/PjMOの皆様は、利用するAIサービスのリスク管理や代替手段の確保についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/e0de7bc2-4370-4c10-aabe-cf83b2af477f"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/c1288bfd-d3d9-48df-9c09-fd48455e4377"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンス事業への進出とAIプロジェクト管理への活用",
+      "summary": "ABEJAがシンガポールに子会社を設立し、ASEAN事業のハブとするとともに、AIガバナンス事業のモノブレインを買収しました。また、プロジェクト管理ツールにAI活動やコストを自動紐付けるソリューションも登場しています。",
+      "relevance": "AIガバナンス事業の拡大や、AIプロジェクト管理における効率化の可能性について、PMO/PjMOの皆様は、外部サービスとの連携やプロジェクト管理手法の改善についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUC266KN0W6A820C2000000/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260826526373"
+        },
+        {
+          "name": "iotnews.jp",
+          "url": "https://iotnews.jp/ai/275419/amp/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "金融犯罪対策、法務DX、データ＆AIガバナンス、量子後暗号化",
+      "summary": "金融機関でのリスクマネジメント室設置、法務DXにおけるAIガバナンス、データ＆AIガバナンス、そして量子後暗号化イニシアチブが連邦・金融インフラ向けに開始されました。",
+      "relevance": "AIガバナンス、サイバーセキュリティ、および金融・法務分野における最新の取り組みについて、PMO/PjMOの皆様は、各分野におけるリスク管理体制の強化や技術動向の把握についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "nikkinonline.com",
+          "url": "https://www.nikkinonline.com/article/418387?category=jinnjiidou"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000058.000126939.html"
+        },
+        {
+          "name": "pwc.com",
+          "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/people-analytics-survey2026.html"
+        },
+        {
+          "name": "quantumbusinessmagazine.com",
+          "url": "https://quantumbusinessmagazine.com/2026/08/26/gsa%E3%81%A8%E8%B2%A1%E5%8B%99%E7%9C%81%E3%80%81%E7%B1%B3%E5%9B%BD%E9%80%A3%E9%82%A6%E3%83%BB%E9%87%91%E8%9E%8D%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%90%91%E3%81%91%E3%81%AB%E9%87%8F%E5%AD%90/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンス構築・支援サービスとAI導入への意欲とセキュリティ対策のギャップ",
+      "summary": "AIガバナンス構築支援サービスが提供開始され、AIの利用に伴うリスク管理と価値最大化の両立が図られています。一方で、AI導入意欲とセキュリティ対策にはギャップが存在する調査結果も出ています。",
+      "relevance": "AIガバナンスの重要性と、AI導入におけるセキュリティ対策の課題について、PMO/PjMOの皆様は、組織的なAIガバナンス体制の構築やセキュリティ対策の強化についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000093.000024769&g=prt"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19703602?news_ref=top_newComments"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/insights/consulting/ai-governance-conversation-03"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251932/"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/pr/prtimes/29702"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/627115"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "IT人材発掘・育成プログラムの対象拡大",
+      "summary": "新潟発のIT人材発掘・育成プログラム「ETSUZAN」が長野県まで対象を拡大しました。",
+      "relevance": "IT人材の発掘・育成プログラムの動向について、PMO/PjMOの皆様は、職員のリスキリングやIT人材確保に向けた取り組みについてご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000077.000124452.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "地方創生におけるAI活用とガバメントクラウドファンディング",
+      "summary": "地方創生において、ふるさと納税の集客力強化にAI活用やガバメントクラウドファンディングが挙げられています。",
+      "relevance": "地方創生におけるAI活用やガバメントクラウドファンディングの事例について、PMO/PjMOの皆様は、地域連携や新たな財源確保の可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/quote/3962.T/earnings-call/JP_3962.T_2026-08-25"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "働き方変革の優良事例を表彰する「ワークデザインAX/DX大賞」募集",
+      "summary": "AIやデジタル技術を活用した働き方変革の優良事例を表彰する「ワークデザインAX/DX大賞2026」の募集が開始されました。",
+      "relevance": "働き方変革におけるAIやデジタル技術の活用事例について、PMO/PjMOの皆様は、組織内の生産性向上や職員の働きがい向上に向けた取り組みについてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "j-net21.smrj.go.jp",
+          "url": "https://j-net21.smrj.go.jp/news/bt5puv000000sua6.html"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "MonotaRO が基幹データベースを Amazon Aurora Global Database に移行し、マルチリージョン DR とフルマネージド運用を実現",
+          "url": "https://aws.amazon.com/jp/blogs/news/monotaro-core-database-migration-to-amazon-aurora-global-database/",
+          "pub_date": "2026-08-26T05:06:42.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 26, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_26_2026",
+          "pub_date": "2026-08-26T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Gemini Enterprise、業界特化型ソリューション向けに進化",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+          "pub_date": "2026-08-26T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Box が Gemini Embeddings 2 でマルチモーダル エンタープライズ エージェントを実現",
+          "url": "https://cloud.google.com/blog/ja/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+          "pub_date": "2026-08-26T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-26T16:13:48.299Z"
+}

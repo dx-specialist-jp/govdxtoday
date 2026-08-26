@@ -2332,6 +2332,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "ガバメントAI 源内のアクセシビリティへの取り組み：「誰一人取り残されない、人に優しい生成AIアプリケーション」へ",
+        "summary": "「ガバメントAI 源内」のフロントエンド開発を担当しております、デザインエンジニアの岡藤です。この記事では、政府職員向けの源内Webでのアクセシビリティ向上のために取り組んだ内容を解説します。ガバメントAI 源内の一部はOSS（オープンソースソフトウェア）として公開を進めていますので、OSSを使用さ",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n69962e2eb3fc",
+        "type": "government"
+      },
+      {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
         "title": "マイナポータルアプリが「マイナアプリ」になりました（利用登録のご案内）",
@@ -2695,6 +2704,76 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "AIガバナンス構築・支援サービスとAI導入への意欲とセキュリティ対策のギャップ",
+        "summary": "AIガバナンス構築支援サービスが提供開始され、AIの利用に伴うリスク管理と価値最大化の両立が図られています。一方で、AI導入意欲とセキュリティ対策にはギャップが存在する調査結果も出ています。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000093.000024769&g=prt",
+        "relevance": "AIガバナンスの重要性と、AI導入におけるセキュリティ対策の課題について、PMO/PjMOの皆様は、組織的なAIガバナンス体制の構築やセキュリティ対策の強化についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "金融犯罪対策、法務DX、データ＆AIガバナンス、量子後暗号化",
+        "summary": "金融機関でのリスクマネジメント室設置、法務DXにおけるAIガバナンス、データ＆AIガバナンス、そして量子後暗号化イニシアチブが連邦・金融インフラ向けに開始されました。",
+        "source": "nikkinonline.com",
+        "url": "https://www.nikkinonline.com/article/418387?category=jinnjiidou",
+        "relevance": "AIガバナンス、サイバーセキュリティ、および金融・法務分野における最新の取り組みについて、PMO/PjMOの皆様は、各分野におけるリスク管理体制の強化や技術動向の把握についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "AIガバナンス事業への進出とAIプロジェクト管理への活用",
+        "summary": "ABEJAがシンガポールに子会社を設立し、ASEAN事業のハブとするとともに、AIガバナンス事業のモノブレインを買収しました。また、プロジェクト管理ツールにAI活動やコストを自動紐付けるソリューションも登場しています。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/article/DGXZQOUC266KN0W6A820C2000000/",
+        "relevance": "AIガバナンス事業の拡大や、AIプロジェクト管理における効率化の可能性について、PMO/PjMOの皆様は、外部サービスとの連携やプロジェクト管理手法の改善についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "AIチャットボットの機能統合と障害発生",
+        "summary": "AnthropicはClaudeチャットとCoworkのメモリを統合し、機微な話題の保存制御機能を追加しました。一方で、Claudeで広範な障害が発生し、政府機関向けサービスは正常稼働との情報もあります。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/e0de7bc2-4370-4c10-aabe-cf83b2af477f",
+        "relevance": "AIツールの機能アップデートや運用における障害発生時の影響について、PMO/PjMOの皆様は、利用するAIサービスのリスク管理や代替手段の確保についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "非エンジニアによるAI活用による業務効率化事例",
+        "summary": "非エンジニアがClaude Codeを活用し、月60万円の成果を上げた事例が報告されています。",
+        "source": "hashout.jp",
+        "url": "https://hashout.jp/ai/9166/",
+        "relevance": "AIツールを活用した業務効率化の具体的な事例について、PMO/PjMOの皆様は、職員のスキルアップや業務プロセス改善への応用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "AIエージェント時代を見据えたAIガバナンス構築支援サービス提供開始と規制動向",
+        "summary": "AIエージェント時代のデータ＆AIガバナンスに関するセミナーが開催され、AIガバナンス構築支援サービスも提供開始されました。AI利用に伴うリスク管理と価値最大化の両立が重要視されています。",
+        "source": "economic.jp",
+        "url": "http://economic.jp/?p=116603",
+        "relevance": "AIエージェントの導入やAIガバナンス体制の構築、リスク管理に関する最新動向について、PMO/PjMOの皆様は、組織内でのAI活用方針やリスク評価体制の整備についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "デジタル庁、AI活用推進のため予算倍増要求",
+        "summary": "デジタル庁はAI活用推進のため、予算を倍増要求しました。自治体による国への業務問い合わせ円滑化に向け、生成AIの試験導入などを計画しています。",
+        "source": "news.web.nhk",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260826de46522",
+        "relevance": "デジタル庁のAI活用推進計画および予算動向について、PMO/PjMOの皆様は、将来的な予算配分やプロジェクトへの影響についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
@@ -5672,6 +5751,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "地方創生におけるAI活用とガバメントクラウドファンディング",
+        "summary": "地方創生において、ふるさと納税の集客力強化にAI活用やガバメントクラウドファンディングが挙げられています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/quote/3962.T/earnings-call/JP_3962.T_2026-08-25",
+        "relevance": "地方創生におけるAI活用やガバメントクラウドファンディングの事例について、PMO/PjMOの皆様は、地域連携や新たな財源確保の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
         "title": "秋田県でのDX展示会における行政業務効率化の提案",
@@ -6143,6 +6232,15 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "MonotaRO が基幹データベースを Amazon Aurora Global Database に移行し、マルチリージョン DR とフルマネージド運用を実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/monotaro-core-database-migration-to-amazon-aurora-global-database/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
@@ -7550,6 +7648,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "Box が Gemini Embeddings 2 でマルチモーダル エンタープライズ エージェントを実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "Gemini Enterprise、業界特化型ソリューション向けに進化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "August 26, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_26_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
         "title": "【Google Cloud Next Tokyo 26】 DAY 1 基調講演まとめ：日本企業の現場で動き始めた AI エージェント",
@@ -8668,6 +8793,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "働き方変革の優良事例を表彰する「ワークデザインAX/DX大賞」募集",
+        "summary": "AIやデジタル技術を活用した働き方変革の優良事例を表彰する「ワークデザインAX/DX大賞2026」の募集が開始されました。",
+        "source": "j-net21.smrj.go.jp",
+        "url": "https://j-net21.smrj.go.jp/news/bt5puv000000sua6.html",
+        "relevance": "働き方変革におけるAIやデジタル技術の活用事例について、PMO/PjMOの皆様は、組織内の生産性向上や職員の働きがい向上に向けた取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-25",
         "date_ja": "2026年8月25日（火）",
         "title": "日本コムシス、総務省「こども霞が関見学デー」で未来のエンジニアを応援",
@@ -9685,6 +9820,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-08-27",
+        "date_ja": "2026年8月27日（木）",
+        "title": "IT人材発掘・育成プログラムの対象拡大",
+        "summary": "新潟発のIT人材発掘・育成プログラム「ETSUZAN」が長野県まで対象を拡大しました。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000077.000124452.html",
+        "relevance": "IT人材の発掘・育成プログラムの動向について、PMO/PjMOの皆様は、職員のリスキリングやIT人材確保に向けた取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-16",
         "date_ja": "2026年8月16日（日）",
         "title": "デジタル庁、行政手続7万5000件を分析するMCPサーバを公開",
@@ -9769,22 +9914,22 @@
   "tag_counts": {
     "セキュリティ": 56,
     "その他": 178,
-    "行政AI": 26,
+    "行政AI": 27,
     "行政DX": 14,
-    "AI活用": 199,
+    "AI活用": 206,
     "クラウド/インフラ": 54,
     "制度/ガイドライン": 44,
-    "自治体DX事例": 47,
-    "AWS最新情報": 156,
-    "Google Cloud最新情報": 124,
-    "働き方/業務改革": 18,
+    "自治体DX事例": 48,
+    "AWS最新情報": 157,
+    "Google Cloud最新情報": 127,
+    "働き方/業務改革": 19,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
     "ガバメントクラウド": 4,
     "調達・契約": 11,
     "デジタル庁": 3,
     "調達/契約": 5,
-    "プロジェクト管理": 8
+    "プロジェクト管理": 9
   },
-  "updated_at": "2026-08-25T15:37:07.059Z"
+  "updated_at": "2026-08-26T16:13:48.306Z"
 }
