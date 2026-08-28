@@ -2705,6 +2705,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AIエージェント時代への対応、AIガバナンスの重要性が増し、規制や標準化も進展",
+        "summary": "インターネットの主役が人間からAIエージェントに移行する中、AIガバナンスが重要な課題となっており、国際的な規制の枠組みや認証制度、関連サービスの提供が進んでいる。",
+        "source": "datarobot.com",
+        "url": "https://www.datarobot.com/jp/blog/a-decade-of-open-source-at-datarobot-from-predictive-ai-to-the-agent-lifecycle/",
+        "relevance": "AIエージェントの台頭に伴うガバナンス課題、AIガバナンスの国際的な動向、および関連する認証制度やサービスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "日本企業のAI導入加速、AIセキュリティ人材不足と「シャドーAI」がガバナンス課題に",
+        "summary": "日本企業のAI導入は加速しているものの、AIセキュリティ人材が不足しており、組織管理が行き届かない「シャドーAI」がガバナンス上の課題となっている。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/article/35251961/",
+        "relevance": "AI導入におけるセキュリティ人材の確保、および「シャドーAI」によるガバナンスリスクへの対策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AIガバナンス構築・ISO42001認証支援サービスが複数提供開始",
+        "summary": "企業のAIガバナンス構築やISO/IEC 42001認証取得を支援するサービスが複数提供開始されている。AIの利活用が進む中、リスク対応と適切な管理体制の整備が求められている。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/earnings/article-93CH-1663445",
+        "relevance": "AIガバナンス体制の構築や、ISO42001認証取得の検討、および関連するコンサルティングサービスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "Google Cloud、金融・法務特化型AIプラットフォーム「Gemini Enterprise」を提供開始",
+        "summary": "Google Cloudが、金融および法務分野に特化した企業向けAIプラットフォーム「Gemini Enterprise」の提供を開始した。これらのAI基盤は政府導入対象にも含まれる。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/e5120cd8bf50adbf5e334b07c159f278eadffd51/images/000",
+        "relevance": "業界特化型AIプラットフォームの導入可能性と、それに伴うデータセキュリティ、プライバシー保護、およびガバナンス要件についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "政府AI「源内」が全府省庁18万人対象に大規模実証、災害情報集約等への活用も",
+        "summary": "政府職員向け生成AI利用環境「源内」が、全府省庁18万人を対象に大規模実証段階に入った。災害情報の集約・整理・共有などにAIを活用する取り組みも進められている。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/uk-ukraine-ai-partnership-defense/",
+        "relevance": "政府AI「源内」の導入状況や、生成AIの行政実務への応用可能性、そしてそれに伴うガバナンス体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
         "title": "AIガバナンス構築・支援サービスとAI導入への意欲とセキュリティ対策のギャップ",
@@ -4767,6 +4817,36 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "ガバメントクラウド採択で「国産クラウド」の評価が変化、脱海外依存へ",
+        "summary": "これまで海外事業者が中心だったクラウドインフラにおいて、国産クラウドが「ガバメントクラウド」に採用されたことを契機に、クラウドインフラの評価が変化し、脱海外依存が進む。",
+        "source": "techtarget.itmedia.co.jp",
+        "url": "https://techtarget.itmedia.co.jp/tt/article/2608/28/2000000850/",
+        "relevance": "ガバメントクラウドにおける国産クラウドの採用状況と、クラウドインフラ選定における考慮事項についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AWSとNVIDIA、GPU導入拡大とカスタムCPU開発で政府機関への導入を強化",
+        "summary": "AWSとNVIDIAは、2027～2028年にかけてGPUをさらに2万個導入し、カスタムCPU開発も進めることで、政府機関へのAIインフラ導入を強化する。一方で、AIモデルの収益分配についても議論が進められている。",
+        "source": "storagereview.com",
+        "url": "https://www.storagereview.com/ja/news/aws-and-nvidia-to-deploy-2-million-more-gpus-in-2027-2028-bringing-vera-cpus-and-custom-nvhbm-to-trainium",
+        "relevance": "主要クラウドベンダーによるAIインフラ投資の動向と、政府機関への導入戦略、およびAIモデルの収益分配に関する議論についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "国産クラウド「さくらのクラウド」がガバメントクラウドに正式採択、本番利用が可能に",
+        "summary": "国産クラウドサービス「さくらのクラウド」が、政府共通のガバメントクラウドの対象サービスとして正式採択され、本番利用が可能となった。これにより、クラウドインフラにおける脱海外依存が進む。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/32169645/?p=2",
+        "relevance": "ガバメントクラウドへの国産クラウドの採択状況と、それに伴うインフラ選定・移行計画についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
         "title": "ガバメントクラウドへの移行とシステム運用経費削減、および関連イベントの開催",
@@ -5308,6 +5388,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "DX認定取得支援サービスが提供開始、経済産業省のDX推進体制整備をサポート",
+        "summary": "DX認定とは、経済産業省が定めるDX推進に向けた体制や戦略が整備されている企業を認定する制度であり、その取得を支援するサービスが提供開始されている。",
+        "source": "oita-press.co.jp",
+        "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c16108_r123",
+        "relevance": "DX認定制度の概要と、DX推進体制整備に向けた支援サービスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "政策DB「補助金・助成金ハブ」公開、行政事業レビューや自治体例規などを集約",
+        "summary": "政策DBが「補助金・助成金ハブ」を公開し、行政事業レビューや国会発言、自治体例規などの情報を集約した。これにより、政策情報へのアクセスが容易になる。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000009.000177945.html",
+        "relevance": "行政事業レビューや自治体情報へのアクセス向上、および政策立案・実行におけるデータ活用についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
@@ -6232,6 +6332,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "今月の AWS オブザーバビリティ: 2026 年 7 月",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-july-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AWS と DuckLabs: 分析の未来を共に築く",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-and-ducklabs-building-the-future-of-analytics-together/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AWS Weekly Roundup: AWS Builder Center での学生リワード、ラスベガスのローカルゾーンなど (2026 年 8 月 24 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "Adtech Meetup ～変わる広告、変わらない価値～ 開催レポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/adtech-meetup-1/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
@@ -7647,6 +7783,42 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "Malachyte がマネージド リアルタイム AI で小売業のコールド スタート問題を解決した方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "AI 時代の FinOps：エージェント向けの新しい柔軟な請求と費用管理",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "Google Dataflow で費用対効果に優れた高スループットな生成 AI ワークフローを構築する",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-28",
+        "date_ja": "2026年8月28日（金）",
+        "title": "August 27, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_27_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
@@ -9916,12 +10088,12 @@
     "その他": 178,
     "行政AI": 27,
     "行政DX": 14,
-    "AI活用": 206,
-    "クラウド/インフラ": 54,
-    "制度/ガイドライン": 44,
+    "AI活用": 211,
+    "クラウド/インフラ": 57,
+    "制度/ガイドライン": 46,
     "自治体DX事例": 48,
-    "AWS最新情報": 157,
-    "Google Cloud最新情報": 127,
+    "AWS最新情報": 161,
+    "Google Cloud最新情報": 131,
     "働き方/業務改革": 19,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
@@ -9931,5 +10103,5 @@
     "調達/契約": 5,
     "プロジェクト管理": 9
   },
-  "updated_at": "2026-08-26T16:13:48.306Z"
+  "updated_at": "2026-08-28T00:12:14.712Z"
 }

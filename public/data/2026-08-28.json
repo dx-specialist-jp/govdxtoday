@@ -1,0 +1,332 @@
+{
+  "date": "2026-08-28",
+  "date_ja": "2026年8月28日（金）",
+  "news_summary": [
+    "政府AI「源内」が全府省庁18万人対象に実証開始、災害情報集約等への活用も",
+    "Google Cloudが金融・法務特化型AIプラットフォーム「Gemini Enterprise」を提供開始",
+    "AIガバナンス構築・ISO42001認証支援サービスが複数提供開始、リスク対応が急務",
+    "日本企業のAI導入加速、AIセキュリティ人材不足と「シャドーAI」がガバナンス課題",
+    "国産クラウド「さくらのクラウド」がガバメントクラウドに正式採択、本番利用可能に",
+    "AWSとNVIDIA、GPU導入拡大とカスタムCPU開発で政府機関へのAIインフラ導入を強化"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: 三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95523788/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96620683/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN18593874/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府AI「源内」が全府省庁18万人対象に大規模実証、災害情報集約等への活用も",
+      "summary": "政府職員向け生成AI利用環境「源内」が、全府省庁18万人を対象に大規模実証段階に入った。災害情報の集約・整理・共有などにAIを活用する取り組みも進められている。",
+      "relevance": "政府AI「源内」の導入状況や、生成AIの行政実務への応用可能性、そしてそれに伴うガバナンス体制についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/uk-ukraine-ai-partnership-defense/"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/32cda2c5-cfaf-40d2-82cb-8e2860fee8b7"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32169419/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17383535/?ref=technology"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14854719.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Google Cloud、金融・法務特化型AIプラットフォーム「Gemini Enterprise」を提供開始",
+      "summary": "Google Cloudが、金融および法務分野に特化した企業向けAIプラットフォーム「Gemini Enterprise」の提供を開始した。これらのAI基盤は政府導入対象にも含まれる。",
+      "relevance": "業界特化型AIプラットフォームの導入可能性と、それに伴うデータセキュリティ、プライバシー保護、およびガバナンス要件についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/e5120cd8bf50adbf5e334b07c159f278eadffd51/images/000"
+        },
+        {
+          "name": "watch.impress.co.jp",
+          "url": "https://www.watch.impress.co.jp/docs/news/2136072.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンス構築・ISO42001認証支援サービスが複数提供開始",
+      "summary": "企業のAIガバナンス構築やISO/IEC 42001認証取得を支援するサービスが複数提供開始されている。AIの利活用が進む中、リスク対応と適切な管理体制の整備が求められている。",
+      "relevance": "AIガバナンス体制の構築や、ISO42001認証取得の検討、および関連するコンサルティングサービスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/earnings/article-93CH-1663445"
+        },
+        {
+          "name": "ehime-np.co.jp",
+          "url": "https://www.ehime-np.co.jp/article/prtimes102621"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/company_news/ai-governance-practical-guide/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19707048?news_ref=watch_60_nw19628745"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32172668/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000104_000110563/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-08-27-110563-104/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "日本企業のAI導入加速、AIセキュリティ人材不足と「シャドーAI」がガバナンス課題に",
+      "summary": "日本企業のAI導入は加速しているものの、AIセキュリティ人材が不足しており、組織管理が行き届かない「シャドーAI」がガバナンス上の課題となっている。",
+      "relevance": "AI導入におけるセキュリティ人材の確保、および「シャドーAI」によるガバナンスリスクへの対策についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251961/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIエージェント時代への対応、AIガバナンスの重要性が増し、規制や標準化も進展",
+      "summary": "インターネットの主役が人間からAIエージェントに移行する中、AIガバナンスが重要な課題となっており、国際的な規制の枠組みや認証制度、関連サービスの提供が進んでいる。",
+      "relevance": "AIエージェントの台頭に伴うガバナンス課題、AIガバナンスの国際的な動向、および関連する認証制度やサービスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/blog/a-decade-of-open-source-at-datarobot-from-predictive-ai-to-the-agent-lifecycle/"
+        },
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news026.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/459cf0d5-35a5-4f00-84a3-014aeeb5df63"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31201788/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251995/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/777b5d7fe1dae85d79d6bd0aee02ede4c0959aba"
+        },
+        {
+          "name": "logi-today.com",
+          "url": "https://www.logi-today.com/992835"
+        },
+        {
+          "name": "finance.yahoo.co.jp",
+          "url": "https://finance.yahoo.co.jp/news/detail/e36e21ba6826a7bdee722ed5ca41ca41da13452f"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/9909942"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000189.000121022.html"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/1620206"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24929"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国産クラウド「さくらのクラウド」がガバメントクラウドに正式採択、本番利用が可能に",
+      "summary": "国産クラウドサービス「さくらのクラウド」が、政府共通のガバメントクラウドの対象サービスとして正式採択され、本番利用が可能となった。これにより、クラウドインフラにおける脱海外依存が進む。",
+      "relevance": "ガバメントクラウドへの国産クラウドの採択状況と、それに伴うインフラ選定・移行計画についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/article/detail/32169645/?p=2"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/nikkan_spa/trend/nikkan_spa-2182574?page=2"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkan_spa/trend/nikkan_spa-2182574"
+        },
+        {
+          "name": "nikkan-spa.jp",
+          "url": "https://nikkan-spa.jp/2182574/2"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/72d3154de433a1dd8d64c37e3212c6cc49541890?page=2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AWSとNVIDIA、GPU導入拡大とカスタムCPU開発で政府機関への導入を強化",
+      "summary": "AWSとNVIDIAは、2027～2028年にかけてGPUをさらに2万個導入し、カスタムCPU開発も進めることで、政府機関へのAIインフラ導入を強化する。一方で、AIモデルの収益分配についても議論が進められている。",
+      "relevance": "主要クラウドベンダーによるAIインフラ投資の動向と、政府機関への導入戦略、およびAIモデルの収益分配に関する議論についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "storagereview.com",
+          "url": "https://www.storagereview.com/ja/news/aws-and-nvidia-to-deploy-2-million-more-gpus-in-2027-2028-bringing-vera-cpus-and-custom-nvhbm-to-trainium"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/97470/moonshot-ai-in-talks-with-us-top-three-cloud-firms-on-revenue-sharing-for-kimi-k3-model"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド採択で「国産クラウド」の評価が変化、脱海外依存へ",
+      "summary": "これまで海外事業者が中心だったクラウドインフラにおいて、国産クラウドが「ガバメントクラウド」に採用されたことを契機に、クラウドインフラの評価が変化し、脱海外依存が進む。",
+      "relevance": "ガバメントクラウドにおける国産クラウドの採用状況と、クラウドインフラ選定における考慮事項についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2608/28/2000000850/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "政策DB「補助金・助成金ハブ」公開、行政事業レビューや自治体例規などを集約",
+      "summary": "政策DBが「補助金・助成金ハブ」を公開し、行政事業レビューや国会発言、自治体例規などの情報を集約した。これにより、政策情報へのアクセスが容易になる。",
+      "relevance": "行政事業レビューや自治体情報へのアクセス向上、および政策立案・実行におけるデータ活用についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000009.000177945.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "DX認定取得支援サービスが提供開始、経済産業省のDX推進体制整備をサポート",
+      "summary": "DX認定とは、経済産業省が定めるDX推進に向けた体制や戦略が整備されている企業を認定する制度であり、その取得を支援するサービスが提供開始されている。",
+      "relevance": "DX認定制度の概要と、DX推進体制整備に向けた支援サービスについてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "oita-press.co.jp",
+          "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c16108_r123"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Adtech Meetup ～変わる広告、変わらない価値～ 開催レポート",
+          "url": "https://aws.amazon.com/jp/blogs/news/adtech-meetup-1/",
+          "pub_date": "2026-08-27T06:06:22.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Weekly Roundup: AWS Builder Center での学生リワード、ラスベガスのローカルゾーンなど (2026 年 8 月 24 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+          "pub_date": "2026-08-27T05:40:15.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS と DuckLabs: 分析の未来を共に築く",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-and-ducklabs-building-the-future-of-analytics-together/",
+          "pub_date": "2026-08-27T04:20:30.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "今月の AWS オブザーバビリティ: 2026 年 7 月",
+          "url": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-july-2026/",
+          "pub_date": "2026-08-27T03:10:40.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 27, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_27_2026",
+          "pub_date": "2026-08-27T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Google Dataflow で費用対効果に優れた高スループットな生成 AI ワークフローを構築する",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+          "pub_date": "2026-08-27T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AI 時代の FinOps：エージェント向けの新しい柔軟な請求と費用管理",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+          "pub_date": "2026-08-27T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Malachyte がマネージド リアルタイム AI で小売業のコールド スタート問題を解決した方法",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
+          "pub_date": "2026-08-27T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-28T00:12:14.707Z"
+}
