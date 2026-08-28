@@ -2705,6 +2705,26 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "AIガバナンスの重要性と構築支援サービスの広がり",
+        "summary": "AIの活用拡大に伴い、AIガバナンスの重要性が増しており、AIアプリケーションセキュリティ、利用制御、ガバナンスプラットフォーム等の分野で市場が拡大している。構築支援サービスも複数登場している。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news039.html",
+        "relevance": "AI導入・活用におけるリスク管理と信頼性確保のため、AIガバナンスの考え方や構築支援サービスについて、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "ガバメントAI「源内」の全省庁導入とAI活用における創造性の重要性",
+        "summary": "デジタル庁が推進するガバメントAI「源内」が全省庁に導入され、政府職員18万人が活用する。AIの進歩には創造性が不可欠であるという見解も示された。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17391200/body/?ref=topic-mhayashi",
+        "relevance": "全省庁共通の生成AI利用環境「源内」の展開状況や、AI活用の促進における創造性の重要性について、プロジェクト推進のご参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-28",
         "date_ja": "2026年8月28日（金）",
         "title": "AIエージェント時代への対応、AIガバナンスの重要性が増し、規制や標準化も進展",
@@ -4817,6 +4837,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "政府クラウドを運用する主要クラウド事業者の動向",
+        "summary": "政府クラウドを運用するAWS、Microsoft、Google Cloudの幹部との情報交換が行われた。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/182944/posts/1482614",
+        "relevance": "政府クラウドを支える主要クラウドベンダーの動向を把握し、今後のインフラ選定や契約における参考としてください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "AWSとNVIDIA、AI・国家安全保障向けインフラ拡充で協業強化",
+        "summary": "AWSとNVIDIAは、連邦政府および国家安全保障関連ワークロード向けのAIインフラ拡大のため、200万基以上のGPU提供を含む協業を強化する。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/430/4430370/",
+        "relevance": "政府機関におけるAIインフラの最新動向として、GPU供給体制やインフラ構成の検討にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-28",
         "date_ja": "2026年8月28日（金）",
         "title": "ガバメントクラウド採択で「国産クラウド」の評価が変化、脱海外依存へ",
@@ -5389,6 +5429,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "米財務省の短期債シフトがビットコインと金を押し上げる可能性",
+        "summary": "フィデリティのストラテジストによると、米財務省が短期債の発行を増やす一方で長期債を買い戻す方向に向かうと、ビットコインと金が押し上げられる可能性がある。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/1d0ec274-135d-49fe-ad1c-4caa0850e488",
+        "relevance": "金融市場の動向は、行政機関の予算策定や資産運用に間接的な影響を与える可能性があるため、参考情報としてください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "国の公募と自治体支援制度を横断検索できる政策DB「SEISAKU DB」の公開",
+        "summary": "政策DB（SEISAKU DB）が、「補助金・助成金ハブ」を公開し、国の公募と1,209自治体の支援制度を横断検索できるようになった。 MCP（マスターコンテンツプラン）とREST APIも利用可能。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19709512?news_ref=watch_60_nw19628745",
+        "relevance": "最新の政策動向や補助金情報を効率的に収集・分析するため、政策DBの活用をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-28",
         "date_ja": "2026年8月28日（金）",
         "title": "DX認定取得支援サービスが提供開始、経済産業省のDX推進体制整備をサポート",
@@ -5850,6 +5910,16 @@
       }
     ],
     "自治体DX事例": [
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "岡山市、ガバメントクラウド費用最適化支援業務委託の一般競争入札を実施",
+        "summary": "岡山市は、ガバメントクラウドの費用最適化を支援する業務委託の一般競争入札を実施する。",
+        "source": "city.okayama.jp",
+        "url": "https://www.city.okayama.jp/jigyosha/0000084848.html",
+        "relevance": "自治体におけるガバメントクラウドの費用最適化事例として、自組織のクラウド利用コスト管理の参考にご活用ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
@@ -6332,6 +6402,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "実践企業に学ぶ生成 AI 導入の勘所 〜眠るデータを企業価値に変える〜 – AWS Local Executive Roadshow 札幌編（#7/8）開催レポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/local_executive_roadshow_7/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "AI ツールで実現する継続収益ビジネス​ 〜開発力を資産に変える〜 – AWS Local Executive Roadshow 札幌編（#8/8）開催レポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/local_executive_roadshow_8/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "パート2: Amazon AthenaとCUDOSを使用したAmazon Bedrockのコスト配分",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "Amazon Bedrock のきめ細かなコスト配分の導入",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-granular-cost-attribution-for-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "AI コーディングエージェントは本当に良くなっているのか？",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/diagnostics-over-time/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-28",
         "date_ja": "2026年8月28日（金）",
@@ -7784,6 +7899,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "ゼロコード、低コストのデータの取り込み: BigQuery DTS の新機能",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/new-bigquery-data-transfer-service-capabilities/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "構造化データと非構造化データのインサイトを統合する BigQuery 検索のイノベーション",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "金融サービスにおけるエージェント型 AI を活用したオペレーショナル レジリエンスの構築",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "August 28, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_28_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-28",
         "date_ja": "2026年8月28日（金）",
         "title": "Malachyte がマネージド リアルタイム AI で小売業のコールド スタート問題を解決した方法",
@@ -8965,6 +9116,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "林総務大臣、災害復旧・復興と被災地支援に全力を尽くす方針",
+        "summary": "林総務大臣は、令和8年熊本地震、千葉豪雨、石川県・能登半島地震等の被災地復旧・復興に全力を尽くす方針を示した。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001566.html",
+        "relevance": "災害発生時の行政対応における通信インフラや情報共有の重要性について、BCP（事業継続計画）策定の参考としてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
         "title": "働き方変革の優良事例を表彰する「ワークデザインAX/DX大賞」募集",
@@ -9796,6 +9957,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "米国防総省によるAI企業Anthropicのブラックリスト指定の違法判決",
+        "summary": "米連邦判事が、国防総省によるAnthropicのブラックリスト指定を「違法」と判断した。これにより、政府業務からのAI排除の動きに打撃を与えた。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/b03148b6-cf6c-4633-b33c-cffb2cde3f9c",
+        "relevance": "AIベンダー選定や政府調達における法的リスクの事例として、参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-26",
         "date_ja": "2026年8月26日（水）",
         "title": "経済産業省委託事業における調達の課題と実態",
@@ -9992,6 +10163,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-08-29",
+        "date_ja": "2026年8月29日（土）",
+        "title": "7000億円以上かけた自治体システム標準化が現場の声なく難航",
+        "summary": "7000億円以上を投じた自治体システム標準化が、現場の声を反映させられず難航している。デジタル庁は2026年6月30日を特定移行支援システムの期限としている。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/e97059c3b293ab8207b1979737345709c0a127f9",
+        "relevance": "大規模システム標準化プロジェクトにおける課題と、現場との連携の重要性について、プロジェクト推進のご参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
         "title": "IT人材発掘・育成プログラムの対象拡大",
@@ -10088,20 +10269,20 @@
     "その他": 178,
     "行政AI": 27,
     "行政DX": 14,
-    "AI活用": 211,
-    "クラウド/インフラ": 57,
-    "制度/ガイドライン": 46,
-    "自治体DX事例": 48,
-    "AWS最新情報": 161,
-    "Google Cloud最新情報": 131,
-    "働き方/業務改革": 19,
+    "AI活用": 213,
+    "クラウド/インフラ": 59,
+    "制度/ガイドライン": 48,
+    "自治体DX事例": 49,
+    "AWS最新情報": 166,
+    "Google Cloud最新情報": 135,
+    "働き方/業務改革": 20,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
     "ガバメントクラウド": 4,
-    "調達・契約": 11,
+    "調達・契約": 12,
     "デジタル庁": 3,
     "調達/契約": 5,
-    "プロジェクト管理": 9
+    "プロジェクト管理": 10
   },
-  "updated_at": "2026-08-28T00:12:14.712Z"
+  "updated_at": "2026-08-28T23:49:38.744Z"
 }
