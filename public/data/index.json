@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-30",
+      "summary_short": "AIガバナンス、AI利用制御、AIゲートウェイなどセキュ…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-08-29",
       "summary_short": "ガバメントAI「源内」の全省庁導入とAI活用における創造…など10件",
       "article_count": 10,
