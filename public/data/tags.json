@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "Claude Code 2.1.251の権限チェック修正と新機能",
+        "summary": "Claude Code 2.1.251の更新により、権限チェック後にシンボリックリンクが差し替えられると承認範囲外を読み書きしうる問題が修正された。新機能も追加されている。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/08/30/claude-code-fixes-permission-bypass-bug-update-2-1-251/",
+        "relevance": "AIツールの脆弱性管理や、アップデートによる影響についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
         "title": "AIガバナンス、AI利用制御、AIゲートウェイなどセキュリティ市場が68.7％増加",
@@ -2715,6 +2725,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "AIによる株式投資試験運用の提案",
+        "summary": "アメリカ財務省は、最大1,000人の投資家を対象に、AIが投資家に代わってポートフォリオの運用、調整、再構築を行うモデルの試験導入を提案した。リスク発生時の規制当局の対応も考慮されている。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/de-xuat-cho-1-000-nha-dau-tu-chuyen-nghiep-dung-ai-danh-chung-khoan",
+        "relevance": "AIを活用した投資モデルの試験運用に関する動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "公共サービスにおけるAIの統合と生成AIの活用段階",
+        "summary": "AIは「使う」から「任せる」段階へと進み、製造、行政、電力分野での活用が注目されている。生成AIが生成するコンテンツや結果は、行政上の決定に用いる前に検証・評価が必要。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/dua-ai-vao-cong-vu-tu-nhung-bai-toan-thuc-te",
+        "relevance": "AI、特に生成AIの公共サービスへの統合にあたっての検証・評価体制のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "AIガバナンス構築と地域DX・AI実装の重要性",
+        "summary": "AI活用における生産性向上の先には、「業務加速」を実現するビジネス基盤とAIガバナンスが鍵となる。地域企業が直面する課題解決の具体策と成功モデル共有も進む。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/ev/ondemand/00001/082500008/",
+        "relevance": "AI導入・運用におけるガバナンス体制の構築や、地域DX・AI実装の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
         "title": "Google、Gemini安全性チームを政府対応部門へ移管、研究者の独立性・開発現場アクセスが焦点",
@@ -4887,6 +4927,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "AWSとNVIDIA、AIインフラ向けGPU導入拡大",
+        "summary": "AWSとNVIDIAは、AIインフラに対する世界的な需要の急増に対応するため、2026年8月までにGPU200万基を導入する計画を発表した。フィジカルAI・エージェント型AI向けにロボットとの連携も拡大する。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/26882c23-8750-4337-bdda-d094f06b8d99",
+        "relevance": "AIインフラの整備状況や、GPU導入の動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "ガバメントクラウド導入と自治体システム標準化の現状",
+        "summary": "自治体システム標準化やガバメントクラウドへの移行は、政治主導で期限が設けられたものの、システムに詳しい専門家からは当初から懸念も示されていた。小諸市では、ふるさと納税制度を活用したガバメントクラウドファンディングでドッグラン設備の更新費用を募った。",
+        "source": "shinmai.co.jp",
+        "url": "https://www.shinmai.co.jp/news/article/gf01da7aseqm9tl84se1acd0",
+        "relevance": "ガバメントクラウドの活用事例や、自治体システム標準化の進捗状況についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
         "title": "AWSとNVIDIA、連邦政府・国家安全保障向けに200万基のGPUと次世代インフラを提供",
@@ -5488,6 +5548,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "アメリカ財務省の異例の決断と日米金利上昇",
+        "summary": "アメリカ財務省が異例の決断を下した一方、日米同時金利上昇が続いており、円安の背景に歴史的な要因が潜んでいる可能性が指摘されている。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-955850?page=3",
+        "relevance": "国際的な金融市場の動向が行政システムに与える影響についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "持続可能な郵便局のあり方に関する総務省の審議開始",
+        "summary": "総務省は、郵便事業の安定的・持続的な運営と郵便局の地域支援役割強化のため、情報通信審議会に「郵便局のあり方」について諮問した。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2632ko91-2re-01/",
+        "relevance": "公共サービスにおける制度改革の動向についてご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
@@ -6492,6 +6572,33 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "Amazon SageMaker Unified Studio のノートブックで、より速くインサイトに到達する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "DuckDB で Amazon S3 Tables に格納された表形式データセットへのアクセスを効率化する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "2 週間で 12 万人規模へ – NEC が Claude Desktop on Amazon Bedrock で実現したセキュアな全社 AI 環境",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/nec-claude-desktop-bedrock-120k-users-2-weeks/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
@@ -7997,6 +8104,15 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-08-31",
+        "date_ja": "2026年8月31日（月）",
+        "title": "August 30, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_30_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
@@ -10383,16 +10499,16 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 57,
+    "セキュリティ": 58,
     "その他": 178,
     "行政AI": 27,
     "行政DX": 14,
-    "AI活用": 217,
-    "クラウド/インフラ": 60,
-    "制度/ガイドライン": 50,
+    "AI活用": 220,
+    "クラウド/インフラ": 62,
+    "制度/ガイドライン": 52,
     "自治体DX事例": 50,
-    "AWS最新情報": 167,
-    "Google Cloud最新情報": 136,
+    "AWS最新情報": 170,
+    "Google Cloud最新情報": 137,
     "働き方/業務改革": 21,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 8,
@@ -10402,5 +10518,5 @@
     "調達/契約": 5,
     "プロジェクト管理": 10
   },
-  "updated_at": "2026-08-29T18:08:19.324Z"
+  "updated_at": "2026-08-30T18:22:48.286Z"
 }

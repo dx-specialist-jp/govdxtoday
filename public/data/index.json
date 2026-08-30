@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-08-31",
+      "summary_short": "Claude Code 2.1.251の権限チェック修正…など8件",
+      "article_count": 8,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-08-30",
       "summary_short": "AIガバナンス、AI利用制御、AIゲートウェイなどセキュ…など10件",
       "article_count": 10,
