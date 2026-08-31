@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-01",
+  "date_ja": "2026年9月1日（火）",
+  "news_summary": [
+    "AWS GovCloudでAIモデルへのアクセスが拡大され、自治体向けAIツール提供も進んでいます。",
+    "災害情報集約や情報提供でAI活用が進み、Google Gemini Enterpriseのプレビュー提供も開始されました。",
+    "ガバメントクラウドを活用し、ふるさと納税による自治体プロジェクト支援が実施されています。",
+    "AI関連予算の注目度が高まる中、病院情報システム刷新協議会へのデジタル庁参画も報じられています。",
+    "企業はAIガバナンス構築とシャドーAIリスク管理が求められ、専門家によるアセスメントサービスも開始。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）における反射型クロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN48718197/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+      "url": "https://jvn.jp/jp/JVN65118274/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90210212/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府・自治体におけるAI・ガバメントクラウド活用推進と最新動向",
+      "summary": "政府・自治体では、AIやガバメントクラウドの活用を推進しており、AWS GovCloudにおけるAIモデルへのアクセス拡大や、自治体向けAIツールの提供が進められています。",
+      "relevance": "ガバメントクラウドやガバメントAIの利活用に向けた最新の取り組みについて、自組織での導入・推進にあたりご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ledge.ai",
+          "url": "https://ledge.ai/articles/openai_collective_cyber_defense"
+        },
+        {
+          "name": "kucoin.com",
+          "url": "https://www.kucoin.com/ja/news/flash/aws-expands-ai-model-access-for-government-clients"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-08-31-30113-370/"
+        },
+        {
+          "name": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+          "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/08/31/news-29806/"
+        },
+        {
+          "name": "dcross.impress.co.jp",
+          "url": "https://dcross.impress.co.jp/docs/column/column20260620/004825.html"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "行政におけるAI活用事例とAIツールの動向",
+      "summary": "被災自治体でのAI活用による災害情報集約や、GoogleのAIアシスタント「Gemini」の動向、金融・法務に特化したGemini Enterpriseのプレビュー提供が報じられています。",
+      "relevance": "行政分野におけるAI活用事例やAIツールの最新動向について、業務効率化やサービス向上への応用をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e"
+        },
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/entertainment/ori2477248.html"
+        },
+        {
+          "name": "ledge.ai",
+          "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ガバメントクラウドを活用したふるさと納税支援",
+      "summary": "「ふるさとチョイス」にて、ガバメントクラウドを活用した「宮津燈籠流し花火大会」継続プロジェクトへの寄附が行われています。",
+      "relevance": "ガバメントクラウドの活用事例として、自治体支援プロジェクトにおける寄附受付の仕組みにご関心があればご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "city.miyazu.kyoto.jp",
+          "url": "https://www.city.miyazu.kyoto.jp/site/citypro/31009.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府・省庁における予算要求、制度改正、IT施策の動向",
+      "summary": "総務省による地方民放統合緩和案の了承、国土交通省の物流関係予算要求、デジタル庁の病院情報システム等刷新協議会への参画、概算要求におけるAI関連予算の注目度などが報じられています。",
+      "relevance": "各省庁の予算要求や制度改正、IT施策の動向について、関連するプロジェクトの推進や情報収集にお役立てください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14872440.html"
+        },
+        {
+          "name": "trucknews.biz",
+          "url": "https://www.trucknews.biz/article/s083136/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000027.000102549&g=prt"
+        },
+        {
+          "name": "risktaisaku.com",
+          "url": "https://www.risktaisaku.com/articles/-/114864"
+        },
+        {
+          "name": "nagoyatv.com",
+          "url": "https://www.nagoyatv.com/news/keizai.html?id=000529996"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV803HX1V80ULFA01NM.html"
+        },
+        {
+          "name": "jp.reuters.com",
+          "url": "https://jp.reuters.com/economy/bank-of-japan/6W4UX22KWNOPNNMSRBMNXWVKNQ-2026-08-31/"
+        },
+        {
+          "name": "robotstart.info",
+          "url": "https://robotstart.info/article/2026/08/31/382346.html"
+        },
+        {
+          "name": "city.sendai.jp",
+          "url": "https://www.city.sendai.jp/renkeisuishin/kisha/tohokudxgateway2026.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban04_02000281.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "企業のAI利用におけるガバナンス強化とリスク管理の重要性",
+      "summary": "企業は、AIの安全な導入と利用のため、AIガバナンスの構築やシャドーAIのリスク管理が求められています。専門家によるアセスメントサービスも提供開始されました。",
+      "relevance": "AI導入・活用におけるガバナンス体制の構築やリスク管理について、PMO/PjMOとしての計画策定にご活用ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/08/24/00459/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24981"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/5488636"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/103771"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260831/pr2/00m/020/970000c"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000035.000186443.html"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_13/35250914/"
+        },
+        {
+          "name": "minkabu.jp",
+          "url": "https://minkabu.jp/news/4608136"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g3uogr&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260831529051/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00668/082400025/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00795/070700003/"
+        },
+        {
+          "name": "ccsi.jp",
+          "url": "https://ccsi.jp/14741/"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/8578977"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZRSP711868_R30C26A8000000/"
+        },
+        {
+          "name": "media.dglab.com",
+          "url": "https://media.dglab.com/2026/08/31-onlab-31/amp/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24973"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000066.000090265.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/JP_6287.T_2026-02-12"
+        },
+        {
+          "name": "afpbb.com",
+          "url": "https://www.afpbb.com/articles/-/3650647"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/gallery/1913631"
+        }
+      ],
+      "score": 10
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊生成AI with AWS – 2026/8/24 週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260824/",
+          "pub_date": "2026-08-31T07:20:17.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "「フィジカル AI 開発支援プログラム by AWS ジャパン」最終成果発表会を開催しました",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-japan-physical-ai-development-support-program-results/",
+          "pub_date": "2026-08-31T07:06:36.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】AWS Resilience Day (個社向け)を開催しました！！（2026年7月3日）",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-resilience-day-in-personal-20260703/",
+          "pub_date": "2026-08-31T06:56:08.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Razor Group が AWS でモダンなデータレイクハウスを構築するまでの道のり",
+          "url": "https://aws.amazon.com/jp/blogs/news/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/",
+          "pub_date": "2026-08-31T06:41:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊AWS – 2026/8/24週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260824/",
+          "pub_date": "2026-08-31T06:36:17.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "August 31, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+          "pub_date": "2026-08-31T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "JBサービス: Google Threat Intelligence で、さらに効率的で高精度、プロアクティブなセキュリティ サービスを提供",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/jb-services-provides-security-services-through-google-threat-intelligence/",
+          "pub_date": "2026-08-31T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "共有ストレージの未来を切り拓く: Filestore の基盤に Colossus を導入",
+          "url": "https://cloud.google.com/blog/ja/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
+          "pub_date": "2026-08-31T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-31T20:35:51.709Z"
+}

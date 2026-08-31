@@ -2725,6 +2725,26 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "行政におけるAI活用事例とAIツールの動向",
+        "summary": "被災自治体でのAI活用による災害情報集約や、GoogleのAIアシスタント「Gemini」の動向、金融・法務に特化したGemini Enterpriseのプレビュー提供が報じられています。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
+        "relevance": "行政分野におけるAI活用事例やAIツールの最新動向について、業務効率化やサービス向上への応用をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "政府・自治体におけるAI・ガバメントクラウド活用推進と最新動向",
+        "summary": "政府・自治体では、AIやガバメントクラウドの活用を推進しており、AWS GovCloudにおけるAIモデルへのアクセス拡大や、自治体向けAIツールの提供が進められています。",
+        "source": "ledge.ai",
+        "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
+        "relevance": "ガバメントクラウドやガバメントAIの利活用に向けた最新の取り組みについて、自組織での導入・推進にあたりご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
         "title": "AIによる株式投資試験運用の提案",
@@ -4927,6 +4947,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "ガバメントクラウドを活用したふるさと納税支援",
+        "summary": "「ふるさとチョイス」にて、ガバメントクラウドを活用した「宮津燈籠流し花火大会」継続プロジェクトへの寄附が行われています。",
+        "source": "city.miyazu.kyoto.jp",
+        "url": "https://www.city.miyazu.kyoto.jp/site/citypro/31009.html",
+        "relevance": "ガバメントクラウドの活用事例として、自治体支援プロジェクトにおける寄附受付の仕組みにご関心があればご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
         "title": "AWSとNVIDIA、AIインフラ向けGPU導入拡大",
@@ -5548,6 +5578,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "政府・省庁における予算要求、制度改正、IT施策の動向",
+        "summary": "総務省による地方民放統合緩和案の了承、国土交通省の物流関係予算要求、デジタル庁の病院情報システム等刷新協議会への参画、概算要求におけるAI関連予算の注目度などが報じられています。",
+        "source": "47news.jp",
+        "url": "https://www.47news.jp/14872440.html",
+        "relevance": "各省庁の予算要求や制度改正、IT施策の動向について、関連するプロジェクトの推進や情報収集にお役立てください。",
+        "type": "news"
+      },
       {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
@@ -6572,6 +6612,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "週刊AWS – 2026/8/24週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260824/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "Razor Group が AWS でモダンなデータレイクハウスを構築するまでの道のり",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "【開催報告】AWS Resilience Day (個社向け)を開催しました！！（2026年7月3日）",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-resilience-day-in-personal-20260703/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "「フィジカル AI 開発支援プログラム by AWS ジャパン」最終成果発表会を開催しました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-japan-physical-ai-development-support-program-results/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "週刊生成AI with AWS – 2026/8/24 週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260824/",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
@@ -8104,6 +8189,33 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "共有ストレージの未来を切り拓く: Filestore の基盤に Colossus を導入",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "JBサービス: Google Threat Intelligence で、さらに効率的で高精度、プロアクティブなセキュリティ サービスを提供",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/jb-services-provides-security-services-through-google-threat-intelligence/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "August 31, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
@@ -10067,6 +10179,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-09-01",
+        "date_ja": "2026年9月1日（火）",
+        "title": "企業のAI利用におけるガバナンス強化とリスク管理の重要性",
+        "summary": "企業は、AIの安全な導入と利用のため、AIガバナンスの構築やシャドーAIのリスク管理が求められています。専門家によるアセスメントサービスも提供開始されました。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/08/24/00459/",
+        "relevance": "AI導入・活用におけるガバナンス体制の構築やリスク管理について、PMO/PjMOとしての計画策定にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-07-28",
         "date_ja": "2026年7月28日（火）",
         "title": "AI活用促進とガバナンス：現場主導のAI活用と情報漏洩リスク",
@@ -10503,20 +10625,20 @@
     "その他": 178,
     "行政AI": 27,
     "行政DX": 14,
-    "AI活用": 220,
-    "クラウド/インフラ": 62,
-    "制度/ガイドライン": 52,
+    "AI活用": 222,
+    "クラウド/インフラ": 63,
+    "制度/ガイドライン": 53,
     "自治体DX事例": 50,
-    "AWS最新情報": 170,
-    "Google Cloud最新情報": 137,
+    "AWS最新情報": 175,
+    "Google Cloud最新情報": 140,
     "働き方/業務改革": 21,
     "さくらのクラウド最新情報": 57,
-    "AIガバナンス": 8,
+    "AIガバナンス": 9,
     "ガバメントクラウド": 4,
     "調達・契約": 12,
     "デジタル庁": 3,
     "調達/契約": 5,
     "プロジェクト管理": 10
   },
-  "updated_at": "2026-08-30T18:22:48.286Z"
+  "updated_at": "2026-08-31T20:35:51.715Z"
 }
