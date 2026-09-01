@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "デジタル庁、ISMAPクラウドサービスリスト等を更新",
+        "summary": "デジタル庁は、政府情報システムのためのセキュリティ評価制度（ISMAP）のクラウドサービスリスト等を更新しました。これはデジタル社会形成の司令塔としてのDX推進の一環です。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
+        "relevance": "ISMAPのクラウドサービスリストの更新内容や、政府情報システムにおけるセキュリティ評価制度の変更点について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-31",
         "date_ja": "2026年8月31日（月）",
         "title": "Claude Code 2.1.251の権限チェック修正と新機能",
@@ -2352,6 +2362,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "デジタル政策5年間の成果動画「デジタル庁設立5年｜デジタルで変わる、一人ひとりの暮らし」を公開しました",
+        "summary": "デジタル庁設立5年間の成果動画を公開\n\n▶ デジタル庁は、設立5年間の成果をまとめた動画を公開しました。自省庁のDX計画との連携や、成果の共有・活用について検討してください。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/ncf12c98c2035",
+        "type": "government"
+      },
+      {
         "date": "2026-08-27",
         "date_ja": "2026年8月27日（木）",
         "title": "ガバメントAI 源内のアクセシビリティへの取り組み：「誰一人取り残されない、人に優しい生成AIアプリケーション」へ",
@@ -2724,6 +2743,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "タイにおけるAIモデル統合プラットフォーム「TH-AI Passport」の本格始動",
+        "summary": "タイでは、33のAIモデルに対応した「TH-AI Passport」が本格始動し、国民が生成AIを学習や仕事、ビジネスに活用できる環境を整える政府プロジェクトが展開されています。",
+        "source": "thaich.net",
+        "url": "https://www.thaich.net/news/20260901gt.htm",
+        "relevance": "他国のAI活用推進策や、複数AIモデルを統合するプラットフォームの整備状況について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "GeminiなどAIツールの行政・公共分野での活用事例",
+        "summary": "航空・通信大手ではGeminiを活用した業務効率化が進み、自治体では定例会議の議事録作成時間を大幅に短縮した事例も報告されています。また、Google TV搭載テレビでもGemini for Google TVへの対応が開始されます。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/document/sp/24296",
+        "relevance": "GeminiをはじめとするAIツールの行政・公共分野での具体的な導入効果や、関連技術の動向について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AIガバナンスとセキュリティ対策の重要性が高まる",
+        "summary": "AIセキュリティ市場は2028年に10兆円規模に成長すると予測されており、AIガバナンスプラットフォームやAIゲートウェイといった技術統制、リスクマネジメントの重要性が増しています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/36264484-6fa2-4824-a229-7d5ba963adb3",
+        "relevance": "AI活用におけるガバナンス体制の構築や、AIインシデント分析に基づくリスクマネジメントについて、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "デジタル庁、AI基盤「源内」の整備とAI推進体制の強化",
+        "summary": "デジタル庁は、政府が閣議決定したAI活用指針に基づき、AI事業者向け知財保護ルール策定を進めており、AI基盤「源内」を整備し、被災自治体などへの提供も行っています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/amp/article/itmedia_aiplus_202609012000001044/",
+        "relevance": "AI基盤の利用範囲や、AI事業者を対象とした知財保護ルールの影響について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AWS、政府向けクラウドでAIモデル拡充と提供強化",
+        "summary": "AWSは、AWS GovCloud（米国）リージョンにおいて、OpenAI、Anthropicなど6大AIモデルへのアクセスを拡大し、公的機関への受注獲得を目指します。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/d976d185-2e64-4e82-a91c-29d465ad7fd1",
+        "relevance": "提供されるAIモデルの活用可能性や、政府機関向けクラウドにおけるセキュリティ要件について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
@@ -6111,6 +6180,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "国土交通省、地域交通DX推進プロジェクト「COMmmmONS」の事業を受託",
+        "summary": "モバイルチケットシステム「QUICK TRIP Ticket」が、国土交通省の地域交通DX推進プロジェクト「COMmmmONS」の事業を受託しました。これは、日本酒×デジタル「はしご酒」イベント等で活用されます。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000120.000075727.html",
+        "relevance": "地域交通DX推進プロジェクトの事業内容や、モバイルチケットシステムの導入効果について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "デジタル庁、行政手続きのオンライン化と公金受取口座の活用推進",
+        "summary": "デジタル庁は、行政手続きのオンライン化やマイナンバーカード普及を推進しており、公金受取口座の登録者数は約6,400万人に達し、さらなる活用が進められています。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/policies/report-2026",
+        "relevance": "公金受取口座の登録・活用状況や、行政手続きのオンライン化における進捗について、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
         "title": "自治体システム標準化、7000億円以上かけ難航 現場の声、人材確保、移行経費が課題",
@@ -6612,6 +6701,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AWS Summit Japan 2026 Physical AI デモの裏側 Part 1: 企画からステージ制作、アプリケーション開発まで",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/physical-ai-autonomous-agent-demo-backstage-part1/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AWS Summit Japan 2026 Physical AI デモの裏側 Part 2: ロボット開発編",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/physical-ai-demo-part2-robot-development/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AWS Skill Builder で AI 駆動開発ライフサイクル (AI-DLC) を学ぼう: 日本語版学習コースが公開されました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aidlc-aws-skill-builder/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "AWS で VMware のお客様の選択肢が広がった 1 年",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/a-year-of-expanding-choice-for-vmware-customers-on-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "耐障害性ライフサイクル実践ワークショップ開催報告 & AWS WAF 実践ワークショップのご案内",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/pubsec-resilience-lifecycle-workshop/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
@@ -8189,6 +8323,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "BigQuery でエージェント時代の未来に備える: 継続的なコスト パフォーマンスの向上を、手間をかけずに実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-performance-optimizations/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "Google、2026 年 Gartner® Magic Quadrant™ クラウドネイティブ アプリケーション プラットフォーム部門のリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "Google Antigravity の提供対象を企業のお客様まで拡大",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "Google Cloud の Lakehouse ランタイム カタログを使用して Apache Hive をモダナイズする",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "September 01, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_01_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
@@ -10271,6 +10450,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-09-02",
+        "date_ja": "2026年9月2日（水）",
+        "title": "ガバメントクラウドファンディングによる地方創生・DX推進",
+        "summary": "ガバメントクラウドファンディングが、地域課題解決やDX推進のため、ふるさと納税の仕組みを活用して実施されています。兵庫県庁では、ガバメントクラウドのコスト最適化も進められています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000008_000181126/",
+        "relevance": "ガバメントクラウドファンディングの事例や、クラウドコスト最適化の取り組みについて、PMO/PjMOの皆様はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-19",
         "date_ja": "2026年8月19日（水）",
         "title": "「ガバメントクラウドファンディング」による自治体の支援募集・情報発信事例",
@@ -10621,24 +10810,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 58,
+    "セキュリティ": 59,
     "その他": 178,
-    "行政AI": 27,
+    "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 222,
+    "AI活用": 227,
     "クラウド/インフラ": 63,
     "制度/ガイドライン": 53,
-    "自治体DX事例": 50,
-    "AWS最新情報": 175,
-    "Google Cloud最新情報": 140,
+    "自治体DX事例": 52,
+    "AWS最新情報": 180,
+    "Google Cloud最新情報": 145,
     "働き方/業務改革": 21,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 9,
-    "ガバメントクラウド": 4,
+    "ガバメントクラウド": 5,
     "調達・契約": 12,
     "デジタル庁": 3,
     "調達/契約": 5,
     "プロジェクト管理": 10
   },
-  "updated_at": "2026-08-31T20:35:51.715Z"
+  "updated_at": "2026-09-01T18:10:27.395Z"
 }
