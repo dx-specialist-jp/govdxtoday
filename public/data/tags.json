@@ -2,6 +2,15 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "Weekly Report: 警察庁が「令和8年版 警察白書」を公開",
+        "summary": "警察庁「令和8年版 警察白書」公開、サイバー空間の脅威と警察の取り組みを特集\n\n▶ 各府省のサイバーセキュリティ担当者は、警察白書の「深刻化するサイバー空間の脅威と警察の新たなる展開」の特集内容を確認してください。\n▶ サイバー事案への対処や警察の今後の取り組みに関する記載を把握し、関連する自省庁の施策との連携を検討してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#15",
+        "type": "government"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "デジタル庁、ISMAPクラウドサービスリスト等を更新",
@@ -2744,6 +2753,66 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "AIカメラによる歯間検知と119番通報へのAI活用",
+        "summary": "家電大手ダイソンがAIカメラで歯間を検知。また、総務省消防庁は119番通報にAIを活用し、救急業務の効率化を目指しています。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/jiji/business/jiji-202609020092840885",
+        "relevance": "AI技術の多様な分野への応用事例について、PMO/PjMO担当者は、業務改善に繋がるAI活用の可能性の調査をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "Databricks、Unity CatalogとAIアシスタンスによるデータ管理・ガバナンス強化",
+        "summary": "Databricksでは、Unity Catalogによるデータ検索・ガバナンス、AIアシスタンスを活用したSQL・ノートブックコード作成が可能になり、エンドツーエンドのデータ活用を支援します。",
+        "source": "databricks.com",
+        "url": "https://www.databricks.com/jp/training/catalog/get-started-with-databricks-end-to-end-japanese-6401",
+        "relevance": "データ管理・ガバナンスにおけるAI活用事例について、PMO/PjMO担当者は、データ統合基盤の選定・活用におけるAI機能の考慮をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "法人向け生成AI「ChatSense」、Claude・GeminiでDeep Research利用可能に",
+        "summary": "法人向け生成AI「ChatSense」において、ClaudeおよびGeminiを選択した場合でも「Deep Research」機能が利用可能になり、自治体の業務効率向上に貢献します。",
+        "source": "kahoku.news",
+        "url": "https://kahoku.news/pressrelease/prtimes/prtc73671_r390.html",
+        "relevance": "行政機関が利用可能なAIツールの機能拡充について、PMO/PjMO担当者は、業務効率化に資するツールの導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "総務省が「AX・新技術戦略室」を新設、AI推進に注力",
+        "summary": "総務省は、政府の「第2期人工知能基本計画」に基づき、AI推進施策の取りまとめや関係省庁との連携を担う「AX・新技術戦略室」を新設しました。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+        "relevance": "中央省庁におけるAI推進体制の構築状況について、PMO/PjMO担当者は、自組織のAI戦略との連携強化をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "行政におけるAI活用・生成AI導入の進展と課題",
+        "summary": "消費者庁はAIで悪質商法を早期覚知。国土交通省は行政向け生成AI「源内」を約4万人に導入し、AI活用推進に注力。一部職員からは、AI活用のもどかしさも指摘されています。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/680907",
+        "relevance": "行政機関でのAI・生成AI導入事例について、PMO/PjMO担当者は、他省庁・自治体の導入状況と活用効果の横展開をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "Google、Anthropic、OpenAIによる政府・軍事・サイバーセキュリティ向けAIモデル発表・拡充",
+        "summary": "Googleは政府・企業向けサイバーセキュリティAIモデルを発表。Anthropicの国防総省ブラックリスト無効化判決と並行し、米国防総省はChatGPT、Grok、Claudeの軍用生成AI利用を300万人に拡大。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/stock-market-news/article-1668580",
+        "relevance": "政府・軍事分野におけるAIモデルの最新動向について、PMO/PjMO担当者は、導入検討時のセキュリティ要件や利用範囲の確認をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "タイにおけるAIモデル統合プラットフォーム「TH-AI Passport」の本格始動",
@@ -5016,6 +5085,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "さくらインターネットの不正アクセスとガバメントクラウドへの影響",
+        "summary": "国内有数のデジタルインフラ事業者であるさくらインターネットが不正アクセスを受け、136万アカウントに影響が拡大しました。同社はガバメントクラウドの対象サービスでもあります。",
+        "source": "toyokeizai.net",
+        "url": "https://toyokeizai.net/articles/-/956359?page=2",
+        "relevance": "ガバメントクラウド対象事業者におけるインシデント発生状況について、PMO/PjMO担当者は、クラウドインフラのセキュリティ対策と事業継続計画の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
         "title": "ガバメントクラウドを活用したふるさと納税支援",
@@ -5647,6 +5726,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "令和8年8月27日からの大雨に伴う災害に係る普通交付税の繰上げ交付",
+        "summary": "総務省は、令和8年8月27日からの大雨により被害を受けた地方公共団体に対し、地方交付税法に基づき、11月に定例交付すべき普通交付税を繰り上げて交付します。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00024.html",
+        "relevance": "災害時における交付金等の迅速な対応について、PMO/PjMO担当者は、災害時のプロジェクト遅延リスク管理と代替策の検討をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
@@ -6701,6 +6790,24 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "音声 AI エージェントで実現するセントラルキッチンのハンズフリーオペレーション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/voice-ai-driven-hands-free-kitchen/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "AI-DLCで取り払った組織の壁 ― DeNAと取り組んだ分析業務領域での初事例",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aidlc-dena-healthcare-analytics-case/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
@@ -8324,6 +8431,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "デザインの自律性を実現: Navigation SDK のレイアウト カスタマイズ フレームワークについて",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/maps-platform/unlocking-design-autonomy-announcing-the-layout-customization-framework-for-navigation-sdk/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "Google Cloud Partner Top Engineer 2027 アワードプログラム 申し込みを開始",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-top-engineer-2027/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "新しいルート検索機能: Gemini Enterprise Agent Platform の Google マップによるグラウンディング",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/maps-platform/introducing-new-routing-features-in-grounding-with-google-maps/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "Statiq: Places UI キットでユーザー エクスペリエンスを改善し、EV アプリの使用を促進",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/maps-platform/statiq-improving-user-experience-and-increasing-ev-app-usage-with-places-ui-kit/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "AI エージェントの構築を基礎から始めるチャンス",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/your-chance-to-start-building-ai-agents-from-the-absolute-basics/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "BigQuery でエージェント時代の未来に備える: 継続的なコスト パフォーマンスの向上を、手間をかけずに実現",
@@ -9631,6 +9783,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "ホリエモンAI学校、非エンジニア向けAI研修の法人貸切プラン提供開始",
+        "summary": "ホリエモンAI学校は、生成AIを利用した業務改善・システム開発を学ぶ研修プログラムにおいて、企業単位での法人貸切プランの提供を開始しました。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news037.html",
+        "relevance": "AI人材育成プログラムの提供状況について、PMO/PjMO担当者は、組織全体のAIリテラシー向上に向けた研修機会の検討をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-30",
         "date_ja": "2026年8月30日（日）",
         "title": "生成AI導入、労働時間・生産性向上に直結せず 最新データで判明",
@@ -10358,6 +10520,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-09-03",
+        "date_ja": "2026年9月3日（木）",
+        "title": "AI導入の急速な進展とガバナンス・セキュリティリスクへの対応",
+        "summary": "AI導入の急速な進展に伴い、ガバナンス体制の構築やセキュリティリスクの管理が追いついていない状況が指摘されています。ISO/IEC 42001認証支援など、AIガバナンス構築支援サービスも提供されています。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20260902-4895674/",
+        "relevance": "AI活用におけるガバナンス体制の構築とセキュリティリスク管理の重要性について、PMO/PjMO担当者は、最新のガイドラインやリスク評価手法の導入をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-01",
         "date_ja": "2026年9月1日（火）",
         "title": "企業のAI利用におけるガバナンス強化とリスク管理の重要性",
@@ -10810,24 +10982,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 59,
+    "セキュリティ": 60,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 227,
-    "クラウド/インフラ": 63,
-    "制度/ガイドライン": 53,
+    "AI活用": 233,
+    "クラウド/インフラ": 64,
+    "制度/ガイドライン": 54,
     "自治体DX事例": 52,
-    "AWS最新情報": 180,
-    "Google Cloud最新情報": 145,
-    "働き方/業務改革": 21,
+    "AWS最新情報": 182,
+    "Google Cloud最新情報": 150,
+    "働き方/業務改革": 22,
     "さくらのクラウド最新情報": 57,
-    "AIガバナンス": 9,
+    "AIガバナンス": 10,
     "ガバメントクラウド": 5,
     "調達・契約": 12,
     "デジタル庁": 3,
     "調達/契約": 5,
     "プロジェクト管理": 10
   },
-  "updated_at": "2026-09-01T18:10:27.395Z"
+  "updated_at": "2026-09-02T18:24:34.231Z"
 }

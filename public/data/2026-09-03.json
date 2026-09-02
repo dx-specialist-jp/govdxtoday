@@ -1,0 +1,404 @@
+{
+  "date": "2026-09-03",
+  "date_ja": "2026年9月3日（木）",
+  "news_summary": [
+    "警察庁は、サイバー空間の脅威と警察の新たな展開を特集した「令和8年版 警察白書」を公開しました。",
+    "Google、Anthropic、OpenAIは、軍事・サイバーセキュリティ向けAIモデルの発表・拡充を進めています。",
+    "消費者庁はAIで悪質商法を早期覚知、国土交通省は行政向け生成AI「源内」の導入を推進しています。",
+    "総務省はAI推進施策の取りまとめや関係省庁連携を担う「AX・新技術戦略室」を新設しました。",
+    "さくらインターネットの不正アクセスは、ガバメントクラウド対象サービスにも影響が拡大しました。",
+    "総務省消防庁は、119番通報へのAI活用による救急業務の効率化を目指しています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: PaperCut NGおよびPaperCut MFに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Apache Tomcatに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: OpenSSLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のUniFi製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のWatchGuard製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Next.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: SonicWall NetExtender Linux Clientに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のVeeam製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Keycloakに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: SKYSEA Client ViewおよびSKYMEC IT Managerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPress用プラグイン「miniOrange SAML Single Sign On」の脆弱性に関する悪用観測状況",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98062224/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ShizenBox2における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91715694/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
+      "url": "https://jvn.jp/vu/JVNVU90253159/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "Weekly Report: 警察庁が「令和8年版 警察白書」を公開",
+    "summary": "警察庁「令和8年版 警察白書」公開、サイバー空間の脅威と警察の取り組みを特集\n\n▶ 各府省のサイバーセキュリティ担当者は、警察白書の「深刻化するサイバー空間の脅威と警察の新たなる展開」の特集内容を確認してください。\n▶ サイバー事案への対処や警察の今後の取り組みに関する記載を把握し、関連する自省庁の施策との連携を検討してください。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#15",
+    "pub_date": "2026-09-02"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Google、Anthropic、OpenAIによる政府・軍事・サイバーセキュリティ向けAIモデル発表・拡充",
+      "summary": "Googleは政府・企業向けサイバーセキュリティAIモデルを発表。Anthropicの国防総省ブラックリスト無効化判決と並行し、米国防総省はChatGPT、Grok、Claudeの軍用生成AI利用を300万人に拡大。",
+      "relevance": "政府・軍事分野におけるAIモデルの最新動向について、PMO/PjMO担当者は、導入検討時のセキュリティ要件や利用範囲の確認をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/stock-market-news/article-1668580"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17426169/?ref=pickstream_2085"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/3662e74c-6051-4762-9099-0f05f249a6cf"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "行政におけるAI活用・生成AI導入の進展と課題",
+      "summary": "消費者庁はAIで悪質商法を早期覚知。国土交通省は行政向け生成AI「源内」を約4万人に導入し、AI活用推進に注力。一部職員からは、AI活用のもどかしさも指摘されています。",
+      "relevance": "行政機関でのAI・生成AI導入事例について、PMO/PjMO担当者は、他省庁・自治体の導入状況と活用効果の横展開をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/680907"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQOUA130X50T10C26A8000000/"
+        },
+        {
+          "name": "digital.kentsu.co.jp",
+          "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M1G8BGC7QD6E4K4VWHWXKAXZ"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "総務省が「AX・新技術戦略室」を新設、AI推進に注力",
+      "summary": "総務省は、政府の「第2期人工知能基本計画」に基づき、AI推進施策の取りまとめや関係省庁との連携を担う「AX・新技術戦略室」を新設しました。",
+      "relevance": "中央省庁におけるAI推進体制の構築状況について、PMO/PjMO担当者は、自組織のAI戦略との連携強化をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/itmedia_aiplus_202609012000001044/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "法人向け生成AI「ChatSense」、Claude・GeminiでDeep Research利用可能に",
+      "summary": "法人向け生成AI「ChatSense」において、ClaudeおよびGeminiを選択した場合でも「Deep Research」機能が利用可能になり、自治体の業務効率向上に貢献します。",
+      "relevance": "行政機関が利用可能なAIツールの機能拡充について、PMO/PjMO担当者は、業務効率化に資するツールの導入可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/pressrelease/prtimes/prtc73671_r390.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "Databricks、Unity CatalogとAIアシスタンスによるデータ管理・ガバナンス強化",
+      "summary": "Databricksでは、Unity Catalogによるデータ検索・ガバナンス、AIアシスタンスを活用したSQL・ノートブックコード作成が可能になり、エンドツーエンドのデータ活用を支援します。",
+      "relevance": "データ管理・ガバナンスにおけるAI活用事例について、PMO/PjMO担当者は、データ統合基盤の選定・活用におけるAI機能の考慮をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "databricks.com",
+          "url": "https://www.databricks.com/jp/training/catalog/get-started-with-databricks-end-to-end-japanese-6401"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIカメラによる歯間検知と119番通報へのAI活用",
+      "summary": "家電大手ダイソンがAIカメラで歯間を検知。また、総務省消防庁は119番通報にAIを活用し、救急業務の効率化を目指しています。",
+      "relevance": "AI技術の多様な分野への応用事例について、PMO/PjMO担当者は、業務改善に繋がるAI活用の可能性の調査をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/jiji/business/jiji-202609020092840885"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "さくらインターネットの不正アクセスとガバメントクラウドへの影響",
+      "summary": "国内有数のデジタルインフラ事業者であるさくらインターネットが不正アクセスを受け、136万アカウントに影響が拡大しました。同社はガバメントクラウドの対象サービスでもあります。",
+      "relevance": "ガバメントクラウド対象事業者におけるインシデント発生状況について、PMO/PjMO担当者は、クラウドインフラのセキュリティ対策と事業継続計画の見直しをご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "toyokeizai.net",
+          "url": "https://toyokeizai.net/articles/-/956359?page=2"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/a9625df888f9b22b7ccaeb7677ecdef1334d5262?page=2"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/toyokeizai_20260902_956359/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "令和8年8月27日からの大雨に伴う災害に係る普通交付税の繰上げ交付",
+      "summary": "総務省は、令和8年8月27日からの大雨により被害を受けた地方公共団体に対し、地方交付税法に基づき、11月に定例交付すべき普通交付税を繰り上げて交付します。",
+      "relevance": "災害時における交付金等の迅速な対応について、PMO/PjMO担当者は、災害時のプロジェクト遅延リスク管理と代替策の検討をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00024.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ホリエモンAI学校、非エンジニア向けAI研修の法人貸切プラン提供開始",
+      "summary": "ホリエモンAI学校は、生成AIを利用した業務改善・システム開発を学ぶ研修プログラムにおいて、企業単位での法人貸切プランの提供を開始しました。",
+      "relevance": "AI人材育成プログラムの提供状況について、PMO/PjMO担当者は、組織全体のAIリテラシー向上に向けた研修機会の検討をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news037.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AI導入の急速な進展とガバナンス・セキュリティリスクへの対応",
+      "summary": "AI導入の急速な進展に伴い、ガバナンス体制の構築やセキュリティリスクの管理が追いついていない状況が指摘されています。ISO/IEC 42001認証支援など、AIガバナンス構築支援サービスも提供されています。",
+      "relevance": "AI活用におけるガバナンス体制の構築とセキュリティリスク管理の重要性について、PMO/PjMO担当者は、最新のガイドラインやリスク評価手法の導入をご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20260902-4895674/"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/generative-ai-data-governance-enterprise-roi/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19731678?news_ref=watch_60_nw19714798"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/cbcaf73a-0522-4ad6-87da-466a855b8b3d"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35252150/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/24992"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/media/nasdaq-meta/meta-platforms/news/877518347a73fe78/amp"
+        },
+        {
+          "name": "laboro.ai",
+          "url": "https://laboro.ai/activity/news/webinar/n938/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000094.000038497.html"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/eventinfo/detail/90275"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13494"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3222749"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000027.000047678.html"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-02-43138-481/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000094.000024769&g=prt"
+        },
+        {
+          "name": "p-prom.com",
+          "url": "https://p-prom.com/company/?p=84470"
+        },
+        {
+          "name": "jinjibu.jp",
+          "url": "https://jinjibu.jp/article/detl/opinion/4182/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260902/pr2/00m/020/371000c"
+        },
+        {
+          "name": "dentsusoken.com",
+          "url": "https://www.dentsusoken.com/news/topics/2026/0902.html"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AI-DLCで取り払った組織の壁 ― DeNAと取り組んだ分析業務領域での初事例",
+          "url": "https://aws.amazon.com/jp/blogs/news/aidlc-dena-healthcare-analytics-case/",
+          "pub_date": "2026-09-02T06:32:03.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "音声 AI エージェントで実現するセントラルキッチンのハンズフリーオペレーション",
+          "url": "https://aws.amazon.com/jp/blogs/news/voice-ai-driven-hands-free-kitchen/",
+          "pub_date": "2026-09-02T01:28:02.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "AI エージェントの構築を基礎から始めるチャンス",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/your-chance-to-start-building-ai-agents-from-the-absolute-basics/",
+          "pub_date": "2026-09-02T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Statiq: Places UI キットでユーザー エクスペリエンスを改善し、EV アプリの使用を促進",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/statiq-improving-user-experience-and-increasing-ev-app-usage-with-places-ui-kit/",
+          "pub_date": "2026-09-02T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "新しいルート検索機能: Gemini Enterprise Agent Platform の Google マップによるグラウンディング",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/introducing-new-routing-features-in-grounding-with-google-maps/",
+          "pub_date": "2026-09-02T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud Partner Top Engineer 2027 アワードプログラム 申し込みを開始",
+          "url": "https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-top-engineer-2027/",
+          "pub_date": "2026-09-02T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "デザインの自律性を実現: Navigation SDK のレイアウト カスタマイズ フレームワークについて",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/unlocking-design-autonomy-announcing-the-layout-customization-framework-for-navigation-sdk/",
+          "pub_date": "2026-09-02T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-02T18:24:34.224Z"
+}
