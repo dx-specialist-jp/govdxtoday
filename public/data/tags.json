@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "ガバメントクラウドにおけるサイバー攻撃の懸念と国産クラウドの安全性に関する議論",
+        "summary": "さくらインターネットの不正アクセス事案を受け、ガバメントクラウドへのサイバー攻撃の可能性や、国産クラウドの安全性について議論がなされています。中央省庁の共同システムがAWS上で稼働している状況も指摘されています。",
+        "source": "unitis.jp",
+        "url": "https://unitis.jp/articles/24308/",
+        "relevance": "ガバメントクラウドにおけるサイバーセキュリティリスクと、クラウドインフラの選定・運用に関する方針について、最新の動向をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
         "title": "Weekly Report: 警察庁が「令和8年版 警察白書」を公開",
@@ -2752,6 +2762,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "国土交通省、生成AIを特記仕様書に明記し道路メンテナンスサイクル確立へ",
+        "summary": "国土交通省は、生成AIを道路メンテナンスサイクルの確立に向けた特記仕様書に明記し、積極的に活用する方針を示しました。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M1JEB6N6PWDXSJHVMCESF62W",
+        "relevance": "生成AIの道路メンテナンス分野における活用方針と、特記仕様書への明記に関する動向について、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "AI導入スピードが人材・ガバナンス適応を上回る - AIガバナンス構築支援の重要性高まる",
+        "summary": "多くの企業でAI導入のスピードが人材やガバナンスの適応を上回っており、AIガバナンス体制の構築が急務となっています。国際規格「ISO/IEC 42001」認証取得支援や、AIエージェント管理体制の構築支援サービスなども提供されています。",
+        "source": "voix.jp",
+        "url": "https://voix.jp/business-cards/ai-era-grc-survey-results/",
+        "relevance": "AI導入と人材・組織の適応スピードの乖離を踏まえ、AIガバナンス体制の構築や関連する国際規格への対応について、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "Google、サイバーセキュリティ特化型AI「Gemini 3.8 Flash Cyber」発表 - 政府機関等への提供も",
+        "summary": "Googleは、脆弱性発見・修正に強いAIモデル「Gemini 3.8 Flash」と、サイバーセキュリティ特化型「Gemini 3.8 Flash Cyber」を発表しました。後者は新設のFairwind Programを通じ、政府機関や重要インフラ事業者などに提供されます。",
+        "source": "pc.watch.impress.co.jp",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2137952.html",
+        "relevance": "AIモデルの提供状況や、政府機関等への提供に関する情報について、AI活用戦略との連携をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
@@ -5727,6 +5767,36 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "経済産業省、2027年度関連予算で7兆7859億円を要求 - AI・IoT・DX推進に重点",
+        "summary": "経済産業省は、2027年度の関連予算として7兆7859億円を要求しており、AI・IoT・DX推進が重点分野となっています。",
+        "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+        "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/09/03/news-30568/",
+        "relevance": "経済産業省の2027年度予算要求における、AI・IoT・DX推進への重点投資について、今後の政策動向をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "国土交通省、歩行空間ネットワークデータのオープンデータ化とバリアフリー情報提供を推進",
+        "summary": "国土交通省は、歩行空間におけるバリア情報のオープンデータ化と、それを活用した経路検索・案内、バリアフリー施設情報提供を推進しています。",
+        "source": "mlit.go.jp",
+        "url": "https://www.mlit.go.jp/report/press/sogo23_hh_000193.html",
+        "relevance": "歩行空間ネットワークデータのオープンデータ化と、バリアフリー情報提供の推進について、関連するプロジェクトの進捗をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "経産省DXレポートとDX認定制度 - 企業・組織のDX推進とAI活用",
+        "summary": "経済産業省のDXレポートが指摘する既存システムの複雑化・老朽化による経済損失リスクに対し、DX認定制度などを通じた企業・組織のDX推進が図られています。生成AIの活用もDX推進の鍵として位置づけられています。",
+        "source": "atpress.ne.jp",
+        "url": "https://www.atpress.ne.jp/news/625540",
+        "relevance": "DXレポートで示される経済損失リスクと、DX認定制度におけるAI活用推進の動向について、プロジェクト計画への反映をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
         "title": "令和8年8月27日からの大雨に伴う災害に係る普通交付税の繰上げ交付",
@@ -6269,6 +6339,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "茨城県鹿嶋市、公式WebとClaudeで市民対応を強化 - 生成AIの行政サービス・庁内業務への展開第一歩",
+        "summary": "茨城県鹿嶋市は、公式WebサイトとClaudeを連携させ、市民対応の強化を図っています。これは、生成AIを行政サービスや庁内業務へ広げるための第一歩として位置づけられています。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
+        "relevance": "生成AIを行政サービスや庁内業務に展開する際の、自治体における先進的な取り組みについて、自組織での導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "国土交通省、地域交通DX推進プロジェクト「COMmmmONS」の事業を受託",
@@ -6790,6 +6870,33 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "「どう動く」「どう使う」が理解できる Aurora DSQL 事例セミナー開催",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/dsql_day_tokyo_2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "AWS ウィークリー総まとめ: DuckLabs のチームへようこそ、エージェント・リソース・ディスカバリー (ARD) など (2026 年 8 月 31 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "AWS Graviton5 プロセッサを搭載した Amazon EC2 の R9g インスタンスと R9gd インスタンスが一般公開されました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
@@ -8430,6 +8537,42 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "業務の再定義: Pythian の社内 AI ハンドブックがもたらす顧客の ROI",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "AI インフラストラクチャの動的容量管理",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "Cloud Run インスタンスを使用したパーソナル AI エージェントのデプロイ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/serverless/introducing-cloud-run-instances/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "September 03, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_03_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
@@ -10674,6 +10817,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "30年物国債入札、金利上昇懸念の中実施 - 財務省",
+        "summary": "財務省が実施した30年物利付国債入札は、世界的な金利上昇懸念がある中で、応札倍率が過去12カ月平均を上回り、波乱なく消化されました。",
+        "source": "bloomberg.com",
+        "url": "https://www.bloomberg.com/jp/news/articles/2026-09-03/TKQ26XT9NJLS00",
+        "relevance": "国債入札の結果が示す市場の金利動向や財政懸念について、経済情勢の把握にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-29",
         "date_ja": "2026年8月29日（土）",
         "title": "米国防総省によるAI企業Anthropicのブラックリスト指定の違法判決",
@@ -10880,6 +11033,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-09-04",
+        "date_ja": "2026年9月4日（金）",
+        "title": "ジャパンシステム、「地方自治情報化推進フェア2026」に出展 - 総務省ガイドライン改定検討会メンバーが登壇",
+        "summary": "ジャパンシステムは、「地方自治情報化推進フェア2026」に出展し、総務省情報セキュリティポリシーガイドライン改定検討会メンバーが登壇します。",
+        "source": "the-miyanichi.co.jp",
+        "url": "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1063910.html",
+        "relevance": "地方自治体における情報化推進フェアでの出展内容と、総務省ガイドライン改定検討会メンバーの登壇予定について、ご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-29",
         "date_ja": "2026年8月29日（土）",
         "title": "7000億円以上かけた自治体システム標準化が現場の声なく難航",
@@ -10982,24 +11145,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 60,
+    "セキュリティ": 61,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 233,
+    "AI活用": 236,
     "クラウド/インフラ": 64,
-    "制度/ガイドライン": 54,
-    "自治体DX事例": 52,
-    "AWS最新情報": 182,
-    "Google Cloud最新情報": 150,
+    "制度/ガイドライン": 57,
+    "自治体DX事例": 53,
+    "AWS最新情報": 185,
+    "Google Cloud最新情報": 154,
     "働き方/業務改革": 22,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 10,
     "ガバメントクラウド": 5,
-    "調達・契約": 12,
+    "調達・契約": 13,
     "デジタル庁": 3,
     "調達/契約": 5,
-    "プロジェクト管理": 10
+    "プロジェクト管理": 11
   },
-  "updated_at": "2026-09-02T18:24:34.231Z"
+  "updated_at": "2026-09-03T18:18:04.840Z"
 }
