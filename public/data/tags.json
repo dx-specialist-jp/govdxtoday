@@ -2763,6 +2763,26 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "AIガバナンスプラットフォーム市場の拡大と行政・企業におけるAIリスク管理",
+        "summary": "AI導入の焦点が「使えるか」から「安全かつ説明可能な状態で拡大できるか」へ移行し、AIガバナンスが経営インフラとして急浮上しています。AIガバナンスプラットフォーム市場は2035年までに75億米ドル規模への拡大が予測され、企業や政府機関はAIリスク管理と説明責任の確保に向けた体制構築を進めています。",
+        "source": "newscast.jp",
+        "url": "https://newscast.jp/news/6568255",
+        "relevance": "AIガバナンスの重要性が増す中、AIリスク評価基準の策定、利用申請フローの設計、モニタリング体制の構築など、自組織におけるAI利用の仕組みづくりについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "行政におけるAI活用と生成AIの導入・ガバナンス強化",
+        "summary": "デジタル庁は令和9年度予算概算要求でAIへの大投資を計画し、行政向け生成AI「源内」や「自治体AI zevo」が展開されています。AIガバナンスの重要性が高まり、ClaudeやGeminiなどの生成AI出力に機械可読な透かしの運用が開始され、米国防総省はAIリスクへの警戒を継続しています。",
+        "source": "youtu.be",
+        "url": "https://youtu.be/wgX09JJgQGM",
+        "relevance": "中央省庁や自治体でのAI・生成AI導入事例や、AIガバナンスに関する最新動向について、自組織のAI活用戦略策定やリスク管理体制構築のご参考としてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-04",
         "date_ja": "2026年9月4日（金）",
         "title": "国土交通省、生成AIを特記仕様書に明記し道路メンテナンスサイクル確立へ",
@@ -6871,6 +6891,51 @@
     ],
     "AWS最新情報": [
       {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "【開催報告】AI エージェントは創薬研究をどう変えるか: 製薬企業向け Claude Code on AWS ワークショップ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/claude-code-for-pharma-tokyo/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "AWS Modular Data Center のデプロイ: 発注から配送、設置まで",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/deploying-aws-modular-data-center-from-ordering-to-delivery-and-installation-jp/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "構造化されたビジネスロジックとエージェンティック AI を組み合わせ、心地よい会話体験を届ける",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/blend-structured-business-logic-with-agentic-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "NatWest が Amazon Connect Customer で実現したマルチリージョンレジリエンス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "Amazon EVS 上の VMware ワークロードの災害復旧",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/disaster-recovery-for-vmware-workloads-on-amazon-evs/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-04",
         "date_ja": "2026年9月4日（金）",
         "title": "「どう動く」「どう使う」が理解できる Aurora DSQL 事例セミナー開催",
@@ -8537,6 +8602,33 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "エージェントがより適切に委任を行う方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/how-agents-can-delegate-better/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "AI プロトタイプを本番環境に移行する前にすべてのスタートアップが答えておくべき 10 の質問",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/10-questions-for-your-startup-developers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "分散 Ray クラスタに gVisor サンドボックスを導入",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-04",
         "date_ja": "2026年9月4日（金）",
@@ -10765,6 +10857,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-09-05",
+        "date_ja": "2026年9月5日（土）",
+        "title": "ガバメントクラウドファンディングの活用事例とコスト最適化",
+        "summary": "四国中央市が書道パフォーマンス甲子園の海外校招待、松阪市がインクルーシブ遊具設置のためにガバメントクラウドファンディングを実施しています。また、兵庫県庁ではガバメントクラウドのコスト最適化に「srest」が活用されており、FinOps推進の提案も行われています。",
+        "source": "47news.jp",
+        "url": "https://www.47news.jp/14893148.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例や、ガバメントクラウドのコスト最適化に向けた取り組みについて、自組織での資金調達やインフラ運用効率化のご参考としてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "ガバメントクラウドファンディングによる地方創生・DX推進",
@@ -11149,20 +11251,20 @@
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 236,
+    "AI活用": 238,
     "クラウド/インフラ": 64,
     "制度/ガイドライン": 57,
     "自治体DX事例": 53,
-    "AWS最新情報": 185,
-    "Google Cloud最新情報": 154,
+    "AWS最新情報": 190,
+    "Google Cloud最新情報": 157,
     "働き方/業務改革": 22,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 10,
-    "ガバメントクラウド": 5,
+    "ガバメントクラウド": 6,
     "調達・契約": 13,
     "デジタル庁": 3,
     "調達/契約": 5,
     "プロジェクト管理": 11
   },
-  "updated_at": "2026-09-03T18:18:04.840Z"
+  "updated_at": "2026-09-04T18:00:00.978Z"
 }
