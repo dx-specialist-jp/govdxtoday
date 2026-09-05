@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-06",
+  "date_ja": "2026年9月6日（日）",
+  "news_summary": [
+    "総務省がMicrosoft Teamsのチャット記録が消せない問題で調査を開始しました。",
+    "中央省庁で生成AI「源内」の活用が開始され、AIガバナンスが重要視されています。",
+    "国土交通省はインフラ分野のAI実装方針を策定し、「フィジカルAI」を重点化します。",
+    "AIガバナンスの国際標準化が進み、政府も制度とガバナンス強化の動きがあります。",
+    "経済産業省はAI・半導体・ロボット分野への投資枠を含む概算要求額を発表しました。",
+    "国土交通省は自動運転（レベル4）の法規要件深化のため、予算増額を要望しました。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "総務省、Microsoft Teamsのチャット記録が消せない問題で調査、業務用クラウドの利用実態を指摘",
+      "summary": "総務省がMicrosoft Teamsのチャット記録が消せない問題について調査し、行政機関や企業向けの業務用クラウドの利用実態を指摘した。",
+      "relevance": "業務用クラウドサービスにおけるデータ管理やセキュリティに関する、総務省の調査結果についてご確認をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/articles/ASV943G2ZV94USPT00HM.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "中央省庁・自治体における生成AI「源内」の活用と人事管理・AIガバナンスへの対応",
+      "summary": "中央省庁で生成AI「源内」の利用が開始され、国家公務員の働き方や地方自治体への影響が議論されている。AIガバナンスの重要性も高まっている。",
+      "relevance": "生成AIの活用範囲拡大に伴う、中央省庁・自治体におけるAIガバナンス体制の構築や、職員の人事管理・スキル開発についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/186641/posts/1491479"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news-in-app/17447811/"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/news/14d4b2c8-4a92-44b6-a472-b2df25570de1"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1067840.html"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14895560.html"
+        },
+        {
+          "name": "shimotsuke.co.jp",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1416425"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/shimotsuke/region/shimotsuke-20260905111937"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "国土交通省、インフラ分野のAI実装方針を策定、「フィジカルAI」8分野を重点化",
+      "summary": "国土交通省はインフラ分野でのAI実装方針を策定し、生成AIやロボティクスを活用した「フィジカルAI」を8分野で重点化する。",
+      "relevance": "インフラ分野におけるAI実装方針や、重点分野でのAI活用事例についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/95450/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "企業のDX推進を支援する専門メディア「DXの歩き方」開設、組織・人材・PM課題に焦点",
+      "summary": "企業のDX推進を支援する専門メディア「DXの歩き方」が開設され、DX担当者が抱える組織・人材・プロジェクトマネジメント上の課題に焦点を当てている。",
+      "relevance": "DX推進における組織、人材、プロジェクトマネジメント上の課題について、専門メディアの記事をご参照ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000014.000172819.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AIガバナンスの国際標準化と市場拡大、および企業・政府による対応動向",
+      "summary": "AIガバナンスは投資判断の重要な要素となり、国際規格の取得やプラットフォーム市場の拡大が見られる。各国政府もAIの制度とガバナンスを強化する動きがある。",
+      "relevance": "AIガバナンスに関する国際的な動向や、国内での関連規格・プラットフォームの動向についてご参照ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/104204"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32250602/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGKKZO98602430V00C26A9BZ0000/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ung-dung-ai-tai-viet-nam-diem-sang-nang-luc-quoc-gia-va-khoang-trong-ve-quan-tri-dao-duc"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/8454282"
+        },
+        {
+          "name": "kucoin.com",
+          "url": "https://www.kucoin.com/ja/news/flash/microsoft-releases-2026-responsible-ai-transparency-report-focused-on-agentic-systems"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2609/05/2000001181/"
+        },
+        {
+          "name": "storagereview.com",
+          "url": "https://www.storagereview.com/ja/news/asus-lays-out-a-full-ai-factory-platform-vera-rubin-nvl72-racks-stx-storage-and-a-governance-layer"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/9e535106-7270-4447-947e-65adb2fefe45"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/atpress_629394/"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/news/6568255"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/630251"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/3067962"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/chien-luoc-ai-moi-chuyen-tu-nghien-cuu-ung-dung-sang-chuyen-doi-toan-dien-quoc-gia-bang-ai"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "経済産業省、AI・半導体・ロボット分野への投資枠を含む概算要求額を発表",
+      "summary": "経済産業省は、AI・半導体・ロボット分野などへの投資枠を含む、令和9年度の概算要求額が7兆7859億円に上ると発表した。",
+      "relevance": "経済産業省によるAI・半導体・ロボット分野への投資計画について、政策動向としてご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "monoist.itmedia.co.jp",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2609/05/news011.html"
+        },
+        {
+          "name": "tver.jp",
+          "url": "https://tver.jp/episodes/epp1pdxd7l"
+        },
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/economy/b62c31e269d8452eb613734d682e1aea"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "財務省関連の入札情報と、元財務省職員の内藤勇耶氏による世田谷区長選への出馬意向",
+      "summary": "財務省関連の5年利付債入札情報が発表される一方、元財務省職員の内藤勇耶氏が世田谷区長選への出馬意向を示している。",
+      "relevance": "財務省関連の経済指標や、地方政治における元行政職員の動向について、参考情報としてご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "sp.m.jiji.com",
+          "url": "https://sp.m.jiji.com/article/show/3860454"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14892859.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "国土交通省、自動運転予算を大幅増額要望、レベル4法規要件深化へ",
+      "summary": "国土交通省は、自動運転（レベル4）の法規要件深化のため、来年度の予算を大幅増額するよう要望した。",
+      "relevance": "自動運転技術の法規制要件に関する国土交通省の動向について、ご確認ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "jidounten-lab.com",
+          "url": "https://jidounten-lab.com/u_67373"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "総務省、「消費者保護ルールのDX時代への対応」に関する一次答申（案）への意見募集結果を公表",
+      "summary": "総務省は、「消費者保護ルールの更なる適正化とDX時代への対応の在り方」に関する一次答申（案）への意見募集の結果を公表した。",
+      "relevance": "DX時代における消費者保護ルールのあり方に関する総務省の検討状況について、ご参照ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban08_03000458.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban08_03000457.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "プラスバリュー、経済産業省のDX認定事業者に認定、生成AI・AIコーディングエージェント活用",
+      "summary": "プラスバリューが経済産業省のDX認定事業者に認定された。同社は生成AIやAIコーディングエージェントを活用し、ソフトウェア開発を進めている。",
+      "relevance": "DX推進における生成AIやAIコーディングエージェントの活用事例として、貴組織での導入可能性をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000010.000182091.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260905/pr2/00m/020/047000c"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [],
+  "generated_at": "2026-09-05T17:05:20.924Z"
+}

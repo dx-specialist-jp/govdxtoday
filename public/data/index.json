@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-06",
+      "summary_short": "総務省、Microsoft Teamsのチャット記録が消…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-05",
       "summary_short": "行政におけるAI活用と生成AIの導入・ガバナンス強化…など3件",
       "article_count": 3,
