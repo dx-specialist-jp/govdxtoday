@@ -13,7 +13,8 @@
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { callGemini, parseJsonFromText, isFatalGeminiError, generateSummaryPoints, buildSummaryInput, DATA_DIR, getTodayJST, toJSTDateString } from './gemini-utils.js';
 
 // ── 政府公式 RSS ソース ────────────────────────────────────────────────
@@ -37,7 +38,15 @@ const GOV_SOURCES = [
 // AWS 新着情報のみ type: 'api' でJSON APIを参照する。RSS版（aws.amazon.com/jp/new/feed/）は
 // 実際の https://aws.amazon.com/jp/new/ ページの更新に対して配信が数日遅れる／止まることが
 // あるため、ページ自体が内部で呼び出しているのと同じ公開JSON APIを直接叩き、ページと同じ
-// 最新情報を取得する
+// 最新情報を取得する。
+//
+// 注意: このJSON API自体にも「掲載日時（postDateTime）」と「検索インデックスへの
+// 反映日時（dateCreated）」の間に3〜4日程度のラグが実際に確認されている（記事の
+// postDateTimeが8/31でも、APIのdateCreatedは9/4など）。そのため「前日分のみ掲載」という
+// 単純な日付一致フィルタをこのソースにも適用すると、インデックス反映が間に合わず
+// 該当記事が二度と拾われないまま消えてしまう。この対策として、AWS 新着情報の記事だけは
+// 日付一致ではなく「掲載済みURLの記録」で重複排除しながら随時拾い上げる
+// （AWS_API_SEEN_PATH・main() 内の cloudItemsEligible 参照）
 const AWS_WHATS_NEW_API_URL = 'https://aws.amazon.com/api/dirs/items/search?item.directoryId=whats-new-v2&sort_by=item.additionalFields.postDateTime&sort_order=desc&size=30&item.locale=ja_JP';
 const CLOUD_SOURCES = [
   { provider: 'AWS',                  name: 'AWS 新着情報',                 url: AWS_WHATS_NEW_API_URL, type: 'api' },
@@ -48,6 +57,14 @@ const CLOUD_SOURCES = [
   { provider: 'さくらのクラウド',  name: 'さくらインターネット メンテナンス情報', url: 'https://www.sakura.ad.jp/rss/mainte.rdf' },
 ];
 const CLOUD_ITEMS_PER_PROVIDER = 5;
+
+// AWS 新着情報（type: 'api'）の掲載済みURLを記録する状態ファイル。public/data/ 配下に
+// 置くとビルド時にそのまま公開サイトへコピーされてしまうため、非公開の scripts/state/
+// 以下に置く（daily-update.yml の commit ステップで public/data/ と併せてコミットする）
+const AWS_API_SEEN_PATH = resolve(dirname(fileURLToPath(import.meta.url)), 'state', 'aws-whatsnew-seen.json');
+// dateCreated のインデックス反映ラグ（実測3〜4日）に対する安全マージンを見つつ、
+// 際限なく古い記事まで拾わないための上限
+const AWS_API_LOOKBACK_DAYS = 10;
 
 // ── Google Alerts RSS ────────────────────────────────────────────────
 const GOOGLE_ALERT_SOURCES = [
@@ -241,13 +258,41 @@ async function fetchCloudFeed(src) {
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const body = await res.text();
-    return src.type === 'api'
+    const items = src.type === 'api'
       ? parseAwsWhatsNewApi(body, src.name, src.provider)
       : parseCloudItems(body, src.name, src.provider);
+    // sourceType はソース種別ごとの前日フィルタ方式の切り替えに使う
+    // （main() 内の cloudItemsEligible 参照）
+    return items.map((item) => ({ ...item, sourceType: src.type === 'api' ? 'api' : 'rss' }));
   } catch (err) {
     console.warn(`[WARN] ${src.name}: ${err.message}`);
     return [];
   }
+}
+
+// ── AWS 新着情報（type: 'api'）掲載済みURLの記録 ─────────────────────────
+// dateCreated（検索インデックス反映）が postDateTime（掲載日時）より数日遅れることが
+// あるため、「前日分のみ」という日付一致フィルタでは対象記事を恒久的に取りこぼす。
+// 代わりに一度掲載したURLを記録しておき、以後の実行では未掲載のものだけを拾う。
+function loadAwsApiSeenUrls() {
+  try {
+    const data = JSON.parse(readFileSync(AWS_API_SEEN_PATH, 'utf-8'));
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveAwsApiSeenUrls(entries) {
+  // ファイルの際限ない肥大化を防ぐため、ルックバック期間より古い記録は捨てる
+  // （その頃には日付一致フィルタ側の対象からも外れているため保持する意味がない）
+  const cutoff = Date.now() - AWS_API_LOOKBACK_DAYS * 24 * 60 * 60 * 1000;
+  const pruned = entries.filter((e) => {
+    const t = new Date(e.pubDate).getTime();
+    return Number.isNaN(t) || t >= cutoff;
+  });
+  mkdirSync(dirname(AWS_API_SEEN_PATH), { recursive: true });
+  writeFileSync(AWS_API_SEEN_PATH, JSON.stringify(pruned, null, 2), 'utf-8');
 }
 
 // ── セクション名マッピング ────────────────────────────────────────────
@@ -695,19 +740,34 @@ async function main() {
     return Number.isNaN(t) ? 0 : t;
   };
   // 対象日の前日（JST）に公開された記事のみを掲載対象にする。それより古い記事で
-  // 穴埋めはしない（前日に更新がないプロバイダはそのまま非掲載になってよい）
+  // 穴埋めはしない（前日に更新がないプロバイダはそのまま非掲載になってよい）。
+  //
+  // ただし AWS 新着情報（sourceType: 'api'）だけは、postDateTime（掲載日時）と
+  // dateCreated（検索インデックス反映日時）の間に実測3〜4日のラグがあり、この
+  // 日付一致フィルタをそのまま適用すると該当記事が永久に拾われない（AWS_WHATS_NEW_API_URL
+  // のコメント参照）。そのため type: 'api' の記事は「前日以前・ルックバック期間内・
+  // 掲載済みURLに未登録」を条件にし、初めてインデックスに現れたタイミングで拾い上げる
   const previousDate = (() => {
     const d = new Date(`${targetDate}T00:00:00Z`);
     d.setUTCDate(d.getUTCDate() - 1);
     return d.toISOString().slice(0, 10);
   })();
-  const cloudItemsPreviousDay = cloudItemsDeduped.filter(
-    (item) => toJSTDateString(new Date(cloudDateValue(item))) === previousDate
-  );
+  const awsApiSeenUrls = new Set(loadAwsApiSeenUrls().map((e) => normalizeUrl(e.url)));
+  const awsApiLookbackCutoff = Date.now() - AWS_API_LOOKBACK_DAYS * 24 * 60 * 60 * 1000;
+  const cloudItemsEligible = cloudItemsDeduped.filter((item) => {
+    if (item.sourceType === 'api') {
+      const t = cloudDateValue(item);
+      return t > 0
+        && t <= new Date(`${previousDate}T23:59:59+09:00`).getTime()
+        && t >= awsApiLookbackCutoff
+        && !awsApiSeenUrls.has(normalizeUrl(item.url));
+    }
+    return toJSTDateString(new Date(cloudDateValue(item))) === previousDate;
+  });
   const cloudUpdates = [...new Set(CLOUD_SOURCES.map((s) => s.provider))]
     .map((provider) => ({
       provider,
-      items: cloudItemsPreviousDay
+      items: cloudItemsEligible
         .filter((item) => item.provider === provider)
         .sort((a, b) => cloudDateValue(b) - cloudDateValue(a))
         .slice(0, CLOUD_ITEMS_PER_PROVIDER)
@@ -720,6 +780,21 @@ async function main() {
     }))
     .filter((p) => p.items.length > 0);
   console.log(`[INFO] クラウド公式情報: ${cloudUpdates.reduce((n, p) => n + p.items.length, 0)}件（${cloudUpdates.length}プロバイダ）`);
+
+  // 実際に掲載した AWS 新着情報のURLを記録し、次回実行以降の重複掲載を防ぐ
+  // （cloudItemsEligible の時点で未掲載URLに絞り込み済みなので、掲載枠に選ばれた
+  // api由来の記事＝今回新たに掲載したものとしてそのまま記録してよい）
+  const eligibleAwsApiUrls = new Set(
+    cloudItemsEligible.filter((item) => item.sourceType === 'api').map((item) => item.url)
+  );
+  const newlyShownAwsApiItems = cloudUpdates
+    .flatMap((p) => p.items)
+    .filter((item) => eligibleAwsApiUrls.has(item.url))
+    .map((item) => ({ url: item.url, pubDate: item.pub_date }));
+  if (newlyShownAwsApiItems.length > 0) {
+    saveAwsApiSeenUrls([...loadAwsApiSeenUrls(), ...newlyShownAwsApiItems]);
+    console.log(`[INFO]   AWS 新着情報: ${newlyShownAwsApiItems.length}件を掲載済みとして記録`);
+  }
 
   let summarizedGov = [];
   let newsTopics = [];
