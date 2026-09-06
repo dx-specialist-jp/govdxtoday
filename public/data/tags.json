@@ -2773,6 +2773,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "AIエージェントのガバナンス強化とシャドーAI対策の重要性",
+        "summary": "AIエージェントのガバナンス設定見直しや、AI法施行に伴うAIガバナンスの重要性が指摘される一方、Gartnerは7割の組織でシャドーAI対策が未対策であると提言。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/hang-nghin-tac-nhan-ai-chiem-quyen-kiem-soat-mot-trang-web-tai-duc",
+        "relevance": "AIエージェントの統制強化と、組織内におけるAI利用のガバナンス体制整備についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "総務省調査：生成AI偽画像、見破れると考える人ほどリテラシーが低い傾向",
+        "summary": "生成AIで作られた偽画像について、「自分は見破れる」と考える人ほど、インターネットやSNSのリテラシーが低い傾向にあることが総務省の調査で判明した。",
+        "source": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/national/20260906-GYT1T00124/",
+        "relevance": "生成AIによる偽情報拡散リスクと、職員のリテラシー向上策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "行政向け生成AI利用環境「源内」無償OSS公開と行政書士向けAI活用サービス",
+        "summary": "デジタル庁が推進する行政向け生成AI利用環境「源内」が無償OSSとして公開され、AI孔明 on IDXを活用した行政書士向け「許認可」サービスも登場。AI活用が行政分野で進展。",
+        "source": "sannichi.co.jp",
+        "url": "https://www.sannichi.co.jp/prtimes/others/c125579_r110",
+        "relevance": "行政分野における生成AIの活用事例や、OSS公開による導入の敷衍性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-06",
         "date_ja": "2026年9月6日（日）",
         "title": "国土交通省、インフラ分野のAI実装方針を策定、「フィジカルAI」8分野を重点化",
@@ -5175,6 +5205,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "河内長野市、ガバメントクラウドファンへの挑戦と高野街道まつりの復活",
+        "summary": "河内長野市がガバメントクラウドファンに挑戦し、長年中止されていた「高野街道まつり」が2027年3月14日に復活する予定。",
+        "source": "t.co",
+        "url": "https://t.co/rPsnzTpbOI",
+        "relevance": "ガバメントクラウドの活用状況や、地域イベントとの連携可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
         "title": "さくらインターネットの不正アクセスとガバメントクラウドへの影響",
@@ -5816,6 +5856,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "米国債短期証券・長期証券の入札日程",
+        "summary": "9月8日には26週間米国債短期証券および3年物米国債の入札、9月9日には10年物米国債および17週間物米国財務省証券（Tビル）の入札が予定されている。",
+        "source": "moomoo.com",
+        "url": "https://www.moomoo.com/ja/community/feed/watch-closely-117221689196549",
+        "relevance": "国の財政運営における証券入札の動向についてご参考ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "ウクライナ政府、センス銀行監督評議会議長を職務から外し取締役会議長の職務停止を要請",
+        "summary": "ウクライナ政府は、センス銀行の監督評議会議長を職務から外し、同行の取締役会議長の職務停止を要請した。",
+        "source": "mezha.net",
+        "url": "https://mezha.net/jp/news/9be2648f_google_adds_ai/",
+        "relevance": "公共機関における役職者の処分事例や、その背景となるガバナンスについてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-06",
         "date_ja": "2026年9月6日（日）",
@@ -6980,6 +7040,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "Amazon CloudWatch Database Insights がセルフマネージド型 PostgreSQL のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "Amazon Kinesis Data Streams が API リクエストを検証するドライラン機能のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "AWS Deadline Cloud がジョブバンドルの共有のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "Amazon Quick で自然言語によるカスタムアプリケーションの構築が可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "クラウドでのエージェンティックエンジニアリング:Kiro Web とクラウドセッションが一般提供に",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/agentic-engineering-in-the-cloud/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-05",
         "date_ja": "2026年9月5日（土）",
@@ -8692,6 +8797,15 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "September 06, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_06_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-05",
         "date_ja": "2026年9月5日（土）",
@@ -11173,6 +11287,26 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "AWS、トランプ政権による国防総省クラウド契約獲得妨害を主張し政府を提訴",
+        "summary": "アマゾン ウェブ サービス（AWS）は、トランプ政権がAWSによる国防総省の100億ドル（約1兆5600億円）のクラウド契約獲得を妨げたと主張し、政府を提訴した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/f035a08236e5ee3431740f22ffe81ce51978179a?page=3",
+        "relevance": "政府調達におけるクラウドサービスの選定プロセスや、契約に関する紛争事例についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "経済産業省推進DX補助金とAI活用による自律ソーシングプラットフォーム",
+        "summary": "経済産業省がDX補助金を推進し、大手企業を中心にSaaS導入が進む中、AIでサプライヤー選定や入札戦略を行う自律ソーシングプラットフォームが登場。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4596631",
+        "relevance": "AIを活用した調達プロセスの効率化や、DX補助金の活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-08-22",
         "date_ja": "2026年8月22日（土）",
         "title": "政府・財務省の経済施策と財政動向",
@@ -11224,6 +11358,16 @@
       }
     ],
     "プロジェクト管理": [
+      {
+        "date": "2026-09-07",
+        "date_ja": "2026年9月7日（月）",
+        "title": "DX推進担当者向けウェビナー：ビジネスアーキテクトの育成方法",
+        "summary": "DX推進担当者向けのウェビナーでは、DX戦略立案やプロジェクトマネジメントを含む「ビジネスアーキテクト」の最適な育成方法がテーマとなる。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000118_000086655/",
+        "relevance": "DX推進体制におけるプロジェクトマネジメント能力の強化策についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-06",
         "date_ja": "2026年9月6日（日）",
@@ -11351,20 +11495,20 @@
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 240,
-    "クラウド/インフラ": 64,
-    "制度/ガイドライン": 62,
+    "AI活用": 243,
+    "クラウド/インフラ": 65,
+    "制度/ガイドライン": 64,
     "自治体DX事例": 54,
-    "AWS最新情報": 190,
-    "Google Cloud最新情報": 157,
+    "AWS最新情報": 195,
+    "Google Cloud最新情報": 158,
     "働き方/業務改革": 22,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 10,
     "ガバメントクラウド": 6,
     "調達・契約": 13,
     "デジタル庁": 3,
-    "調達/契約": 5,
-    "プロジェクト管理": 12
+    "調達/契約": 7,
+    "プロジェクト管理": 13
   },
-  "updated_at": "2026-09-05T17:05:20.931Z"
+  "updated_at": "2026-09-06T17:27:59.197Z"
 }
