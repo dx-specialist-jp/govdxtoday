@@ -1,7 +1,6 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-
-const BASE = import.meta.env.BASE_URL;
+import { useJsonData } from '../hooks.js';
 
 const WEEKDAYS = ['日', '月', '火', '水', '木', '金', '土'];
 const MONTH_NAMES = ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'];
@@ -89,20 +88,12 @@ function Calendar({ year, month, dateMap, today }) {
 }
 
 export default function Archive() {
-  const [index, setIndex] = useState(null);
-  const [error, setError] = useState(null);
+  const { data: index, error } = useJsonData('data/index.json');
   const today = useMemo(() => getTodayJST(), []);
   const todayParts = today.split('-').map(Number);
 
   const [viewYear, setViewYear] = useState(todayParts[0]);
   const [viewMonth, setViewMonth] = useState(todayParts[1]);
-
-  useEffect(() => {
-    fetch(`${BASE}data/index.json`)
-      .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-      .then(setIndex)
-      .catch((e) => setError(e.message));
-  }, []);
 
   // date → info のマップ
   const dateMap = useMemo(() => {

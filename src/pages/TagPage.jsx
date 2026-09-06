@@ -1,8 +1,6 @@
-import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { isCspTag } from '../utils.js';
-
-const BASE = import.meta.env.BASE_URL;
+import { useJsonData } from '../hooks.js';
 
 const PREFERRED_TAGS = [
   'AI活用',
@@ -28,17 +26,7 @@ function groupByDate(articles) {
 export default function TagPage() {
   const { tagName } = useParams();
   const decodedTag = decodeURIComponent(tagName || '');
-  const [tagsData, setTagsData] = useState(null);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    setTagsData(null);
-    setError(null);
-    fetch(`${BASE}data/tags.json`)
-      .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-      .then(setTagsData)
-      .catch((e) => setError(e.message));
-  }, []);
+  const { data: tagsData, error } = useJsonData('data/tags.json');
 
   const articles = (tagsData?.tags?.[decodedTag]) || [];
   const groups = groupByDate(articles);
