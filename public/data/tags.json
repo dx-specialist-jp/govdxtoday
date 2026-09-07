@@ -2773,6 +2773,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "国土交通省、インフラ分野におけるAI実装に向けた取組方針を策定",
+        "summary": "国土交通省は、インフラ分野でのAI実装の基本的な方向性を示す「国土交通省インフラ分野のAI実装に向けた取組方針」を策定した。人とAIが協働する目的を掲げている。",
+        "source": "nikoukei.co.jp",
+        "url": "https://www.nikoukei.co.jp/news/detail/560622",
+        "relevance": "インフラ分野におけるAI活用の方針について、国土交通省の取組方針をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "デジタル庁、令和8年熊本地震対応で職員派遣とガバメントAI源内の提供を実施",
+        "summary": "デジタル庁は令和8年熊本地震の対応として、職員派遣とガバメントAI源内の提供を実施した。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0",
+        "relevance": "災害時の行政支援におけるデジタル技術の活用事例として、ガバメントAI源内の提供状況をご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "AIガバナンスの必要性が国際的にも指摘、各国・企業で整備が進む",
+        "summary": "AIの倫理的・社会的な影響に対する懸念から、AIガバナンスの必要性が国際的に認識され、各国や企業で具体的な取り組みが進められている。AIエージェントの利用拡大に伴うリスク統制も課題となっている。",
+        "source": "atpress.ne.jp",
+        "url": "https://www.atpress.ne.jp/news/630660",
+        "relevance": "AI導入におけるリスク管理と倫理的側面からのガバナンス体制構築について、国際的な動向や民間企業の先進事例をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "人事院、Microsoft 365 Copilot導入で国家公務員の働き方改革とやりがい向上を目指す",
+        "summary": "人事院はMicrosoft 365 Copilotの活用により、国家公務員の働き方改革を推進し、よりやりがいを持てる職場環境の実現を目指す。生成AIの活用は政府全体で加速している。",
+        "source": "microsoft.com",
+        "url": "https://www.microsoft.com/ja-jp/customers/story/26988-national-personnel-authority-microsoft-365-copilot",
+        "relevance": "AI活用による業務効率化と職員のエンゲージメント向上策について、他省庁での導入事例や効果測定の方法をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
         "title": "AIエージェントのガバナンス強化とシャドーAI対策の重要性",
@@ -5205,6 +5245,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "デジタル庁、令和9年度予算概算要求でガバメントクラウド運用体制と行政AIエージェント導入を重視",
+        "summary": "デジタル庁は令和9年度予算概算要求において、ガバメントクラウドの運用体制強化と、行政AIエージェント導入に向けた具体的な枠組みの提示を重視している。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17453823/",
+        "relevance": "ガバメントクラウドの運用体制や、行政AIエージェント導入に関するデジタル庁の最新動向について、予算要求の内容をご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
         "title": "河内長野市、ガバメントクラウドファンへの挑戦と高野街道まつりの復活",
@@ -5857,6 +5907,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "8月末の外貨準備高が過去最大の減少率を記録",
+        "summary": "財務省発表によると、8月末の外貨準備高は前月比で過去最大の減少率を記録した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/33ad50f5-ae30-47a6-89e2-9abb68c18375",
+        "relevance": "外貨準備高の変動要因や、その経済への影響について、財務省の発表内容をご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
         "title": "米国債短期証券・長期証券の入札日程",
@@ -6499,6 +6559,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "国土交通省、地域交通DX事業にWill SmartとWILLER EXPRESSが採択",
+        "summary": "国土交通省の地域交通DX事業に、Will SmartとWILLER EXPRESSが採択された。車載データ・AIと実運行環境を活用し、バスの運行・管理システム開発等を進める。",
+        "source": "s.minkabu.jp",
+        "url": "https://s.minkabu.jp/news/4612320",
+        "relevance": "地域交通DX推進における、車載データやAIを活用した具体的な取り組みについて、国土交通省の採択事業の内容をご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "ガバメントクラウドファンディングの活用事例が増加",
+        "summary": "返礼品なしのガバメントクラウドファンディング®が、一部の協会や自治体で特例コースとして活用されている。これは、クラウドファンディングによる資金調達の新たな手法として注目されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000265.000058195&g=prt",
+        "relevance": "クラウドファンディングを活用した事業推進や資金調達の可能性について、ガバメントクラウドファンディングの事例をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-06",
         "date_ja": "2026年9月6日（日）",
         "title": "プラスバリュー、経済産業省のDX認定事業者に認定、生成AI・AIコーディングエージェント活用",
@@ -7040,6 +7120,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "週刊生成AI with AWS – 2026年8月31日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260831/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "単一のアクションを越えてエージェントの振る舞いとコストを制御する: Amazon Bedrock AgentCore の新機能",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "AWS Certified AI Business Strategist のご紹介 ~ AI をスケールさせる人々のために ~",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-aws-certified-ai-business-strategist-built-for-the-people-who-scale-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "Amazon Aurora DSQL でスケーラブルなアプリケーションを構築する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/building-scalable-applications-on-amazon-aurora-dsql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "週刊AWS – 2026/8/31週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260831/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
@@ -8798,6 +8923,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "Google Cloud Partner Tech Influencer Challenge 2026 / Google Cloud Next Tokyo 26 関連コンテンツのご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2026-next-tokyo-26-related-content/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "September 07, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_07_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
         "title": "September 06, 2026",
@@ -10222,6 +10365,26 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "飛島建設、経済産業省のDX認定事業者認定を更新",
+        "summary": "飛島建設は、経済産業省が定めるDX認定制度に基づく「DX認定事業者」としての認定を更新した。",
+        "source": "tobishima.co.jp",
+        "url": "https://www.tobishima.co.jp/press_release/detail/20260907101057.html",
+        "relevance": "DX推進における認定制度の活用状況について、飛島建設のDX認定更新事例をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-08",
+        "date_ja": "2026年9月8日（火）",
+        "title": "日本のクラウドERP市場、DX政策による基幹システム近代化が後押し",
+        "summary": "経済産業省のDX政策が基幹システム近代化を重視しており、これが日本のクラウドERP市場の成長を後押ししている。生成AIやAIによる意思決定支援も市場拡大の要因となっている。",
+        "source": "newscast.jp",
+        "url": "https://newscast.jp/smart/news/6453847",
+        "relevance": "DX政策と基幹システム近代化の推進状況について、経済産業省の動向をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
         "title": "ホリエモンAI学校、非エンジニア向けAI研修の法人貸切プラン提供開始",
@@ -11495,13 +11658,13 @@
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 243,
-    "クラウド/インフラ": 65,
-    "制度/ガイドライン": 64,
-    "自治体DX事例": 54,
-    "AWS最新情報": 195,
-    "Google Cloud最新情報": 158,
-    "働き方/業務改革": 22,
+    "AI活用": 247,
+    "クラウド/インフラ": 66,
+    "制度/ガイドライン": 65,
+    "自治体DX事例": 56,
+    "AWS最新情報": 200,
+    "Google Cloud最新情報": 160,
+    "働き方/業務改革": 24,
     "さくらのクラウド最新情報": 57,
     "AIガバナンス": 10,
     "ガバメントクラウド": 6,
@@ -11510,5 +11673,5 @@
     "調達/契約": 7,
     "プロジェクト管理": 13
   },
-  "updated_at": "2026-09-06T17:27:59.197Z"
+  "updated_at": "2026-09-07T18:57:38.542Z"
 }

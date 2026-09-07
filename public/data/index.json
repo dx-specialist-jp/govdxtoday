@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-08",
+      "summary_short": "人事院、Microsoft 365 Copilot導入で…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-07",
       "summary_short": "行政向け生成AI利用環境「源内」無償OSS公開と行政書士…など9件",
       "article_count": 9,
