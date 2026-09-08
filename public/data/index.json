@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-09",
+      "summary_short": "AIガバナンスの重要性と実装ギャップ、および国内市場の拡…など8件",
+      "article_count": 8,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-08",
       "summary_short": "人事院、Microsoft 365 Copilot導入で…など10件",
       "article_count": 10,

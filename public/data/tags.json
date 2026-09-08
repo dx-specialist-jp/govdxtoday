@@ -2773,6 +2773,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "国土交通省によるインフラ・物流分野でのAI活用と実証実験",
+        "summary": "国土交通省はインフラ整備の発注・審査にAIを活用し、書類不整合を検証。自動物流道路の実証実験にも採択。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M1ZSNPNXTSTGTA6Q5SRAZYSE",
+        "relevance": "インフラ整備や物流分野におけるAI活用の先進事例や、実証実験への参画可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "カナダ政府によるAI活用事例とタイの国民向けAIプラットフォーム",
+        "summary": "カナダ・アルバータ州政府はAIでレガシーコード解析を大幅に短縮。タイでは国民がChatGPT等を無料利用できるAI政策が始動。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2609/08/news016.html",
+        "relevance": "行政機関におけるAI活用の実例や、国民へのAIサービス提供の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "AIガバナンスの重要性と実装ギャップ、および国内市場の拡大予測",
+        "summary": "AIガバナンスの重要性認識は広がる一方、データ管理や利用状況可視化にギャップが存在。2025年度のAIガバナンス・リスク管理市場は4億円に拡大予測。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19751532?news_ref=20_20",
+        "relevance": "AIガバナンスのベストプラクティスや、AI利用状況の可視化・管理体制構築についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "国土交通省、インフラ分野におけるAI実装に向けた取組方針を策定",
@@ -5245,6 +5275,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "カナダの責任あるデータセンター原則への参加",
+        "summary": "HIVE Digital Technologiesは、カナダ政府が導入した自主的枠組み「カナダの責任あるデータセンター原則」に参加。",
+        "source": "kucoin.com",
+        "url": "https://www.kucoin.com/ja/news/flash/hive-joins-canada-s-responsible-data-centre-principles-with-aws-google-and-microsoft",
+        "relevance": "データセンターの運用における責任ある原則の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "ガバメントクラウドにおけるマルチクラウド構成とセキュリティ対応",
+        "summary": "ガバメントクラウドはAWS、Google Cloud、Microsoft Azure等を併用するマルチクラウド構成を採用。さくらインターネットのクラウドサービスが技術要件を満たし正式認定。",
+        "source": "xenospectrum.com",
+        "url": "https://xenospectrum.com/swiss-sovereign-workplace-parallel-microsoft365/",
+        "relevance": "ガバメントクラウドにおけるマルチクラウド構成のメリット・デメリットや、セキュリティ要件の充足状況についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "デジタル庁、令和9年度予算概算要求でガバメントクラウド運用体制と行政AIエージェント導入を重視",
@@ -5907,6 +5957,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "スペイン財務省の短期証券売却と利回り上昇",
+        "summary": "スペイン財務省は短期証券を売却し、利回りは前回入札から上昇。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1672132",
+        "relevance": "政府による金融市場の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "地方創生2.0と地域働き方・職場改革等推進会議",
+        "summary": "日本政府は「地方創生2.0」を発表し、国産AIの活用も示唆。総務省では地域働き方・職場改革等推進会議が開催。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/09/01/06438/",
+        "relevance": "地方創生施策や地域における働き方改革の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "8月末の外貨準備高が過去最大の減少率を記録",
@@ -6559,6 +6629,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "ガバメントクラウドファンディングを活用した地方自治体の取り組み",
+        "summary": "ふるさと納税制度を活用したガバメントクラウドファンディング（GCF）により、地方自治体が復旧支援や文化継承、イベント開催などの事業資金を募っている。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+        "relevance": "ガバメントクラウドファンディングを活用した事業推進や、寄附募集の事例についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "国土交通省、地域交通DX事業にWill SmartとWILLER EXPRESSが採択",
@@ -7120,6 +7200,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Amazon Quick がコネクタ向けの新しいツール設定とモデルコンテキストプロトコル (MCP) 同期のサポートを追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Amazon Connect Customer が自動パフォーマンス評価をマレー語に拡大",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Amazon Bedrock のウェブ検索が AWS GovCloud (米国西部) で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Kubernetes と Agones から Amazon GameLift Servers への移行",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/migrating-from-kubernetes-and-agones-to-amazon-gamelift-servers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "AWS Weekly Roundup: AWS 版 Claude Fable 5.1、Amazon Linux 2027 プレビュー、AWS Certified AI Business Strategist など (2026 年 9 月 7 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
@@ -8923,6 +9048,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Google Cloud 上でのサーバーレス Apache Spark: アーキテクチャの選択と AI によるトラブルシューティング",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "Cloud CISO の視点: AI 時代に水道事業者を保護するためのヒント",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "BigQuery Graph の一般提供を開始: エージェントの時代を支える知識の基盤",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "September 08, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_08_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "Google Cloud Partner Tech Influencer Challenge 2026 / Google Cloud Next Tokyo 26 関連コンテンツのご紹介",
@@ -10607,6 +10768,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-09",
+        "date_ja": "2026年9月9日（水）",
+        "title": "[メンテナンス] [緊急]さくらのレンタルサーバの一部機能",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39532",
+        "type": "cloud"
+      },
+      {
         "date": "2026-08-20",
         "date_ja": "2026年8月20日（木）",
         "title": "当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新）",
@@ -11658,14 +11828,14 @@
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 247,
-    "クラウド/インフラ": 66,
-    "制度/ガイドライン": 65,
-    "自治体DX事例": 56,
-    "AWS最新情報": 200,
-    "Google Cloud最新情報": 160,
+    "AI活用": 250,
+    "クラウド/インフラ": 68,
+    "制度/ガイドライン": 67,
+    "自治体DX事例": 57,
+    "AWS最新情報": 205,
+    "Google Cloud最新情報": 164,
     "働き方/業務改革": 24,
-    "さくらのクラウド最新情報": 57,
+    "さくらのクラウド最新情報": 58,
     "AIガバナンス": 10,
     "ガバメントクラウド": 6,
     "調達・契約": 13,
@@ -11673,5 +11843,5 @@
     "調達/契約": 7,
     "プロジェクト管理": 13
   },
-  "updated_at": "2026-09-07T18:57:38.542Z"
+  "updated_at": "2026-09-08T18:15:33.381Z"
 }
