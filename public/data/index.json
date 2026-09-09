@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-10",
+      "summary_short": "Microsoft、Azure GovernmentへM…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-09",
       "summary_short": "AIガバナンスの重要性と実装ギャップ、および国内市場の拡…など8件",
       "article_count": 8,

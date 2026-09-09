@@ -1,0 +1,449 @@
+{
+  "date": "2026-09-10",
+  "date_ja": "2026年9月10日（木）",
+  "news_summary": [
+    "Microsoft Azure GovernmentでMDASHエージェントAIスキャン導入、エンタープライズブラウザ機能拡張",
+    "IPAよりMicrosoft・Adobe製品の脆弱性対策に関する注意喚起（2026年9月）",
+    "AIガバナンス・リスク管理市場は2025年度から急伸、国際規格認証・統合ソリューション提供が進展",
+    "米政府、中国AI6社が数百万回の問い合わせで数十億トークンを無断抽出と認定",
+    "経済産業省・NEDOがロボット・生成AI基盤モデル開発支援を強化",
+    "さくらインターネットで不正アクセス被害、AI悪用の可能性も指摘、ガバメントクラウド活用事例も紹介"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-141）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260026.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "注意喚起: 2026年9月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260025.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: n8nに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のElastic製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPress用プラグインReally Simple Securityに代替パスまたはチャネルを使用した認証回避の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のVMware製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のF5製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Jenkinsおよび複数のJenkins用プラグインに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSonicWall製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: IBM WebSphere Application Serverに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPress用プラグインGiveWPに信頼できないデータのデシリアライゼーションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
+      "url": "https://jvn.jp/vu/JVNVU93257103/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94974158/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94533753/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91877671/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "Microsoft、Azure GovernmentへMDASHエージェントAIスキャンを導入、エンタープライズブラウザ戦略も加速",
+      "summary": "Microsoftは、米国政府機関向けのAzure GovernmentにMDASHエージェント型スキャンを導入しました。また、エンタープライズブラウザはAI・エージェント活動のガバナンス機能などを拡張しています。",
+      "relevance": "政府機関向けクラウドサービスにおけるAIスキャン機能の導入や、エンタープライズブラウザのセキュリティ・ガバナンス機能拡張の動向について、ご参考にしてください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/microsoft-deploys-codename-mdash-agentic-ai-scanning-to-azure-government/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Microsoft 製品の脆弱性対策について(2026年9月)",
+      "summary": "Microsoft 製品の脆弱性対策について(2026年9月)",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "IPA 重要なセキュリティ情報",
+          "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-ms.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+      "summary": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "IPA 重要なセキュリティ情報",
+          "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-adobereader.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "AIガバナンス・リスク管理市場が急伸、国際規格認証取得や統合ソリューション提供が進む",
+      "summary": "国内のAIガバナンス・リスク管理市場は2025年度に4億円から5年間で150億円への急伸が予測されており、AIマネジメントシステムの国際規格ISO/IEC 42001認証取得や、AIガバナンス・セキュリティ統合オファリングの提供が進んでいます。",
+      "relevance": "AI活用におけるガバナンス体制構築やリスク管理の重要性が増しているため、関連する国際規格や提供されているソリューションについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/02/00462/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/24970"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000362058"
+        },
+        {
+          "name": "kobe-np.co.jp",
+          "url": "https://www.kobe-np.co.jp/info/prtimes/202609/c54434_r285.shtml"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260909/pr2/00m/020/736000c"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25008"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35252413/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-08-184249-7/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000002.000190353.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/expert/articles/b8f6250da878371ac3b2ad8d47a75c44ae5b1d9e"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/transcripts/article-93CH-1673018"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/4206450"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1077953.html"
+        },
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1986046?rct=prtimes_chushikoku"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000088.000046548.html"
+        },
+        {
+          "name": "weeklybcn.com",
+          "url": "https://www.weeklybcn.com/topics_detail18/id=217185"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29769"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29770"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/ngoai-giao-khoa-hoc-cua-han-quoc"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000140.000046917.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "米政府、中国AI6社が数百万回の問い合わせで「数十億トークン」を無断抽出と認定",
+      "summary": "米政府は、中国のAI企業6社がOpenAIのGPT、AnthropicのClaude、グーグルのGemini、xAIのGrokなどから数百万回の問い合わせを通じて数十億トークンを無断で収集したと認定しました。",
+      "relevance": "AIモデルの学習データに関する倫理的・法的な問題について、海外の動向を踏まえ、国内でのAI活用におけるデータ管理・利用方針についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-it/2026/09/09/F2O4MPH6BFGEFLQOMHDI2SU4MU/?outputType=amp"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5fa156f13834f9f5f0bc4aa318a7cd19ceab6499"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省・NEDO、ロボット・生成AI基盤モデル開発を支援",
+      "summary": "経済産業省とNEDOは、フィジカルAIを推進するｕｇｏ株式会社の双腕セミヒューマノイド向けVTLAモデル開発や、製造現場を自動化するロボット向けVLA基盤モデルおよび遠隔支援システム開発を支援しています。",
+      "relevance": "ロボティクスやAI基盤モデル開発への政府支援動向について、将来的な行政サービスへの応用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ugo.plus",
+          "url": "https://ugo.plus/information/2026/09/09/geniac/"
+        },
+        {
+          "name": "sbintuitions.co.jp",
+          "url": "https://www.sbintuitions.co.jp/news/press/20260909_01/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "さくらインターネットの不正アクセス被害とガバメントクラウド、GCF活用事例",
+      "summary": "政府公認クラウド基盤「ガバメントクラウド」の一角を担うさくらインターネットで不正アクセス被害が発生し、AIが悪用された可能性が指摘されています。一方、ふるさとチョイスGCFでは、公園遊具設置や災害復旧に向けた寄付金募集が行われています。",
+      "relevance": "ガバメントクラウドのセキュリティリスクと、GCFを活用した地方創生・災害復旧の事例について、今後のクラウド利用やプロジェクト推進における考慮事項をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news031.html"
+        },
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c165139_r101"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000101.000165139.html"
+        },
+        {
+          "name": "373news.com",
+          "url": "https://373news.com/lifestyle/info/pr_times/detail/000000014.000079345.html/"
+        },
+        {
+          "name": "nishinippon.co.jp",
+          "url": "https://www.nishinippon.co.jp/item/1536063/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWS、韓国の宇宙スタートアップ育成プログラムを開始、最大10万ドルクレジット提供",
+      "summary": "AWSは、韓国の宇宙スタートアップ育成プログラムを開始し、衛星製造・運用、地球観測などの分野で活動するスタートアップに最大10万ドルのクレジットを提供します。これは韓国政府の宇宙航空予算案とも連動しています。",
+      "relevance": "民間クラウド事業者によるスタートアップ支援の動向について、今後の行政サービス開発や関連産業への波及効果をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/2b7ef191-6fae-40f5-86f1-9c20cd0bfeae"
+        },
+        {
+          "name": "venturesquare.net",
+          "url": "https://www.venturesquare.net/jp/1112125/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "米財務省、長期国債の買い戻しを拡大・発表、国債利回りは高水準に",
+      "summary": "米財務省は、残存期間10〜20年の米国債を対象に、通常規模の3倍となる最大60億ドルの買い戻しを実施すると発表しました。これにより、10年債利回りは2年ぶりの高水準に急騰しました。",
+      "relevance": "米財務省の国債買い戻し政策が市場に与える影響について、経済動向や財政政策との関連性をご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c1d07bd9-da02-47ba-8447-787545840b02"
+        },
+        {
+          "name": "newsweekjapan.jp",
+          "url": "https://www.newsweekjapan.jp/articles/-/333670"
+        },
+        {
+          "name": "nippon.com",
+          "url": "https://www.nippon.com/ja/news/kd1470448291012461203/"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/forex-news/article-1674634"
+        },
+        {
+          "name": "tradingkey.com",
+          "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262159030-us-treasury-buyback-6-billion-scott-bessent-treasury-yields-10-year-liquidity-morgan-stanley-tradingkey"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "デジタル庁、高度なデジタル人材育成とAI対応を議論する有識者検討会を開催",
+      "summary": "デジタル庁は、生成AIの進化やサイバー攻撃の巧妙化に対応するため、高度なデジタル人材育成とAI対応に関する有識者検討会の初会合を開催しました。",
+      "relevance": "AI時代に対応した高度なデジタル人材育成の必要性が高まっているため、政府の動向を踏まえ、組織内での人材育成計画についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "tokyo-np.co.jp",
+          "url": "https://www.tokyo-np.co.jp/article/514482"
+        },
+        {
+          "name": "shikoku-np.co.jp",
+          "url": "http://www.shikoku-np.co.jp/national/economy/article.aspx?id=20260909000742"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1920530"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "CODAS によるデータ秘匿性を考慮した産業特化型 AI 基盤の研究開発と実装検証に関する取り組み",
+          "url": "https://aws.amazon.com/jp/blogs/news/codas-1/",
+          "pub_date": "2026-09-09T07:07:19.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Oracle Database@AWS を始める: オンボーディング完全ガイド",
+          "url": "https://aws.amazon.com/jp/blogs/news/getting-started-with-oracle-databaseaws-a-complete-onboarding-guide/",
+          "pub_date": "2026-09-09T06:42:02.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro が ISO/IEC 27001:2022 のカバレッジに対応",
+          "url": "https://aws.amazon.com/jp/blogs/news/iso-27001/",
+          "pub_date": "2026-09-09T05:54:37.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "1 年間無料の Kiro を、世界中の学生へ",
+          "url": "https://aws.amazon.com/jp/blogs/news/students-2026/",
+          "pub_date": "2026-09-09T05:51:59.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AI を活用したスキャフォールディングで、フルスタックの AWS アプリケーションを数分で構築する",
+          "url": "https://aws.amazon.com/jp/blogs/news/build-full-stack-aws-applications-in-minutes-with-ai-powered-scaffolding/",
+          "pub_date": "2026-09-09T02:50:02.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 09, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_09_2026",
+          "pub_date": "2026-09-09T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Uber がクラウド移行を妨げることなくネットワークの信頼性を向上させた方法",
+          "url": "https://cloud.google.com/blog/ja/products/networking/uber-de-risks-hybrid-ai-with-cloud-interconnect/",
+          "pub_date": "2026-09-09T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "バグの発見と修正を支援するオープンソースの AI ハーネス、Mantis のスタートガイド",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+          "pub_date": "2026-09-09T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Cloud KMS における耐量子鍵インポートの発表",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+          "pub_date": "2026-09-09T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Fault Injection Testing で復元力テスト戦略を簡素化",
+          "url": "https://cloud.google.com/blog/ja/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
+          "pub_date": "2026-09-09T00:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-09T18:15:23.374Z"
+}

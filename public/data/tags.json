@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+        "summary": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+        "source": "IPA 重要なセキュリティ情報",
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-adobereader.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Microsoft 製品の脆弱性対策について(2026年9月)",
+        "summary": "Microsoft 製品の脆弱性対策について(2026年9月)",
+        "source": "IPA 重要なセキュリティ情報",
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-ms.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Microsoft、Azure GovernmentへMDASHエージェントAIスキャンを導入、エンタープライズブラウザ戦略も加速",
+        "summary": "Microsoftは、米国政府機関向けのAzure GovernmentにMDASHエージェント型スキャンを導入しました。また、エンタープライズブラウザはAI・エージェント活動のガバナンス機能などを拡張しています。",
+        "source": "unite.ai",
+        "url": "https://www.unite.ai/ja/microsoft-deploys-codename-mdash-agentic-ai-scanning-to-azure-government/",
+        "relevance": "政府機関向けクラウドサービスにおけるAIスキャン機能の導入や、エンタープライズブラウザのセキュリティ・ガバナンス機能拡張の動向について、ご参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-06",
         "date_ja": "2026年9月6日（日）",
         "title": "総務省、Microsoft Teamsのチャット記録が消せない問題で調査、業務用クラウドの利用実態を指摘",
@@ -2773,6 +2803,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "経済産業省・NEDO、ロボット・生成AI基盤モデル開発を支援",
+        "summary": "経済産業省とNEDOは、フィジカルAIを推進するｕｇｏ株式会社の双腕セミヒューマノイド向けVTLAモデル開発や、製造現場を自動化するロボット向けVLA基盤モデルおよび遠隔支援システム開発を支援しています。",
+        "source": "ugo.plus",
+        "url": "https://ugo.plus/information/2026/09/09/geniac/",
+        "relevance": "ロボティクスやAI基盤モデル開発への政府支援動向について、将来的な行政サービスへの応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "米政府、中国AI6社が数百万回の問い合わせで「数十億トークン」を無断抽出と認定",
+        "summary": "米政府は、中国のAI企業6社がOpenAIのGPT、AnthropicのClaude、グーグルのGemini、xAIのGrokなどから数百万回の問い合わせを通じて数十億トークンを無断で収集したと認定しました。",
+        "source": "biz.chosun.com",
+        "url": "https://biz.chosun.com/jp/jp-it/2026/09/09/F2O4MPH6BFGEFLQOMHDI2SU4MU/?outputType=amp",
+        "relevance": "AIモデルの学習データに関する倫理的・法的な問題について、海外の動向を踏まえ、国内でのAI活用におけるデータ管理・利用方針についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "AIガバナンス・リスク管理市場が急伸、国際規格認証取得や統合ソリューション提供が進む",
+        "summary": "国内のAIガバナンス・リスク管理市場は2025年度に4億円から5年間で150億円への急伸が予測されており、AIマネジメントシステムの国際規格ISO/IEC 42001認証取得や、AIガバナンス・セキュリティ統合オファリングの提供が進んでいます。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/02/00462/",
+        "relevance": "AI活用におけるガバナンス体制構築やリスク管理の重要性が増しているため、関連する国際規格や提供されているソリューションについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-09",
         "date_ja": "2026年9月9日（水）",
         "title": "国土交通省によるインフラ・物流分野でのAI活用と実証実験",
@@ -5275,6 +5335,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "AWS、韓国の宇宙スタートアップ育成プログラムを開始、最大10万ドルクレジット提供",
+        "summary": "AWSは、韓国の宇宙スタートアップ育成プログラムを開始し、衛星製造・運用、地球観測などの分野で活動するスタートアップに最大10万ドルのクレジットを提供します。これは韓国政府の宇宙航空予算案とも連動しています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/2b7ef191-6fae-40f5-86f1-9c20cd0bfeae",
+        "relevance": "民間クラウド事業者によるスタートアップ支援の動向について、今後の行政サービス開発や関連産業への波及効果をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "さくらインターネットの不正アクセス被害とガバメントクラウド、GCF活用事例",
+        "summary": "政府公認クラウド基盤「ガバメントクラウド」の一角を担うさくらインターネットで不正アクセス被害が発生し、AIが悪用された可能性が指摘されています。一方、ふるさとチョイスGCFでは、公園遊具設置や災害復旧に向けた寄付金募集が行われています。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news031.html",
+        "relevance": "ガバメントクラウドのセキュリティリスクと、GCFを活用した地方創生・災害復旧の事例について、今後のクラウド利用やプロジェクト推進における考慮事項をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-09",
         "date_ja": "2026年9月9日（水）",
         "title": "カナダの責任あるデータセンター原則への参加",
@@ -7201,6 +7281,51 @@
     ],
     "AWS最新情報": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "AI を活用したスキャフォールディングで、フルスタックの AWS アプリケーションを数分で構築する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/build-full-stack-aws-applications-in-minutes-with-ai-powered-scaffolding/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "1 年間無料の Kiro を、世界中の学生へ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/students-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Kiro が ISO/IEC 27001:2022 のカバレッジに対応",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/iso-27001/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Oracle Database@AWS を始める: オンボーディング完全ガイド",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/getting-started-with-oracle-databaseaws-a-complete-onboarding-guide/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "CODAS によるデータ秘匿性を考慮した産業特化型 AI 基盤の研究開発と実装検証に関する取り組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/codas-1/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-09",
         "date_ja": "2026年9月9日（水）",
         "title": "Amazon Quick がコネクタ向けの新しいツール設定とモデルコンテキストプロトコル (MCP) 同期のサポートを追加",
@@ -9048,6 +9173,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Fault Injection Testing で復元力テスト戦略を簡素化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Cloud KMS における耐量子鍵インポートの発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "バグの発見と修正を支援するオープンソースの AI ハーネス、Mantis のスタートガイド",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "Uber がクラウド移行を妨げることなくネットワークの信頼性を向上させた方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/uber-de-risks-hybrid-ai-with-cloud-interconnect/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "September 09, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_09_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-09",
         "date_ja": "2026年9月9日（水）",
         "title": "Google Cloud 上でのサーバーレス Apache Spark: アーキテクチャの選択と AI によるトラブルシューティング",
@@ -10526,6 +10696,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "デジタル庁、高度なデジタル人材育成とAI対応を議論する有識者検討会を開催",
+        "summary": "デジタル庁は、生成AIの進化やサイバー攻撃の巧妙化に対応するため、高度なデジタル人材育成とAI対応に関する有識者検討会の初会合を開催しました。",
+        "source": "tokyo-np.co.jp",
+        "url": "https://www.tokyo-np.co.jp/article/514482",
+        "relevance": "AI時代に対応した高度なデジタル人材育成の必要性が高まっているため、政府の動向を踏まえ、組織内での人材育成計画についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-08",
         "date_ja": "2026年9月8日（火）",
         "title": "飛島建設、経済産業省のDX認定事業者認定を更新",
@@ -11456,6 +11636,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-09-10",
+        "date_ja": "2026年9月10日（木）",
+        "title": "米財務省、長期国債の買い戻しを拡大・発表、国債利回りは高水準に",
+        "summary": "米財務省は、残存期間10〜20年の米国債を対象に、通常規模の3倍となる最大60億ドルの買い戻しを実施すると発表しました。これにより、10年債利回りは2年ぶりの高水準に急騰しました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/c1d07bd9-da02-47ba-8447-787545840b02",
+        "relevance": "米財務省の国債買い戻し政策が市場に与える影響について、経済動向や財政政策との関連性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-04",
         "date_ja": "2026年9月4日（金）",
         "title": "30年物国債入札、金利上昇懸念の中実施 - 財務省",
@@ -11824,24 +12014,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 62,
+    "セキュリティ": 65,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 250,
-    "クラウド/インフラ": 68,
+    "AI活用": 253,
+    "クラウド/インフラ": 70,
     "制度/ガイドライン": 67,
     "自治体DX事例": 57,
-    "AWS最新情報": 205,
-    "Google Cloud最新情報": 164,
-    "働き方/業務改革": 24,
+    "AWS最新情報": 210,
+    "Google Cloud最新情報": 169,
+    "働き方/業務改革": 25,
     "さくらのクラウド最新情報": 58,
     "AIガバナンス": 10,
     "ガバメントクラウド": 6,
-    "調達・契約": 13,
+    "調達・契約": 14,
     "デジタル庁": 3,
     "調達/契約": 7,
     "プロジェクト管理": 13
   },
-  "updated_at": "2026-09-08T18:15:33.381Z"
+  "updated_at": "2026-09-09T18:15:23.381Z"
 }
