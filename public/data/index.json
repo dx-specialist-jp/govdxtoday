@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-11",
+      "summary_short": "自治体向け無料AI「zevo」に生成AIモデル追加、LG…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-10",
       "summary_short": "Microsoft、Azure GovernmentへM…など10件",
       "article_count": 10,

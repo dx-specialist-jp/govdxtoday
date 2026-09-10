@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-11",
+  "date_ja": "2026年9月11日（金）",
+  "news_summary": [
+    "自治体向け無料AI「zevo」にLGWAN環境で安全な生成AIモデルが追加されました。",
+    "米政府は中国企業6社が米国AIモデルからデータを不正に抽出したと指摘しました。",
+    "AIガバナンスはポリシーベースから継続的・強制力のある統制への移行が進んでいます。",
+    "経済産業省・NEDOは住宅環境特化型ロボット基盤モデルの研究開発を支援します。",
+    "経済産業省の試算ではAIエンジニアの将来性が高く、実践型AIスクールが提供されています。",
+    "クラウドリーガルはe-Gov法令検索を活用し、リサーチ体制を強化しました。",
+    "さくらインターネットはデジタル庁のガバメントクラウド整備に向けたクラウドサービス提供を強化します。",
+    "国土交通省はAI×走行データ分析によるバス運行・安全管理高度化事業を採択しました。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90314828/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: コンテック製CONPROSYSシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96551518/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99009004/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: コンテック製SolarView Compactにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97753461/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SHIRASAGIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN37476837/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "自治体向け無料AI「zevo」に生成AIモデル追加、LGWAN環境で安全な活用を支援",
+      "summary": "自治体向けAI「zevo」に最新モデルが追加され、LGWAN環境で安全に生成AIを活用できるようになった。これにより、行政内部の業務改善と府民サービスの向上が期待される。",
+      "relevance": "LGWAN環境で安全に生成AIを活用できる自治体向けAIツールの導入状況について、PMO/PjMOの皆様は情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2634re-01-02-03/"
+        },
+        {
+          "name": "microsoft.com",
+          "url": "https://www.microsoft.com/ja-jp/customers/story/27235-kyoto-prefecture-microsoft-365-copilot"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "米政府、中国AI企業6社による米国AIモデルの「蒸留」を指摘",
+      "summary": "米政府は、中国のDeepSeekなど6社が、Claude、GPT、Geminiなどの米国製AIモデルから数百万件のリクエストを通じて数十億トークンを抽出したと指摘した。",
+      "relevance": "AIモデルの国際的な利用動向や、それに伴う知財・セキュリティリスクについて、PMO/PjMOの皆様は情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_10637/"
+        },
+        {
+          "name": "chosunonline.com",
+          "url": "https://www.chosunonline.com/site/data/html_dir/2026/09/10/2026091080087.html"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/us-china-ai-model-distillation-report/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19756504?news_ref=10_10"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスとリスク管理の強化に向けた動向と市場予測",
+      "summary": "AIガバナンスへの関心が高まり、ポリシーベースから継続的・強制力のある統制への移行が見られる。AI TRiSM市場は成長予測されており、リスク管理やモデル評価の必要性が増している。",
+      "relevance": "AI活用におけるガバナンス体制構築やリスク管理の重要性について、PMO/PjMOの皆様は最新動向の把握をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20260910-4940884/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000130.000035245.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000240.000054301.html"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/8349699"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25058"
+        },
+        {
+          "name": "databricks.com",
+          "url": "https://www.databricks.com/jp/training/catalog/get-started-with-databricks-apps-japanese-6486"
+        },
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news035_2.html"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29777"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19756857"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/55941133a11099be71ce2319a7b62084507fca74?page=3"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/7323948"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000362221"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/631361"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17475677/?ref=news-summary_4299556"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29771"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2609/10/2000001317/"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2609/10/2000001312/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "経済産業省・NEDO、住宅環境特化型ロボット基盤モデルの研究開発を支援",
+      "summary": "MWが取り組む住宅環境に特化したロボット基盤モデルの研究開発が、経済産業省・NEDOの生成AI開発力強化と社会実装支援事業に採択された。",
+      "relevance": "住宅環境に特化したロボット基盤モデルの研究開発動向について、PMO/PjMOの皆様は関連技術の動向把握をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "shinmai.co.jp",
+          "url": "https://www.shinmai.co.jp/news/article/PRPTc182267_r5"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "50代未経験者向けAIエンジニア養成講座、経済産業省の試算に基づく将来性",
+      "summary": "経済産業省の試算によるとAIエンジニアの将来性は高く、40代・50代・60代に特化した実践型AIスクールでは、3ヶ月で生成AI活用を学べる。",
+      "relevance": "AI人材育成の必要性や、未経験者向けの教育プログラムの動向について、PMO/PjMOの皆様は人材育成計画策定の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jidounten-lab.com",
+          "url": "https://jidounten-lab.com/50-ai-engineer"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "クラウドリーガル、e-Gov法令検索を活用しリサーチ体制を強化",
+      "summary": "企業法務アウトソーシングサービス「クラウドリーガル」が、e-Gov法令検索（デジタル庁）を活用してリサーチ体制を強化し、生成AIとリーガルAIによる契約書レビュー・作成の検証記事も公開している。",
+      "relevance": "e-Gov法令検索の活用事例や、生成AI・リーガルAIによる契約書レビュー・作成の動向について、PMO/PjMOの皆様は業務効率化の参考にご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000059.000126939.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "さくらインターネット、ガバメントクラウド整備に向けたクラウドサービス提供",
+      "summary": "さくらインターネットが、デジタル庁の「令和8年度ガバメントクラウド整備のためのクラウドサービス」に採択されたパブリッククラウド「さくらのクラウド」の移行・運用支援を強化し、請求代行サービスを開始する。",
+      "relevance": "ガバメントクラウド整備に向けたクラウドサービス選定や移行・運用支援の具体例について、PMO/PjMOの皆様は事例収集をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000113.000093709.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/heartbeats-sakura-cloud-service/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国土交通省、AI×走行データ分析によるバス運行・安全管理高度化事業を採択",
+      "summary": "WILLER EXPRESSとWill Smartが、国土交通省の地域交通DX推進タイプに採択され、AI×走行データ分析によりバスの運行と安全管理を高度化する。",
+      "relevance": "AIと走行データ分析を活用した地域交通DX推進の事例について、PMO/PjMOの皆様は他分野への応用可能性をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2650interka06/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "総務省、公共サービス改革（市場化テスト）における民間事業者向け情報提供",
+      "summary": "総務省は、公共サービス改革（市場化テスト）の実施要項を官民競争入札等監理委員会の審議を経て策定し、民間事業者に公表する。",
+      "relevance": "公共サービス改革における市場化テストの実施要項や、民間事業者との連携に関する動向について、PMO/PjMOの皆様は情報収集をご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/koukyo_service_kaikaku/02shingi06_02001068.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "双日テックイノベーション、DX人材育成プログラムで経営層の意識向上を支援",
+      "summary": "双日テックイノベーションのDX人材育成プログラムでは、経営層の意識向上を目的とし、生成AIやサイバーセキュリティなどの最新技術動向を学ぶ。",
+      "relevance": "DX推進における経営層の意識向上や、人材育成プログラムの具体例について、PMO/PjMOの皆様は自組織のDX推進体制構築の参考にご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/25054"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS AI セキュリティフレームワーク: レイヤーとフェーズに応じた適切なセキュリティコントロール",
+          "url": "https://aws.amazon.com/jp/blogs/news/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
+          "pub_date": "2026-09-10T11:16:48.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Umios(旧マルハニチロ) が時系列基盤モデル Chronos-2 で実現する販売計画 AI – 作業4,200時間削減への裏側",
+          "url": "https://aws.amazon.com/jp/blogs/news/umios-chronos2/",
+          "pub_date": "2026-09-10T06:20:03.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】Girls Meet STEM in AWS 2026 を開催しました",
+          "url": "https://aws.amazon.com/jp/blogs/news/girls-meet-stem-event-2026summer/",
+          "pub_date": "2026-09-10T01:04:27.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Shield Advanced が AWS WAF Anti-DDoS マネージドルールグループを採用: 変更点と準備方法",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/",
+          "pub_date": "2026-09-10T00:47:18.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS 認定資格 (MLA、SAP、DVA) に関するアップデート: 2026 年 9 月",
+          "url": "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
+          "pub_date": "2026-09-09T23:48:07.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "近畿大学と Google Cloud が包括連携協定を締結 - 約 2 万人超へ「Google AI Pro for Education」を導入し、「AI ネイティブ大学」の実現を支援",
+          "url": "https://cloud.google.com/blog/ja/products/gcp/kinki-uni-and-google-cloud-sign-a-comprehensive-partnership-agreement/",
+          "pub_date": "2026-09-10T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報）",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
+          "pub_date": "2026-09-10T02:30:06.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-10T18:00:22.219Z"
+}
