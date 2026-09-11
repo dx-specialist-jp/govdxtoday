@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "デジタル庁運用の政府共通基盤システムへの不正アクセス、公務員等約24.6万件の個人情報漏洩の可能性",
+        "summary": "デジタル庁が提供する政府共通基盤GSSに不正アクセスがあり、公務員等の個人情報約24.6万件が漏洩した可能性があると発表されました。原因は既知のVPN機器の脆弱性です。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/business/articles/2609/11/news072.html",
+        "relevance": "PMO/PjMO担当者は、既知の脆弱性に対するパッチ適用やセキュリティ設定の見直しについて、関係部署にご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-10",
         "date_ja": "2026年9月10日（木）",
         "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
@@ -2803,6 +2813,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "AIエージェントプラットフォームの全社展開とAIガバナンス",
+        "summary": "JBSはMicrosoft Copilotを統合したAIエージェントプラットフォームを全社展開し、NECはAIエージェントによる財務分析や営業支援を自律実行するAIコックピットの知見提供を目指しています。",
+        "source": "microsoft.com",
+        "url": "https://www.microsoft.com/ja-jp/customers/story/27149-japan-business-systems-microsoft-copilot",
+        "relevance": "PMO/PjMO担当者は、AIエージェントの導入・運用におけるガバナンス体制の構築と、業務効率化・標準化への活用についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "AIガバナンス・リスク管理市場の成長と認証制度、法整備の動向",
+        "summary": "AIガバナンス・リスク管理市場は2030年には150億円規模に拡大予測。EY新日本はAIガバナンス「C認証」の取得支援サービスを提供開始し、マレーシアは2027年初頭までにAIガバナンス法案提出を目指します。",
+        "source": "datarobot.com",
+        "url": "https://www.datarobot.com/jp/blog/datarobotjapan_fde_tech-summit/",
+        "relevance": "PMO/PjMO担当者は、AI導入・運用におけるガバナンス体制構築の重要性を認識し、関連する認証制度や法規制の動向について継続的な情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "デジタル庁、AI時代の国家公務員の在り方に関する検討会で政府共通AI基盤「ガバメントAI 源内」の進捗を公表",
+        "summary": "デジタル庁は、AI時代の国家公務員の在り方に関する検討会で、政府共通の生成AI基盤「ガバメントAI 源内」の進捗状況を公表しました。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17484133/body/?ref=topics",
+        "relevance": "PMO/PjMO担当者は、政府共通AI基盤の活用可能性や、AI活用による公務員の働き方改革への影響について情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "AIモデルの不正利用やセキュリティ上の懸念、政府機関への標的型攻撃への悪用事例が報告",
+        "summary": "AnthropicのAIモデル「Claude」が20以上の組織標的型サイバー作戦に悪用された他、米政府は中国AI6社の「蒸留」を指摘しました。Google DeepMindは最新モデルがセキュリティで先行すると反論しています。",
+        "source": "yellow.com",
+        "url": "https://yellow.com/ja/news/anthropic%E3%80%81%E3%80%8Cclaude%E3%80%8D%E3%81%8C20%E8%B6%85%E3%81%AE%E7%B5%84%E7%B9%94%E6%A8%99%E7%9A%84%E5%9E%8B%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E4%BD%9C%E6%88%A6%E3%81%A82500%E4%B8%87%E5%9B%9E%E7%B7%9A%E7%9B%A3%E8%A6%96%E3%81%AB%E6%82%AA%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E3%81%A8%E5%85%AC%E8%A1%A8",
+        "relevance": "PMO/PjMO担当者は、AIモデルの選定・利用におけるセキュリティリスク評価や、不正利用防止策の導入についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "クラウドリーガル、e-Gov法令検索を活用しリサーチ体制を強化",
@@ -5395,6 +5445,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "豪州、再エネ活用データセンター促進策に世界的インフラファンドが支持",
+        "summary": "オーストラリア政府は再生可能エネルギーを活用したデータセンターの促進策を打ち出しており、AWSなどもこれを支持しています。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2938245?display=1",
+        "relevance": "PMO/PjMO担当者は、クラウドインフラの選定・運用における環境負荷低減や、データセンターの立地・電源確保に関する動向についてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "さくらインターネット、ガバメントクラウド整備に向けたクラウドサービス提供",
@@ -7361,6 +7421,51 @@
     ],
     "AWS最新情報": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Amazon EC2 が AMI と互換性のあるインスタンスタイプの指定をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Amazon Bedrock マネージドナレッジベースがデータソースコネクタの自動同期スケジューリングをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Amazon Bedrock マネージドナレッジベースが ServiceNow をネイティブデータソースコネクタとしてサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Amazon Bedrock マネージドナレッジベースが SharePoint、OneDrive、Confluence データソースのユーザー管理型セットアップを導入",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "AI の投資収益率 (ROI) を算出する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "AWS 認定資格 (MLA、SAP、DVA) に関するアップデート: 2026 年 9 月",
@@ -9298,6 +9403,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "数週間から数分へ: データ パイプラインの新たなエージェント時代",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Google、2026 年 Gartner® Magic Quadrant™ で戦略的クラウド プラットフォーム サービス部門のリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "BigQuery の新しい ID 列でパイプラインを簡素化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "Google Gen AI SDK for Kotlin 1.0 の発表: Gemini への慣用的なマルチプラットフォーム アクセス",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "近畿大学と Google Cloud が包括連携協定を締結 - 約 2 万人超へ「Google AI Pro for Education」を導入し、「AI ネイティブ大学」の実現を支援",
@@ -11092,6 +11233,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "【さくらのSSL】サイバートラスト証明書 新規お申し込み・更新受付停止のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/11/1968225709/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報）",
@@ -11727,6 +11877,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-09-12",
+        "date_ja": "2026年9月12日（土）",
+        "title": "岐阜県、高山陣屋の屋根葺替プロジェクトでガバメントクラウドファンディングを実施",
+        "summary": "岐阜県は、高山陣屋の御蔵屋根葺替プロジェクトの費用の一部に充てるため、ガバメントクラウドファンディングを実施します。浜松市も同様にクラウドファンディングを実施しています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/a/?c=49248&r=566&f=d49248-566-16a5f0b7d5777ee0fdae2469d9f9ad56.pdf",
+        "relevance": "PMO/PjMO担当者は、ガバメントクラウドファンディングの事例を参考に、プロジェクトの資金調達手法や市民参加促進の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-05",
         "date_ja": "2026年9月5日（土）",
         "title": "ガバメントクラウドファンディングの活用事例とコスト最適化",
@@ -12177,24 +12337,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 65,
+    "セキュリティ": 66,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 259,
-    "クラウド/インフラ": 71,
+    "AI活用": 263,
+    "クラウド/インフラ": 72,
     "制度/ガイドライン": 67,
     "自治体DX事例": 58,
-    "AWS最新情報": 215,
-    "Google Cloud最新情報": 170,
+    "AWS最新情報": 220,
+    "Google Cloud最新情報": 174,
     "働き方/業務改革": 26,
-    "さくらのクラウド最新情報": 59,
+    "さくらのクラウド最新情報": 60,
     "AIガバナンス": 10,
-    "ガバメントクラウド": 6,
+    "ガバメントクラウド": 7,
     "調達・契約": 15,
     "デジタル庁": 3,
     "調達/契約": 7,
     "プロジェクト管理": 13
   },
-  "updated_at": "2026-09-10T18:00:22.226Z"
+  "updated_at": "2026-09-11T18:07:16.849Z"
 }

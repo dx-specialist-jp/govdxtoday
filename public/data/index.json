@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-12",
+      "summary_short": "デジタル庁運用の政府共通基盤システムへの不正アクセス、公…など7件",
+      "article_count": 7,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-11",
       "summary_short": "自治体向け無料AI「zevo」に生成AIモデル追加、LG…など10件",
       "article_count": 10,

@@ -26,5 +26,21 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
     "pubDate": "2026-09-02T16:54:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+    "pubDate": "2026-09-04T21:29:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+    "pubDate": "2026-09-04T21:14:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+    "pubDate": "2026-09-04T21:01:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+    "pubDate": "2026-09-04T19:26:00.000Z"
   }
 ]

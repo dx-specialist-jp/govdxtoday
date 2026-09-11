@@ -1,0 +1,331 @@
+{
+  "date": "2026-09-12",
+  "date_ja": "2026年9月12日（土）",
+  "news_summary": [
+    "デジタル庁の政府共通基盤システムに不正アクセス、公務員等24.6万件の個人情報漏洩の可能性",
+    "AIモデルの不正利用や標的型攻撃への悪用事例が報告、米政府は中国AI6社の「蒸留」を指摘",
+    "デジタル庁は政府共通AI基盤「ガバメントAI 源内」の進捗状況を公表",
+    "AIガバナンス・リスク管理市場は2030年に150億円規模、マレーシアはAIガバナンス法案提出目指す",
+    "AIエージェントプラットフォームの全社展開やAIコックピットの知見提供を目指す動き",
+    "岐阜県は高山陣屋の屋根葺替プロジェクトでガバメントクラウドファンディングを実施"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: a-blog cmsにおけるパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/jp/JVN20829034/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
+      "url": "https://jvn.jp/vu/JVNVU94404414/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95258183/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90314828/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁運用の政府共通基盤システムへの不正アクセス、公務員等約24.6万件の個人情報漏洩の可能性",
+      "summary": "デジタル庁が提供する政府共通基盤GSSに不正アクセスがあり、公務員等の個人情報約24.6万件が漏洩した可能性があると発表されました。原因は既知のVPN機器の脆弱性です。",
+      "relevance": "PMO/PjMO担当者は、既知の脆弱性に対するパッチ適用やセキュリティ設定の見直しについて、関係部署にご確認ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/articles/2609/11/news072.html"
+        },
+        {
+          "name": "act1.co.jp",
+          "url": "https://act1.co.jp/2026-09-11-02/"
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cg_JLDz-kzI"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b"
+        },
+        {
+          "name": "japan.cnet.com",
+          "url": "https://japan.cnet.com/article/35252539/"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_economy/articles/000532699.html"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIモデルの不正利用やセキュリティ上の懸念、政府機関への標的型攻撃への悪用事例が報告",
+      "summary": "AnthropicのAIモデル「Claude」が20以上の組織標的型サイバー作戦に悪用された他、米政府は中国AI6社の「蒸留」を指摘しました。Google DeepMindは最新モデルがセキュリティで先行すると反論しています。",
+      "relevance": "PMO/PjMO担当者は、AIモデルの選定・利用におけるセキュリティリスク評価や、不正利用防止策の導入についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "yellow.com",
+          "url": "https://yellow.com/ja/news/anthropic%E3%80%81%E3%80%8Cclaude%E3%80%8D%E3%81%8C20%E8%B6%85%E3%81%AE%E7%B5%84%E7%B9%94%E6%A8%99%E7%9A%84%E5%9E%8B%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E4%BD%9C%E6%88%A6%E3%81%A82500%E4%B8%87%E5%9B%9E%E7%B7%9A%E7%9B%A3%E8%A6%96%E3%81%AB%E6%82%AA%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E3%81%A8%E5%85%AC%E8%A1%A8"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/190e6bde17eae495b251e637468d5d4f3431a2b1"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/claude-mythos-5-1/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17481902/?ref=news-summary_4212306"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/anthropic-details-disrupted-claude-misuse-across-seven-harm-areas/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "デジタル庁、AI時代の国家公務員の在り方に関する検討会で政府共通AI基盤「ガバメントAI 源内」の進捗を公表",
+      "summary": "デジタル庁は、AI時代の国家公務員の在り方に関する検討会で、政府共通の生成AI基盤「ガバメントAI 源内」の進捗状況を公表しました。",
+      "relevance": "PMO/PjMO担当者は、政府共通AI基盤の活用可能性や、AI活用による公務員の働き方改革への影響について情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17484133/body/?ref=topics"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス・リスク管理市場の成長と認証制度、法整備の動向",
+      "summary": "AIガバナンス・リスク管理市場は2030年には150億円規模に拡大予測。EY新日本はAIガバナンス「C認証」の取得支援サービスを提供開始し、マレーシアは2027年初頭までにAIガバナンス法案提出を目指します。",
+      "relevance": "PMO/PjMO担当者は、AI導入・運用におけるガバナンス体制構築の重要性を認識し、関連する認証制度や法規制の動向について継続的な情報収集をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/blog/datarobotjapan_fde_tech-summit/"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/analyst-ratings/article-93CH-1677615"
+        },
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/prwire/1085342.html"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1922049"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/pr/prwire/30713"
+        },
+        {
+          "name": "shimotsuke.co.jp",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1420183"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25066"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/5947296"
+        },
+        {
+          "name": "mtown.my",
+          "url": "https://www.mtown.my/news/politics/AIGovernanceBill/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25067"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/newsroom/2026/09/ey-japan-news-release-2026-09-11"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/megatrends/how-superfluid-enterprises-reshape-organizations-for-competitive-edge"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/4b304c6f10490f3b4e4ca749dbfd878ca0b608f6"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/25061"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25062"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/1386734"
+        },
+        {
+          "name": "jdla.org",
+          "url": "https://www.jdla.org/news/20260911001/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25061"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/11c0d36b-ea70-4240-ad32-5c30baa00e67"
+        },
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/blog/agentic-ai-guardrails-what-enterprise-leaders-are-accountable-for/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIエージェントプラットフォームの全社展開とAIガバナンス",
+      "summary": "JBSはMicrosoft Copilotを統合したAIエージェントプラットフォームを全社展開し、NECはAIエージェントによる財務分析や営業支援を自律実行するAIコックピットの知見提供を目指しています。",
+      "relevance": "PMO/PjMO担当者は、AIエージェントの導入・運用におけるガバナンス体制の構築と、業務効率化・標準化への活用についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "microsoft.com",
+          "url": "https://www.microsoft.com/ja-jp/customers/story/27149-japan-business-systems-microsoft-copilot"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "豪州、再エネ活用データセンター促進策に世界的インフラファンドが支持",
+      "summary": "オーストラリア政府は再生可能エネルギーを活用したデータセンターの促進策を打ち出しており、AWSなどもこれを支持しています。",
+      "relevance": "PMO/PjMO担当者は、クラウドインフラの選定・運用における環境負荷低減や、データセンターの立地・電源確保に関する動向についてご留意ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "newsdig.tbs.co.jp",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2938245?display=1"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "岐阜県、高山陣屋の屋根葺替プロジェクトでガバメントクラウドファンディングを実施",
+      "summary": "岐阜県は、高山陣屋の御蔵屋根葺替プロジェクトの費用の一部に充てるため、ガバメントクラウドファンディングを実施します。浜松市も同様にクラウドファンディングを実施しています。",
+      "relevance": "PMO/PjMO担当者は、ガバメントクラウドファンディングの事例を参考に、プロジェクトの資金調達手法や市民参加促進の可能性についてご検討ください。",
+      "category": "ガバメントクラウド",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/a/?c=49248&r=566&f=d49248-566-16a5f0b7d5777ee0fdae2469d9f9ad56.pdf"
+        },
+        {
+          "name": "pref.gifu.lg.jp",
+          "url": "https://www.pref.gifu.lg.jp/page/513880.html"
+        },
+        {
+          "name": "pref.gifu.lg.jp",
+          "url": "https://www.pref.gifu.lg.jp/site/pressrelease/514881.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000566.000049248.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AI の投資収益率 (ROI) を算出する",
+          "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
+          "pub_date": "2026-09-11T01:03:21.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Bedrock マネージドナレッジベースが SharePoint、OneDrive、Confluence データソースのユーザー管理型セットアップを導入",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+          "pub_date": "2026-09-04T21:29:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Bedrock マネージドナレッジベースが ServiceNow をネイティブデータソースコネクタとしてサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+          "pub_date": "2026-09-04T21:14:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Bedrock マネージドナレッジベースがデータソースコネクタの自動同期スケジューリングをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+          "pub_date": "2026-09-04T21:01:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon EC2 が AMI と互換性のあるインスタンスタイプの指定をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+          "pub_date": "2026-09-04T19:26:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "Google Gen AI SDK for Kotlin 1.0 の発表: Gemini への慣用的なマルチプラットフォーム アクセス",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+          "pub_date": "2026-09-11T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "BigQuery の新しい ID 列でパイプラインを簡素化",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+          "pub_date": "2026-09-11T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google、2026 年 Gartner® Magic Quadrant™ で戦略的クラウド プラットフォーム サービス部門のリーダーに選出",
+          "url": "https://cloud.google.com/blog/ja/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+          "pub_date": "2026-09-10T17:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "数週間から数分へ: データ パイプラインの新たなエージェント時代",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+          "pub_date": "2026-09-10T16:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【さくらのSSL】サイバートラスト証明書 新規お申し込み・更新受付停止のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/11/1968225709/",
+          "pub_date": "2026-09-11T09:30:50.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-11T18:07:16.841Z"
+}
