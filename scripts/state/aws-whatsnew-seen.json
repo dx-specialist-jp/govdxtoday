@@ -1,31 +1,7 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
-    "pubDate": "2026-09-01T21:37:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
-    "pubDate": "2026-09-01T20:16:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
-    "pubDate": "2026-09-01T19:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
-    "pubDate": "2026-09-01T19:00:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
     "pubDate": "2026-09-02T17:52:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-    "pubDate": "2026-09-02T17:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
-    "pubDate": "2026-09-02T16:54:00.000Z"
   },
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
@@ -42,5 +18,17 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-images-supported-instances",
     "pubDate": "2026-09-04T19:26:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
+    "pubDate": "2026-09-04T17:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
+    "pubDate": "2026-09-04T16:31:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
+    "pubDate": "2026-09-04T14:06:00.000Z"
   }
 ]
