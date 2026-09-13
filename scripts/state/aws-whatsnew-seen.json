@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-    "pubDate": "2026-09-02T17:52:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
     "pubDate": "2026-09-04T21:29:00.000Z"
   },
@@ -30,5 +26,17 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
     "pubDate": "2026-09-04T14:06:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
+    "pubDate": "2026-09-04T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+    "pubDate": "2026-09-04T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
+    "pubDate": "2026-09-03T23:00:00.000Z"
   }
 ]

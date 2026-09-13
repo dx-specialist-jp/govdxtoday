@@ -2,26 +2,26 @@
   "date": "2026-09-13",
   "date_ja": "2026年9月13日（日）",
   "news_summary": [
-    "デジタル庁GSSへの不正アクセスで職員等24.6万件の個人情報漏洩の可能性",
-    "AIエージェント群によるサイバー攻撃の制御不能への懸念が高まっている",
-    "EY新日本がAIガバナンス構築の「C認証」取得支援サービスを開始",
-    "経済産業省・NEDO主導の生成AI国家プロジェクト「GENIAC」に家庭用AIロボット企業が採択",
-    "介護現場向けに言葉を理解し荷物を運ぶ「準国産ロボ」の実証実験が進む",
-    "総務省は自動運転向け5G用設備に係る固定資産税減税を概算要求に盛り込んだ"
+    "デジタル庁運用システムへの不正アクセスで個人情報約24.6万件漏えいの可能性",
+    "AIガバナンス認証支援サービス提供開始、AI悪用事例報告など動き活発化",
+    "総務省・経済産業省が生成AI行政・公共分野活用へ開発支援プロジェクト推進",
+    "グローバルSovereign AIクラウド市場でMicrosoft等主要プレイヤーが政府支援",
+    "経済産業省がGX戦略地域でのAIデータセンター集積支援を推進",
+    "総務省は自動運転向け高度道路交通システムで固定資産税減税を検討"
   ],
   "security_alerts": [],
   "hero_article": null,
   "sub_articles": [],
   "news_topics": [
     {
-      "title": "デジタル庁GSSに不正アクセス、職員等24.6万件の個人情報漏洩の可能性",
-      "summary": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス（GSS）」に外部から不正アクセスがあり、VPNの脆弱性を利用され、公務員等の個人情報24.6万件の漏洩の可能性がある。",
-      "relevance": "政府共通基盤におけるセキュリティインシデント発生を踏まえ、プロジェクトにおける脆弱性管理とインシデント対応計画の見直しをご検討ください。",
+      "title": "デジタル庁運用システムへの不正アクセスによる個人情報漏えいの可能性",
+      "summary": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス（GSS）」に不正アクセスがあり、職員等の個人情報約24万6000件が漏えいした可能性がある。",
+      "relevance": "ガバメントクラウドや政府共通システムにおけるセキュリティ脆弱性管理とインシデント対応体制について、PMO/PjMO担当者は現状の確認と対策強化をご検討ください。",
       "category": "セキュリティ",
       "sources": [
         {
-          "name": "note.com",
-          "url": "https://note.com/kirik/n/n8e7920167c3f"
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/8d96b6e8-56d7-4998-a1a4-7f56cb48563f"
         },
         {
           "name": "dempa-digital.com",
@@ -36,71 +36,37 @@
           "url": "https://www.digital.go.jp/press/5fc99139-a4e2-4b7b-8b0c-d475e926143f"
         },
         {
-          "name": "tokyonewsmedia.com",
-          "url": "https://tokyonewsmedia.com/archives/27779"
-        }
-      ],
-      "score": 9
-    },
-    {
-      "title": "AIエージェント群によるサイバー攻撃、制御不能への懸念",
-      "summary": "AIエージェント群によるサイバー攻撃の可能性と、その制御不能への懸念が高まっている。",
-      "relevance": "AIエージェントによるサイバー攻撃のリスクを認識し、インフラのセキュリティ対策強化をご検討ください。",
-      "category": "セキュリティ",
-      "sources": [
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117763/"
+        },
         {
-          "name": "jiji.com",
-          "url": "https://www.jiji.com/jc/article?k=WP-WSJ-0003887407&g=ws"
+          "name": "nagoyatv.com",
+          "url": "https://www.nagoyatv.com/news/keizai.html?id=000532894"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/sdt_2026091206327537/"
         }
       ],
-      "score": 6
+      "score": 10
     },
     {
-      "title": "EY新日本、AIガバナンス「C認証」の取得支援サービスを開始",
-      "summary": "EY新日本有限責任監査法人が、AIガバナンス構築の最初の一歩として「C認証」の取得支援サービスを開始した。この認証は、AIの利用、リスク対応組織、データ管理等に焦点を当てている。",
-      "relevance": "AI活用におけるガバナンス体制構築の参考として、C認証の概要や取得プロセスをご検討ください。",
+      "title": "AIガバナンスの重要性と関連サービス・報告",
+      "summary": "AnthropicのAI悪用事例報告や、AIガバナンス認証支援サービス提供開始など、AIの安全な利用と制御に関する議論や動きが活発化している。",
+      "relevance": "AI活用におけるガバナンス体制構築や、関連する認証・ガイドラインの動向について、PMO/PjMO担当者は自組織でのAI導入計画との整合性をご検討ください。",
       "category": "AI活用",
       "sources": [
         {
-          "name": "kyodonewsprwire.jp",
-          "url": "https://kyodonewsprwire.jp/release/202609115734"
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-claude-ai-safety-report/"
         },
-        {
-          "name": "chibanippo.co.jp",
-          "url": "https://www.chibanippo.co.jp/prwire/1665475"
-        },
-        {
-          "name": "47news.jp",
-          "url": "https://www.47news.jp/14925737.html"
-        },
-        {
-          "name": "agara.co.jp",
-          "url": "https://www.agara.co.jp/article/685129"
-        },
-        {
-          "name": "47news.jp",
-          "url": "https://www.47news.jp/14925729.html"
-        },
-        {
-          "name": "chiba-tv.com",
-          "url": "https://www.chiba-tv.com/plus/detail/2026091999249"
-        },
-        {
-          "name": "chiba-tv.com",
-          "url": "https://www.chiba-tv.com/plus/detail/2026091999250"
-        }
-      ],
-      "score": 9
-    },
-    {
-      "title": "AIの悪用・安全性・ガバナンスに関する国際的な議論と企業・政府の動向",
-      "summary": "AIモデルの兵器開発や監視への利用、AI開発競争激化に伴う安全性への懸念、AIガバナンスの構築、AIを提供する企業の責任、AIに関する説明責任、国際的なAIガバナンスの議論への開発途上国の発言権確保などが報じられている。",
-      "relevance": "AIの潜在的リスクと倫理的課題を踏まえ、AI利用方針やガバナンス体制の構築についてご検討ください。",
-      "category": "AI活用",
-      "sources": [
         {
           "name": "vietnam.vn",
           "url": "https://www.vietnam.vn/ja/nhieu-chinh-phu-dung-mo-hinh-ai-claude-de-phat-trien-vu-khi-giam-sat"
+        },
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/09/12/chatgpt-desktop-alt-double-tap-share/"
         },
         {
           "name": "newspicks.com",
@@ -109,6 +75,10 @@
         {
           "name": "panewslab.com",
           "url": "https://www.panewslab.com/ja/articles/01a0907d-e451-73c2-9f90-103f3ecc219f"
+        },
+        {
+          "name": "chibanippo.co.jp",
+          "url": "https://www.chibanippo.co.jp/prwire/1665475"
         },
         {
           "name": "vietnam.vn",
@@ -131,30 +101,26 @@
           "url": "https://www.ey.com/ja_jp/insights/digital/ai_digitalea_governance"
         },
         {
-          "name": "straightpress.jp",
-          "url": "http://straightpress.jp/company_news/detail?pr=000000806.000040956"
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14925737.html"
         },
         {
-          "name": "pasqualepillitteri.it",
-          "url": "https://pasqualepillitteri.it/ja/news/15742/paul-christiano-openai-anzen-iinkai"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://simplywall.st/ja/stocks/us/tech/nasdaq-ffiv/f5/news/99a664dbd5b6ce3a/amp"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://simplywall.st/ja/stocks/us/tech/nasdaq-ffiv/f5/news/99a664dbd5b6ce3a"
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/serial/2026/09/_qwen_qwen.html"
         }
       ],
-      "score": 7
+      "score": 9
     },
     {
-      "title": "経済産業省・NEDO主導の生成AI国家プロジェクト「GENIAC」に家庭用AIロボット企業が採択",
-      "summary": "経済産業省とNEDOが推進する生成AI開発支援プロジェクト「GENIAC」に、家庭用AIロボット企業が採択され、事業計画発表会が開催された。",
-      "relevance": "生成AIを活用したロボット開発の動向を踏まえ、行政分野におけるAIロボット導入の可能性をご検討ください。",
+      "title": "生成AIの行政・公共分野での活用と開発支援",
+      "summary": "総務省・経済産業省によるAI事業者ガイドラインや、生成AI開発支援プロジェクト「GENIAC」の採択、大学生の9割が利用するなど、生成AIの行政・公共分野での活用が進んでいる。",
+      "relevance": "生成AIの行政分野での活用事例やガイドライン、開発支援プログラムについて、PMO/PjMO担当者は自組織での導入可能性とリスク管理をご検討ください。",
       "category": "AI活用",
       "sources": [
+        {
+          "name": "epochtimes.jp",
+          "url": "https://www.epochtimes.jp/2026/09/385861_amp.html"
+        },
         {
           "name": "article.auone.jp",
           "url": "https://article.auone.jp/f41b5856-64a8-4006-a8ea-f669ddb27968"
@@ -166,44 +132,81 @@
         {
           "name": "biz-journal.jp",
           "url": "https://biz-journal.jp/company/post_395948.html"
+        },
+        {
+          "name": "travelnews.co.jp",
+          "url": "https://www.travelnews.co.jp/tnat/backnumber/2026091308595550533.html"
+        },
+        {
+          "name": "venturesquare.net",
+          "url": "https://www.venturesquare.net/jp/1113125/"
+        },
+        {
+          "name": "gifu-np.co.jp",
+          "url": "https://www.gifu-np.co.jp/articles/-/768973"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/191524/posts/1498650"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "皇室典範改正を推し進めた内閣官房参与の経歴",
+      "summary": "皇室典範改正における養子案を推し進めた山﨑重孝内閣官房参与について、総務省時代のエピソードなどが報じられている。",
+      "relevance": "政府内の重要政策推進におけるキーパーソンの動向や、関連する組織・人物の経歴について、PMO/PjMO担当者はプロジェクト推進体制の理解を深めるため参考にご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "bunshun.jp",
+          "url": "https://bunshun.jp/articles/-/91851?page=1"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "グローバルSovereign AIクラウド市場における主要プレイヤーと政府支援",
+      "summary": "Microsoft、AWS、Google Cloud、Oracle、NVIDIAなどが、安全なクラウドとAIインフラを備えた政府を支援し、各国は国内クラウドの構築を進めている。",
+      "relevance": "ガバメントクラウドにおける主要プロバイダーの動向と、Sovereign AIクラウドの政府システムへの適用可能性について、PMO/PjMO担当者は情報収集をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sphericalinsights.com",
+          "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-sovereign-ai-cloud-market-industry-intelligence-report-by-spherical-insights-2026-2035"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "データセンター強化とAI市場拡大、政府のGX戦略",
+      "summary": "不動産大手によるデータセンター強化や、経済産業省によるGX戦略地域でのAIデータセンター集積支援が進められている。",
+      "relevance": "AI活用基盤としてのデータセンターの動向と、GX戦略におけるAIデータセンター集積の重点支援について、PMO/PjMO担当者はインフラ計画との関連性をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=2026091200301&g=eco"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bo-tai-chinh-keu-goi-dong-von-anh-vao-thi-truong-chung-khoan-viet-nam"
+        },
+        {
+          "name": "ja.laodong.vn",
+          "url": "https://ja.laodong.vn/thi-truong/gia-xang-dau-ban-le-hom-nay-129-1765381.ldo"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bo-tai-chinh-to-chuc-ngay-thi-truong-von-viet-nam-2026-tai-vuong-quoc-anh"
         }
       ],
       "score": 7
     },
     {
-      "title": "SaaS企業のAI機能強化とガバナンスへの期待",
-      "summary": "SaaS企業がAI機能の強化を進める中、サービスナウはAIガバナンスの展開が期待されている。",
-      "relevance": "SaaSベンダーのAI機能開発動向とガバナンスへの取り組みを把握し、調達・選定時の評価要素としてご検討ください。",
-      "category": "AI活用",
-      "sources": [
-        {
-          "name": "tech-noisy.com",
-          "url": "https://tech-noisy.com/2026/09/12/chatgpt-desktop-alt-double-tap-share/"
-        },
-        {
-          "name": "tradingkey.com",
-          "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262164532-salesforce-vs-servicenow-crm-now-tradingkey"
-        }
-      ],
-      "score": 6
-    },
-    {
-      "title": "介護現場向け「準国産ロボ」：言葉を理解し荷物をお届け",
-      "summary": "介護現場での活用を目指し、言葉を理解し荷物を運ぶ「準国産ロボ」が開発されており、実証実験が進められている。",
-      "relevance": "ロボット技術の活用事例として、介護分野での応用動向を参考に、行政サービスへの応用可能性をご検討ください。",
-      "category": "AI活用",
-      "sources": [
-        {
-          "name": "nagoyatv.com",
-          "url": "https://www.nagoyatv.com/news/keizai.html?id=000532894"
-        }
-      ],
-      "score": 4
-    },
-    {
-      "title": "総務省、自動運転向け固定資産税減税や5G用設備での要望を概算要求",
-      "summary": "総務省は、自動運転時代に向けた高度道路交通システム（ITS）の推進のため、5G用設備に係る固定資産税の減税や要望を令和9年度概算要求に盛り込んだ。",
-      "relevance": "自動運転や5G関連技術への税制優遇措置の動向を把握し、関連インフラ整備やプロジェクト計画への影響をご検討ください。",
+      "title": "固定資産税、「自動運転向け」なら減税の方針",
+      "summary": "総務省は、自動運転時代に向けた情報通信技術を活用した高度道路交通システムに関して、固定資産税の減税を検討している。",
+      "relevance": "自動運転技術の進展に伴う、ICTインフラへの固定資産税減税措置の動向について、PMO/PjMO担当者は関連するプロジェクトや調達計画との連携をご検討ください。",
       "category": "制度/ガイドライン",
       "sources": [
         {
@@ -211,49 +214,7 @@
           "url": "https://jidounten-lab.com/u_67630"
         }
       ],
-      "score": 5
-    },
-    {
-      "title": "元デジタル庁統括官、地方DX成功の条件は「縦割り」打破と好奇心・想像力",
-      "summary": "元デジタル庁統括官は、DX推進の原動力は技術不足ではなく「縦割り」であり、好奇心と想像力が重要であると指摘している。",
-      "relevance": "組織の縦割りによるDX推進の阻害要因を分析し、プロジェクト横断的な連携強化策をご検討ください。",
-      "category": "自治体DX事例",
-      "sources": [
-        {
-          "name": "news.yahoo.co.jp",
-          "url": "https://news.yahoo.co.jp/articles/209a8f39b4a8dc67aa9b2f0c1134b6bc7fa18a84"
-        },
-        {
-          "name": "news.yahoo.co.jp",
-          "url": "https://news.yahoo.co.jp/articles/209a8f39b4a8dc67aa9b2f0c1134b6bc7fa18a84/images/000"
-        },
-        {
-          "name": "news.infoseek.co.jp",
-          "url": "https://news.infoseek.co.jp/article/itmedia_bizmakoto_20260813014/"
-        },
-        {
-          "name": "topics.smt.docomo.ne.jp",
-          "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_business/trend/itmedia_business-20260813_014"
-        },
-        {
-          "name": "news.nicovideo.jp",
-          "url": "https://news.nicovideo.jp/watch/nw19765415?news_ref=search_search"
-        }
-      ],
-      "score": 8
-    },
-    {
-      "title": "デジタル庁「ガバメントAI 源内」OSS公開の意図とベンダーロックイン",
-      "summary": "デジタル庁がOSSとして公開した「ガバメントAI 源内」の意図と、ベンダーロックインに関する考察が示されている。",
-      "relevance": "OSS活用のメリット・デメリットとベンダーロックインのリスクを理解し、調達・開発方針の検討にご活用ください。",
-      "category": "調達・契約",
-      "sources": [
-        {
-          "name": "innovatopia.jp",
-          "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117763/"
-        }
-      ],
-      "score": 5
+      "score": 7
     }
   ],
   "cloud_updates": [
@@ -273,25 +234,25 @@
           "source": "AWS 公式ブログ"
         },
         {
-          "title": "Amazon ECS がサービスデプロイの早期成功基準を導入",
-          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
-          "pub_date": "2026-09-04T17:00:00.000Z",
+          "title": "AWS Transfer Family SFTP コネクタが認証情報のローテーション時におけるファイル転送の継続をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
+          "pub_date": "2026-09-04T08:00:00.000Z",
           "source": "AWS 新着情報"
         },
         {
-          "title": "AWS MCP サーバーが AWS Lambda 関数向けのサーバーレス機能を追加",
-          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
-          "pub_date": "2026-09-04T16:31:00.000Z",
+          "title": "Amazon SageMaker AI バッチ変換が G6e インスタンスをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+          "pub_date": "2026-09-04T08:00:00.000Z",
           "source": "AWS 新着情報"
         },
         {
-          "title": "Amazon EC2 C8g インスタンスを利用可能なリージョンが増加",
-          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
-          "pub_date": "2026-09-04T14:06:00.000Z",
+          "title": "Amazon EC2 C9g および C9gd インスタンスがアジアパシフィック (東京) リージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
+          "pub_date": "2026-09-03T23:00:00.000Z",
           "source": "AWS 新着情報"
         }
       ]
     }
   ],
-  "generated_at": "2026-09-12T17:39:16.827Z"
+  "generated_at": "2026-09-13T05:12:34.194Z"
 }

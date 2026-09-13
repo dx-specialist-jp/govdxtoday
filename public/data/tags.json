@@ -4,21 +4,11 @@
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "AIエージェント群によるサイバー攻撃、制御不能への懸念",
-        "summary": "AIエージェント群によるサイバー攻撃の可能性と、その制御不能への懸念が高まっている。",
-        "source": "jiji.com",
-        "url": "https://www.jiji.com/jc/article?k=WP-WSJ-0003887407&g=ws",
-        "relevance": "AIエージェントによるサイバー攻撃のリスクを認識し、インフラのセキュリティ対策強化をご検討ください。",
-        "type": "news"
-      },
-      {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "デジタル庁GSSに不正アクセス、職員等24.6万件の個人情報漏洩の可能性",
-        "summary": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス（GSS）」に外部から不正アクセスがあり、VPNの脆弱性を利用され、公務員等の個人情報24.6万件の漏洩の可能性がある。",
-        "source": "note.com",
-        "url": "https://note.com/kirik/n/n8e7920167c3f",
-        "relevance": "政府共通基盤におけるセキュリティインシデント発生を踏まえ、プロジェクトにおける脆弱性管理とインシデント対応計画の見直しをご検討ください。",
+        "title": "デジタル庁運用システムへの不正アクセスによる個人情報漏えいの可能性",
+        "summary": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス（GSS）」に不正アクセスがあり、職員等の個人情報約24万6000件が漏えいした可能性がある。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/8d96b6e8-56d7-4998-a1a4-7f56cb48563f",
+        "relevance": "ガバメントクラウドや政府共通システムにおけるセキュリティ脆弱性管理とインシデント対応体制について、PMO/PjMO担当者は現状の確認と対策強化をご検討ください。",
         "type": "news"
       },
       {
@@ -2835,51 +2825,21 @@
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "介護現場向け「準国産ロボ」：言葉を理解し荷物をお届け",
-        "summary": "介護現場での活用を目指し、言葉を理解し荷物を運ぶ「準国産ロボ」が開発されており、実証実験が進められている。",
-        "source": "nagoyatv.com",
-        "url": "https://www.nagoyatv.com/news/keizai.html?id=000532894",
-        "relevance": "ロボット技術の活用事例として、介護分野での応用動向を参考に、行政サービスへの応用可能性をご検討ください。",
+        "title": "生成AIの行政・公共分野での活用と開発支援",
+        "summary": "総務省・経済産業省によるAI事業者ガイドラインや、生成AI開発支援プロジェクト「GENIAC」の採択、大学生の9割が利用するなど、生成AIの行政・公共分野での活用が進んでいる。",
+        "source": "epochtimes.jp",
+        "url": "https://www.epochtimes.jp/2026/09/385861_amp.html",
+        "relevance": "生成AIの行政分野での活用事例やガイドライン、開発支援プログラムについて、PMO/PjMO担当者は自組織での導入可能性とリスク管理をご検討ください。",
         "type": "news"
       },
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "SaaS企業のAI機能強化とガバナンスへの期待",
-        "summary": "SaaS企業がAI機能の強化を進める中、サービスナウはAIガバナンスの展開が期待されている。",
-        "source": "tech-noisy.com",
-        "url": "https://tech-noisy.com/2026/09/12/chatgpt-desktop-alt-double-tap-share/",
-        "relevance": "SaaSベンダーのAI機能開発動向とガバナンスへの取り組みを把握し、調達・選定時の評価要素としてご検討ください。",
-        "type": "news"
-      },
-      {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "経済産業省・NEDO主導の生成AI国家プロジェクト「GENIAC」に家庭用AIロボット企業が採択",
-        "summary": "経済産業省とNEDOが推進する生成AI開発支援プロジェクト「GENIAC」に、家庭用AIロボット企業が採択され、事業計画発表会が開催された。",
-        "source": "article.auone.jp",
-        "url": "https://article.auone.jp/f41b5856-64a8-4006-a8ea-f669ddb27968",
-        "relevance": "生成AIを活用したロボット開発の動向を踏まえ、行政分野におけるAIロボット導入の可能性をご検討ください。",
-        "type": "news"
-      },
-      {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "AIの悪用・安全性・ガバナンスに関する国際的な議論と企業・政府の動向",
-        "summary": "AIモデルの兵器開発や監視への利用、AI開発競争激化に伴う安全性への懸念、AIガバナンスの構築、AIを提供する企業の責任、AIに関する説明責任、国際的なAIガバナンスの議論への開発途上国の発言権確保などが報じられている。",
-        "source": "vietnam.vn",
-        "url": "https://www.vietnam.vn/ja/nhieu-chinh-phu-dung-mo-hinh-ai-claude-de-phat-trien-vu-khi-giam-sat",
-        "relevance": "AIの潜在的リスクと倫理的課題を踏まえ、AI利用方針やガバナンス体制の構築についてご検討ください。",
-        "type": "news"
-      },
-      {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "EY新日本、AIガバナンス「C認証」の取得支援サービスを開始",
-        "summary": "EY新日本有限責任監査法人が、AIガバナンス構築の最初の一歩として「C認証」の取得支援サービスを開始した。この認証は、AIの利用、リスク対応組織、データ管理等に焦点を当てている。",
-        "source": "kyodonewsprwire.jp",
-        "url": "https://kyodonewsprwire.jp/release/202609115734",
-        "relevance": "AI活用におけるガバナンス体制構築の参考として、C認証の概要や取得プロセスをご検討ください。",
+        "title": "AIガバナンスの重要性と関連サービス・報告",
+        "summary": "AnthropicのAI悪用事例報告や、AIガバナンス認証支援サービス提供開始など、AIの安全な利用と制御に関する議論や動きが活発化している。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-claude-ai-safety-report/",
+        "relevance": "AI活用におけるガバナンス体制構築や、関連する認証・ガイドラインの動向について、PMO/PjMO担当者は自組織でのAI導入計画との整合性をご検討ください。",
         "type": "news"
       },
       {
@@ -5515,6 +5475,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-13",
+        "date_ja": "2026年9月13日（日）",
+        "title": "データセンター強化とAI市場拡大、政府のGX戦略",
+        "summary": "不動産大手によるデータセンター強化や、経済産業省によるGX戦略地域でのAIデータセンター集積支援が進められている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=2026091200301&g=eco",
+        "relevance": "AI活用基盤としてのデータセンターの動向と、GX戦略におけるAIデータセンター集積の重点支援について、PMO/PjMO担当者はインフラ計画との関連性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-13",
+        "date_ja": "2026年9月13日（日）",
+        "title": "グローバルSovereign AIクラウド市場における主要プレイヤーと政府支援",
+        "summary": "Microsoft、AWS、Google Cloud、Oracle、NVIDIAなどが、安全なクラウドとAIインフラを備えた政府を支援し、各国は国内クラウドの構築を進めている。",
+        "source": "sphericalinsights.com",
+        "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-sovereign-ai-cloud-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+        "relevance": "ガバメントクラウドにおける主要プロバイダーの動向と、Sovereign AIクラウドの政府システムへの適用可能性について、PMO/PjMO担当者は情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-12",
         "date_ja": "2026年9月12日（土）",
         "title": "豪州、再エネ活用データセンター促進策に世界的インフラファンドが支持",
@@ -6239,11 +6219,11 @@
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "総務省、自動運転向け固定資産税減税や5G用設備での要望を概算要求",
-        "summary": "総務省は、自動運転時代に向けた高度道路交通システム（ITS）の推進のため、5G用設備に係る固定資産税の減税や要望を令和9年度概算要求に盛り込んだ。",
+        "title": "固定資産税、「自動運転向け」なら減税の方針",
+        "summary": "総務省は、自動運転時代に向けた情報通信技術を活用した高度道路交通システムに関して、固定資産税の減税を検討している。",
         "source": "jidounten-lab.com",
         "url": "https://jidounten-lab.com/u_67630",
-        "relevance": "自動運転や5G関連技術への税制優遇措置の動向を把握し、関連インフラ整備やプロジェクト計画への影響をご検討ください。",
+        "relevance": "自動運転技術の進展に伴う、ICTインフラへの固定資産税減税措置の動向について、PMO/PjMO担当者は関連するプロジェクトや調達計画との連携をご検討ください。",
         "type": "news"
       },
       {
@@ -6919,16 +6899,6 @@
     ],
     "自治体DX事例": [
       {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "元デジタル庁統括官、地方DX成功の条件は「縦割り」打破と好奇心・想像力",
-        "summary": "元デジタル庁統括官は、DX推進の原動力は技術不足ではなく「縦割り」であり、好奇心と想像力が重要であると指摘している。",
-        "source": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/articles/209a8f39b4a8dc67aa9b2f0c1134b6bc7fa18a84",
-        "relevance": "組織の縦割りによるDX推進の阻害要因を分析し、プロジェクト横断的な連携強化策をご検討ください。",
-        "type": "news"
-      },
-      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "国土交通省、AI×走行データ分析によるバス運行・安全管理高度化事業を採択",
@@ -7513,28 +7483,28 @@
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "Amazon EC2 C8g インスタンスを利用可能なリージョンが増加",
+        "title": "Amazon EC2 C9g および C9gd インスタンスがアジアパシフィック (東京) リージョンで利用可能に",
         "summary": "",
         "source": "AWS 新着情報",
-        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
         "type": "cloud"
       },
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "AWS MCP サーバーが AWS Lambda 関数向けのサーバーレス機能を追加",
+        "title": "Amazon SageMaker AI バッチ変換が G6e インスタンスをサポート",
         "summary": "",
         "source": "AWS 新着情報",
-        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
         "type": "cloud"
       },
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
-        "title": "Amazon ECS がサービスデプロイの早期成功基準を導入",
+        "title": "AWS Transfer Family SFTP コネクタが認証情報のローテーション時におけるファイル転送の継続をサポート",
         "summary": "",
         "source": "AWS 新着情報",
-        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
         "type": "cloud"
       },
       {
@@ -12084,16 +12054,6 @@
     ],
     "調達・契約": [
       {
-        "date": "2026-09-13",
-        "date_ja": "2026年9月13日（日）",
-        "title": "デジタル庁「ガバメントAI 源内」OSS公開の意図とベンダーロックイン",
-        "summary": "デジタル庁がOSSとして公開した「ガバメントAI 源内」の意図と、ベンダーロックインに関する考察が示されている。",
-        "source": "innovatopia.jp",
-        "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117763/",
-        "relevance": "OSS活用のメリット・デメリットとベンダーロックインのリスクを理解し、調達・開発方針の検討にご活用ください。",
-        "type": "news"
-      },
-      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "総務省、公共サービス改革（市場化テスト）における民間事業者向け情報提供",
@@ -12350,6 +12310,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-09-13",
+        "date_ja": "2026年9月13日（日）",
+        "title": "皇室典範改正を推し進めた内閣官房参与の経歴",
+        "summary": "皇室典範改正における養子案を推し進めた山﨑重孝内閣官房参与について、総務省時代のエピソードなどが報じられている。",
+        "source": "bunshun.jp",
+        "url": "https://bunshun.jp/articles/-/91851?page=1",
+        "relevance": "政府内の重要政策推進におけるキーパーソンの動向や、関連する組織・人物の経歴について、PMO/PjMO担当者はプロジェクト推進体制の理解を深めるため参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-07",
         "date_ja": "2026年9月7日（月）",
         "title": "DX推進担当者向けウェビナー：ビジネスアーキテクトの育成方法",
@@ -12482,24 +12452,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 68,
+    "セキュリティ": 67,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 268,
-    "クラウド/インフラ": 72,
+    "AI活用": 265,
+    "クラウド/インフラ": 74,
     "制度/ガイドライン": 68,
-    "自治体DX事例": 59,
+    "自治体DX事例": 58,
     "AWS最新情報": 225,
     "Google Cloud最新情報": 174,
     "働き方/業務改革": 26,
     "さくらのクラウド最新情報": 60,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
-    "調達・契約": 16,
+    "調達・契約": 15,
     "デジタル庁": 3,
     "調達/契約": 7,
-    "プロジェクト管理": 13
+    "プロジェクト管理": 14
   },
-  "updated_at": "2026-09-12T17:39:16.834Z"
+  "updated_at": "2026-09-13T05:12:34.202Z"
 }
