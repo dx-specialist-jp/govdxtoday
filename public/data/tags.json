@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Revolut、偽の政府データ要請で顧客情報流出、デジタル庁運用システムにも不正アクセス",
+        "summary": "Revolutは偽の政府要請により顧客のパスポートやBitcoin履歴が流出。一方、デジタル庁運用システムにも不正アクセスが発生し、個人情報漏洩の可能性が報じられている。",
+        "source": "pasqualepillitteri.it",
+        "url": "https://pasqualepillitteri.it/ja/news/15867/revolut-passport-bitcoin-nise-seifu-yosei",
+        "relevance": "フィッシング詐欺や偽情報による情報流出リスク、および行政システムへの不正アクセス事案について、PMO/PjMOの皆様は、職員へのセキュリティ教育強化やシステムアクセスコントロールの見直しをご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "デジタル庁運用システムへの不正アクセスと個人情報漏洩、ガバメントクラウド移行への影響",
+        "summary": "デジタル庁運用システムに第三者が不正アクセスし、政府職員らの個人情報約24万6000件が漏洩した可能性。システム利用料金とガバメントクラウド移行のメリット・デメリットも問われている。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/185038/posts/1500002",
+        "relevance": "サイバーセキュリティインシデント発生時の対応プロセスと、ガバメントクラウド移行におけるセキュリティリスク管理について、PMO/PjMOの皆様は、既存システムの脆弱性評価や移行計画の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
         "title": "デジタル庁運用システムへの不正アクセスによる個人情報漏えいの可能性",
@@ -2822,6 +2842,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "枚方市での生成AI活用とAX革新チームの新設、公共行政における現場問題解決への期待",
+        "summary": "枚方市では生成AIの活用が行政の仕事を変える可能性が議論されており、JDCではAX革新チームを新設し、社内生成型言語モデルで情報活用を支援。学生の9割が生成AIを利用。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/52152/posts/1498511",
+        "relevance": "公共行政における生成AIの活用事例や、AX（アドバンストトランスフォーメーション）推進体制の構築について、PMO/PjMOの皆様は、現場業務の効率化や職員のスキルアップに繋がるAI導入の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "AIガバナンスの国際的議論と国内でのAIエージェント管理の課題",
+        "summary": "BRICS首脳会議では、中国が「オープンソースAI」構想と「AIガバナンス枠組み」の確立を提案。一方、企業ではAIエージェントの行動統治が次なる課題となっている。",
+        "source": "arabnews.jp",
+        "url": "https://www.arabnews.jp/middle-east/%E7%8E%87%E7%9B%B4%E3%81%AA%E8%A9%B1-%E6%94%BF%E5%BA%9C%E3%81%AFai%E3%82%92%E8%A6%8F%E5%88%B6%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E3%82%82%E9%9D%A9%E6%96%B0%E3%82%92%E9%81%85%E3%82%89%E3%81%9B%E3%81%9A%E3%81%AB%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B-3000101",
+        "relevance": "国際的なAIガバナンスの動向と、AIエージェントの管理・統治に関する国内での実践事例について、PMO/PjMOの皆様は、組織内でのAI活用方針策定やプロジェクト管理体制の構築における参考情報をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Anthropic、AIエージェントの悪用とモデル蒸留に関する脅威レポートを公開、Qwenも対象に",
+        "summary": "Anthropicは、AIエージェントの自律化、国家監視、詐欺、不正なモデル蒸留など7領域におけるClaudeの悪用リスクを報告。アリババのQwenについても、ソブリンAIリスクの観点から言及。",
+        "source": "pasqualepillitteri.it",
+        "url": "https://pasqualepillitteri.it/ja/news/15951/amodei-ai-saiki-jiko-kaizen-rsi",
+        "relevance": "AIエージェントの悪用リスクとモデル蒸留の可能性について、PMO/PjMOの皆様は、開発・導入時のセキュリティ対策やガバナンス設計における考慮事項をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
@@ -6217,6 +6267,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "ベトナム株式市場への英国資本流入促進と、ベトナムのガソリン小売価格の安定維持",
+        "summary": "ベトナム財務省は、株式市場活性化のため欧州の戦略的投資家と協議。一方、ガソリン小売価格は商工省と財務省の調整により安定を維持している。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/bo-tai-chinh-keu-goi-dong-von-anh-vao-thi-truong-chung-khoan-viet-nam",
+        "relevance": "海外からの投資誘致や、主要物資の価格安定化に向けた政策動向について、PMO/PjMOの皆様は、国際情勢の把握や関連する経済指標のモニタリングをご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "デジタル人材育成とGX戦略におけるAIデータセンター集積支援、行政DX推進の動向",
+        "summary": "デジタル庁はデジタル人材育成に注力し、経済産業省はGX戦略地域でAIデータセンター集積を重点支援。観光庁は生成AI対応も議論し、行政DX推進の動きが加速。",
+        "source": "news.vaquill.com",
+        "url": "https://news.vaquill.com/item/df565a57-19db-4b48-8aea-82d3f9edef58",
+        "relevance": "デジタル人材育成の取り組みやGX戦略におけるAIデータセンターの重要性、および行政DX推進における生成AIの活用可能性について、PMO/PjMOの皆様は、組織のDX戦略や人材育成計画への反映をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
         "title": "固定資産税、「自動運転向け」なら減税の方針",
@@ -7480,6 +7550,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Amazon CloudFront が定額料金プランの API サポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Amazon EC2 P6-B300 インスタンスがアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Amazon EC2 P6-B200 インスタンスがアジアパシフィック (ハイデラバード) リージョンで利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Amazon EC2 M9g および M9gd インスタンスが新たに 4 つのリージョンで利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-14",
+        "date_ja": "2026年9月14日（月）",
+        "title": "Amazon ECS Managed Daemons が非クリティカルなデーモンをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-13",
         "date_ja": "2026年9月13日（日）",
@@ -12452,15 +12567,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 67,
+    "セキュリティ": 69,
     "その他": 178,
     "行政AI": 28,
     "行政DX": 14,
-    "AI活用": 265,
+    "AI活用": 268,
     "クラウド/インフラ": 74,
-    "制度/ガイドライン": 68,
+    "制度/ガイドライン": 70,
     "自治体DX事例": 58,
-    "AWS最新情報": 225,
+    "AWS最新情報": 230,
     "Google Cloud最新情報": 174,
     "働き方/業務改革": 26,
     "さくらのクラウド最新情報": 60,
@@ -12471,5 +12586,5 @@
     "調達/契約": 7,
     "プロジェクト管理": 14
   },
-  "updated_at": "2026-09-13T05:12:34.202Z"
+  "updated_at": "2026-09-13T17:52:35.360Z"
 }

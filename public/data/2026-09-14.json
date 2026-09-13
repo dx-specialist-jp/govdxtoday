@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-14",
+  "date_ja": "2026年9月14日（月）",
+  "news_summary": [
+    "デジタル庁運用システムへの不正アクセスで職員約24.6万件の個人情報漏洩の可能性",
+    "Revolutは偽の政府データ要請で顧客情報流出、不正アクセス事案と関連",
+    "AnthropicはAIエージェントの悪用、国家監視、詐欺等のリスクを報告",
+    "BRICS首脳会議で中国がオープンソースAI構想とAIガバナンス枠組みを提案",
+    "枚方市で生成AI活用とAX革新チーム新設、公共行政の現場問題解決に期待",
+    "デジタル庁がデジタル人材育成、経済産業省がAIデータセンター集積を重点支援"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁運用システムへの不正アクセスと個人情報漏洩、ガバメントクラウド移行への影響",
+      "summary": "デジタル庁運用システムに第三者が不正アクセスし、政府職員らの個人情報約24万6000件が漏洩した可能性。システム利用料金とガバメントクラウド移行のメリット・デメリットも問われている。",
+      "relevance": "サイバーセキュリティインシデント発生時の対応プロセスと、ガバメントクラウド移行におけるセキュリティリスク管理について、PMO/PjMOの皆様は、既存システムの脆弱性評価や移行計画の見直しをご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/185038/posts/1500002"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/196560/posts/1499884"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=2026091200301&g=eco"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/8d96b6e8-56d7-4998-a1a4-7f56cb48563f"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Revolut、偽の政府データ要請で顧客情報流出、デジタル庁運用システムにも不正アクセス",
+      "summary": "Revolutは偽の政府要請により顧客のパスポートやBitcoin履歴が流出。一方、デジタル庁運用システムにも不正アクセスが発生し、個人情報漏洩の可能性が報じられている。",
+      "relevance": "フィッシング詐欺や偽情報による情報流出リスク、および行政システムへの不正アクセス事案について、PMO/PjMOの皆様は、職員へのセキュリティ教育強化やシステムアクセスコントロールの見直しをご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "pasqualepillitteri.it",
+          "url": "https://pasqualepillitteri.it/ja/news/15867/revolut-passport-bitcoin-nise-seifu-yosei"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Anthropic、AIエージェントの悪用とモデル蒸留に関する脅威レポートを公開、Qwenも対象に",
+      "summary": "Anthropicは、AIエージェントの自律化、国家監視、詐欺、不正なモデル蒸留など7領域におけるClaudeの悪用リスクを報告。アリババのQwenについても、ソブリンAIリスクの観点から言及。",
+      "relevance": "AIエージェントの悪用リスクとモデル蒸留の可能性について、PMO/PjMOの皆様は、開発・導入時のセキュリティ対策やガバナンス設計における考慮事項をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "pasqualepillitteri.it",
+          "url": "https://pasqualepillitteri.it/ja/news/15951/amodei-ai-saiki-jiko-kaizen-rsi"
+        },
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-claude-ai-safety-report/"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/serial/2026/09/_qwen_qwen.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスの国際的議論と国内でのAIエージェント管理の課題",
+      "summary": "BRICS首脳会議では、中国が「オープンソースAI」構想と「AIガバナンス枠組み」の確立を提案。一方、企業ではAIエージェントの行動統治が次なる課題となっている。",
+      "relevance": "国際的なAIガバナンスの動向と、AIエージェントの管理・統治に関する国内での実践事例について、PMO/PjMOの皆様は、組織内でのAI活用方針策定やプロジェクト管理体制の構築における参考情報をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "arabnews.jp",
+          "url": "https://www.arabnews.jp/middle-east/%E7%8E%87%E7%9B%B4%E3%81%AA%E8%A9%B1-%E6%94%BF%E5%BA%9C%E3%81%AFai%E3%82%92%E8%A6%8F%E5%88%B6%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E3%82%82%E9%9D%A9%E6%96%B0%E3%82%92%E9%81%85%E3%82%89%E3%81%9B%E3%81%9A%E3%81%AB%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B-3000101"
+        },
+        {
+          "name": "hrpro.co.jp",
+          "url": "https://www.hrpro.co.jp/series_detail.php?t_no=4789"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/93584fc559694d0304ec17d1931dd10f455d9529"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32314904/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/2f3fea75-4dd5-4adf-a70d-e81bee7a7191"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/trung-quoc-de-xuat-5-sang-kien-lam-sau-sac-hon-nua-hop-tac-trong-khoi"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/expert/articles/59c9f799e84ce6e80ed6f0825e23f060a21bc8cb"
+        },
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4610562"
+        },
+        {
+          "name": "afpbb.com",
+          "url": "https://www.afpbb.com/articles/-/3652688"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17496473/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/noi-lo-ai-mat-kiem-soat-lai-gia-tang"
+        },
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c28308_r357"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/104643"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "枚方市での生成AI活用とAX革新チームの新設、公共行政における現場問題解決への期待",
+      "summary": "枚方市では生成AIの活用が行政の仕事を変える可能性が議論されており、JDCではAX革新チームを新設し、社内生成型言語モデルで情報活用を支援。学生の9割が生成AIを利用。",
+      "relevance": "公共行政における生成AIの活用事例や、AX（アドバンストトランスフォーメーション）推進体制の構築について、PMO/PjMOの皆様は、現場業務の効率化や職員のスキルアップに繋がるAI導入の可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/52152/posts/1498511"
+        },
+        {
+          "name": "venturesquare.net",
+          "url": "https://www.venturesquare.net/jp/1113125/"
+        },
+        {
+          "name": "gifu-np.co.jp",
+          "url": "https://www.gifu-np.co.jp/articles/-/768973"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル人材育成とGX戦略におけるAIデータセンター集積支援、行政DX推進の動向",
+      "summary": "デジタル庁はデジタル人材育成に注力し、経済産業省はGX戦略地域でAIデータセンター集積を重点支援。観光庁は生成AI対応も議論し、行政DX推進の動きが加速。",
+      "relevance": "デジタル人材育成の取り組みやGX戦略におけるAIデータセンターの重要性、および行政DX推進における生成AIの活用可能性について、PMO/PjMOの皆様は、組織のDX戦略や人材育成計画への反映をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.vaquill.com",
+          "url": "https://news.vaquill.com/item/df565a57-19db-4b48-8aea-82d3f9edef58"
+        },
+        {
+          "name": "youtu.be",
+          "url": "https://youtu.be/ELS7ry2eX9g?si=UT_PQVXat6XmuZRm"
+        },
+        {
+          "name": "epochtimes.jp",
+          "url": "https://www.epochtimes.jp/2026/09/385861_amp.html"
+        },
+        {
+          "name": "travelnews.co.jp",
+          "url": "https://www.travelnews.co.jp/tnat/backnumber/2026091308595550533.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ベトナム株式市場への英国資本流入促進と、ベトナムのガソリン小売価格の安定維持",
+      "summary": "ベトナム財務省は、株式市場活性化のため欧州の戦略的投資家と協議。一方、ガソリン小売価格は商工省と財務省の調整により安定を維持している。",
+      "relevance": "海外からの投資誘致や、主要物資の価格安定化に向けた政策動向について、PMO/PjMOの皆様は、国際情勢の把握や関連する経済指標のモニタリングをご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/bo-tai-chinh-keu-goi-dong-von-anh-vao-thi-truong-chung-khoan-viet-nam"
+        },
+        {
+          "name": "ja.laodong.vn",
+          "url": "https://ja.laodong.vn/thi-truong/gia-xang-dau-ban-le-hom-nay-129-1765381.ldo"
+        }
+      ],
+      "score": 3
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Amazon ECS Managed Daemons が非クリティカルなデーモンをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+          "pub_date": "2026-09-03T22:01:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon EC2 M9g および M9gd インスタンスが新たに 4 つのリージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
+          "pub_date": "2026-09-03T21:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon EC2 P6-B200 インスタンスがアジアパシフィック (ハイデラバード) リージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+          "pub_date": "2026-09-03T19:14:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon EC2 P6-B300 インスタンスがアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+          "pub_date": "2026-09-03T19:03:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon CloudFront が定額料金プランの API サポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+          "pub_date": "2026-09-03T18:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-13T17:52:35.353Z"
+}

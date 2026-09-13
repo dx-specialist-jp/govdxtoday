@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-14",
+      "summary_short": "デジタル庁運用システムへの不正アクセスと個人情報漏洩、ガ…など7件",
+      "article_count": 7,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-13",
       "summary_short": "デジタル庁運用システムへの不正アクセスによる個人情報漏え…など7件",
       "article_count": 7,
