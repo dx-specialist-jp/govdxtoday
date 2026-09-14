@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-15",
+      "summary_short": "Anthropic、カリフォルニア州と提携し公的機関へA…など8件",
+      "article_count": 8,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-14",
       "summary_short": "デジタル庁運用システムへの不正アクセスと個人情報漏洩、ガ…など7件",
       "article_count": 7,
