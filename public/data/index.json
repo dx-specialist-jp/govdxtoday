@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-16",
+      "summary_short": "JVN: Androidアプリ「【保護者専用】まなびポケット…など4件",
+      "article_count": 14,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-15",
       "summary_short": "Anthropic、カリフォルニア州と提携し公的機関へA…など8件",
       "article_count": 8,

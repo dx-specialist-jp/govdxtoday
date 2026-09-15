@@ -1,62 +1,10 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
-    "pubDate": "2026-09-04T21:29:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
+    "pubDate": "2026-09-09T21:00:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
-    "pubDate": "2026-09-04T21:14:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
-    "pubDate": "2026-09-04T21:01:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-images-supported-instances",
-    "pubDate": "2026-09-04T19:26:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
-    "pubDate": "2026-09-04T17:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
-    "pubDate": "2026-09-04T16:31:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
-    "pubDate": "2026-09-04T14:06:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
-    "pubDate": "2026-09-04T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
-    "pubDate": "2026-09-04T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
-    "pubDate": "2026-09-03T23:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
-    "pubDate": "2026-09-03T22:01:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
-    "pubDate": "2026-09-03T21:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-    "pubDate": "2026-09-03T19:14:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
-    "pubDate": "2026-09-03T19:03:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
-    "pubDate": "2026-09-03T18:00:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+    "pubDate": "2026-09-09T20:00:00.000Z"
   }
 ]

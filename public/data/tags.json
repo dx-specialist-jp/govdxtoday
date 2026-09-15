@@ -2,6 +2,53 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "JVN: パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
+        "summary": "パナソニック製MINAS A5/A6用ドライバにバッファオーバーフロー脆弱性\n\n▶ 関係府省庁は、産業用制御システム等で利用されているMINAS A5/A6用USBデバイスドライバの脆弱性情報を確認し、影響を受ける機器の有無と対応計画を策定すること。\n▶ 各PjMOは、基幹システムや制御システムに利用されるソフトウェア・ハードウェアの脆弱性管理体制を強化すること。\n▶ 関係省庁は、産業インフラの安全確保のため、該当機器への対応状況を注視し、迅速な情報共有を行うこと。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU99837984/",
+        "type": "government"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "JVN: Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+        "summary": "Lite-On製O-RUに複数の脆弱性\n\n▶ 関係府省庁は、通信インフラ等で利用しているLite-On製O-RUの脆弱性情報を確認し、該当する機器の有無と対応計画を策定すること。\n▶ 各PjMOは、通信インフラや基幹システムに関わる機器のサプライヤーリスク評価を定期的に実施すること。\n▶ 各情報通信関連省庁は、インフラの安全性確保のため、該当機器への対応状況を注視し、必要に応じて情報共有を行うこと。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/jp/JVN02049764/",
+        "type": "government"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "JVN: Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
+        "summary": "NTTドコモ製Androidアプリ「まなびポケット」にアクセス制限不備\n\n▶ 関係府省庁は、教育分野等で利用している「まなびポケット」の利用状況を確認し、必要に応じて保護者への注意喚起や代替策の検討を行うこと。\n▶ 各PjMOは、個人情報や機密情報を取り扱うアプリの脆弱性管理体制を確認し、必要に応じたリスクアセスメントを実施すること。\n▶ JPCERT/CCおよびIPAは、国民への注意喚起を強化し、脆弱性情報の迅速な共有体制を維持すること。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/jp/JVN72918755/",
+        "type": "government"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "デジタル庁のシステムにおける個人情報流出と再発防止策",
+        "summary": "デジタル庁が提供する政府共通基幹ネットワークシステムで個人情報流出が発生し、自民党が再発防止を要請。松本デジタル相は二次被害は確認されていないと述べた。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a",
+        "relevance": "政府共通システムのセキュリティインシデント発生を踏まえ、PMO/PjMOの皆様は、プロジェクトにおける情報セキュリティ管理体制の強化と、インシデント発生時の対応計画についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "AIモデル「Claude」がサイバー攻撃に悪用、政府機関が標的となる事案発生",
+        "summary": "アンソロピックのAIモデル「Claude」が、サイバー攻撃の自動化や大規模監視システムの構築に悪用され、政府機関が標的となった。同社が脅威インテリジェンスとして公表した。",
+        "source": "tradingview.com",
+        "url": "https://www.tradingview.com/news/cointelegraph:8925767108457:0/",
+        "relevance": "AIモデルの悪用リスクと、それに伴う政府機関のセキュリティ対策について、PMO/PjMOの皆様は、最新の脅威動向と対策状況をご把握いただくことを推奨します。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-14",
         "date_ja": "2026年9月14日（月）",
         "title": "Revolut、偽の政府データ要請で顧客情報流出、デジタル庁運用システムにも不正アクセス",
@@ -2461,6 +2508,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "デジタル庁 2026年8月の活動報告",
+        "summary": "デジタル庁 2026年8月の活動報告\n\n▶ 各府省庁PjMOは、デジタル庁の政策・サービス・プロジェクト進捗報告（8月分）を確認し、自省庁のDX計画との連携・参考事項を抽出すること。\n▶ デジタル庁は、活動報告内容に基づき、各省庁との連携強化や情報共有の機会を設けること。\n▶ 各PjMOは、報告内容に記載されたプロジェクト管理・DX推進に関するベストプラクティスを自部署の業務に適用できないか検討すること。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n482ee64086c7",
+        "type": "government"
+      },
+      {
         "date": "2026-09-02",
         "date_ja": "2026年9月2日（水）",
         "title": "デジタル政策5年間の成果動画「デジタル庁設立5年｜デジタルで変わる、一人ひとりの暮らし」を公開しました",
@@ -2842,6 +2898,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "AI・半導体産業基盤強化に向けた経済産業省の取り組み",
+        "summary": "経済産業省は、AI・半導体産業基盤強化フレームに基づき、AI基盤産業の育成を進めている。生成AI普及を背景に、半導体・計算装置が需要を牽引している。",
+        "source": "tdb.co.jp",
+        "url": "https://www.tdb.co.jp/report/economic/20260915-tdbiar-no8/",
+        "relevance": "国の産業政策動向を踏まえ、PMO/PjMOの皆様は、AI・半導体関連プロジェクトにおける調達戦略や、技術動向の把握についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "日本企業における生成AIの組織的な活用が進まない現状",
+        "summary": "個人レベルでの生成AI利用は進む一方、日本企業における組織的なAI活用が課題となっている。経済産業省の解説記事でもその点が指摘されている。",
+        "source": "blogs.itmedia.co.jp",
+        "url": "https://blogs.itmedia.co.jp/taps/2026/09/76ai----dx.html",
+        "relevance": "生成AIの組織的な活用を推進するため、PMO/PjMOの皆様は、社内研修プログラムの策定や、成功事例の共有・展開方法についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "自治体向けAIサービス「zevo」でChatGPTの新モデル提供開始",
+        "summary": "自治体AIサービス「zevo」において、ChatGPT、Claude、Geminiに加え、ChatGPTシリーズの新AIモデルの提供が2026年9月15日より開始される。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000219.000056138.html",
+        "relevance": "最新AIモデルの提供状況を踏まえ、PMO/PjMOの皆様は、公共サービスへのAI活用可能性や、それに伴う技術選定・評価プロセスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "AIガバナンス強化に向けた国際的な動向と国内の取り組み",
+        "summary": "OpenAIはAIガバナンス枠組み構築を目指す法案を支援する意向を示し、中国はAIガバナンス強化方針を表明。国内では、地銀共同研究会でAIガバナンス整備が進められている。",
+        "source": "tradingkey.com",
+        "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262169147-openai-anthropic-google-deepmind-ai-safety-collaboration-tradingkey",
+        "relevance": "AIガバナンスの重要性が高まる中、PMO/PjMOの皆様は、国内外のAIガバナンスに関する最新動向と、自組織におけるAI活用時のガバナンス体制構築についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "国会答弁作成に生成AI「源内」を本格導入、官僚の負担軽減と業務効率化を目指す",
+        "summary": "政府は、国会答弁作成に生成AI「源内」の活用を本格化する。2026年8月19日より実証開始し、官僚の負担軽減と業務効率化への貢献に期待を寄せている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17507095/",
+        "relevance": "生成AIの行政業務への活用可能性について、PMO/PjMOの皆様は、どのような業務に適用可能か、またそれに伴うリスク管理についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
@@ -5555,6 +5661,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "ガバメントクラウドの標準化と国内ベンダーの状況に関する懸念",
+        "summary": "政府が推進するガバメントクラウドの約100%が米国企業に依存している現状に対し、懸念が示されている。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/175029/posts/1501894",
+        "relevance": "ガバメントクラウドの利用状況と、その標準化・国内ベンダーとの連携について、PMO/PjMOの皆様は、将来的なシステム調達やインフラ戦略の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
         "title": "ガバメントクラウドの政府システムにおけるAWS利用状況と、その運用体制・リスクに関する報道",
@@ -6307,6 +6423,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "生成AIによる「声・肖像」の無断利用に関する法規制の限界と議論",
+        "summary": "生成AIによる俳優や声優の顔・声に酷似したコンテンツの無断利用が広がり、現行法の限界について経済産業省の不正競争防止小委員会で議論されている。",
+        "source": "branc.jp",
+        "url": "https://branc.jp/article/2026/09/15/3108.html",
+        "relevance": "生成AIによる著作権・肖像権侵害リスクについて、PMO/PjMOの皆様は、AI利用に関するガイドラインの整備や、法的リスク評価の重要性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
         "title": "楽天モバイル、強制解約撤回と総務省の消費者保護調査検討",
@@ -7029,6 +7155,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "ソフトバンクとWiseVine、自治体向け経営管理システムを無償提供",
+        "summary": "ソフトバンクとWiseVineは、自治体の内部運営効率化による市民サービス拡充・維持を支援するため、自治体向け経営管理システムを5年間無償提供する。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2141147.html",
+        "relevance": "外部サービスを活用した行政内部の業務効率化事例として、PMO/PjMOの皆様は、類似のソリューション導入による効果と、それに伴うガバナンス体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "国土交通省、AI×走行データ分析によるバス運行・安全管理高度化事業を採択",
@@ -7610,6 +7746,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "AWS Transform for .NET モダナイゼーションが CLI 経由で一般提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "Amazon Connect Customer が、異なる種類のタスクやメールに対する特定の容量制限設定をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "自動推論に立ちはだかる 3 つの難題",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/three-challenges-in-machine-based-reasoning/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "AWS Professional Services と実現する第一興商カラオケ聴感採点 AI の開発",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-professional-services-dk-ai-heart/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "エージェント型 AI による ERP ビジネスプロセス運用の変革",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/transforming-erp-with-agentic-ai/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
@@ -9728,6 +9909,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "BigQuery の TabFM のご紹介: 予測分析の再定義",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "Yahoo が Managed Service for Apache Spark のフレキシブル VM でリソースを最適化している方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "September 15, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_15_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
         "title": "LLM ワークロードはすべて同じではない: 分類と生成における TPU のパフォーマンス ベンチマーク",
@@ -11585,6 +11793,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-16",
+        "date_ja": "2026年9月16日（水）",
+        "title": "2026年1月から6月までの透明性レポート公開のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/15/1968225596/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-12",
         "date_ja": "2026年9月12日（土）",
         "title": "【さくらのSSL】サイバートラスト証明書 新規お申し込み・更新受付停止のお知らせ",
@@ -12719,18 +12936,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 69,
+    "セキュリティ": 74,
     "その他": 178,
-    "行政AI": 28,
+    "行政AI": 29,
     "行政DX": 14,
-    "AI活用": 271,
-    "クラウド/インフラ": 75,
-    "制度/ガイドライン": 72,
-    "自治体DX事例": 58,
-    "AWS最新情報": 235,
-    "Google Cloud最新情報": 177,
+    "AI活用": 276,
+    "クラウド/インフラ": 76,
+    "制度/ガイドライン": 73,
+    "自治体DX事例": 59,
+    "AWS最新情報": 240,
+    "Google Cloud最新情報": 180,
     "働き方/業務改革": 26,
-    "さくらのクラウド最新情報": 60,
+    "さくらのクラウド最新情報": 61,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 15,
@@ -12738,5 +12955,5 @@
     "調達/契約": 8,
     "プロジェクト管理": 15
   },
-  "updated_at": "2026-09-14T19:42:38.380Z"
+  "updated_at": "2026-09-15T18:43:51.088Z"
 }
