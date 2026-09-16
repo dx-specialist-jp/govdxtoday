@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-17",
+      "summary_short": "デジタル庁 2026年8月の活動報告…など1件",
+      "article_count": 14,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-16",
       "summary_short": "JVN: Androidアプリ「【保護者専用】まなびポケット…など4件",
       "article_count": 14,

@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+        "summary": "複数のマイクロソフト製品には、脆弱性があります。マイクロソフトによると、今回修正された一部の脆弱性を悪用する攻撃を確認しているとのことです。この問題は、Microsoft Updateなどを用いて、更新プログラムを適用することで解決します。詳細は、開発者が提供する情報を参照してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#22",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "Weekly Report: 独立行政法人情報処理推進機構（IPA）が「ランサムウェア被害から学ぶ教訓集 経営者のためのランサムウェア対策ハンドブック」を公開",
+        "summary": "独立行政法人情報処理推進機構（IPA）は、国内のランサムウェア被害組織へのインタビューをもとに、被害時の対応や課題から得られた教訓を整理した「ランサムウェア被害から学ぶ教訓集 経営者のためのランサムウェア対策ハンドブック」を公開しました。経営者向けのリスク管理やインシデント対応のポイントをまとめてい",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#21",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "Weekly Report: 警察庁が「令和８年上半期におけるサイバー空間をめぐる脅威の情勢等について」を公開",
+        "summary": "警察庁は、「令和８年上半期におけるサイバー空間をめぐる脅威の情勢等について」を公開しました。この文書では、令和8年上半期におけるサイバー攻撃やサイバー犯罪の情勢および警察の取り組みについてまとめられています。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#20",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "JVN: パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
@@ -2508,6 +2538,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "デジタル庁 2026年8月の活動報告",
+        "summary": "2026年8月のデジタル庁の政策、サービス、組織に関する主な活動、およびプロジェクトの進捗や成果について共有します。続きをみる",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n482ee64086c7",
+        "type": "government"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "デジタル庁 2026年8月の活動報告",
@@ -2898,6 +2937,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "AI開発競争と国際的なAIガバナンス、開発減速論への反発",
+        "summary": "AI開発競争が激化する中、Anthropic CEOのAI開発減速論に対し、中国は「恐怖をあおり対立を妨げる」と反発。米国マイクロソフトは「AIを人の制御下に」と行動規範を発表。",
+        "source": "ledge.ai",
+        "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
+        "relevance": "AI開発競争の動向と国際的なAIガバナンスのあり方について、PMO/PjMOとして、将来的なAI技術の社会実装やリスク管理の視点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "経済産業省・NEDO、DX推進プロジェクトとAI活用支援",
+        "summary": "経済産業省・NEDOは、国内生成AI開発力強化のため国家プロジェクト「GENIAC」を推進。また、DX認定制度に基づくDX認定取得や、AI・データ活用に関する支援を行っている。",
+        "source": "mainichi.jp",
+        "url": "https://mainichi.jp/articles/20260916/pr2/00m/020/948000c",
+        "relevance": "経済産業省のDX推進施策やAI活用支援について、PMO/PjMOとして、自組織のDX戦略やAI導入計画との連携をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "生成AI活用は過半数もルール浸透は15%、AIガバナンス成熟度の差が浮き彫りに",
+        "summary": "生成AIの業務利用は過半数に達するものの、AIガバナンス（利用ルールの整備、リスク評価等）の浸透は15%に留まる。本格化層ほどAIガバナンスも成熟した取り組みを実践している。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/article/35252697/",
+        "relevance": "AIガバナンスの浸透度と成熟度の課題について、PMO/PjMOとして、組織内のAI活用ルール整備状況やリスク管理体制の強化をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "金融機関におけるAIパートナーシップと業務変革・AIガバナンス構築",
+        "summary": "琉球銀行と日本IBMは、金融業務変革と沖縄経済の持続的成長に向けたAIパートナーシップを締結した。AIガバナンス体制の構築も一体的に推進する。",
+        "source": "jp.newsroom.ibm.com",
+        "url": "https://jp.newsroom.ibm.com/2026-09-16-AI-Partnership-with-Ryukyu-Bank",
+        "relevance": "金融機関のAI活用事例として、PMO/PjMOとして、AI導入におけるガバナンス体制構築や業務プロセスの改革についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "自治体向けAIシステム「自治体AI zevo」、GPT-6 Astraを提供開始",
+        "summary": "自治体向けAIシステム「自治体AI zevo」が、GPT-6 Astraを全利用自治体へ提供開始した。これにより、Claude/Geminiなどの生成AIをLGWAN環境で活用可能になる。",
+        "source": "agara.co.jp",
+        "url": "https://www.agara.co.jp/article/686650",
+        "relevance": "自治体における生成AI活用事例として、PMO/PjMOとして、自組織での導入可能性や関連するセキュリティ・プライバシーリスクについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "政府、行政AI基盤「源内」開発とサイバー防御強化へAI導入を検討",
+        "summary": "政府は、行政AI基盤「源内」を内製で開発し、2025年5月から導入を進める。また、サイバー防御強化のためAnthropic社との交渉を開始し、先進AIの導入を検討している。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/webinar/aihakunsummer20262b-6/",
+        "relevance": "AI導入による行政業務の維持・高度化およびサイバーセキュリティ強化の取り組みについて、PMO/PjMOとして、政府全体のAI活用方針やセキュリティ対策との連携をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
@@ -5661,6 +5760,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "ガバメントクラウドにおけるクラウドコスト最適化とAI基盤のあり方",
+        "summary": "自治体におけるガバメントクラウド利用料の管理は、オンプレミスとは異なる実務となる。AIが台頭する現代において、AIを動かし続けるための基盤のあり方が示された。",
+        "source": "aws.amazon.com",
+        "url": "https://aws.amazon.com/jp/blogs/news/lg-cost-optimization-02-1-procurement-specification/",
+        "relevance": "ガバメントクラウドの運用管理とコスト最適化について、PMO/PjMOとして、調達仕様書への落とし込みや、AI活用基盤の検討をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "ガバメントクラウドの標準化と国内ベンダーの状況に関する懸念",
@@ -6423,6 +6532,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "ユネスコ、AI倫理原則の実践への組み込みと責任あるAIガバナンスを提唱",
+        "summary": "ユネスコは、AIの倫理的かつ安全で持続可能な開発・利用のため、AI倫理原則をガバナンスの実践に組み込むよう提唱している。責任あるAIガバナンスの包括的な推進を求めている。",
+        "source": "arabnews.jp",
+        "url": "https://www.arabnews.jp/saudi-arabia/%E5%85%B1%E6%9C%89%E3%81%95%E3%82%8C%E3%81%9F%E5%8E%9F%E5%89%87%E3%82%92%E8%A1%8C%E5%8B%95%E3%81%AB%E7%A7%BB%E3%81%99%E3%81%B9%E3%81%8D%E3%81%A8%E3%82%B5%E3%82%A6%E3%82%B8ai%E8%B2%AC%E4%BB%BB%E8%80%85%E3%81%8C%E3%83%A6%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%81%A7%E8%BF%B0%E3%81%B9%E3%82%8B-3000154",
+        "relevance": "国際的なAI倫理原則とガバナンスの動向について、PMO/PjMOとして、行政におけるAI倫理ガイドライン策定や運用体制の検討をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "AIガバナンス強化とAI法施行、国際規格ISO/IEC 42001導入の動向",
+        "summary": "AI法が全面施行され、生成AIの業務利用は過半数に達するもルール浸透は15%に留まる。AIガバナンスの重要性が高まり、AIマネジメントシステムの国際規格「ISO/IEC 42001」導入が進む。",
+        "source": "softbank.jp",
+        "url": "https://www.softbank.jp/sbnews/entry/20260916_01",
+        "relevance": "AIガバナンスの重要性が高まる中、PMO/PjMOとして、AI法や国際規格の動向を踏まえ、組織におけるAI利用ルールの整備やリスク評価体制の構築についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "生成AIによる「声・肖像」の無断利用に関する法規制の限界と議論",
@@ -7155,6 +7284,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "自治体、ガバメントクラウドファンディングを活用したプロジェクト実施",
+        "summary": "栃木県さくら市、姫路市、仙台市などが、ふるさと納税制度を活用したガバメントクラウドファンディング（GCF）により、地域課題解決やプロジェクト推進のための寄附を募集している。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000022_000143284/",
+        "relevance": "自治体におけるガバメントクラウドファンディングの活用事例について、PMO/PjMOとして、行政DX推進や市民連携の新たな手法としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "ソフトバンクとWiseVine、自治体向け経営管理システムを無償提供",
@@ -7746,6 +7885,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "AWS アカウント間での Amazon EBS Volume Clones の提供開始",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "自治体のためのクラウドコスト最適化 ①：定期レビューで回すコスト最適化の手順",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/lg-cost-optimization-01-periodic-review/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "自治体のためのクラウドコスト最適化 ②-1：運用管理補助者との協働体制を調達仕様書に落とし込む",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/lg-cost-optimization-02-1-procurement-specification/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "第21回情報危機管理コンテスト チームITソルーション室_げんこつ へのインタビュー",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/21st-crisis-management-contest-team-its-genkotsu/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "AWS Weekly Roundup: Amazon Bedrock 上の OpenAI GPT-6 Astra、Amazon Quick デスクトップ GA、学生向け Kiro など (2026 年 9 月 14 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
@@ -9908,6 +10092,24 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "Google、2026 年 Gartner® Magic Quadrant™ エンタープライズ AI アシスタント部門のリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-17",
+        "date_ja": "2026年9月17日（木）",
+        "title": "September 16, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_16_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
@@ -12936,16 +13138,16 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 74,
+    "セキュリティ": 77,
     "その他": 178,
-    "行政AI": 29,
+    "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 276,
-    "クラウド/インフラ": 76,
-    "制度/ガイドライン": 73,
-    "自治体DX事例": 59,
-    "AWS最新情報": 240,
-    "Google Cloud最新情報": 180,
+    "AI活用": 282,
+    "クラウド/インフラ": 77,
+    "制度/ガイドライン": 75,
+    "自治体DX事例": 60,
+    "AWS最新情報": 245,
+    "Google Cloud最新情報": 182,
     "働き方/業務改革": 26,
     "さくらのクラウド最新情報": 61,
     "AIガバナンス": 10,
@@ -12955,5 +13157,5 @@
     "調達/契約": 8,
     "プロジェクト管理": 15
   },
-  "updated_at": "2026-09-15T18:43:51.088Z"
+  "updated_at": "2026-09-16T18:37:05.698Z"
 }
