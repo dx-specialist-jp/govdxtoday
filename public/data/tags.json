@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "AWS、イランの攻撃を受けたデータセンターのデータ復旧を断念",
+        "summary": "イランの攻撃により、AWSはアラブ首長国連邦（UAE）のデータセンターで発生した被害について、アベイラビリティゾーン（AZ）の設計が耐えられる範囲を超過し、データ復旧を断念した。",
+        "source": "cafe-dc.com",
+        "url": "https://cafe-dc.com/cloud/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/",
+        "relevance": "クラウドサービス利用における、サイバー攻撃によるインシデント発生時のデータ復旧・事業継続計画についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
@@ -2938,6 +2948,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "経済産業省主催「サーキュラーエコノミーアクションWeek」に参画、官民連携で循環型経済を推進",
+        "summary": "経済産業省主催の「サーキュラーエコノミーアクションWeek」にクラスが参画。AIトランスフォーメーション（AX）が循環型経済推進の鍵となることが示唆された。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/436/4436024/",
+        "relevance": "サーキュラーエコノミー推進におけるAI活用の可能性や、官民連携のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "経済産業省・NEDOが推進する国家プロジェクト「GENIAC」、ロボット基盤モデル開発へ",
+        "summary": "経済産業省およびNEDOが実施する「ポスト5G情報通信システム基盤強化研究開発事業／GENIAC」に株式会社Highlandersが採択され、国産ヒューマノイド「N」およびフィジカルAI基盤モデルの開発を進める。",
+        "source": "techno-edge.net",
+        "url": "https://www.techno-edge.net/release/prtimes2/20260917/24626.html",
+        "relevance": "国家プロジェクトにおけるAI・ロボット開発の動向や、基盤モデル開発の進め方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "AIガバナンスの重要性が国際的に認識、データガバナンスやAIエージェント整備が課題",
+        "summary": "AIガバナンスには国際協力が不可欠とされ、ベトナム、中国、ASEAN諸国は安全なAIの未来に貢献したい考え。製造業ではデータへのアクセス、ガバナンス、業務フローへの統合がAI活用における課題として挙げられている。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/sp/b/26/09/11/01188/",
+        "relevance": "AIガバナンスの国際的な動向や、データガバナンス、AIエージェント整備の進め方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "生成AI活用におけるガバナンスとルールの浸透が課題、シャドーAIのリスクも",
+        "summary": "生成AIを業務で利用する割合は半数を超える一方、利用ルールの整備・浸透は15.1%に留まる。セキュリティやガバナンスポリシーに不適合な「シャドーAI」の導入・利用も指摘されている。",
+        "source": "kn.itmedia.co.jp",
+        "url": "https://kn.itmedia.co.jp/kn/article/2609/17/2000001498/",
+        "relevance": "生成AI導入にあたり、組織内での利用ルール策定・浸透、およびシャドーAIのリスク評価についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "AI開発競争と国際的なAIガバナンス、開発減速論への反発",
@@ -5760,6 +5810,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "総務省「クラウドプログラム」認定、画像生成AI・LLM基盤「GPUSOROBAN」",
+        "summary": "ハイレゾの綾川町データセンターが総務省の「クラウドプログラム」供給確保計画に認定。画像生成AIやLLM（大規模言語モデル）基盤「GPUSOROBAN」が関連している。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/435/4435893/",
+        "relevance": "「GPUSOROBAN」のようなAI基盤の活用や、クラウドプログラム認定の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "ガバメントクラウド対応とセキュリティ強化を支える自治体向けネットワークソリューション",
+        "summary": "自治体向けにクラウド活用やゼロトラストセキュリティ等のネットワーク構成例を紹介。ガバメントクラウド対応や災害時通信など、自治体の課題解決策を提案する。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/speech/minister-260917-01",
+        "relevance": "ガバメントクラウドへの対応状況や、ネットワークインフラのセキュリティ強化策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "ガバメントクラウドにおけるクラウドコスト最適化とAI基盤のあり方",
@@ -7284,6 +7354,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "自治体における生成AI導入とDX推進、行政専用ネットワークや専門家派遣制度の活用",
+        "summary": "神戸市は、インターネットから切り離された行政専用ネットワークでCopilotの弱点をDifyで解決。総務省は「地域情報化アドバイザー」制度でICT活用による地域課題解決を支援している。",
+        "source": "jt-tsushin.jp",
+        "url": "https://www.jt-tsushin.jp/articles/case/platform-glocal-spool-20260917",
+        "relevance": "行政専用ネットワーク下でのAI活用や、専門家派遣制度を活用したDX推進についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "トラストバンク、「ガバメントクラウドファンディング(R)」を活用したふるさと納税プラットフォームを展開",
+        "summary": "自治体が抱える課題を寄付金の使い道として具体的に示し、共感を通じて支援を募る「ガバメントクラウドファンディング(R)」を活用したプラットフォームが展開されている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19780490?news_ref=20_20",
+        "relevance": "ガバメントクラウドファンディングの活用事例や、寄付金の使途明確化による支援募集のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "自治体、ガバメントクラウドファンディングを活用したプロジェクト実施",
@@ -7885,6 +7975,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "AWS Lambda が Lambda マネージドインスタンスで Graviton5 搭載 EC2 インスタンスをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "Kiro の GPT‑5.6 モデルが 100 万トークンのコンテキストウィンドウに対応",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6-1m-context/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "Kiro Web の自律モードで技術的負債に大規模に立ち向かう",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/tackling-technical-debt-at-scale-with-autonomous-mode/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "【開催報告】ファッション・アパレル業界向け 第一回ナレッジ共有会 〜 SMART から始まる業界共通課題への挑戦と学びの場",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/fashion-apparel-ai-agent-knowledge-sharing-smart/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "Verus で正しさが数学的に証明できる Rust コードの開発",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/developing-provably-correct-rust-code-with-verus/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
@@ -10093,6 +10228,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "Spanner: DML トランザクションの累積ミューテーション上限を撤廃",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/spanner-removes-dml-mutation-limits/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "September 17, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "Google、2026 年 Gartner® Magic Quadrant™ エンタープライズ AI アシスタント部門のリーダーに選出",
@@ -11995,6 +12157,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "【高火力 PHY】新規OS「Ubuntu 26.04」提供開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/17/1968225552/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-16",
         "date_ja": "2026年9月16日（水）",
         "title": "2026年1月から6月までの透明性レポート公開のお知らせ",
@@ -12986,6 +13157,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-09-18",
+        "date_ja": "2026年9月18日（金）",
+        "title": "デジタル庁「デジタルマーケットプレイス（DMP）」に「モチベーションクラウド エンゲージメント」が登録",
+        "summary": "「モチベーションクラウド エンゲージメント」がデジタル庁が運営する「デジタルマーケットプレイス（DMP）」に登録された。生成AI普及以降、従業員のエンゲージメント管理の重要性が増している。",
+        "source": "lmi.ne.jp",
+        "url": "https://www.lmi.ne.jp/news/media/detail.php?id=1243",
+        "relevance": "デジタルマーケットプレイスにおけるサービス登録の動向や、生成AI時代における従業員エンゲージメント管理についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-15",
         "date_ja": "2026年9月15日（火）",
         "title": "北海道、副首都構想実現へ内閣官房に職員派遣、制度設計の動向把握",
@@ -13138,24 +13319,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 77,
+    "セキュリティ": 78,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 282,
-    "クラウド/インフラ": 77,
+    "AI活用": 286,
+    "クラウド/インフラ": 79,
     "制度/ガイドライン": 75,
-    "自治体DX事例": 60,
-    "AWS最新情報": 245,
-    "Google Cloud最新情報": 182,
+    "自治体DX事例": 62,
+    "AWS最新情報": 250,
+    "Google Cloud最新情報": 185,
     "働き方/業務改革": 26,
-    "さくらのクラウド最新情報": 61,
+    "さくらのクラウド最新情報": 62,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 15,
     "デジタル庁": 3,
     "調達/契約": 8,
-    "プロジェクト管理": 15
+    "プロジェクト管理": 16
   },
-  "updated_at": "2026-09-16T18:37:05.698Z"
+  "updated_at": "2026-09-17T18:45:09.065Z"
 }

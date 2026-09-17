@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-18",
+  "date_ja": "2026年9月18日（金）",
+  "news_summary": [
+    "AWSはイランの攻撃でUAEデータセンターのデータ復旧を断念、AZ設計の限界が露呈した。",
+    "生成AI利用の半数超に対し、利用ルール整備・浸透は15.1%に留まり、シャドーAIリスクも。",
+    "AIガバナンス国際協力の重要性が認識、ベトナム・中国・ASEAN諸国も貢献意欲。",
+    "経済産業省・NEDOはロボット基盤モデル開発へ国家プロジェクト「GENIAC」を推進。",
+    "デジタル庁の「デジタルマーケットプレイス」に従業員エンゲージメント管理ツールが登録。",
+    "自治体向けにガバメントクラウド対応やゼロトラストセキュリティを支えるネットワーク提案。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+      "url": "https://jvn.jp/jp/JVN93985674/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94390979/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91019649/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AWS、イランの攻撃を受けたデータセンターのデータ復旧を断念",
+      "summary": "イランの攻撃により、AWSはアラブ首長国連邦（UAE）のデータセンターで発生した被害について、アベイラビリティゾーン（AZ）の設計が耐えられる範囲を超過し、データ復旧を断念した。",
+      "relevance": "クラウドサービス利用における、サイバー攻撃によるインシデント発生時のデータ復旧・事業継続計画についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "cafe-dc.com",
+          "url": "https://cafe-dc.com/cloud/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "生成AI活用におけるガバナンスとルールの浸透が課題、シャドーAIのリスクも",
+      "summary": "生成AIを業務で利用する割合は半数を超える一方、利用ルールの整備・浸透は15.1%に留まる。セキュリティやガバナンスポリシーに不適合な「シャドーAI」の導入・利用も指摘されている。",
+      "relevance": "生成AI導入にあたり、組織内での利用ルール策定・浸透、およびシャドーAIのリスク評価についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "kn.itmedia.co.jp",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/17/2000001498/"
+        },
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/09/17abitus/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35251772/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの重要性が国際的に認識、データガバナンスやAIエージェント整備が課題",
+      "summary": "AIガバナンスには国際協力が不可欠とされ、ベトナム、中国、ASEAN諸国は安全なAIの未来に貢献したい考え。製造業ではデータへのアクセス、ガバナンス、業務フローへの統合がAI活用における課題として挙げられている。",
+      "relevance": "AIガバナンスの国際的な動向や、データガバナンス、AIエージェント整備の進め方についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/sp/b/26/09/11/01188/"
+        },
+        {
+          "name": "ps.nikkei.com",
+          "url": "https://ps.nikkei.com/dirbato2609/vol1.html"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000237.000145072&g=prt"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/viet-nam-mong-muon-cung-trung-quoc-va-asean-dong-gop-vao-tuong-lai-ai-an-toan"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/7399268"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/25118"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35252714/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/6e1d15f0-37cf-48a4-a9dc-ca71f7c30efb"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19783897?news_ref=watch_20_nw17926041"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25122"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/633778"
+        },
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260917/1357992.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/9fc8639854000692f6c3ee90b2d87c4666bc3db7/images/000"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/c12256f6-716d-4379-8020-b0bd447e99b0"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000237.000145072.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000003.000184948.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/30886fdd-819c-4689-acbf-7780ae5eb12e"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "経済産業省・NEDOが推進する国家プロジェクト「GENIAC」、ロボット基盤モデル開発へ",
+      "summary": "経済産業省およびNEDOが実施する「ポスト5G情報通信システム基盤強化研究開発事業／GENIAC」に株式会社Highlandersが採択され、国産ヒューマノイド「N」およびフィジカルAI基盤モデルの開発を進める。",
+      "relevance": "国家プロジェクトにおけるAI・ロボット開発の動向や、基盤モデル開発の進め方についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/release/prtimes2/20260917/24626.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260917/pr2/00m/020/811000c"
+        },
+        {
+          "name": "realsound.jp",
+          "url": "https://realsound.jp/tech/2026/09/post-2526928.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "経済産業省主催「サーキュラーエコノミーアクションWeek」に参画、官民連携で循環型経済を推進",
+      "summary": "経済産業省主催の「サーキュラーエコノミーアクションWeek」にクラスが参画。AIトランスフォーメーション（AX）が循環型経済推進の鍵となることが示唆された。",
+      "relevance": "サーキュラーエコノミー推進におけるAI活用の可能性や、官民連携のあり方についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/436/4436024/"
+        },
+        {
+          "name": "meti.go.jp",
+          "url": "https://www.meti.go.jp/speeches/kaiken/2026/20260917001.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁「デジタルマーケットプレイス（DMP）」に「モチベーションクラウド エンゲージメント」が登録",
+      "summary": "「モチベーションクラウド エンゲージメント」がデジタル庁が運営する「デジタルマーケットプレイス（DMP）」に登録された。生成AI普及以降、従業員のエンゲージメント管理の重要性が増している。",
+      "relevance": "デジタルマーケットプレイスにおけるサービス登録の動向や、生成AI時代における従業員エンゲージメント管理についてご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "lmi.ne.jp",
+          "url": "https://www.lmi.ne.jp/news/media/detail.php?id=1243"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000632.000006682.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド対応とセキュリティ強化を支える自治体向けネットワークソリューション",
+      "summary": "自治体向けにクラウド活用やゼロトラストセキュリティ等のネットワーク構成例を紹介。ガバメントクラウド対応や災害時通信など、自治体の課題解決策を提案する。",
+      "relevance": "ガバメントクラウドへの対応状況や、ネットワークインフラのセキュリティ強化策についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/speech/minister-260917-01"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32347795/"
+        },
+        {
+          "name": "japan.cnet.com",
+          "url": "https://japan.cnet.com/release/31208046/"
+        },
+        {
+          "name": "digitalpr.jp",
+          "url": "https://digitalpr.jp/r/143312"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "総務省「クラウドプログラム」認定、画像生成AI・LLM基盤「GPUSOROBAN」",
+      "summary": "ハイレゾの綾川町データセンターが総務省の「クラウドプログラム」供給確保計画に認定。画像生成AIやLLM（大規模言語モデル）基盤「GPUSOROBAN」が関連している。",
+      "relevance": "「GPUSOROBAN」のようなAI基盤の活用や、クラウドプログラム認定の動向についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/435/4435893/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "トラストバンク、「ガバメントクラウドファンディング(R)」を活用したふるさと納税プラットフォームを展開",
+      "summary": "自治体が抱える課題を寄付金の使い道として具体的に示し、共感を通じて支援を募る「ガバメントクラウドファンディング(R)」を活用したプラットフォームが展開されている。",
+      "relevance": "ガバメントクラウドファンディングの活用事例や、寄付金の使途明確化による支援募集のあり方についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19780490?news_ref=20_20"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19780426?news_ref=watch_60_nw18971646"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体における生成AI導入とDX推進、行政専用ネットワークや専門家派遣制度の活用",
+      "summary": "神戸市は、インターネットから切り離された行政専用ネットワークでCopilotの弱点をDifyで解決。総務省は「地域情報化アドバイザー」制度でICT活用による地域課題解決を支援している。",
+      "relevance": "行政専用ネットワーク下でのAI活用や、専門家派遣制度を活用したDX推進についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "jt-tsushin.jp",
+          "url": "https://www.jt-tsushin.jp/articles/case/platform-glocal-spool-20260917"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Verus で正しさが数学的に証明できる Rust コードの開発",
+          "url": "https://aws.amazon.com/jp/blogs/news/developing-provably-correct-rust-code-with-verus/",
+          "pub_date": "2026-09-17T04:05:14.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【開催報告】ファッション・アパレル業界向け 第一回ナレッジ共有会 〜 SMART から始まる業界共通課題への挑戦と学びの場",
+          "url": "https://aws.amazon.com/jp/blogs/news/fashion-apparel-ai-agent-knowledge-sharing-smart/",
+          "pub_date": "2026-09-17T03:44:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro Web の自律モードで技術的負債に大規模に立ち向かう",
+          "url": "https://aws.amazon.com/jp/blogs/news/tackling-technical-debt-at-scale-with-autonomous-mode/",
+          "pub_date": "2026-09-17T00:32:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro の GPT‑5.6 モデルが 100 万トークンのコンテキストウィンドウに対応",
+          "url": "https://aws.amazon.com/jp/blogs/news/gpt-5-6-1m-context/",
+          "pub_date": "2026-09-17T00:19:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Lambda が Lambda マネージドインスタンスで Graviton5 搭載 EC2 インスタンスをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
+          "pub_date": "2026-09-09T18:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 17, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_17_2026",
+          "pub_date": "2026-09-17T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+          "pub_date": "2026-09-17T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Spanner: DML トランザクションの累積ミューテーション上限を撤廃",
+          "url": "https://cloud.google.com/blog/ja/products/databases/spanner-removes-dml-mutation-limits/",
+          "pub_date": "2026-09-17T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【高火力 PHY】新規OS「Ubuntu 26.04」提供開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/17/1968225552/",
+          "pub_date": "2026-09-17T04:40:09.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-17T18:45:09.058Z"
+}
