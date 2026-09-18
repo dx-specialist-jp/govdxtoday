@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "ニチレイ、サイバー攻撃による個人情報5万3000件漏えい",
+        "summary": "ニチレイはサイバー攻撃により、個人情報5万3000件が漏えいしたと発表した。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=2026091800986&g=eco",
+        "relevance": "サイバー攻撃による情報漏えいの事例について、PMO/PjMOの皆様は、政府システムにおけるセキュリティ対策の強化とインシデント対応計画の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "AWS、イランの攻撃を受けたデータセンターのデータ復旧を断念",
@@ -2948,6 +2958,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "日米連携によるAI造船技術導入とドローン飛行調整の一元管理",
+        "summary": "国土交通省は日米連携でAI造船ロボット開発を加速し、ドローンの飛行調整を一元管理するUTMサービスプロバイダID制度を創設する。",
+        "source": "mlit.go.jp",
+        "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000348.html",
+        "relevance": "AI技術の産業応用（造船）や、新たなインフラ管理システム（ドローンUTM）の導入動向について、PMO/PjMOの皆様は、他分野でのAI活用やインフラ管理のDX推進をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "AIガバナンス強化に向けた国際的・国内的動向と企業における活用・課題",
+        "summary": "AIガバナンス強化が世界的に推進される中、企業では生成AI活用が進む一方、体制整備や人材不足が課題。製造業ではデータガバナンスと業務フロー統合が重要。",
+        "source": "unite.ai",
+        "url": "https://www.unite.ai/ja/ai-governance-after-hours-human-in-the-loop/",
+        "relevance": "AIガバナンスに関する国内外の規制動向や、企業におけるAI活用・管理体制の構築事例について、PMO/PjMOの皆様は、行政システムへの影響や導入検討をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "デジタル庁主導のガバメントAI「源内」大規模実証、汎用・行政特化AIアプリ提供へ",
+        "summary": "デジタル庁は、令和8年5月から約18万人の政府職員を対象に、ガバメントAI「源内」の大規模実証を開始。汎用AIに加え、行政実務特化AIアプリも提供する計画。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
+        "relevance": "AI活用による行政業務効率化の可能性について、PMO/PjMOの皆様は、同様の取り組みや関連技術動向をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "経済産業省主催「サーキュラーエコノミーアクションWeek」に参画、官民連携で循環型経済を推進",
@@ -5810,6 +5850,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "ガバメントクラウド活用における自治体のランニングコスト削減とクラウドファンディング事例",
+        "summary": "自治体はガバメントクラウド移行によりランニングコストが増加する可能性があり、削減策の検討が求められる。一方、ふるさと納税を活用したガバメントクラウドファンディングも実施されている。",
+        "source": "city.koganei.lg.jp",
+        "url": "https://www.city.koganei.lg.jp/kurashi/472/bosai/bosaiservice/toiletGCF.html",
+        "relevance": "ガバメントクラウドのコスト効率化や、ガバメントクラウドファンディングの事例について、PMO/PjMOの皆様は、ITインフラの調達・運用コスト管理と新たな資金調達手法の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "総務省「クラウドプログラム」認定、画像生成AI・LLM基盤「GPUSOROBAN」",
@@ -6602,6 +6652,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "総務省、周波数再編アクションプラン（令和8年度版）（案）に対する意見募集",
+        "summary": "総務省は、周波数再編アクションプラン（令和8年度版）（案）に対する意見募集を開始した。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban09_02000601.html",
+        "relevance": "周波数再編に関するアクションプランの策定と意見募集について、PMO/PjMOの皆様は、関連する制度変更や技術動向がプロジェクトに与える影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "総務省、消費者物価指数全国2026年8月分公表、10年国債入札は無難な結果",
+        "summary": "総務省は2026年8月分の消費者物価指数全国を発表。財務省発表の10年利付国債入札結果は無難な結果となった。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000351.html",
+        "relevance": "政府統計の発表と国債入札結果について、PMO/PjMOの皆様は、公表される経済指標や財政関連情報をプロジェクト計画に反映させる必要性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "ユネスコ、AI倫理原則の実践への組み込みと責任あるAIガバナンスを提唱",
@@ -7354,6 +7424,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "総務省・経済産業省の「ワット・ビット連携」「製造業DX」「自治体DX」実証事業採択",
+        "summary": "総務省の「ワット・ビット連携関連実証」や経済産業省の「クラウドプログラム」に複数企業が採択され、製造業DXや自治体DX、データ可視化・解析システム構築の実証が進む。",
+        "source": "honda.co.jp",
+        "url": "https://www.honda.co.jp/HDDS/topics/20260917-2/",
+        "relevance": "総務省や経済産業省が推進するDX関連実証事業の採択状況について、PMO/PjMOの皆様は、関連技術や連携手法の動向をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "自治体における生成AI導入とDX推進、行政専用ネットワークや専門家派遣制度の活用",
@@ -7975,6 +8055,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "【寄稿】株式会社レスター、Amazon Bedrock で顧客課題とグループの解決力をつなぐ情報プラットフォームを構築",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/restar-ai-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "ERP例外処理をAWSエージェント型標準作業手順書（SOP）で自動化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-agentic-standard-operating-procedures-sops-for-erp-automation/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "SAP Commerce Cloud と SAP Cloud ERP Private on AWS の統合 – 実践的で実証済みのアプローチ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/integrating-sap-commerce-cloud-with-sap-cloud-erp-private-on-aws-a-practical-and-proven-approach/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "フルマネージドの Amazon RDS for SQL Server で Bring Your Own Media によるライセンスモビリティの実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/unlock-license-mobility-with-bring-your-own-media-on-fully-managed-amazon-rds-for-sql-server/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "RDS for SQL Server インスタンスを License Included から Bring Your Own Media (BYOM) へ変換",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/converting-an-rds-for-sql-server-instance-from-license-included-to-bring-your-own-media-byom/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
@@ -10228,6 +10353,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "Airtel、2026 年インディアン プレミアリーグのクリケット中継を完璧に配信",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "DMS の領域を超えて: SQL Server のログインとユーザーを Cloud SQL に効率的に移行",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "AlloyDB Omni RPM オーケストレーターを使用するエンタープライズ グレードの PostgreSQL の一般提供を開始",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "Google、「The Forrester Wave™: Public Cloud Platforms, Q3 2026」でリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "September 18, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_18_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "Spanner: DML トランザクションの累積ミューテーション上限を撤廃",
@@ -11895,6 +12065,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "デジタル庁 古川大臣就任記者会見、DX推進と生成AIによる言葉のギャップ解消に言及",
+        "summary": "デジタル庁の古川大臣は就任記者会見で、未来志向のDX推進と、生成AIによる言葉のギャップ解消について言及した。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/speech/minister-260918-01",
+        "relevance": "デジタル庁のDX推進方針と、生成AIによるコミュニケーション改善の可能性について、PMO/PjMOの皆様は、業務コミュニケーションの効率化策をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "双日テックイノベーション、DX人材育成プログラムで経営層の意識向上を支援",
@@ -12156,6 +12336,24 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "「マーケットプレイス約款」改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/18/1968225686/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "「有償サポートサービス約款」改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/18/1968225747/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
@@ -12891,6 +13089,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-09-19",
+        "date_ja": "2026年9月19日（土）",
+        "title": "政府機関におけるAI倫理と調達の動向：Anthropic社Claudeの利用とリスク",
+        "summary": "米国政府機関ではAnthropic社のClaude OneGovオファーが延長されるなど、AIの効率的な取得が推進されている。AI倫理や、AIが人類の生命をギャンブルの対象にするリスクも指摘されている。",
+        "source": "gendai.media",
+        "url": "https://gendai.media/articles/-/171155?page=2",
+        "relevance": "政府機関でのAI調達の動向と、AI利用における倫理的・技術的リスクについて、PMO/PjMOの皆様は、調達仕様の検討やリスク管理体制の構築をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-11",
         "date_ja": "2026年9月11日（金）",
         "title": "総務省、公共サービス改革（市場化テスト）における民間事業者向け情報提供",
@@ -13319,24 +13527,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 78,
+    "セキュリティ": 79,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 286,
-    "クラウド/インフラ": 79,
-    "制度/ガイドライン": 75,
-    "自治体DX事例": 62,
-    "AWS最新情報": 250,
-    "Google Cloud最新情報": 185,
-    "働き方/業務改革": 26,
-    "さくらのクラウド最新情報": 62,
+    "AI活用": 289,
+    "クラウド/インフラ": 80,
+    "制度/ガイドライン": 77,
+    "自治体DX事例": 63,
+    "AWS最新情報": 255,
+    "Google Cloud最新情報": 190,
+    "働き方/業務改革": 27,
+    "さくらのクラウド最新情報": 64,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
-    "調達・契約": 15,
+    "調達・契約": 16,
     "デジタル庁": 3,
     "調達/契約": 8,
     "プロジェクト管理": 16
   },
-  "updated_at": "2026-09-17T18:45:09.065Z"
+  "updated_at": "2026-09-18T18:02:26.450Z"
 }
