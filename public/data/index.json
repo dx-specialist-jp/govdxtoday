@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-20",
+      "summary_short": "グーグルの生成AI「Gemini」がサイバーセキュリティ…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-19",
       "summary_short": "ニチレイ、サイバー攻撃による個人情報5万3000件漏えい…など10件",
       "article_count": 10,
@@ -532,12 +538,6 @@
       "date": "2026-06-22",
       "summary_short": "「ガバメントAI 源内」における国産基盤モデルの評価設計…など1件",
       "article_count": 6,
-      "has_security_alert": false
-    },
-    {
-      "date": "2026-06-21",
-      "summary_short": "お知らせ：JPCERT/CC Eyes「ツール分析結果シート…など3件",
-      "article_count": 3,
       "has_security_alert": false
     }
   ]

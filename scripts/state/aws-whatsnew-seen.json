@@ -10,5 +10,17 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/",
     "pubDate": "2026-09-09T18:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
+    "pubDate": "2026-09-15T22:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
+    "pubDate": "2026-09-15T18:58:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
+    "pubDate": "2026-09-15T18:30:00.000Z"
   }
 ]

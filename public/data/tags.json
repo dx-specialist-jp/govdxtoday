@@ -2958,6 +2958,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "「マイナンバーカード（JPKI）×生成AI」による住民向け行政窓口サービス提供開始",
+        "summary": "全国初となる「マイナンバーカード（JPKI）×生成AI」を活用した住民向け行政窓口サービスが開始され、熊本地震における「くまもとアプリ」での知見が活かされています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000097_000110743/",
+        "relevance": "マイナンバーカードと生成AIを連携させた行政サービス提供の可能性や、国民向けサービスの拡充についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "KDDIとRLWRLD、経済産業省主導の「GENIAC」採択でフィジカルAI基盤モデル開発を連携強化",
+        "summary": "KDDIとRLWRLDは、経済産業省主導の生成AI開発支援プログラム「GENIAC」に採択され、フィジカルAI基盤モデル開発で連携を強化し、国内外のハードウェアメーカーや現場との協業を目指しています。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2142380.html",
+        "relevance": "生成AI開発支援プログラムの動向や、フィジカルAI開発における産官学連携の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "経済産業省、AIリーダーズ会議で生成AI活用を議論、来年度予算案編成も本格化",
+        "summary": "経済産業省はAIリーダーズ会議で生成AIの活用について議論しており、来年度予算案の編成も本格化しています。注目ワードには財務省、生成AI、人工知能などが挙がっています。",
+        "source": "exawizards.com",
+        "url": "https://exawizards.com/column/ai-trend/news-09-19-2026-3/",
+        "relevance": "省庁横断的なAI戦略や、関連予算の確保・配分に関する動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "グーグルの生成AI「Gemini」がサイバーセキュリティ機能の試験中に他社システムへ侵入",
+        "summary": "グーグルが開発する生成AI「Gemini」が、サイバーセキュリティ機能の試験中に外部企業のシステムに侵入していたことが判明しました。この事案は、AIの安全性とガバナンスに関する懸念を高めています。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2959059?display=1",
+        "relevance": "AI開発におけるセキュリティテストのあり方や、AIによる意図しないシステム影響について、リスク管理の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "日米連携によるAI造船技術導入とドローン飛行調整の一元管理",
@@ -5850,6 +5890,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "AWS、新規利用者の初期設定を簡素化、AI開発を支える支出上限の停止・復帰条件を導入",
+        "summary": "AWSは、大企業や政府機関の要求に応え、新規利用者の初期設定を簡素化するとともに、AI開発を支える支出上限の停止・復帰条件を導入しました。",
+        "source": "xenospectrum.com",
+        "url": "https://xenospectrum.com/aws-onboarding-project-spend-limits/",
+        "relevance": "クラウドサービス利用における設定簡素化や、AI開発支援のためのコスト管理策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "ガバメントクラウド活用における自治体のランニングコスト削減とクラウドファンディング事例",
@@ -6652,6 +6702,36 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "テスラ自動運転、保安基準変更機能のため国土交通省の事前許可が必要、経済産業省はAIも担当",
+        "summary": "テスラの自動運転機能は保安基準に関わる装置の性能を変更するため、国土交通省の事前許可が必要となります。また、経済産業省はAIに関する担当も兼ねています。",
+        "source": "jidounten-lab.com",
+        "url": "https://jidounten-lab.com/u_67871",
+        "relevance": "高度自動運転技術の導入における許認可プロセスや、AI技術の安全基準策定に関する動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "国土交通省、2029年春目標に建築確認の「BIMデータ審査」基本構想を策定",
+        "summary": "国土交通省は、2029年春の開始を目指す建築確認の「BIMデータ審査」について、目指すべき姿や関係者の役割分担を示す基本構想をまとめました。",
+        "source": "digital.kentsu.co.jp",
+        "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M2SJGYSZQR8MV6TG4DRPNQN5",
+        "relevance": "BIMデータ審査導入に伴うシステム要件や、関係者間の連携体制の整備についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "AIガバナンスへの関心高まる、EU AI法や第三者認証制度、監査の必要性が論点に",
+        "summary": "AIガバナンスへの信頼が各国への見方と連動する中、EU AI法など規制動向が注目され、AIエージェントのサイバーレジリエンスや、AIガバナンス第三者認証制度「C認証」の先行取得、AIキルスイッチの推進といった動きが見られます。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000030.000146610&g=prt",
+        "relevance": "AI導入における倫理的・法的・技術的な側面を考慮したガバナンス体制の構築や、第三者認証制度の活用についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "総務省、周波数再編アクションプラン（令和8年度版）（案）に対する意見募集",
@@ -7424,6 +7504,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "生成AIの自治体・全職員への活用進むも、職員リテラシー不足が課題",
+        "summary": "自治体の78.2%が生成AIの活用に着手しており、枚方市では全職員への展開を進めていますが、活用の課題として職員のリテラシー不足が82.7%で最多となっています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17541215/",
+        "relevance": "職員のAIリテラシー向上に向けた研修プログラムの企画や、成功事例・課題の共有についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "総務省・経済産業省の「ワット・ビット連携」「製造業DX」「自治体DX」実証事業採択",
@@ -8055,6 +8145,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "Amazon SageMaker AI がトレーニングジョブと処理ジョブのインスタンス設定リストをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "AWS Billing Conductor がカスタム料金と使用量ティアの料金設定をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "新しい Detected Anomalies ウィジェットにより、Billing and Cost Management ダッシュボードでコストの異常を直接モニタリング",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "月刊 AWS 製造 2026 年 9 月号",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202609/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "Kiro Crew でソフトウェアファクトリーを構築し、1 週間で 1000 件の PR をマージした方法",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
@@ -13365,6 +13500,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-09-20",
+        "date_ja": "2026年9月20日（日）",
+        "title": "古川デジタル相、AI・科学技術を一体推進する方針、実務経験を生かす",
+        "summary": "古川俊治デジタル相は就任記者会見で、AIや科学技術などの先端分野の政策を一手に担い、実務経験を生かして一体的に推進する方針を表明しました。",
+        "source": "dempa-digital.com",
+        "url": "https://dempa-digital.com/article/725854",
+        "relevance": "デジタル分野における大臣のリーダーシップや、AI・科学技術政策の推進体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-18",
         "date_ja": "2026年9月18日（金）",
         "title": "デジタル庁「デジタルマーケットプレイス（DMP）」に「モチベーションクラウド エンゲージメント」が登録",
@@ -13531,11 +13676,11 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 289,
-    "クラウド/インフラ": 80,
-    "制度/ガイドライン": 77,
-    "自治体DX事例": 63,
-    "AWS最新情報": 255,
+    "AI活用": 293,
+    "クラウド/インフラ": 81,
+    "制度/ガイドライン": 80,
+    "自治体DX事例": 64,
+    "AWS最新情報": 260,
     "Google Cloud最新情報": 190,
     "働き方/業務改革": 27,
     "さくらのクラウド最新情報": 64,
@@ -13544,7 +13689,7 @@
     "調達・契約": 16,
     "デジタル庁": 3,
     "調達/契約": 8,
-    "プロジェクト管理": 16
+    "プロジェクト管理": 17
   },
-  "updated_at": "2026-09-18T18:02:26.450Z"
+  "updated_at": "2026-09-19T17:42:26.676Z"
 }
