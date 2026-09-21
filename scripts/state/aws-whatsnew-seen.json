@@ -30,5 +30,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
     "pubDate": "2026-09-14T17:35:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
+    "pubDate": "2026-09-14T17:32:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
+    "pubDate": "2026-09-14T17:30:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
+    "pubDate": "2026-09-14T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
+    "pubDate": "2026-09-14T07:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
+    "pubDate": "2026-09-14T07:00:00.000Z"
   }
 ]

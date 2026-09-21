@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-22",
+  "date_ja": "2026年9月22日（火）",
+  "news_summary": [
+    "デジタル庁システムに不正アクセス、政府職員24.6万人分の個人情報が漏洩しました。",
+    "UravationがClaude Codeの法人向け研修サービス提供を開始、最適な研修形式選択を支援します。",
+    "経済産業省と総務省の方針が日本のプライベートクラウド市場の形成に影響を与えています。",
+    "AIガバナンスに関する国際的な議論が活発化、国内でも利活用とガバナンス両立が政策課題です。",
+    "総務省は人手不足対策として自治体業務におけるAI活用「自治体AX」を推進しています。",
+    "デジタル大臣に古川俊治氏が就任、デジタル庁幹部一覧が更新されました。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁システムへの不正アクセスによる個人情報漏洩",
+      "summary": "デジタル庁のシステムに不正アクセスがあり、政府職員ら24.6万人分の個人情報が漏洩した。",
+      "relevance": "デジタル庁システムへの不正アクセス事案を受けて、行政システムにおけるセキュリティ対策の強化や、インシデント発生時の対応計画についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "tokyonewsmedia.com",
+          "url": "https://tokyonewsmedia.com/archives/28228"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "法人向けClaude Code研修サービスの提供開始",
+      "summary": "Uravationは、Claude Codeの法人研修サービスとして、公開講座、社内研修、個別指導、導入支援の4つの形式を提供開始した。期間、人数、費用、助成金の可否をまとめた表で、最適な研修形式の選択を支援する。",
+      "relevance": "生成AIツールの導入・活用支援として、職員研修のあり方や、AI活用のためのトレーニングプログラムの企画・実施についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000196.000137731&g=prt"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "DeFi Developmentによる財務省へのSOL提供",
+      "summary": "DeFi Developmentが1週間で101381 SOLを財務省に追加した。ProPicks AIは、財務指標に基づき数千銘柄を分析している。",
+      "relevance": "DeFi（分散型金融）の動向や、AIによる金融分析ツールの活用について、行政分野での応用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/company-news/article-93CH-1686711"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "シャープ、池袋に「HEALSIO CAFE」を開設し生成AI体験を提供",
+      "summary": "シャープは池袋に「HEALSIO CAFE」を開設し、ヘルシオ料理の試食に加え、生成AIサービス「クックトーク」などを体験できる機会を提供している。",
+      "relevance": "民間企業における生成AIを活用した顧客体験提供事例について、行政サービスにおけるAI活用の可能性や、市民との接点でのAI活用についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/event-information/58357/"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "デジタル庁幹部一覧の更新とデジタル大臣の交代",
+      "summary": "デジタル庁は公式サイトの幹部一覧を更新し、デジタル大臣に古川俊治氏が就任した。",
+      "relevance": "デジタル庁の体制変更や主要な人事異動について、今後のDX施策やプロジェクト推進体制への影響をご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "codezine.jp",
+          "url": "https://codezine.jp/news/detail/29758"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ガバメントクラウドの活用方針とプライベートクラウド市場への影響",
+      "summary": "経済産業省の情報処理高度化指針や総務省のガバメントクラウド活用方針が、日本のプライベートクラウドサービス市場の形成に影響を与えている。",
+      "relevance": "ガバメントクラウドの活用方針や、プライベートクラウド市場の動向について、中央省庁のシステム導入計画への影響をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4634619"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスに関する国際的な動向と国内政策課題",
+      "summary": "AIの制御喪失リスクや倫理的利用に関する国連パネルの報告、米中協議、チャールズ国王主導の安全サミット開催など、AIガバナンスに関する国際的な議論が活発化している。国内でも、AIの利活用とガバナンスの両立が政策課題となっている。",
+      "relevance": "AIガバナンスの国際的な動向や国内政策課題について、関連する規制やガイドラインの動向をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/03379d66-de35-44aa-8535-b82614dcb5f1"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/a85ebb2f-8f1d-40b4-90f2-9a3860604da6"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/un-ai-panel-invokes-precautionary-principle-on-loss-of-control-risk/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/robot-ai-quyet-dinh-truc-tiep-sa-thai-nhan-vien"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/8a4e1958-f2e5-4f78-9222-10396269c192"
+        },
+        {
+          "name": "mk.co.kr",
+          "url": "https://www.mk.co.kr/jp/business/12158356"
+        },
+        {
+          "name": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/jp/view/106094/douzone-bizon-sets-up-ai-governance-secretariat-with-ceo-ji-yong-gu-in-charge"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/su-san-sang-cua-the-gioi-voi-tri-tue-nhan-tao"
+        },
+        {
+          "name": "nextmoney.jp",
+          "url": "https://nextmoney.jp/?p=88730"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/de31d35e-eb31-4716-99cd-83408369587c"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/21/news023.html"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-gwre/guidewire-software/news/6ff1d1a914ad30f9/amp"
+        },
+        {
+          "name": "mbp-japan.com",
+          "url": "https://mbp-japan.com/tokyo/officetrueone/column/5236510/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/khi-rui-ro-tu-ai-duoc-dat-len-ban-nghi-su-my-trung"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/business20/2026/09/ai_2152.html"
+        },
+        {
+          "name": "japansecuritysummit.org",
+          "url": "https://japansecuritysummit.org/2026/09/14945/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/4c8f3934edc082a51ed2f39467a1deab9d9a605c?page=2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "総務省が推進する自治体業務におけるAI活用（自治体AX）",
+      "summary": "総務省は、人手不足が深刻化する自治体業務の最適化を目指し、AIを活用する「自治体AX（AIトランスフォーメーション）」を推進している。大阪府河内長野市では生成AIによるアバターが来訪者対応に活用されている。",
+      "relevance": "総務省が推進する自治体業務におけるAI活用事例や、AI導入における調査研究の動向についてご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "hokkaido-np.co.jp",
+          "url": "https://www.hokkaido-np.co.jp/article/1374715/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/71c8ab84f74b976044ad3a3a1ef2ab1274f6496d/images/000"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/articles/-/1794651"
+        },
+        {
+          "name": "shimotsuke.co.jp",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1426102"
+        },
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/2026092030664"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/articles/-/1794648"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/71c8ab84f74b976044ad3a3a1ef2ab1274f6496d"
+        },
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/articles/knp2026092101000542.html"
+        },
+        {
+          "name": "nippon.com",
+          "url": "https://www.nippon.com/ja/news/kd1474656521855353676/"
+        },
+        {
+          "name": "kochinews.co.jp",
+          "url": "https://www.kochinews.co.jp/article/detail/1046228"
+        },
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2060456"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1928734"
+        },
+        {
+          "name": "kahoku.news",
+          "url": "https://kahoku.news/articles/knp2026092101000541.html"
+        },
+        {
+          "name": "minpo.jp",
+          "url": "https://www.minpo.jp/articles/-/232773"
+        },
+        {
+          "name": "fukuishimbun.co.jp",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2703788"
+        },
+        {
+          "name": "nishinippon.co.jp",
+          "url": "https://www.nishinippon.co.jp/item/1540485/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "訪日客増加と海外投資利益による経常黒字の拡大",
+      "summary": "財務省の国際収支状況速報によると、訪日客増加と海外投資の利益により、経常黒字が大幅に拡大した。",
+      "relevance": "国際収支の動向や、経済指標の分析におけるデータ活用のあり方について、PMO/PjMOとしてプロジェクトの進捗管理やリスク評価への応用をご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2650ko56re-01re-0123/"
+        }
+      ],
+      "score": 5
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Gemma-4-31B-it-assistant と Gemma-4-31B-IT-NVFP4 モデルが Amazon SageMaker JumpStart で利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
+          "pub_date": "2026-09-14T17:32:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "granite-speech-4.1-2b、kanana-2-30b-a3b-instruct、OpenFold3 モデルが Amazon SageMaker JumpStart で利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
+          "pub_date": "2026-09-14T17:30:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Glue ゼロ ETL がターゲットテーブルプロパティの所有権と競合検出をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
+          "pub_date": "2026-09-14T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS End User Messaging が WhatsApp の動的フローに対応",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
+          "pub_date": "2026-09-14T07:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS End User Messaging が自動フェイルオーバーにより SMS 配信到達性を強化",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
+          "pub_date": "2026-09-14T07:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 21, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_21_2026",
+          "pub_date": "2026-09-21T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-21T19:50:37.044Z"
+}

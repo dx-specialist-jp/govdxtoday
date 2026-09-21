@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-22",
+      "summary_short": "デジタル庁システムへの不正アクセスによる個人情報漏洩…など9件",
+      "article_count": 9,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-21",
       "summary_short": "中性原子量子プロセッサのAIデータセンターインフラへの統…など7件",
       "article_count": 7,
@@ -533,12 +539,6 @@
       "summary_short": "Weekly Report: Microsoft Edg…など13件",
       "article_count": 13,
       "has_security_alert": true
-    },
-    {
-      "date": "2026-06-23",
-      "summary_short": "注意喚起: Fortinet製品に関連する認証情報の漏えいに…など6件",
-      "article_count": 11,
-      "has_security_alert": false
     }
   ]
 }

@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "デジタル庁システムへの不正アクセスによる個人情報漏洩",
+        "summary": "デジタル庁のシステムに不正アクセスがあり、政府職員ら24.6万人分の個人情報が漏洩した。",
+        "source": "tokyonewsmedia.com",
+        "url": "https://tokyonewsmedia.com/archives/28228",
+        "relevance": "デジタル庁システムへの不正アクセス事案を受けて、行政システムにおけるセキュリティ対策の強化や、インシデント発生時の対応計画についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-21",
         "date_ja": "2026年9月21日（月）",
         "title": "中性原子量子プロセッサのAIデータセンターインフラへの統合と量子後暗号化イニシアチブ",
@@ -2967,6 +2977,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "シャープ、池袋に「HEALSIO CAFE」を開設し生成AI体験を提供",
+        "summary": "シャープは池袋に「HEALSIO CAFE」を開設し、ヘルシオ料理の試食に加え、生成AIサービス「クックトーク」などを体験できる機会を提供している。",
+        "source": "dempa-times.co.jp",
+        "url": "https://www.dempa-times.co.jp/event-information/58357/",
+        "relevance": "民間企業における生成AIを活用した顧客体験提供事例について、行政サービスにおけるAI活用の可能性や、市民との接点でのAI活用についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "DeFi Developmentによる財務省へのSOL提供",
+        "summary": "DeFi Developmentが1週間で101381 SOLを財務省に追加した。ProPicks AIは、財務指標に基づき数千銘柄を分析している。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/company-news/article-93CH-1686711",
+        "relevance": "DeFi（分散型金融）の動向や、AIによる金融分析ツールの活用について、行政分野での応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "法人向けClaude Code研修サービスの提供開始",
+        "summary": "Uravationは、Claude Codeの法人研修サービスとして、公開講座、社内研修、個別指導、導入支援の4つの形式を提供開始した。期間、人数、費用、助成金の可否をまとめた表で、最適な研修形式の選択を支援する。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000196.000137731&g=prt",
+        "relevance": "生成AIツールの導入・活用支援として、職員研修のあり方や、AI活用のためのトレーニングプログラムの企画・実施についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-21",
         "date_ja": "2026年9月21日（月）",
@@ -5940,6 +5980,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "ガバメントクラウドの活用方針とプライベートクラウド市場への影響",
+        "summary": "経済産業省の情報処理高度化指針や総務省のガバメントクラウド活用方針が、日本のプライベートクラウドサービス市場の形成に影響を与えている。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4634619",
+        "relevance": "ガバメントクラウドの活用方針や、プライベートクラウド市場の動向について、中央省庁のシステム導入計画への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-21",
         "date_ja": "2026年9月21日（月）",
         "title": "ガバメントクラウド利用料やIT技術者人件費上昇による行政システム関連費用の増加",
@@ -6762,6 +6812,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "AIガバナンスに関する国際的な動向と国内政策課題",
+        "summary": "AIの制御喪失リスクや倫理的利用に関する国連パネルの報告、米中協議、チャールズ国王主導の安全サミット開催など、AIガバナンスに関する国際的な議論が活発化している。国内でも、AIの利活用とガバナンスの両立が政策課題となっている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/03379d66-de35-44aa-8535-b82614dcb5f1",
+        "relevance": "AIガバナンスの国際的な動向や国内政策課題について、関連する規制やガイドラインの動向をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-21",
         "date_ja": "2026年9月21日（月）",
         "title": "総務省発表：高齢者人口の動向と統計データ",
@@ -7574,6 +7634,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "総務省が推進する自治体業務におけるAI活用（自治体AX）",
+        "summary": "総務省は、人手不足が深刻化する自治体業務の最適化を目指し、AIを活用する「自治体AX（AIトランスフォーメーション）」を推進している。大阪府河内長野市では生成AIによるアバターが来訪者対応に活用されている。",
+        "source": "hokkaido-np.co.jp",
+        "url": "https://www.hokkaido-np.co.jp/article/1374715/",
+        "relevance": "総務省が推進する自治体業務におけるAI活用事例や、AI導入における調査研究の動向についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-20",
         "date_ja": "2026年9月20日（日）",
         "title": "生成AIの自治体・全職員への活用進むも、職員リテラシー不足が課題",
@@ -8215,6 +8285,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "AWS End User Messaging が自動フェイルオーバーにより SMS 配信到達性を強化",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "AWS End User Messaging が WhatsApp の動的フローに対応",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "AWS Glue ゼロ ETL がターゲットテーブルプロパティの所有権と競合検出をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "granite-speech-4.1-2b、kanana-2-30b-a3b-instruct、OpenFold3 モデルが Amazon SageMaker JumpStart で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "Gemma-4-31B-it-assistant と Gemma-4-31B-IT-NVFP4 モデルが Amazon SageMaker JumpStart で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-21",
         "date_ja": "2026年9月21日（月）",
@@ -10603,6 +10718,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "September 21, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_21_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "Airtel、2026 年インディアン プレミアリーグのクリケット中継を完璧に配信",
@@ -12315,6 +12439,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "訪日客増加と海外投資利益による経常黒字の拡大",
+        "summary": "財務省の国際収支状況速報によると、訪日客増加と海外投資の利益により、経常黒字が大幅に拡大した。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2650ko56re-01re-0123/",
+        "relevance": "国際収支の動向や、経済指標の分析におけるデータ活用のあり方について、PMO/PjMOとしてプロジェクトの進捗管理やリスク評価への応用をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-19",
         "date_ja": "2026年9月19日（土）",
         "title": "デジタル庁 古川大臣就任記者会見、DX推進と生成AIによる言葉のギャップ解消に言及",
@@ -13615,6 +13749,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-09-22",
+        "date_ja": "2026年9月22日（火）",
+        "title": "デジタル庁幹部一覧の更新とデジタル大臣の交代",
+        "summary": "デジタル庁は公式サイトの幹部一覧を更新し、デジタル大臣に古川俊治氏が就任した。",
+        "source": "codezine.jp",
+        "url": "https://codezine.jp/news/detail/29758",
+        "relevance": "デジタル庁の体制変更や主要な人事異動について、今後のDX施策やプロジェクト推進体制への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-20",
         "date_ja": "2026年9月20日（日）",
         "title": "古川デジタル相、AI・科学技術を一体推進する方針、実務経験を生かす",
@@ -13787,24 +13931,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 80,
+    "セキュリティ": 81,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 297,
-    "クラウド/インフラ": 82,
-    "制度/ガイドライン": 81,
-    "自治体DX事例": 64,
-    "AWS最新情報": 265,
-    "Google Cloud最新情報": 190,
-    "働き方/業務改革": 27,
+    "AI活用": 300,
+    "クラウド/インフラ": 83,
+    "制度/ガイドライン": 82,
+    "自治体DX事例": 65,
+    "AWS最新情報": 270,
+    "Google Cloud最新情報": 191,
+    "働き方/業務改革": 28,
     "さくらのクラウド最新情報": 64,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 16,
     "デジタル庁": 3,
     "調達/契約": 8,
-    "プロジェクト管理": 17
+    "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-20T17:53:09.992Z"
+  "updated_at": "2026-09-21T19:50:37.052Z"
 }
