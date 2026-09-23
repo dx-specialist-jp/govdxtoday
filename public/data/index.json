@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-24",
+      "summary_short": "AIガバナンスの重要性と課題、および関連する技術・サービ…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-09-23",
       "summary_short": "総務省、自治体業務へのAI導入推進に向けた調査研究に7.…など10件",
       "article_count": 10,
@@ -533,12 +539,6 @@
       "summary_short": "【事例・政府】トレンドマイクロのソリューションでAWS上…など10件",
       "article_count": 10,
       "has_security_alert": false
-    },
-    {
-      "date": "2026-06-25",
-      "summary_short": "お知らせ：役員体制の一部変更について…など13件",
-      "article_count": 13,
-      "has_security_alert": true
     }
   ]
 }

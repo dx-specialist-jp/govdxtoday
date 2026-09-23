@@ -2978,6 +2978,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "オーストラリアにおけるAI活用による生産性向上と経済成長",
+        "summary": "オーストラリア財務省は、向こう40年間の経済成長のため、AI活用が生産性向上に不可欠であるとの見通しを示しています。",
+        "source": "nna.jp",
+        "url": "https://www.nna.jp/news/2969604",
+        "relevance": "オーストラリアのAI活用による生産性向上と経済成長の見通しについて、AIが長期的な行政運営や経済政策に与える影響と、そのための戦略策定をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "総務省による自治体AI導入推進と防衛分野でのAI・人型ロボット活用研究",
+        "summary": "総務省は自治体の業務最適化のためAI導入を推進し、調査研究を行う方針です。また、防衛分野ではAI搭載の人型ロボットの基地警備や輸送への活用が研究されています。",
+        "source": "hokkoku.co.jp",
+        "url": "https://www.hokkoku.co.jp/articles/-/2237545",
+        "relevance": "総務省による自治体AI導入推進の動向と、防衛分野でのAI・人型ロボット活用研究について、行政業務の効率化や新たな防衛技術への対応策をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "韓国における鉄道安全対策での自動化とAI活用",
+        "summary": "韓国国土交通省は、相次ぐ鉄道事故の再発防止のため、自動化とAIを柱とする「鉄道安全総合対策」を11月にも発表する見通しです。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/460cbdff3d188b19d0afd86c6249e23c1df9cd3c",
+        "relevance": "他国のインフラ分野におけるAI活用事例として、韓国の鉄道安全総合対策における自動化・AI活用について、国内のインフラ管理・安全対策への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "消防庁による119番通報AI支援モデル事業の実施",
+        "summary": "総務省消防庁が、119番通報の内容をAIで分析し、指令員に対応を助言するモデル事業を実施します。これにより、救急車や消防車の出動指示を支援します。",
+        "source": "tokyo-np.co.jp",
+        "url": "https://www.tokyo-np.co.jp/article/517226?rct=national",
+        "relevance": "AIを活用した行政サービス向上の事例として、119番通報AI支援モデル事業の進捗状況と効果測定について、他部署・他省庁への横展開可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "AIガバナンスの重要性と課題、および関連する技術・サービス",
+        "summary": "AIの導入が管理スキルを上回るペースで進む中、組織内でのAIガバナンスの必要性が浮き彫りになっています。AIエラーのコストや、エンタープライズAIエージェント向けガバナンス層構築の動きが見られます。",
+        "source": "prnewswire.com",
+        "url": "https://www.prnewswire.com/jp/news-releases/ai143microsoft-365-302888039.html",
+        "relevance": "AI導入におけるガバナンス体制の構築や、関連する技術・サービスの動向について、自組織のAI活用におけるリスク管理体制の強化策をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
         "title": "大規模言語モデルの進化とAI規制に関する議論",
@@ -6030,6 +6080,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "さくらインターネットのガバメントクラウド本認定と業績予想上方修正",
+        "summary": "さくらインターネットは、ガバメントクラウドの本認定を国産事業者として唯一取得し、2027年3月期の営業利益予想を上方修正しました。",
+        "source": "note.com",
+        "url": "https://note.com/tatsuya_sabato/n/nfc9374f66d07",
+        "relevance": "ガバメントクラウド認定事業者であるさくらインターネットの動向について、クラウドインフラの調達・選定における留意点や、国産クラウド利用のメリット・デメリットをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
         "title": "国内通信量増加、企業のクラウドシフトと生成AI利用拡大が背景",
@@ -6881,6 +6941,26 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "カナダ州政府によるOpenAIとサム・アルトマンCEOの提訴",
+        "summary": "カナダ・ブリティッシュコロンビア州政府は、学校銃乱射事件におけるChatGPT利用を巡り、OpenAIとサム・アルトマンCEOを米連邦裁判所に提訴しました。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17553707/?ref=pickstream_2085",
+        "relevance": "AIサービス利用における訴訟事例として、カナダ州政府のOpenAI提訴について、行政におけるAI利用に伴う法的リスクと、契約・利用規約の確認の重要性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "AIのリスク管理と国際的なガバナンス枠組みの必要性に関する議論",
+        "summary": "国連事務総長はAIのリスク管理枠組みの必要性を訴え、各国がAIガバナンスに関する様々なアプローチを提示しています。AI開発国・企業と、AIによる影響を受ける各国との連携が求められています。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/4b0a61ae-4c18-4fc8-b2f7-37b9ee437bf2",
+        "relevance": "AIの国際的な規制動向やリスク管理の枠組みについて、政府CIOポータルや関係省庁の動向を注視し、自省庁におけるAI導入・活用方針策定への示唆をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
@@ -8375,6 +8455,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "Amazon Bedrock で Moonshot AI の Kimi K3 の一般提供を開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "AWS RTB Fabric が設定可能なアベイラビリティーゾーンアフィニティをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "AWS Resilience Hub に 3 つの新機能が追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "Amazon ECS Express Mode が AWS Graviton (ARM64) ワークロードをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "AWS Continuum が認証情報のテストとアクセス可能なドメインの提案をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-security-agent/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
@@ -10853,6 +10978,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "September 23, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_23_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
         "title": "September 22, 2026",
@@ -12583,6 +12717,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "国土交通省の群マネ普及促進策と生成AI×DXの生産性向上への潜む罠",
+        "summary": "国土交通省の群マネ普及促進策が認知度向上に奏功する一方、生成AI×DXによる生産性向上には「情報システムがゴミ屋敷」になるリスクも指摘されています。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00270/082600004/",
+        "relevance": "国土交通省のDX推進事例と、生成AI活用における生産性向上に潜むリスクについて、DX推進プロジェクトにおけるガバナンスとリスク管理体制の重要性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-22",
         "date_ja": "2026年9月22日（火）",
         "title": "訪日客増加と海外投資利益による経常黒字の拡大",
@@ -13811,6 +13955,16 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-09-24",
+        "date_ja": "2026年9月24日（木）",
+        "title": "米財務省による長期国債の買い戻し",
+        "summary": "米財務省は、借り入れコスト抑制のため、長期国債の買い戻しを実施します。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/d0154312-6c93-4d72-99fd-3157b6b477c1",
+        "relevance": "米財務省による国債買い戻しといった金融政策の動向について、経済情勢の変化が政府調達や予算執行に与える影響の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
         "title": "財務省、国際園芸博記念1000円銀貨発行",
@@ -14089,20 +14243,20 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 305,
-    "クラウド/インフラ": 85,
-    "制度/ガイドライン": 83,
+    "AI活用": 310,
+    "クラウド/インフラ": 86,
+    "制度/ガイドライン": 85,
     "自治体DX事例": 66,
-    "AWS最新情報": 275,
-    "Google Cloud最新情報": 192,
-    "働き方/業務改革": 28,
+    "AWS最新情報": 280,
+    "Google Cloud最新情報": 193,
+    "働き方/業務改革": 29,
     "さくらのクラウド最新情報": 64,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 16,
     "デジタル庁": 3,
-    "調達/契約": 9,
+    "調達/契約": 10,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-22T18:28:34.079Z"
+  "updated_at": "2026-09-23T18:47:16.205Z"
 }

@@ -66,5 +66,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/",
     "pubDate": "2026-09-16T17:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-security-agent/",
+    "pubDate": "2026-09-18T18:34:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
+    "pubDate": "2026-09-18T17:27:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
+    "pubDate": "2026-09-18T16:49:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
+    "pubDate": "2026-09-18T15:30:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
+    "pubDate": "2026-09-18T15:15:00.000Z"
   }
 ]
