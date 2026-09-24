@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-25",
+  "date_ja": "2026年9月25日（金）",
+  "news_summary": [
+    "各省庁はAI導入実証を進め、AI自律型組織の新設を発表しました。",
+    "AIガバナンス国際動向を踏まえ、国内ではAI利用定着に向けた一体設計が求められています。",
+    "AI運用における安全性、ガバナンス、コスト効率支援のためAIハーネスインフラ構築が開始されました。",
+    "法人向けAIエージェント「ChatSense」は、社内データ学習を可能にする追加学習AI機能を追加しました。",
+    "生成AI活用のため、リスク回避と運用体制構築を支援するAIガバナンス構築支援サービスが開始されました。",
+    "ガバメントクラウド推進でFinOpsツール「srest」が400以上の自治体で導入されています。",
+    "デジタル庁からの危機意識伝達、民間企業への事故早期公表要求、総務省ガイドライン改定の動向が注目されます。",
+    "経済産業省は製油所改修を補助金で支援し、中東産原油依存脱却を進めます。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99700314/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+      "url": "https://jvn.jp/vu/JVNVU94625787/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92710088/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91025240/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93766760/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "各省庁におけるAI活用実証とAI人材育成・組織体制構築",
+      "summary": "各省庁では大規模AI導入実証が進行中であり、国会答弁作成支援や法制度調査等で行政実務に特化したアプリの内製化も進められています。AI時代のインフラ再設計を見据えた「AI自律型組織」の新設も発表されています。",
+      "relevance": "PMO/PjMO担当者は、AI活用実証の進捗状況や、AI人材育成・組織体制構築の動向についてご把握ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/167411/posts/1512360"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスの国際的動向と国内における構築・運用支援",
+      "summary": "AIの国際安全保障に関する議論や、AIガバナンスフレームワーク、サイバーセキュリティガイダンス、データ保護等の重要性が指摘されています。国内では、AIガバナンス構築支援サービスが提供され、AI利用の定着には方針、推進体制、業務プロセス、利用環境、ガバナンス、効果測定の一体設計が求められています。",
+      "relevance": "PMO/PjMO担当者は、AIガバナンスに関する国際的な動向や、国内でのAIガバナンス構築・運用支援の最新情報についてご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/39ac8cc0-e177-4342-b65f-8b4a17c837ba"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/nganh-tai-chinh-huong-toi-van-hanh-thong-minh-bang-ai"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/itlawyer/n/n6f92845b6201"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7d5b9f7e-8ea4-45bb-aa7f-727d0b9ff79a"
+        },
+        {
+          "name": "pwc.com",
+          "url": "https://www.pwc.com/jp/ja/knowledge/column/ai-governance/ai-agent.html"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/9128740"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/hoi-dong-bao-an-lien-hop-quoc-thao-luan-ve-rui-ro-va-quan-tri-tri-tue-nhan-tao"
+        },
+        {
+          "name": "microsoft.com",
+          "url": "https://www.microsoft.com/ja-jp/microsoft-cloud/blog/health/2026/09/24/promoting-initiatives-for-the-effective-use-generative-aijinkai-healthcare-corporation/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25136"
+        },
+        {
+          "name": "tisi.jp",
+          "url": "https://www.tisi.jp/special/report-generative-ai_4/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000005.000189103.html"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/425/4425647/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17556488/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/podcast/1d7156c0cd2dd92d"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/8fa2046c39838027a9974c9290d8585203bf067b"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI運用における安全性、ガバナンス、コスト効率の支援と基盤構築",
+      "summary": "AIを大規模運用する上での安全性、ガバナンス、コスト効率を支援する発表があり、オンプレミス環境でのAI利用や、生成AIと基幹システムを安全につなぐためのAIハーネスインフラ構築支援も開始されています。",
+      "relevance": "PMO/PjMO担当者は、AI運用の安全性、ガバナンス、コスト効率に関する最新の支援策や、基盤構築の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/news/detail/25135"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/80e38cd01ae54243dbc5f41353aa8fdfd11cf9b1"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000025.000123658.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "法人向けAIエージェント「ChatSense」の追加学習機能リリース",
+      "summary": "株式会社ナレッジセンスが、法人向けAIエージェント「ChatSense」に、GeminiやClaudeで社内データ学習を可能にする「追加学習AI」機能を追加リリースしました。",
+      "relevance": "PMO/PjMO担当者は、法人向けAIソリューションの機能拡充動向についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/article/20260924PT0010/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "生成AI活用におけるAIガバナンス構築支援の開始",
+      "summary": "生成AIの活用を推進する上で、制限しすぎによるリスクを回避し、ルール策定やリスク管理、運用体制の構築を支援するサービスが開始されました。",
+      "relevance": "PMO/PjMO担当者は、生成AI活用におけるガバナンス構築支援の最新動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/8fa2046c39838027a9974c9290d8585203bf067b/images/000"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ガバメントクラウドの推進とFinOpsツールの活用、ふるさと納税での活用事例",
+      "summary": "デジタル庁主導のガバメントクラウドへの移行が進み、FinOpsツール「srest」が全国400以上の自治体で導入されています。また、ふるさと納税のガバメントクラウドファンディングを活用した寄付募集事例も紹介されています。",
+      "relevance": "PMO/PjMO担当者は、ガバメントクラウドの推進状況やFinOpsツールの活用、ふるさと納税を通じたクラウドファンディングの事例についてご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4644201"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19803245?news_ref=watch_60_nw19715705"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/tetsudo_ch/trend/tetsudo_ch-13033184?page=2"
+        },
+        {
+          "name": "city.nagoya.jp",
+          "url": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005463.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000030.000175284.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19800675?news_ref=60_60"
+        },
+        {
+          "name": "predge.jp",
+          "url": "https://predge.jp/pr/359471/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタル庁の実証事業、AI活用における危機意識とガイドラインの動向",
+      "summary": "経済産業省「未来の教室」実証事業や、国の専門実践教育訓練給付金対象講座認定などの動きがあります。一方で、デジタル庁から伝わらない危機意識や、民間企業にセキュリティー事故の早期公表を求める政府機関の言行不一致、改定を控える総務省ガイドラインの方向性についても言及されています。",
+      "relevance": "PMO/PjMO担当者は、デジタル庁の実証事業、AI活用におけるリスク管理、および関連ガイドラインの動向についてご確認ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000214.000045711&g=prt"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17559438/"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/article/DGXZQODL240LY0U6A920C2000000/"
+        },
+        {
+          "name": "tv-tokyo.co.jp",
+          "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/252362.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "経済産業省による製油所改修支援と中東依存脱却",
+      "summary": "経済産業省は、原油調達の多角化を進めるため、石油元売りの製油所改修を補助金で支援する方針です。これにより、これまで主力としてきた中東産とは成分が異なる米国産などの原油への対応を進めます。",
+      "relevance": "PMO/PjMO担当者は、経済産業省による製油所改修支援策とその背景にあるエネルギー調達戦略についてご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/14986386.html"
+        },
+        {
+          "name": "kyoto-np.co.jp",
+          "url": "https://www.kyoto-np.co.jp/articles/biz/1796324"
+        },
+        {
+          "name": "shimotsuke.co.jp",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1427821?relatedarticle"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "公共財政におけるデータ戦略とAIに関する法的枠組みの整備",
+      "summary": "公共財政分野において、データ戦略と人工知能（AI）に関する法的枠組みの整備が進められています。",
+      "relevance": "PMO/PjMO担当者は、公共財政分野におけるデータ戦略とAI活用に関する法的整備の動向についてご参照ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/tai-chinh-cong-buoc-vao-ky-nguyen-du-lieu-va-ai"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "title": "米国財務省による長期国債の買い入れ実施予定",
+      "summary": "米国財務省が、本日、最大60億ドル規模の長期国債の買い入れを実施する予定です。",
+      "relevance": "PMO/PjMO担当者は、米国財務省による金融市場への介入動向についてご留意ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "moomoo.com",
+          "url": "https://www.moomoo.com/ja/community/feed/just-in-u-s-treasury-department-to-buy-back-up-117326405566869"
+        }
+      ],
+      "score": 3
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊AWS – 2026/9/14週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260914/",
+          "pub_date": "2026-09-24T13:27:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Timestream for InfluxDB 3 の機能とワークフロー",
+          "url": "https://aws.amazon.com/jp/blogs/news/features-and-workflows-with-amazon-timestream-for-influxdb-3/",
+          "pub_date": "2026-09-24T08:41:18.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026/9/14 週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260914/",
+          "pub_date": "2026-09-24T04:49:26.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS ウィークリーラウンドアップ：AWS Builder Center モバイルアプリ、Amazon Connect Talent の一般提供開始、Amazon Corretto 27 など（2026 年 9 月 21 日）",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+          "pub_date": "2026-09-24T04:30:50.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon CloudFront で SAP S/4HANA に mTLS 認証を実装する",
+          "url": "https://aws.amazon.com/jp/blogs/news/implement-mtls-authentication-with-amazon-cloudfront-for-sap-s-4hana/",
+          "pub_date": "2026-09-24T02:08:01.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 24, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_24_2026",
+          "pub_date": "2026-09-24T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "[メンテナンス] さくらの専用サーバ PHY ネットワーク機器 メンテナンス",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39689",
+          "pub_date": "2026-09-24T07:30:18.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「オンプレ運用は続けるべき？クラウド移行判断のポイントと国産クラウドという選択肢」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/24/1968225800/",
+          "pub_date": "2026-09-24T06:00:27.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "さくらインターネット、医療特化型LLM「Weblab-MedLLM-gpt-oss-120b」を「さくらのAI Engine」から提供開始",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/24/1968225752/",
+          "pub_date": "2026-09-24T04:10:27.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-24T18:47:47.676Z"
+}
