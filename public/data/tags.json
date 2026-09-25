@@ -2978,6 +2978,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "米中間のAI協力と競争、およびAIガバナンスに関する動向",
+        "summary": "米中両国はAI分野で「競争と協力」を進めており、AIガバナンスに関する方針交渉も行われている。中国はAI蒸留による情報漏洩の指摘に反論している。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/deepseek-kimi-claude-3-model-status/",
+        "relevance": "国際的なAI開発競争の動向と、AIガバナンスにおける国家間の連携・対立についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "医療AI企業「アイリス」、日本スタートアップ大賞で審査委員会特別賞を受賞",
+        "summary": "医療AIを開発するアイリスが、経済産業省などが募集した日本スタートアップ大賞で審査委員会特別賞を受賞した。同賞は事業のビジョンや新規性などが評価された。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/a69124da309c6b4662191f925cde6161646635cf",
+        "relevance": "AI技術を活用したスタートアップの成長支援策と、革新的なAI技術の社会実装の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "行政・自治体における多様なAIモデルの導入と活用支援",
+        "summary": "行政・官公庁・地方自治体向けに、Claude Sonnet 5、Gemini 3.1 Flash Lite ImageといったAIモデルの追加や、AIリテラシー向上・AI人材育成支援が進められている。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/anthropic-claude-opus-5-5/",
+        "relevance": "行政分野におけるAIモデルの選定基準と、AI人材育成・活用支援策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "AIの政府サイトへの不正アクセス事案とAIガバナンス・安全策の問われ",
+        "summary": "オーストラリア政府サイトへのAIによる不正アクセス事案が発生し、AIガバナンスと安全策が問われている。米政府はOpenAIやAnthropicに対し、AI審査の優先を要請した。",
+        "source": "biz.chosun.com",
+        "url": "https://biz.chosun.com/jp/jp-international/2026/09/26/HSBAFXRITRHBVIEXPO7JYJNSOY/?outputType=amp",
+        "relevance": "AI利用におけるセキュリティリスクと、政府機関におけるAIガバナンス体制の整備・強化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
         "title": "生成AI活用におけるAIガバナンス構築支援の開始",
@@ -6130,6 +6170,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "ガバメントクラウドFinOpsツール「srest」のJ-LISフェア2026出展",
+        "summary": "株式会社マイクロニティが提供するガバメントクラウドFinOpsツール「srest」が、J-LISフェア2026に出展し、クラウド利用の最適化を支援する。",
+        "source": "sakumaga.sakura.ad.jp",
+        "url": "https://sakumaga.sakura.ad.jp/entry/yt-sovereignty/",
+        "relevance": "ガバメントクラウドにおけるFinOps（クラウド利用最適化）の観点から、ツールの導入効果についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "国産クラウド基盤のガバメントクラウド採択とAI基盤整備の重要性",
+        "summary": "さくらインターネットの「さくらのクラウド」が国産初のガバメントクラウドに採択され、国内でのAI基盤整備・運用が重要視されている。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2609/25/2000000720/",
+        "relevance": "ガバメントクラウドの活用方針と、国内AI基盤整備の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
         "title": "ガバメントクラウドの推進とFinOpsツールの活用、ふるさと納税での活用事例",
@@ -7001,6 +7061,36 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "財務省とインドネシア銀行、経済安定維持のための5つのステップを準備",
+        "summary": "財務省とインドネシア銀行は、2026年の国家予算赤字をGDPの3.0％未満に抑制するため、歳入強化と歳出厳格化を含む5つのステップを準備している。",
+        "source": "idnfinancials.com",
+        "url": "https://www.idnfinancials.com/jp/news/69418/finance-ministry-bank-indonesia-prepare-5-steps-to-stabilise-economy",
+        "relevance": "国際的な財政政策の動向と、経済安定化に向けた取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "ふるさと納税制度、10月以降も継続申請の1781自治体を総務省が認める",
+        "summary": "総務省は、ふるさと納税制度に参加中の1781自治体から10月以降の継続申請があり、全て認めたことを発表した。",
+        "source": "hokkoku.co.jp",
+        "url": "https://www.hokkoku.co.jp/articles/-/2239943",
+        "relevance": "ふるさと納税制度の運用状況と、地方自治体における財源確保の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "AIガバナンスの世界的動向と国内規制・企業対応の加速",
+        "summary": "AIガバナンスに関する規制や企業対応が世界的に加速しており、米中間の交渉、EU AI法、サイバーセキュリティ規制などが注目されている。国内では経産省が次期デジタルガバナンス・コードにAIリスク管理を明記する方針を示した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/c9c6a020-d59f-48c1-8807-2aff323b4d5b",
+        "relevance": "AI導入・活用におけるガバナンス体制の構築、リスク管理、および関連する規制動向についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
@@ -7884,6 +7974,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "ガバメントクラウドファンディングを活用した地域振興・プロジェクト支援",
+        "summary": "岩手町や新座市などで、ガバメントクラウドファンディング（GCF）を活用した地域振興やプロジェクト支援が行われている。これにより、若者の支援やテニスコート整備などが進められている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000016.000166764&g=prt",
+        "relevance": "ガバメントクラウドファンディングの事例から、行政DXによる地域課題解決の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-23",
         "date_ja": "2026年9月23日（水）",
         "title": "自治体でガバメントクラウドファンディング活用事例が増加",
@@ -8545,6 +8645,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "Amazon CloudWatch Omni のご紹介：アプリケーション向けのコラボレーション型 AI を活用したオブザーバビリティ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "株式会社クリエイティブ・ウェブ様の AWS 開発事例「Amazon Connect Customer を活用した AI ロールプレイ研修システムの高速構築」のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aicc-case-study-creative-web/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "AWS for SAP MCP Server で実現する SAP へのシングルサインオン・エージェントアクセス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/achieving-single-sign-on-agentic-access-to-sap-with-aws-for-sap-mcp-server/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "Amazon CloudWatch Omni のご紹介：生成 AI およびエージェント型ワークロード向けの AI を活用したオブザーバビリティ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "AI エージェントを組織構造に乗せる – PLAY が AWS DevOps Agent で築いた全社共通のインシデント対応基盤",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/play-devops-agent-case-study/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
@@ -11113,6 +11258,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "M4N VM ファミリーの一般提供を開始: I/O およびメモリ バウンド ワークロードでコアあたり最高の IOPS とスループットを実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/compute/compute-engine-m4n-vms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "Dataflow での一時停止 / 再開と NVIDIA RTX PRO 6000 Blackwell GPU のサポートを発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "Agent Substrate は GKE にて高密度でスケーラブルな信頼できるインフラストラクチャを提供します",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/agent-substrate-available-on-gke/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "September 25, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_25_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
         "title": "September 24, 2026",
@@ -13153,6 +13334,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "【外部回線接続サービス】新規お申し込み受付終了のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/25/1968225743/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "「RAMEN TECH GLOBAL SUMMIT 2026」にて弊社執行役員 横田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/25/1968225818/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-26",
+        "date_ja": "2026年9月26日（土）",
+        "title": "「フロントエンドカンファレンス関西2026」に協賛し、ブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/25/1968225823/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-25",
         "date_ja": "2026年9月25日（金）",
         "title": "さくらインターネット、医療特化型LLM「Weblab-MedLLM-gpt-oss-120b」を「さくらのAI Engine」から提供開始",
@@ -14424,14 +14632,14 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 315,
-    "クラウド/インフラ": 87,
-    "制度/ガイドライン": 88,
-    "自治体DX事例": 66,
-    "AWS最新情報": 285,
-    "Google Cloud最新情報": 194,
+    "AI活用": 319,
+    "クラウド/インフラ": 89,
+    "制度/ガイドライン": 91,
+    "自治体DX事例": 67,
+    "AWS最新情報": 290,
+    "Google Cloud最新情報": 198,
     "働き方/業務改革": 29,
-    "さくらのクラウド最新情報": 67,
+    "さくらのクラウド最新情報": 70,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 17,
@@ -14439,5 +14647,5 @@
     "調達/契約": 10,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-24T18:47:47.687Z"
+  "updated_at": "2026-09-25T19:06:22.027Z"
 }

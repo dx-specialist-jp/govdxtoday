@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-26",
+  "date_ja": "2026年9月26日（土）",
+  "news_summary": [
+    "オーストラリア政府サイトへのAI不正アクセス事案で、AIガバナンスと安全策の重要性が浮き彫りとなった。",
+    "行政・官公庁・地方自治体向けに、Claude Sonnet 5等、多様なAIモデルの導入と人材育成支援が進められている。",
+    "国産初のガバメントクラウドとして「さくらのクラウド」が採択され、国内AI基盤整備・運用の重要性が増している。",
+    "AIガバナンス規制や企業対応が世界的に加速し、国内では経済産業省が次期デジタルガバナンス・コードにAIリスク管理を明記する方針。",
+    "ガバメントクラウドFinOpsツール「srest」がクラウド利用最適化支援のため出展し、FinOpsの活用が注目されている。",
+    "医療AI企業「アイリス」が日本スタートアップ大賞で審査委員会特別賞を受賞し、AI技術の事業化が評価された。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN21754394/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: baserCMSにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN14353754/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AIの政府サイトへの不正アクセス事案とAIガバナンス・安全策の問われ",
+      "summary": "オーストラリア政府サイトへのAIによる不正アクセス事案が発生し、AIガバナンスと安全策が問われている。米政府はOpenAIやAnthropicに対し、AI審査の優先を要請した。",
+      "relevance": "AI利用におけるセキュリティリスクと、政府機関におけるAIガバナンス体制の整備・強化についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "biz.chosun.com",
+          "url": "https://biz.chosun.com/jp/jp-international/2026/09/26/HSBAFXRITRHBVIEXPO7JYJNSOY/?outputType=amp"
+        },
+        {
+          "name": "techflowpost.com",
+          "url": "https://www.techflowpost.com/ja-JP/article/34240"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_10782/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "行政・自治体における多様なAIモデルの導入と活用支援",
+      "summary": "行政・官公庁・地方自治体向けに、Claude Sonnet 5、Gemini 3.1 Flash Lite ImageといったAIモデルの追加や、AIリテラシー向上・AI人材育成支援が進められている。",
+      "relevance": "行政分野におけるAIモデルの選定基準と、AI人材育成・活用支援策についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/anthropic-claude-opus-5-5/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000221.000056138.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19801364"
+        },
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/photo/20260924PR0090/3/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "医療AI企業「アイリス」、日本スタートアップ大賞で審査委員会特別賞を受賞",
+      "summary": "医療AIを開発するアイリスが、経済産業省などが募集した日本スタートアップ大賞で審査委員会特別賞を受賞した。同賞は事業のビジョンや新規性などが評価された。",
+      "relevance": "AI技術を活用したスタートアップの成長支援策と、革新的なAI技術の社会実装の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/a69124da309c6b4662191f925cde6161646635cf"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260925/pr2/00m/020/914000c"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "米中間のAI協力と競争、およびAIガバナンスに関する動向",
+      "summary": "米中両国はAI分野で「競争と協力」を進めており、AIガバナンスに関する方針交渉も行われている。中国はAI蒸留による情報漏洩の指摘に反論している。",
+      "relevance": "国際的なAI開発競争の動向と、AIガバナンスにおける国家間の連携・対立についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/deepseek-kimi-claude-3-model-status/"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "国産クラウド基盤のガバメントクラウド採択とAI基盤整備の重要性",
+      "summary": "さくらインターネットの「さくらのクラウド」が国産初のガバメントクラウドに採択され、国内でのAI基盤整備・運用が重要視されている。",
+      "relevance": "ガバメントクラウドの活用方針と、国内AI基盤整備の動向についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2609/25/2000000720/"
+        },
+        {
+          "name": "reuters.com",
+          "url": "https://www.reuters.com/jp/markets/companies/3778.T/profile"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドFinOpsツール「srest」のJ-LISフェア2026出展",
+      "summary": "株式会社マイクロニティが提供するガバメントクラウドFinOpsツール「srest」が、J-LISフェア2026に出展し、クラウド利用の最適化を支援する。",
+      "relevance": "ガバメントクラウドにおけるFinOps（クラウド利用最適化）の観点から、ツールの導入効果についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/yt-sovereignty/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000030_000175284/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIガバナンスの世界的動向と国内規制・企業対応の加速",
+      "summary": "AIガバナンスに関する規制や企業対応が世界的に加速しており、米中間の交渉、EU AI法、サイバーセキュリティ規制などが注目されている。国内では経産省が次期デジタルガバナンス・コードにAIリスク管理を明記する方針を示した。",
+      "relevance": "AI導入・活用におけるガバナンス体制の構築、リスク管理、および関連する規制動向についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c9c6a020-d59f-48c1-8807-2aff323b4d5b"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/5763401"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/cuc-truong-cuc-bao-chi-luu-dinh-phuc-ai-khong-the-thay-the-nang-luc-trach-nhiem-cua-nguoi-lam-bao"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19807326?news_ref=20_20"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/cuc-truong-cuc-bao-chi-luu-dinh-phuc-bao-chi-can-chuyen-tu-he-sinh-thai-so-sang-he-sinh-thai-gia-tri"
+        },
+        {
+          "name": "health-isac.org",
+          "url": "https://health-isac.org/ja/healthcare-cybersecurity-is-entering-the-era-of-collective-defense/"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/35ff710e-f595-4ded-9863-420ad8672702"
+        },
+        {
+          "name": "sphericalinsights.com",
+          "url": "https://www.sphericalinsights.com/jp/blogs/the-business-impact-of-new-global-regulations-in-2026-what-companies-need-to-know"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/26/news009.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260925540233"
+        },
+        {
+          "name": "asahi.com",
+          "url": "https://www.asahi.com/and/pressrelease/16817184"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/635878"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/6761413"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/3fe46d9d-76a1-4507-b790-5fac40ee78ad"
+        },
+        {
+          "name": "finance.yahoo.co.jp",
+          "url": "https://finance.yahoo.co.jp/news/ai-market/detail/3220"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/kyodopr202609256636/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000062.000081325.html"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/105424"
+        },
+        {
+          "name": "esgjournaljapan.com",
+          "url": "https://esgjournaljapan.com/domestic-news/56086"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ふるさと納税制度、10月以降も継続申請の1781自治体を総務省が認める",
+      "summary": "総務省は、ふるさと納税制度に参加中の1781自治体から10月以降の継続申請があり、全て認めたことを発表した。",
+      "relevance": "ふるさと納税制度の運用状況と、地方自治体における財源確保の動向についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "hokkoku.co.jp",
+          "url": "https://www.hokkoku.co.jp/articles/-/2239943"
+        },
+        {
+          "name": "nippon.com",
+          "url": "https://www.nippon.com/ja/news/kd1476146248115602358/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "財務省とインドネシア銀行、経済安定維持のための5つのステップを準備",
+      "summary": "財務省とインドネシア銀行は、2026年の国家予算赤字をGDPの3.0％未満に抑制するため、歳入強化と歳出厳格化を含む5つのステップを準備している。",
+      "relevance": "国際的な財政政策の動向と、経済安定化に向けた取り組みについてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "idnfinancials.com",
+          "url": "https://www.idnfinancials.com/jp/news/69418/finance-ministry-bank-indonesia-prepare-5-steps-to-stabilise-economy"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "ガバメントクラウドファンディングを活用した地域振興・プロジェクト支援",
+      "summary": "岩手町や新座市などで、ガバメントクラウドファンディング（GCF）を活用した地域振興やプロジェクト支援が行われている。これにより、若者の支援やテニスコート整備などが進められている。",
+      "relevance": "ガバメントクラウドファンディングの事例から、行政DXによる地域課題解決の可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000016.000166764&g=prt"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000016.000166764.html"
+        },
+        {
+          "name": "city.niiza.lg.jp",
+          "url": "https://www.city.niiza.lg.jp/soshiki/44/sakaeteikyujzyokurafan.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AI エージェントを組織構造に乗せる – PLAY が AWS DevOps Agent で築いた全社共通のインシデント対応基盤",
+          "url": "https://aws.amazon.com/jp/blogs/news/play-devops-agent-case-study/",
+          "pub_date": "2026-09-25T08:45:31.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon CloudWatch Omni のご紹介：生成 AI およびエージェント型ワークロード向けの AI を活用したオブザーバビリティ",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+          "pub_date": "2026-09-25T05:31:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS for SAP MCP Server で実現する SAP へのシングルサインオン・エージェントアクセス",
+          "url": "https://aws.amazon.com/jp/blogs/news/achieving-single-sign-on-agentic-access-to-sap-with-aws-for-sap-mcp-server/",
+          "pub_date": "2026-09-25T04:36:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "株式会社クリエイティブ・ウェブ様の AWS 開発事例「Amazon Connect Customer を活用した AI ロールプレイ研修システムの高速構築」のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/aicc-case-study-creative-web/",
+          "pub_date": "2026-09-25T02:10:40.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon CloudWatch Omni のご紹介：アプリケーション向けのコラボレーション型 AI を活用したオブザーバビリティ",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+          "pub_date": "2026-09-25T01:11:21.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 25, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_25_2026",
+          "pub_date": "2026-09-25T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Agent Substrate は GKE にて高密度でスケーラブルな信頼できるインフラストラクチャを提供します",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/agent-substrate-available-on-gke/",
+          "pub_date": "2026-09-25T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Dataflow での一時停止 / 再開と NVIDIA RTX PRO 6000 Blackwell GPU のサポートを発表",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+          "pub_date": "2026-09-25T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "M4N VM ファミリーの一般提供を開始: I/O およびメモリ バウンド ワークロードでコアあたり最高の IOPS とスループットを実現",
+          "url": "https://cloud.google.com/blog/ja/products/compute/compute-engine-m4n-vms/",
+          "pub_date": "2026-09-25T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「フロントエンドカンファレンス関西2026」に協賛し、ブース出展いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/25/1968225823/",
+          "pub_date": "2026-09-25T07:30:18.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「RAMEN TECH GLOBAL SUMMIT 2026」にて弊社執行役員 横田が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/25/1968225818/",
+          "pub_date": "2026-09-25T05:00:19.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【外部回線接続サービス】新規お申し込み受付終了のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/25/1968225743/",
+          "pub_date": "2026-09-25T01:10:43.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-25T19:06:22.019Z"
+}
