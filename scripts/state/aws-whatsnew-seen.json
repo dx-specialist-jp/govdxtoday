@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
-    "pubDate": "2026-09-15T22:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
-    "pubDate": "2026-09-15T18:58:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/",
-    "pubDate": "2026-09-15T18:30:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/",
-    "pubDate": "2026-09-15T16:54:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/",
-    "pubDate": "2026-09-15T16:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/root-user-regional-resiliency/",
-    "pubDate": "2026-09-14T19:30:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
-    "pubDate": "2026-09-14T17:39:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
-    "pubDate": "2026-09-14T17:35:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
-    "pubDate": "2026-09-14T17:32:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/",
-    "pubDate": "2026-09-14T17:30:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
-    "pubDate": "2026-09-14T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-whatsapp-dynamic-flows",
-    "pubDate": "2026-09-14T07:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-end-user-messaging-improves-deliverability",
-    "pubDate": "2026-09-14T07:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
-    "pubDate": "2026-09-16T17:56:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
-    "pubDate": "2026-09-16T17:45:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/",
-    "pubDate": "2026-09-16T17:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/",
-    "pubDate": "2026-09-16T17:00:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-security-agent/",
     "pubDate": "2026-09-18T18:34:00.000Z"
   },
@@ -86,5 +18,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
     "pubDate": "2026-09-18T15:15:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni/",
+    "pubDate": "2026-09-22T22:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
+    "pubDate": "2026-09-22T20:08:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/",
+    "pubDate": "2026-09-22T18:09:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
+    "pubDate": "2026-09-22T15:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
+    "pubDate": "2026-09-22T15:00:00.000Z"
   }
 ]

@@ -2978,6 +2978,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "AIガバナンスと信頼できるデータ基盤の重要性",
+        "summary": "教皇はAIガバナンスの改善と対話を求めており、AIエージェントによるデータ利用や意思決定プロセスを制御するデータガバナンスとAIガバナンスが事業運営の鍵となります。AIが金融業界で実用化するためには、信頼できるデータと明確なガバナンスメカニズムが不可欠です。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/giao-hoang-leo-xiv-keu-goi-tang-cuong-quan-tri-de-ai-thanh-cong-cu-phuc-vu-hieu-qua-cho-con-nguoi",
+        "relevance": "AIの信頼性確保と効果的な運用に必要な、データガバナンスおよびAIガバナンスのあり方について、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "AIモデルによる政府・大学サイトへの干渉とMicrosoft Copilotの刷新",
+        "summary": "OpenAIのAIモデルが政府・大学サイトに干渉した事例が報告されており、数十機関に通知されました。一方、Microsoftは個人用AIチャットボット競争から撤退し、法人顧客向けの単一製品としてCopilotを刷新しました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/557420a6-2a50-486e-9eaa-98eaa64a8d62",
+        "relevance": "AIモデルの安全性・信頼性に関するリスクと、AIツールの統合・再編の動向について、ご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "行政・士業における生成AIの普及と活用における課題",
+        "summary": "行政や士業分野で生成AIの活用が広がる一方、練馬区のように活用が進みにくい自治体も存在します。AI浸透による「ひとり税理士」の受難時代が到来する中、行政でのAI活用を推進するためには、課題を整理し、できるところから進めるアプローチが求められています。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/sensei-connect/articles/16911027",
+        "relevance": "行政におけるAI導入の課題と、活用推進に向けたアプローチについて、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "AIセキュリティ・ガバナンスEXPOにおける最新技術と事例紹介",
+        "summary": "「AIセキュリティ・ガバナンスEXPO」では、サイバーセキュリティやAIガバナンスに関する最新技術や支援事例が紹介されます。金融機関での与信審査モデルの公平性監査や、製造現場でのAI判断記録・監査に活用されるツールなど、法令遵守とリスク管理に資するソリューションが注目されています。",
+        "source": "excite.co.jp",
+        "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-25-81325-62/",
+        "relevance": "AI活用におけるセキュリティとガバナンス体制の構築、および関連技術の動向について、ご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
         "title": "米中間のAI協力と競争、およびAIガバナンスに関する動向",
@@ -7062,6 +7102,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "総務省・国土交通省における地域課題解決・DX推進施策",
+        "summary": "総務省は地域課題のDX・AX推進に向けた伴走支援を、国土交通省は住環境整備モデル事業や建築基準法施行令の改正、中小物流事業者の労働生産性向上事業を推進しています。また、ふるさと納税制度においては、1781自治体の継続申請が認められています。",
+        "source": "kknews.co.jp",
+        "url": "https://www.kknews.co.jp/news/20260926o03",
+        "relevance": "国が推進する地域課題解決やDX推進、インフラ整備に関する政策動向について、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "米中におけるAIガバナンス構築に向けた対話と国際的な規制動向",
+        "summary": "米中両国はAI対話の継続で一致し、AIガバナンス構築に向けた国際的な議論が進んでいます。AIがグローバルガバナンスの課題において中心的な役割を担い、規制遵守への対応が複雑化する中、両国の交渉や欧州のサイバーセキュリティ規制が、日本の行政システムにも影響を与える可能性があります。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/article/DGXZQOGM253MQ0V20C26A9000000/",
+        "relevance": "AIガバナンスに関する国際的な動向や規制の方向性について、今後の行政システムへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
         "title": "財務省とインドネシア銀行、経済安定維持のための5つのステップを準備",
@@ -7974,6 +8034,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "ガバメントクラウドファンディングを活用した地域振興プロジェクト",
+        "summary": "ガバメントクラウドファンディング（GCF）を活用した商品開発や地域PRプロジェクトが進められています。ふるさと納税制度においても、参加自治体の継続申請が認められ、ルールの下での運用が継続されます。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000014.000118286.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例と、ふるさと納税制度の運用状況について、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "香川県中讃広域圏における生成AI利活用に関する連携協定",
+        "summary": "香川県中讃広域圏の2市3町および中讃広域行政事務組合とPolimill株式会社が、生成AI利活用に関する連携協定を締結しました。これは、行政支援サービスとして生成AIを活用する取り組みの一環です。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19808308?news_ref=top_newComments",
+        "relevance": "自治体における生成AIの利活用事例として、先進的な取り組みをご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
         "title": "ガバメントクラウドファンディングを活用した地域振興・プロジェクト支援",
@@ -8645,6 +8725,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "Claude Opus 5.5 が AWS GovCloud (米国) で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "Claude Opus 5.5 が AWS で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "OpenAI の GPT-6 Sol と GPT-6 Luna が Amazon Bedrock で一般提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "Billing Transfer が 2 段階の移管における請求グループの自動作成をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "Amazon CloudWatch Omni を発表: エージェントとアプリケーション向けの AI ファーストの統合オブザーバビリティ",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
@@ -13042,6 +13167,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "総務省・財務省におけるスタートアップ支援とコンテンツ連携",
+        "summary": "総務省は「日本スタートアップ大賞2026」の受賞者を決定しました。また、財務省はアニメ『秘密結社 鷹の爪』とのコラボレーションを再び行い、生成AIを活用したコンテンツ制作も進められています。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000471.html",
+        "relevance": "スタートアップ支援施策や、行政と民間コンテンツの連携におけるDX推進の可能性について、ご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-24",
         "date_ja": "2026年9月24日（木）",
         "title": "国土交通省の群マネ普及促進策と生成AI×DXの生産性向上への潜む罠",
@@ -14344,6 +14479,16 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-09-27",
+        "date_ja": "2026年9月27日（日）",
+        "title": "AI企業への政府調達における安全性評価とサプライチェーンリスク管理",
+        "summary": "米連邦控訴裁判所は、AI企業Anthropicへの国防総省による安全保障上のブラックリスト指定を支持しました。これは、政府契約からの除外につながる可能性があり、AI企業が政府システムに採用される際のサプライチェーンリスク管理や安全性評価の重要性を示唆しています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/7b8d6db3-b4c5-41b3-be97-bed90079317f",
+        "relevance": "AI関連技術の政府調達における契約形態やリスク評価の観点について、ご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-24",
         "date_ja": "2026年9月24日（木）",
         "title": "米財務省による長期国債の買い戻し",
@@ -14632,20 +14777,20 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 319,
+    "AI活用": 323,
     "クラウド/インフラ": 89,
-    "制度/ガイドライン": 91,
-    "自治体DX事例": 67,
-    "AWS最新情報": 290,
+    "制度/ガイドライン": 93,
+    "自治体DX事例": 69,
+    "AWS最新情報": 295,
     "Google Cloud最新情報": 198,
-    "働き方/業務改革": 29,
+    "働き方/業務改革": 30,
     "さくらのクラウド最新情報": 70,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 17,
     "デジタル庁": 3,
-    "調達/契約": 10,
+    "調達/契約": 11,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-25T19:06:22.027Z"
+  "updated_at": "2026-09-26T18:14:17.788Z"
 }
