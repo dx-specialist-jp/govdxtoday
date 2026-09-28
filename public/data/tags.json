@@ -2,6 +2,15 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "JVN: Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+        "summary": "Androidアプリ「Readwise Reader」に複数クロスサイトスクリプティング脆弱性\n\n▶ 各府省のモバイル端末管理担当者は、職員が利用するAndroid端末における「Readwise Reader」アプリの利用状況を確認し、必要に応じてアンインストールや代替アプリの検討を指示してください。\n▶ セキュリティ担当部署は、本件に関する対応状況をPMO/PjMOに報告してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU96520526/",
+        "type": "government"
+      },
+      {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
         "title": "OpenAIのAIエージェントが政府サイトに不正アクセス、拒否後に制限を迂回",
@@ -2987,6 +2996,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "Novo社とAnthropic社が提携、生成AIモデルClaudeを用いて創薬を加速へ",
+        "summary": "デンマークNovo Nordisk社と米Anthropic社は、創薬推進のため提携し、生成AIモデルClaudeを用いて新薬開発とAI主導のソフトウエア開発を加速させることを発表しました。",
+        "source": "bio.nikkeibp.co.jp",
+        "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/09/24/15042/",
+        "relevance": "製薬業界におけるAI活用事例として、創薬分野での生成AIモデルの利用動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "AIガバナンスの重要性が高まる中、香港政府の優位性や多様な実装事例が示唆",
+        "summary": "AIエージェントの普及に伴いAIガバナンスの確立が喫緊の課題となる中、香港政府はAIガバナンスで優位性を持つとの見解を示し、多様な企業やプラットフォームで実装が進められています。",
+        "source": "chiba-tv.com",
+        "url": "https://www.chiba-tv.com/plus/detail/2026092053139",
+        "relevance": "AIガバナンスに関する国内外の動向や実装事例を踏まえ、自組織におけるAI活用時のリスク管理体制構築についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "デジタル庁の生成AI「源内」がLGWAN環境で自治体初導入、大分市で稼働開始",
+        "summary": "デジタル庁が開発した生成AI「源内」の派生サービスが、行政専用ネットワーク（LGWAN）上で自治体として初めて大分市に導入され、10月1日から稼働を開始しました。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17579012/",
+        "relevance": "「源内」のOSS公開とLGWAN環境での自治体導入事例を踏まえ、自組織でのAI活用可能性やセキュリティ要件についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-27",
         "date_ja": "2026年9月27日（日）",
@@ -6220,6 +6259,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "ガバメントクラウド採択サービスとガバメントクラウドファンディングの事例",
+        "summary": "「さくらのクラウド」がガバメントクラウドに採択されたことに加え、東京都町田市や兵庫県産後ケア事業協議会などでガバメントクラウドファンディングを活用した事例が報告されています。",
+        "source": "sakura.ad.jp",
+        "url": "https://www.sakura.ad.jp/recruit/midcareer/1063/",
+        "relevance": "ガバメントクラウド採択サービスやガバメントクラウドファンディングの事例を参考に、自組織におけるクラウド利用や財源確保の選択肢についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "AWS、NATO RESTRICTEDワークロード承認を取得し、政府・防衛組織のセキュリティニーズに対応",
+        "summary": "AWSは、クラウドプロバイダーとして初めてNATO RESTRICTEDワークロードの承認を取得し、世界中の政府機関や防衛組織のセキュリティニーズに応える体制を強化しました。",
+        "source": "aws.amazon.com",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-first-cloud-provider-nato-restricted-workloads/",
+        "relevance": "AWSのNATO RESTRICTEDワークロード承認状況を踏まえ、政府システムにおけるクラウド選定基準やセキュリティ要件についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
         "title": "ガバメントクラウドFinOpsツール「srest」のJ-LISフェア2026出展",
@@ -8765,6 +8824,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "AWS と SAP、SAP Business AI Platform の提供拡大に向け協業を強化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-and-sap-expand-collaboration-for-sap-business-ai-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "週刊生成AI with AWS – 2026年9月21日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260921/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "AWS がクラウドプロバイダーとして初めて NATO 全加盟国で NATO RESTRICTED ワークロードの取り扱い承認を取得",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-first-cloud-provider-nato-restricted-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "量子アルゴリズム入門: Daniel Simon 本人と読み解く Simon のアルゴリズム",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/simons-algorithm/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "週刊AWS – 2026/9/21週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260921/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
@@ -11468,6 +11572,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "JR東日本: Spanner と Cloud Run で「タッチトリガー」を実現し、改札データを起点に新たなコミュニケーションと価値を創出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/jr-east-implements-touch-trigger-using-spanner-and-cloud-run/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "September 28, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_28_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
         "title": "September 27, 2026",
@@ -13563,6 +13685,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-29",
+        "date_ja": "2026年9月29日（火）",
+        "title": "「さくらの夕べ 地域コミュニティナイト 〜小江戸らぐ&#038;LOCAL編〜」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/28/1968225833/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-26",
         "date_ja": "2026年9月26日（土）",
         "title": "【外部回線接続サービス】新規お申し込み受付終了のお知らせ",
@@ -14877,18 +15008,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 82,
+    "セキュリティ": 83,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 323,
-    "クラウド/インフラ": 89,
+    "AI活用": 326,
+    "クラウド/インフラ": 91,
     "制度/ガイドライン": 94,
     "自治体DX事例": 71,
-    "AWS最新情報": 300,
-    "Google Cloud最新情報": 199,
+    "AWS最新情報": 305,
+    "Google Cloud最新情報": 201,
     "働き方/業務改革": 30,
-    "さくらのクラウド最新情報": 70,
+    "さくらのクラウド最新情報": 71,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 18,
@@ -14896,5 +15027,5 @@
     "調達/契約": 11,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-27T18:51:35.036Z"
+  "updated_at": "2026-09-28T21:01:27.558Z"
 }

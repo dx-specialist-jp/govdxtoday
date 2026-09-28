@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-29",
+  "date_ja": "2026年9月29日（火）",
+  "news_summary": [
+    "Androidアプリ「Readwise Reader」にクロスサイトスクリプティング脆弱性、端末管理担当者は利用状況確認を。",
+    "デジタル庁開発の生成AI「源内」、LGWAN環境で大分市に初導入、自治体での活用が開始。",
+    "AIエージェント普及でAIガバナンスの重要性が高まり、香港政府が優位性を示す。",
+    "Novo Nordisk社とAnthropic社が提携、生成AIモデルClaudeで創薬を加速。",
+    "AWSがNATO RESTRICTEDワークロード承認を取得、政府・防衛組織のセキュリティニーズに対応。",
+    "「さくらのクラウド」がガバメントクラウドに採択、町田市等でガバメントクラウドファンディング活用事例。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: バッファロー製Wi-Fi製品における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94863997/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ISC BINDにおける複数の脆弱性（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97703430/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260928.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "JVN: Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+    "summary": "Androidアプリ「Readwise Reader」に複数クロスサイトスクリプティング脆弱性\n\n▶ 各府省のモバイル端末管理担当者は、職員が利用するAndroid端末における「Readwise Reader」アプリの利用状況を確認し、必要に応じてアンインストールや代替アプリの検討を指示してください。\n▶ セキュリティ担当部署は、本件に関する対応状況をPMO/PjMOに報告してください。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://jvn.jp/vu/JVNVU96520526/",
+    "pub_date": "2026-09-28"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁の生成AI「源内」がLGWAN環境で自治体初導入、大分市で稼働開始",
+      "summary": "デジタル庁が開発した生成AI「源内」の派生サービスが、行政専用ネットワーク（LGWAN）上で自治体として初めて大分市に導入され、10月1日から稼働を開始しました。",
+      "relevance": "「源内」のOSS公開とLGWAN環境での自治体導入事例を踏まえ、自組織でのAI活用可能性やセキュリティ要件についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17579012/"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/oita-genai-launch-lgwan/"
+        },
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/administration/58736/"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2640-9/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000014_000068645/"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/news/2d7dde1a-8df2-45ed-a50b-aa6c67adabf1"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000014.000068645.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17579012/body/?ref=news-body_17556246"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンスの重要性が高まる中、香港政府の優位性や多様な実装事例が示唆",
+      "summary": "AIエージェントの普及に伴いAIガバナンスの確立が喫緊の課題となる中、香港政府はAIガバナンスで優位性を持つとの見解を示し、多様な企業やプラットフォームで実装が進められています。",
+      "relevance": "AIガバナンスに関する国内外の動向や実装事例を踏まえ、自組織におけるAI活用時のリスク管理体制構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/2026092053139"
+        },
+        {
+          "name": "traders.co.jp",
+          "url": "https://www.traders.co.jp/news/article/1_2203165"
+        },
+        {
+          "name": "tradingkey.com",
+          "url": "https://www.tradingkey.com/jp/news/market-movers/262190209-market-movers-now-20260928"
+        },
+        {
+          "name": "nna.jp",
+          "url": "https://www.nna.jp/news/2971406"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/09/17/06463/?i_cid=nbpnxta_sied_newarticles"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000047.000124664&g=prt"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19815468?news_ref=watch_60_nw18963321"
+        },
+        {
+          "name": "note.com",
+          "url": "https://note.com/itlawyer/n/nbb9fab35f33a"
+        },
+        {
+          "name": "classmethod.jp",
+          "url": "https://classmethod.jp/seminar/261027-ai-global-webinar/"
+        },
+        {
+          "name": "rbbtoday.com",
+          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260928/1363623.html"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/newscn/world/newscn-J000114_20260928_CBMFN0"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000047.000124664.html"
+        },
+        {
+          "name": "forbesjapan.com",
+          "url": "https://forbesjapan.com/articles/detail/105583"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/667ebea4-ae92-45ff-98b1-1d15872695b6"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g3z02p&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260902530721/"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/metelix-tencent-cloud-partnership/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-09-28-177845-7/"
+        },
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/96830"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/437/4437677/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Novo社とAnthropic社が提携、生成AIモデルClaudeを用いて創薬を加速へ",
+      "summary": "デンマークNovo Nordisk社と米Anthropic社は、創薬推進のため提携し、生成AIモデルClaudeを用いて新薬開発とAI主導のソフトウエア開発を加速させることを発表しました。",
+      "relevance": "製薬業界におけるAI活用事例として、創薬分野での生成AIモデルの利用動向についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "bio.nikkeibp.co.jp",
+          "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/09/24/15042/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AWS、NATO RESTRICTEDワークロード承認を取得し、政府・防衛組織のセキュリティニーズに対応",
+      "summary": "AWSは、クラウドプロバイダーとして初めてNATO RESTRICTEDワークロードの承認を取得し、世界中の政府機関や防衛組織のセキュリティニーズに応える体制を強化しました。",
+      "relevance": "AWSのNATO RESTRICTEDワークロード承認状況を踏まえ、政府システムにおけるクラウド選定基準やセキュリティ要件についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "aws.amazon.com",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-first-cloud-provider-nato-restricted-workloads/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ガバメントクラウド採択サービスとガバメントクラウドファンディングの事例",
+      "summary": "「さくらのクラウド」がガバメントクラウドに採択されたことに加え、東京都町田市や兵庫県産後ケア事業協議会などでガバメントクラウドファンディングを活用した事例が報告されています。",
+      "relevance": "ガバメントクラウド採択サービスやガバメントクラウドファンディングの事例を参考に、自組織におけるクラウド利用や財源確保の選択肢についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sakura.ad.jp",
+          "url": "https://www.sakura.ad.jp/recruit/midcareer/1063/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000074_000033823/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000917_000052170/"
+        },
+        {
+          "name": "city.tokamachi.lg.jp",
+          "url": "https://www.city.tokamachi.lg.jp/shisei_machizukuri/shichonoheya/shichoteireikishakaiken/reriwa8/11366.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32429325/"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/437/4437603/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19813307?news_ref=20_20"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19813247?news_ref=20_20"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19813266?news_ref=watch_20_nw19779022"
+        },
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/oneday-5/"
+        },
+        {
+          "name": "digital.kentsu.co.jp",
+          "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M396Y4XSEN2BM9ZW6NPEQMXS"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "週刊AWS – 2026/9/21週",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260921/",
+          "pub_date": "2026-09-28T14:15:05.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "量子アルゴリズム入門: Daniel Simon 本人と読み解く Simon のアルゴリズム",
+          "url": "https://aws.amazon.com/jp/blogs/news/simons-algorithm/",
+          "pub_date": "2026-09-28T07:21:48.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS がクラウドプロバイダーとして初めて NATO 全加盟国で NATO RESTRICTED ワークロードの取り扱い承認を取得",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-first-cloud-provider-nato-restricted-workloads/",
+          "pub_date": "2026-09-28T06:42:59.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026年9月21日週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260921/",
+          "pub_date": "2026-09-28T05:59:45.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS と SAP、SAP Business AI Platform の提供拡大に向け協業を強化",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-and-sap-expand-collaboration-for-sap-business-ai-platform/",
+          "pub_date": "2026-09-28T02:58:29.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 28, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_28_2026",
+          "pub_date": "2026-09-28T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "JR東日本: Spanner と Cloud Run で「タッチトリガー」を実現し、改札データを起点に新たなコミュニケーションと価値を創出",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/jr-east-implements-touch-trigger-using-spanner-and-cloud-run/",
+          "pub_date": "2026-09-28T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「さくらの夕べ 地域コミュニティナイト 〜小江戸らぐ&#038;LOCAL編〜」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/28/1968225833/",
+          "pub_date": "2026-09-28T04:00:02.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-28T21:01:27.549Z"
+}

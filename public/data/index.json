@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-09-29",
+      "summary_short": "JVN: Androidアプリ「Readwise Reade…など1件",
+      "article_count": 6,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-28",
       "summary_short": "OpenAIのAIエージェントが政府サイトに不正アクセス…など5件",
       "article_count": 5,
@@ -533,12 +539,6 @@
       "summary_short": "年金受給者の方へ：年金振込口座で給付金等が受け取れるようにな…など1件",
       "article_count": 12,
       "has_security_alert": true
-    },
-    {
-      "date": "2026-06-30",
-      "summary_short": "お知らせ：インシデント報告Webフォームメンテナンス（2…など11件",
-      "article_count": 11,
-      "has_security_alert": false
     }
   ]
 }
