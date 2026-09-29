@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-security-agent/",
-    "pubDate": "2026-09-18T18:34:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
-    "pubDate": "2026-09-18T17:27:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
-    "pubDate": "2026-09-18T16:49:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/",
-    "pubDate": "2026-09-18T15:30:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
-    "pubDate": "2026-09-18T15:15:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni/",
     "pubDate": "2026-09-22T22:00:00.000Z"
   },
@@ -58,5 +38,13 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/",
     "pubDate": "2026-09-23T00:06:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
+    "pubDate": "2026-09-22T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
+    "pubDate": "2026-09-22T08:00:00.000Z"
   }
 ]

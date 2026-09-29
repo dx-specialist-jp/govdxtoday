@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "デジタル庁運用のシステムに不正アクセス、政府職員ら約24万6000件の個人情報流出",
+        "summary": "デジタル庁が運用するシステムに不正アクセスが発生し、政府職員らの個人情報約24万6000件が流出した。",
+        "source": "news.ntv.co.jp",
+        "url": "https://news.ntv.co.jp/category/society/82b40034aa2d4a8786229ac6020ebb34",
+        "relevance": "政府システムにおけるセキュリティインシデント発生状況として、PMO/PjMOの皆様は、プロジェクトにおけるサイバーセキュリティ対策の強化やインシデント対応計画の確認についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
         "title": "JVN: Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
@@ -2996,6 +3006,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "AIエージェント・AIガバナンスに関する最新動向と技術発表",
+        "summary": "AIエージェントの導入・ガバナンス強化に関する技術発表や、AIガバナンスC認証、データセキュリティ・AIガバナンスプラットフォームに関する情報が多数報じられている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/e210e924-fe42-4536-baad-6b9705000cc0",
+        "relevance": "AIエージェントの活用とそれに伴うガバナンス体制の整備・強化について、PMO/PjMOの皆様は、最新技術動向や国内外の事例を参考に、組織のAIガバナンス戦略についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "AIガバナンス、約半数が「無視」している実態",
+        "summary": "多くの企業がAIガバナンス体制を整備しているにも関わらず、約半数が実質的に「無視」している実態が明らかになった。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/53aaafebb9abda8f32b3c645d03cbfa44aaa13ff/images/000",
+        "relevance": "AIガバナンスの実効性確保に向けた課題として、PMO/PjMOの皆様は、策定したポリシーの現場への浸透や、実運用における遵守状況の確認についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "自治体AI zevoに新たなClaude系LLM「Claude Opus 5.5」が追加",
+        "summary": "自治体AI zevoに、拡張思考モードを持つ「Claude Opus 5.5」が追加され、ChatGPT、Claude、Geminiに続く生成AIシリーズとして利用可能になった。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000223.000056138.html",
+        "relevance": "自治体向けAIサービスのLLM拡充動向として、PMO/PjMOの皆様は、最新AIモデルの導入検討や効果測定についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "Google、東京大学と連携し自治体における生成AI活用事例を紹介",
+        "summary": "Googleは、東京大学との連携による自治体での生成AIモデル実装とAI人材育成を通じた地域課題解決支援の事例を紹介した。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2144107.html",
+        "relevance": "自治体におけるAI人材育成や地域課題解決へのAI活用事例として、PMO/PjMOの皆様は、産学連携によるDX推進についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "大分市、デジタル庁OSS「源内」を活用しLGWAN環境から生成AIサービスを初導入",
+        "summary": "大分市は、デジタル庁がOSSとして公開した「源内」を基盤とする生成AIサービスを、国内データセンター「さくらクラウド」を利用し、LGWAN環境から初めて導入した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/6e10dd314dd68c291108390a70a46ee36257a4b8/images/000",
+        "relevance": "自治体での生成AIサービス導入事例として、PMO/PjMOの皆様は、LGWAN環境におけるOSS活用やセキュリティ考慮事項についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
@@ -6259,6 +6319,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "著名投資家がデータセンター建設前に自治体へ監督体制等10項目の遵守を警告",
+        "summary": "著名投資家マーク・キューバンは、自治体に対しデータセンター建設承認前に、監督体制、水使用量、騒音制限など、法的に実効性のある保護策の導入を求めた。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17590384/?ref=pickstream_2025",
+        "relevance": "データセンター建設における自治体の役割と留意点について、PMO/PjMOの皆様は、インフラ整備に関わるリスク管理や許認可プロセスにおける確認事項についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "AWS、業界初のNATO全加盟国向けセキュリティ等級クラウド承認を取得",
+        "summary": "AWSは、NATO加盟国に所在するAWSリージョンで、NR等級のワークロードを処理するためのセキュリティ等級クラウド承認をNATO全加盟国向けに取得した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/904469be-8808-418f-b202-8386a4c61c7f",
+        "relevance": "政府・防衛分野におけるクラウドセキュリティの高度化動向として、PMO/PjMOの皆様は、機密性の高い情報を扱うシステムにおけるクラウド選定基準やセキュリティ要件についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
         "title": "ガバメントクラウド採択サービスとガバメントクラウドファンディングの事例",
@@ -7170,6 +7250,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "米政府、英国のAI安全性評価機関への新モデル提供に「米国内審査を優先」と要請",
+        "summary": "米政府は、AI安全性評価機関（AISI）が英国側への新モデル提供前に米国内での審査を優先するよう要請した。",
+        "source": "zaikei.co.jp",
+        "url": "https://www.zaikei.co.jp/amp/article/20260929/871637.html",
+        "relevance": "AIモデルの安全性評価における国際的な連携と国内審査の優先順位について、PMO/PjMOの皆様は、AI開発・導入における国際的な規制動向や評価プロセスについてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
@@ -8113,6 +8203,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "ガバメントクラウドファンディング（GCF）の活用事例と動向",
+        "summary": "大阪府八尾市や池田町、名古屋市など、全国の自治体でガバメントクラウドファンディング（GCF）を活用した地域課題解決の取り組みが進められている。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000025_000130750/",
+        "relevance": "自治体におけるガバメントクラウドファンディングの活用事例として、PMO/PjMOの皆様は、クラウドファンディングを活用したプロジェクト推進や資金調達の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
         "title": "河内長野市におけるガバメントクラウドファンディングの実施",
@@ -8824,6 +8924,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "AWS Glue Data Quality がコンテキストに応じたルールの推奨事項を数秒で提供",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "AWS Security Hub の AI インベントリが Azure のセルフホスト型インスタンスをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "Claude Opus 5.5 が Kiro で利用可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/opus-5-5/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "送配電事業におけるクラウド活用と AI 技術の最前線 ― T&D エグゼクティブ・ラウンドテーブル 開催報告",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/td-executive-roundtable-20260807/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "HR Open Standardsを活用したHRデータ統合のためのオントロジー設計",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/hr-open-standards-ontology/",
+        "type": "cloud"
+      },
       {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
@@ -11572,6 +11717,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "きめ細かい制御が可能な、新しいネイティブ セッション管理ツールのご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "Filestore エージェント ボリュームのご紹介: エージェント ワークスペース向けのフルマネージド ストレージ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/storage-data-transfer/filestore-agent-volumes/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "住友重機械工業: Google Cloud で SDV 開発基盤を構築し、大型機械用ソフトウェア開発の高速化と人材育成を両立",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/shi-builds-sdv-development-platform-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "September 29, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#September_29_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
         "title": "JR東日本: Spanner と Cloud Run で「タッチトリガー」を実現し、改札データを起点に新たなコミュニケーションと価値を創出",
@@ -13685,6 +13866,51 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "【さくらのドメイン】一部ドメインの料金改定についてのお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/29/1968225773/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "令和8年台風第25号に伴う災害に係る災害救助法の適用地域のお客さまへのご案内",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/29/1968225843/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "さくらインターネット、24時間365日対応の有償「プレミアムサポート」に「さくらの専用サーバ PHY」を追加",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/29/1968225761/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "[メンテナンス] さくらのクラウド 一部のお客様 [東京第1ゾーン]",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39730",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-09-30",
+        "date_ja": "2026年9月30日（水）",
+        "title": "「さくらの夕べ CoderDojoナイト」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/29/1968225852/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-09-29",
         "date_ja": "2026年9月29日（火）",
         "title": "「さくらの夕べ 地域コミュニティナイト 〜小江戸らぐ&#038;LOCAL編〜」を開催いたします",
@@ -15008,18 +15234,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 83,
+    "セキュリティ": 84,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 326,
-    "クラウド/インフラ": 91,
-    "制度/ガイドライン": 94,
-    "自治体DX事例": 71,
-    "AWS最新情報": 305,
-    "Google Cloud最新情報": 201,
+    "AI活用": 331,
+    "クラウド/インフラ": 93,
+    "制度/ガイドライン": 95,
+    "自治体DX事例": 72,
+    "AWS最新情報": 310,
+    "Google Cloud最新情報": 205,
     "働き方/業務改革": 30,
-    "さくらのクラウド最新情報": 71,
+    "さくらのクラウド最新情報": 76,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 18,
@@ -15027,5 +15253,5 @@
     "調達/契約": 11,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-28T21:01:27.558Z"
+  "updated_at": "2026-09-29T19:45:05.821Z"
 }

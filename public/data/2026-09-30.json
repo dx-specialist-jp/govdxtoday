@@ -1,0 +1,392 @@
+{
+  "date": "2026-09-30",
+  "date_ja": "2026年9月30日（水）",
+  "news_summary": [
+    "デジタル庁運用システムへの不正アクセスにより、政府職員等約24万6000件の個人情報が流出した。",
+    "大分市がデジタル庁OSS「源内」を活用し、LGWAN環境から生成AIサービスを初導入した。",
+    "Googleと東京大学が連携し、自治体における生成AI活用事例と人材育成支援を紹介した。",
+    "自治体AI zevoに拡張思考モードを持つ「Claude Opus 5.5」が追加され、利用可能になった。",
+    "AIガバナンス体制整備済み企業の約半数が、実質的にAIガバナンスを無視している実態が判明。",
+    "AWSがNATO全加盟国向けに、NR等級ワークロード処理可能なセキュリティ等級クラウド承認を取得した。",
+    "著名投資家がデータセンター建設前に、自治体へ監督体制等10項目の遵守を警告した。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96968110/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Pgpool-IIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN22475874/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Authlibライブラリにおける署名検証が回避される脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99151548/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "デジタル庁運用のシステムに不正アクセス、政府職員ら約24万6000件の個人情報流出",
+      "summary": "デジタル庁が運用するシステムに不正アクセスが発生し、政府職員らの個人情報約24万6000件が流出した。",
+      "relevance": "政府システムにおけるセキュリティインシデント発生状況として、PMO/PjMOの皆様は、プロジェクトにおけるサイバーセキュリティ対策の強化やインシデント対応計画の確認についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/society/82b40034aa2d4a8786229ac6020ebb34"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "大分市、デジタル庁OSS「源内」を活用しLGWAN環境から生成AIサービスを初導入",
+      "summary": "大分市は、デジタル庁がOSSとして公開した「源内」を基盤とする生成AIサービスを、国内データセンター「さくらクラウド」を利用し、LGWAN環境から初めて導入した。",
+      "relevance": "自治体での生成AIサービス導入事例として、PMO/PjMOの皆様は、LGWAN環境におけるOSS活用やセキュリティ考慮事項についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/6e10dd314dd68c291108390a70a46ee36257a4b8/images/000"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/6e10dd314dd68c291108390a70a46ee36257a4b8"
+        },
+        {
+          "name": "oita.keizai.biz",
+          "url": "https://oita.keizai.biz/release/653003/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Google、東京大学と連携し自治体における生成AI活用事例を紹介",
+      "summary": "Googleは、東京大学との連携による自治体での生成AIモデル実装とAI人材育成を通じた地域課題解決支援の事例を紹介した。",
+      "relevance": "自治体におけるAI人材育成や地域課題解決へのAI活用事例として、PMO/PjMOの皆様は、産学連携によるDX推進についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2144107.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "自治体AI zevoに新たなClaude系LLM「Claude Opus 5.5」が追加",
+      "summary": "自治体AI zevoに、拡張思考モードを持つ「Claude Opus 5.5」が追加され、ChatGPT、Claude、Geminiに続く生成AIシリーズとして利用可能になった。",
+      "relevance": "自治体向けAIサービスのLLM拡充動向として、PMO/PjMOの皆様は、最新AIモデルの導入検討や効果測定についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000223.000056138.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンス、約半数が「無視」している実態",
+      "summary": "多くの企業がAIガバナンス体制を整備しているにも関わらず、約半数が実質的に「無視」している実態が明らかになった。",
+      "relevance": "AIガバナンスの実効性確保に向けた課題として、PMO/PjMOの皆様は、策定したポリシーの現場への浸透や、実運用における遵守状況の確認についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/53aaafebb9abda8f32b3c645d03cbfa44aaa13ff/images/000"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/itmedia_enterprise_20260921023/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/53aaafebb9abda8f32b3c645d03cbfa44aaa13ff"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIエージェント・AIガバナンスに関する最新動向と技術発表",
+      "summary": "AIエージェントの導入・ガバナンス強化に関する技術発表や、AIガバナンスC認証、データセキュリティ・AIガバナンスプラットフォームに関する情報が多数報じられている。",
+      "relevance": "AIエージェントの活用とそれに伴うガバナンス体制の整備・強化について、PMO/PjMOの皆様は、最新技術動向や国内外の事例を参考に、組織のAIガバナンス戦略についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/e210e924-fe42-4536-baad-6b9705000cc0"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/187154"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260930/pr2/00m/020/013000c"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/omnissa-debuts-elara-authority-layer-for-enterprise-ai-governance/"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/stibo-systems-debuts-agentworkx-for-governed-ai-agents-in-master-data/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35253077/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/1e3397ba33ea9f89"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000194.000121022.html"
+        },
+        {
+          "name": "databricks.com",
+          "url": "https://www.databricks.com/jp/blog/helping-marketing-data-engineering-same-word-different-meaning"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32441532/"
+        },
+        {
+          "name": "asteria.com",
+          "url": "https://www.asteria.com/jp/warp/blog/166678.html"
+        },
+        {
+          "name": "datarobot.com",
+          "url": "https://www.datarobot.com/jp/blog/how-much-guardrail-does-your-ai-agent-need/"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/de-xuat-lo-trinh-ai-first-cho-nganh-tai-chinh-den-nam-2030"
+        },
+        {
+          "name": "pwc.com",
+          "url": "https://www.pwc.com/jp/ja/knowledge/column/awareness-cyber-security/dtf202612.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000090.000046548.html"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/cyera-ai-agent-security-trust-layer-architecture/"
+        },
+        {
+          "name": "straightpress.jp",
+          "url": "http://straightpress.jp/company_news/detail?pr=000000007.000177845"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AWS、業界初のNATO全加盟国向けセキュリティ等級クラウド承認を取得",
+      "summary": "AWSは、NATO加盟国に所在するAWSリージョンで、NR等級のワークロードを処理するためのセキュリティ等級クラウド承認をNATO全加盟国向けに取得した。",
+      "relevance": "政府・防衛分野におけるクラウドセキュリティの高度化動向として、PMO/PjMOの皆様は、機密性の高い情報を扱うシステムにおけるクラウド選定基準やセキュリティ要件についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/904469be-8808-418f-b202-8386a4c61c7f"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "著名投資家がデータセンター建設前に自治体へ監督体制等10項目の遵守を警告",
+      "summary": "著名投資家マーク・キューバンは、自治体に対しデータセンター建設承認前に、監督体制、水使用量、騒音制限など、法的に実効性のある保護策の導入を求めた。",
+      "relevance": "データセンター建設における自治体の役割と留意点について、PMO/PjMOの皆様は、インフラ整備に関わるリスク管理や許認可プロセスにおける確認事項についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17590384/?ref=pickstream_2025"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "米政府、英国のAI安全性評価機関への新モデル提供に「米国内審査を優先」と要請",
+      "summary": "米政府は、AI安全性評価機関（AISI）が英国側への新モデル提供前に米国内での審査を優先するよう要請した。",
+      "relevance": "AIモデルの安全性評価における国際的な連携と国内審査の優先順位について、PMO/PjMOの皆様は、AI開発・導入における国際的な規制動向や評価プロセスについてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20260929/871637.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "ガバメントクラウドファンディング（GCF）の活用事例と動向",
+      "summary": "大阪府八尾市や池田町、名古屋市など、全国の自治体でガバメントクラウドファンディング（GCF）を活用した地域課題解決の取り組みが進められている。",
+      "relevance": "自治体におけるガバメントクラウドファンディングの活用事例として、PMO/PjMOの皆様は、クラウドファンディングを活用したプロジェクト推進や資金調達の可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000025_000130750/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000025.000130750&g=prt"
+        },
+        {
+          "name": "tms-media.jp",
+          "url": "https://tms-media.jp/posts/97356/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000025.000130750.html"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20260929/pr2/00m/020/868000c"
+        },
+        {
+          "name": "kachimai.jp",
+          "url": "https://kachimai.jp/article/index.php?no=2026092900311"
+        },
+        {
+          "name": "trustbank.co.jp",
+          "url": "https://www.trustbank.co.jp/newsroom/newsrelease/press1020/"
+        },
+        {
+          "name": "city.fujimino.saitama.jp",
+          "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/kankyoka/kankyokakari/pet/17647.html"
+        },
+        {
+          "name": "city.nagoya.jp",
+          "url": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005624.html"
+        },
+        {
+          "name": "city.nagoya.jp",
+          "url": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005536.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "HR Open Standardsを活用したHRデータ統合のためのオントロジー設計",
+          "url": "https://aws.amazon.com/jp/blogs/news/hr-open-standards-ontology/",
+          "pub_date": "2026-09-29T07:34:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "送配電事業におけるクラウド活用と AI 技術の最前線 ― T&D エグゼクティブ・ラウンドテーブル 開催報告",
+          "url": "https://aws.amazon.com/jp/blogs/news/td-executive-roundtable-20260807/",
+          "pub_date": "2026-09-29T07:26:59.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Claude Opus 5.5 が Kiro で利用可能になりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/opus-5-5/",
+          "pub_date": "2026-09-28T23:59:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Security Hub の AI インベントリが Azure のセルフホスト型インスタンスをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
+          "pub_date": "2026-09-22T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Glue Data Quality がコンテキストに応じたルールの推奨事項を数秒で提供",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
+          "pub_date": "2026-09-22T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "September 29, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#September_29_2026",
+          "pub_date": "2026-09-29T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "住友重機械工業: Google Cloud で SDV 開発基盤を構築し、大型機械用ソフトウェア開発の高速化と人材育成を両立",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/shi-builds-sdv-development-platform-on-google-cloud/",
+          "pub_date": "2026-09-29T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Filestore エージェント ボリュームのご紹介: エージェント ワークスペース向けのフルマネージド ストレージ",
+          "url": "https://cloud.google.com/blog/ja/products/storage-data-transfer/filestore-agent-volumes/",
+          "pub_date": "2026-09-29T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "きめ細かい制御が可能な、新しいネイティブ セッション管理ツールのご紹介",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
+          "pub_date": "2026-09-28T16:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「さくらの夕べ CoderDojoナイト」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/09/29/1968225852/",
+          "pub_date": "2026-09-29T09:10:21.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "[メンテナンス] さくらのクラウド 一部のお客様 [東京第1ゾーン]",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39730",
+          "pub_date": "2026-09-29T06:19:09.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "さくらインターネット、24時間365日対応の有償「プレミアムサポート」に「さくらの専用サーバ PHY」を追加",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/29/1968225761/",
+          "pub_date": "2026-09-29T05:00:20.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "令和8年台風第25号に伴う災害に係る災害救助法の適用地域のお客さまへのご案内",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/29/1968225843/",
+          "pub_date": "2026-09-29T03:00:01.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのドメイン】一部ドメインの料金改定についてのお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/09/29/1968225773/",
+          "pub_date": "2026-09-29T02:00:24.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-29T19:45:05.816Z"
+}
