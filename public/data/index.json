@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-01",
+      "summary_short": "AWS、NATO加盟国全域でRESTRICTEDワークロ…など13件",
+      "article_count": 13,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-09-30",
       "summary_short": "デジタル庁運用のシステムに不正アクセス、政府職員ら約24…など10件",
       "article_count": 10,
@@ -533,12 +539,6 @@
       "summary_short": "お知らせ：JPCERT/CC 感謝状 2026…など11件",
       "article_count": 11,
       "has_security_alert": false
-    },
-    {
-      "date": "2026-07-02",
-      "summary_short": "お知らせ：JPCERT/CC 感謝状 2026…など13件",
-      "article_count": 13,
-      "has_security_alert": true
     }
   ]
 }

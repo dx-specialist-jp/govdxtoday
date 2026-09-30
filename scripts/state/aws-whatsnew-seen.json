@@ -46,5 +46,17 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
     "pubDate": "2026-09-22T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-emr-7-14-available/",
+    "pubDate": "2026-09-22T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/",
+    "pubDate": "2026-09-22T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/",
+    "pubDate": "2026-09-22T08:00:00.000Z"
   }
 ]
