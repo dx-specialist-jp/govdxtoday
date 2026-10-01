@@ -3047,6 +3047,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "政府・行政におけるAI活用と経済政策に関する言及",
+        "summary": "政府の成長戦略会議で国産AIや半導体への集中投資が議論される一方、AIとの「付き合い方」や弱点についても言及されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17607916/",
+        "relevance": "AI技術の戦略的活用と、それに伴う経済政策や社会への影響について、PMO/PjMOの皆様は、プロジェクトにおけるAI導入の戦略的意義やリスクをご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "米政府機関向けAIサービス提供と次世代モデル発表、Google Gemini 4 Argonも登場",
+        "summary": "米アンソロピックが連邦・州政府機関向けAIサービス「Claude for Government」の提供を開始。Googleは新世代フラッグシップモデル「Gemini 4 Argon」を発表し、一部米政府機関やサイバー防御組織へ提供。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/850c5078d613dfd91396602097308a51b2017336",
+        "relevance": "海外の政府機関におけるAIサービスの提供状況や最新モデルの動向について、PMO/PjMOの皆様は、将来的な日本国内での導入可能性や技術動向をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "自治体向けAIサービス「evo」にClaude Sonnet 5.5が追加、コスト削減と高速化を実現",
+        "summary": "自治体AIサービス「evo」にClaude Sonnet 5.5が追加され、前モデル比で30%以上高速化、コストも最大30%削減。既存契約者は追加費用なしで利用可能。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187216",
+        "relevance": "自治体AIサービスでの生成AIモデルの更新状況について、PMO/PjMOの皆様は、導入済みのサービスにおける性能向上やコスト効率化の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "AIガバナンス強化に向けた国内外の動向と企業・政府の取り組み",
@@ -6389,6 +6419,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "ガバメントクラウドFinOpsツールにAIアシスタント機能追加、クラウドコスト分析を支援",
+        "summary": "ガバメントクラウドFinOpsツール「srest」にAIアシスタント機能が追加され、自治体職員がAIとの対話でAWSコスト分析が可能に。ガバメントクラウドファンディングの活用も推進。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/pr_topics/detail/32462155/",
+        "relevance": "ガバメントクラウドにおけるコスト最適化とAI活用について、PMO/PjMOの皆様は、FinOpsツールのAI機能によるコスト管理効率化の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "システムエグゼ、さくらインターネットと提携しガバメントクラウド移行を強化",
@@ -7330,6 +7370,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "AIガバナンス強化に向けた取り組みと新会社設立、国際的な動向も注視",
+        "summary": "AIガバナンス強化に向けた統一リスクフレームワーク導入や新会社設立が進む。EUではデータセンターに最低性能基準導入、生成AIパスポートのシラバス改訂でAI倫理・ガバナンスを強化。",
+        "source": "arabnews.jp",
+        "url": "https://www.arabnews.jp/business/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%81%8C8%E6%9C%88%E3%81%AE%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E6%B2%B9%E8%BC%B8%E5%85%A5%E3%82%92%E4%B8%BB%E5%B0%8E%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A2%E6%80%A5%E5%A2%97-3000492",
+        "relevance": "AIガバナンスに関する国内外の動向や規制、ガイドラインの変更について、PMO/PjMOの皆様は、組織内でのAI活用におけるリスク管理体制や方針策定をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
@@ -9024,6 +9074,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "【開催報告】KubeCon + CloudNativeCon Japan 2026 – AWS ブース：Amazon EKS の最新ソリューションに関するデモセッションを実施",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kubecon-japan-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "OCC が AWS 上に構築したエージェンティック AI 調査ソリューションでセキュリティオペレーションを強化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/occ-strengthens-security-operations-with-an-agentic-ai-investigation-solution-built-on-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "AWS Weekly Roundup: Amazon Bedrock の GPT-6 Sol/Luna および Claude Opus 5.5、Strands ハーネスなど (2026 年 9 月 28 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "Kiro で SAP モダナイゼーションを加速",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-modernization-with-kiro/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "Kiro で SAP モダナイゼーションを加速 – ベンチマークとユースケース",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-modernization-with-kiro-benchmarks-and-use-cases/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
@@ -11862,6 +11957,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "Google Public Sector でエージェントの時代におけるサービス提供の定義を一新",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "ゲーム チェンジャー: エージェント型 AI を使用してインフラストラクチャ コードを保護する",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "Orange はどのように FinOps のアカウンタビリティを確立し、なぜ次にエージェントなのか",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "October 01, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_01_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "千葉大学：LMS の Google Cloud 移行で「止まらない教育インフラ」を実現。運用負荷の大幅軽減とデータ駆動型教育への挑戦",
@@ -14067,6 +14207,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "【さくらのウェブアクセラレータ】サービス提供開始から10周年および「さくら社員のリアルなCDN活用事例」公開のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/01/1968225838/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "「移行先のクラウド、導入後の運用まで考えていますか？～監視・可視化・サポートで知る、さくらのクラウド～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/01/1968225861/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-02",
+        "date_ja": "2026年10月2日（金）",
+        "title": "「議事録から始めるAI活用！国内完結で実現する業務効率化の第一歩」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/01/1968225864/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "【さくらのSSL】デジサート SSLサーバー証明書 中間CA証明書変更のお知らせ",
@@ -15467,14 +15634,14 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 334,
-    "クラウド/インフラ": 94,
-    "制度/ガイドライン": 96,
+    "AI活用": 337,
+    "クラウド/インフラ": 95,
+    "制度/ガイドライン": 97,
     "自治体DX事例": 73,
-    "AWS最新情報": 315,
-    "Google Cloud最新情報": 209,
+    "AWS最新情報": 320,
+    "Google Cloud最新情報": 214,
     "働き方/業務改革": 32,
-    "さくらのクラウド最新情報": 78,
+    "さくらのクラウド最新情報": 81,
     "AIガバナンス": 10,
     "ガバメントクラウド": 7,
     "調達・契約": 18,
@@ -15482,5 +15649,5 @@
     "調達/契約": 12,
     "プロジェクト管理": 18
   },
-  "updated_at": "2026-09-30T19:46:33.606Z"
+  "updated_at": "2026-10-01T20:03:58.057Z"
 }
