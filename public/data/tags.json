@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "相互に連鎖するサイバーリスク―政府機関に求められる備え",
+        "summary": "気密性の高い情報を保有し、社会に不可欠なサービスを運営する政府機関には、相互に連鎖するサイバーリスクへの備えが求められる。",
+        "source": "news.microsoft.com",
+        "url": "https://news.microsoft.com/source/asia/features/preparing-governments-for-an-era-of-interconnected-cyber-risk/?lang=ja",
+        "relevance": "PMO/PjMO担当者は、政府機関におけるサイバーセキュリティリスクの連鎖と、必要な備えについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "Weekly Report: 複数のMozilla製品に脆弱性",
@@ -3046,6 +3056,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "Broadcom、Anthropicに最大420億ドル融資か - AI投資への懸念も",
+        "summary": "BroadcomがAnthropicに最大420億ドルを融資する可能性が報じられており、AI投資への懸念も示唆されている。",
+        "source": "reuters.com",
+        "url": "https://www.reuters.com/jp/video/watch/idRW685501102026RP1/",
+        "relevance": "PMO/PjMO担当者は、AI分野への巨額投資の動向や、それに伴うリスクについてご注視ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "トランプ氏発表の米政府AI「America.gov」、大統領選結果に誤回答",
+        "summary": "トランプ氏が発表した米政府AI「America.gov」が、2020年大統領選の結果について、バイデン氏が勝利したと回答した。",
+        "source": "gadget.phileweb.com",
+        "url": "https://gadget.phileweb.com/post-134214/",
+        "relevance": "PMO/PjMO担当者は、AIの回答精度の課題と、政府がAIを導入する際の信頼性確保の重要性についてご認識ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "AIガバナンスと規制動向、自治体DX支援、ガバメントクラウドファンディングの多様な活用",
+        "summary": "AIガバナンスに関する規制や企業事例、自治体DX支援、ガバメントクラウドファンディングによる地域課題解決など、多様な動きが見られる。",
+        "source": "manegy.com",
+        "url": "https://www.manegy.com/news/detail/17297/",
+        "relevance": "PMO/PjMO担当者は、AIガバナンス、自治体DX、ガバメントクラウドファンディングなど、行政DXに関連する幅広い動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "「生成AIパスポート」2027年試験のシラバス改訂、AI倫理・ガバナンスを強化",
+        "summary": "「生成AIパスポート」の2027年試験からシラバスが大幅改訂され、AI倫理・ガバナンスに関する内容が強化される。",
+        "source": "hrzine.jp",
+        "url": "https://hrzine.jp/article/detail/8178",
+        "relevance": "PMO/PjMO担当者は、AI人材育成における資格制度の動向や、AI倫理・ガバナンスの学習内容についてご把握ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "Anthropic、政府機関向け「Claude for Government」提供開始 - FedRAMP High認可取得",
+        "summary": "Anthropicは、政府機関向けAIサービス「Claude for Government」を正式提供開始した。FedRAMP High認可を受けた環境で提供される。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/10/02/ai-daily-news-2026-10-01/",
+        "relevance": "PMO/PjMO担当者は、政府機関向けAIサービスのセキュリティ認可状況や、利用可能なAIモデルについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "政府、AI活用を阻む規制の再募集・府省横断点検を実施 - 国産AI・半導体等戦略分野への集中投資も",
+        "summary": "政府は、AIの社会実装を阻む規制について府省横断で点検し、再募集を開始する。国産AIや半導体など17分野への集中投資も進める。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/21ebd364352ea86e7ce7f145f369c792ba150110/images/000",
+        "relevance": "PMO/PjMO担当者は、AI活用を促進する規制緩和の動向や、AI戦略分野への投資状況についてご把握ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
@@ -6419,6 +6489,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "G-gen、デジタル庁よりガバメントクラウド関連開発を受注 - Google Cloud活用",
+        "summary": "株式会社G-genがデジタル庁から、ガバメントクラウドにおけるGoogle Cloud環境の削除機能やテンプレート改修などの開発業務を受注した。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/pr_topics/detail/32469160/",
+        "relevance": "PMO/PjMO担当者は、ガバメントクラウドにおける開発ベンダーの動向や、Google Cloudの活用事例についてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
         "title": "ガバメントクラウドFinOpsツールにAIアシスタント機能追加、クラウドコスト分析を支援",
@@ -9074,6 +9154,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "【開催報告】AI ペルソナワークショップ — 自社だけの AI ペルソナを作って、試してみよう",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-persona-workshop-20260915/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "最新の AWS ヒーローたちを讃えて – 2026 年 9 月",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/celebrating-our-newest-aws-heroes-september-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "【開催報告】AWS Future of Money ～AI × ブロックチェーンが創る新金融エコシステム～",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/%E3%80%90%E9%96%8B%E5%82%AC%E5%A0%B1%E5%91%8A%E3%80%91aws-future-of-money-%EF%BD%9Eai-x-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%8C%E5%89%B5%E3%82%8B/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "Amazon S3 Tables では、Apache Iceberg V3 のすべてのデータ型がサポートされるようになりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "今月の AWS オブザーバビリティ: 2026 年 8 月と 9 月",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-august-september-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
@@ -11957,6 +12082,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "AlloyDB と Cloud SQL のネイティブ BM25 ランキングを発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "ボーダーレスな Lakehouse を加速: クロスクラウド キャッシュのプレビュー版を発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "AI ワークロードのコンピューティングを柔軟に選択できるよう Google Cloud ネットワーキングがサポート",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "AlphaEvolve で動画処理を高速化する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "ガバナンスが組み込まれた、AI 支援による EKS から GKE への移行を実現する GKE エージェント型移行の概要",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/gke-agentic-migration/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
         "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化",
@@ -14207,6 +14377,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "「そのAI検討、迷っていませんか？さくらのAIサービスの違いと選び方」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/02/1968225880/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "「新規集客に追われていませんか？小さな会社でもできる『売上につながる顧客管理』入門」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/02/1968225884/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
         "title": "【さくらのウェブアクセラレータ】サービス提供開始から10周年および「さくら社員のリアルなCDN活用事例」公開のお知らせ",
@@ -14938,6 +15126,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "Citadel AI、三井住友銀行にAIガバナンスソリューションを提供開始",
+        "summary": "Citadel AIは、三井住友銀行に対し、生成AIの安全・安心な活用拡大を支援するAIガバナンスソリューションの提供を開始した。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/topics/detail/32475144/",
+        "relevance": "PMO/PjMO担当者は、生成AIのガバナンス強化に関する民間事例について、自組織での応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-03",
         "date_ja": "2026年9月3日（木）",
         "title": "AI導入の急速な進展とガバナンス・セキュリティリスクへの対応",
@@ -15448,6 +15646,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-10-03",
+        "date_ja": "2026年10月3日（土）",
+        "title": "簗農水大臣、予算配分に関する発言で釈明 - 会見で「コメントは控えたい」",
+        "summary": "簗農林水産大臣が、支持しなかった自治体への予算大幅カットを示唆する発言があったとされる件について、会見で「コメントは控えたい」と繰り返し述べている。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2986144",
+        "relevance": "PMO/PjMO担当者は、政府関係者の発言がもたらす影響について、広報・コミュニケーションの観点からご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-22",
         "date_ja": "2026年9月22日（火）",
         "title": "デジタル庁幹部一覧の更新とデジタル大臣の交代",
@@ -15630,24 +15838,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 88,
+    "セキュリティ": 89,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 337,
-    "クラウド/インフラ": 95,
+    "AI活用": 343,
+    "クラウド/インフラ": 96,
     "制度/ガイドライン": 97,
     "自治体DX事例": 73,
-    "AWS最新情報": 320,
-    "Google Cloud最新情報": 214,
+    "AWS最新情報": 325,
+    "Google Cloud最新情報": 219,
     "働き方/業務改革": 32,
-    "さくらのクラウド最新情報": 81,
-    "AIガバナンス": 10,
+    "さくらのクラウド最新情報": 83,
+    "AIガバナンス": 11,
     "ガバメントクラウド": 7,
     "調達・契約": 18,
     "デジタル庁": 3,
     "調達/契約": 12,
-    "プロジェクト管理": 18
+    "プロジェクト管理": 19
   },
-  "updated_at": "2026-10-01T20:03:58.057Z"
+  "updated_at": "2026-10-02T19:43:13.136Z"
 }
