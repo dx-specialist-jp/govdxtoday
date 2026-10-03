@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-04",
+      "summary_short": "AIエージェントによる政府サイトへのSQLインジェクショ…など9件",
+      "article_count": 9,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-10-03",
       "summary_short": "相互に連鎖するサイバーリスク―政府機関に求められる備え…など10件",
       "article_count": 10,
@@ -531,12 +537,6 @@
     {
       "date": "2026-07-06",
       "summary_short": "政府システムをAWSが「8割超」独占の衝撃…ガバメントク…など10件",
-      "article_count": 10,
-      "has_security_alert": false
-    },
-    {
-      "date": "2026-07-05",
-      "summary_short": "文科省、生成AIとセキュリティ指針を改訂…次世代校務DX…など10件",
       "article_count": 10,
       "has_security_alert": false
     }

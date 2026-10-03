@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "AIエージェントによる政府サイトへのSQLインジェクション試行とAIによる米国債への影響",
+        "summary": "AIエージェントが米国教育省などの政府サイトでSQLインジェクションを試みた。また、AIが米国債を発行し、財務省を「締め出し」ている可能性が指摘されている。",
+        "source": "pasqualepillitteri.it",
+        "url": "https://pasqualepillitteri.it/ja/news/20328/ai-agent-sql-injection-us-canada-government-sites-transluce",
+        "relevance": "AIエージェントのセキュリティリスクと、AIが金融市場に与える影響について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
         "title": "相互に連鎖するサイバーリスク―政府機関に求められる備え",
@@ -3056,6 +3066,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "国土交通省、2029年春にBIMデータ審査導入へ - AI・プログラム活用",
+        "summary": "国土交通省は、2029年春に予定する「BIMデータ審査」の導入に向け、AIやプログラムを活用する基本構想を策定した。これにより建築確認プロセスが効率化される見込み。",
+        "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+        "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/10/03/news-31871/",
+        "relevance": "BIMデータ審査導入におけるAI・プログラム活用の先進事例について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "AIエージェントによる観光データ分析支援とDX推進",
+        "summary": "AIエージェントが自治体・DMOの観光データ分析を支援し、次世代の観光DMP『Tourism』が提供される。また、デジタル化とAIは切り離せないとされ、DX推進においてAI活用が進められている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19838490?news_ref=watch_60_nw18963321",
+        "relevance": "AIエージェントを活用した観光データ分析支援の事例や、DX推進におけるAIの役割について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "AIガバナンスソリューションの提供とAIエージェント時代のデータ＆AIガバナンス",
+        "summary": "Citadel AIは三井住友銀行にAIガバナンスソリューションを提供。AIエージェント時代のデータ＆AIガバナンスセミナーも開講され、AI利用におけるデータ管理の重要性が強調されている。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/military_it-682/",
+        "relevance": "AIガバナンスソリューションの導入事例や、AIエージェント時代のデータ・AIガバナンス体制の構築について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "AI活用を阻む規制の再募集とAIガバナンスの強化",
+        "summary": "政府はAI活用を阻む規制の再募集を行う。また、AIエージェント時代の「鉄壁のガバナンス」についても解説が進められている。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/21ebd364352ea86e7ce7f145f369c792ba150110/images/000",
+        "relevance": "AI活用における規制緩和の動向と、AIエージェント時代を見据えたガバナンス体制の整備について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
@@ -6489,6 +6539,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "ガバメントクラウドにおけるGoogle Cloud環境削除機能及びテンプレート等の提供",
+        "summary": "株式会社G-genがデジタル庁より、ガバメントクラウドにおけるGoogle Cloudの環境削除機能およびテンプレート等を提供する。これにより、政府や地方自治体のクラウド利用が支援される。",
+        "source": "rbbtoday.com",
+        "url": "https://www.rbbtoday.com/release/prtimes2-today/20261003/1367705.html",
+        "relevance": "ガバメントクラウドにおけるGoogle Cloudの環境削除機能およびテンプレート等について、PMO/PjMO担当者はその利活用や標準化の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
         "title": "G-gen、デジタル庁よりガバメントクラウド関連開発を受注 - Google Cloud活用",
@@ -7450,6 +7510,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "日・ASEAN人工知能共創イニシアチブとAI協力の促進",
+        "summary": "ベトナムと日本はAI協力とデジタルトランスフォーメーションを促進することで合意。日・ASEAN人工知能共創イニシアチブについて協議され、AIソリューション開発、制度構築、人材育成などが議論された。",
+        "source": "vietnam.vn",
+        "url": "https://www.vietnam.vn/ja/thuc-day-trien-khai-hop-tac-ai-va-chuyen-doi-so-giua-viet-nam-nhat-ban",
+        "relevance": "国際的なAI協力における制度構築や人材育成の取り組みについて、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-02",
         "date_ja": "2026年10月2日（金）",
@@ -8423,6 +8493,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "ガバメントクラウドファンディング(GCF)を活用した自治体のプロジェクト支援",
+        "summary": "姫路市、京都府、名古屋市が、ふるさと納税制度を活用したガバメントクラウドファンディング（GCF）を実施し、子どもの学校改革や地域活性化プロジェクトへの寄付を募っている。",
+        "source": "city.himeji.lg.jp",
+        "url": "https://www.city.himeji.lg.jp/shisei/0000034393.html",
+        "relevance": "ガバメントクラウドファンディングを活用した自治体の先進的な資金調達・プロジェクト推進事例について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "ガバメントクラウドファンディングを活用した地方自治体の取り組み事例",
@@ -9154,6 +9234,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "Amazon WorkSpaces Applications が統合グラフィックスイメージを導入",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "Amazon Connect Customer で参照データの管理機能が拡張され、コンタクトセンターの設定をリアルタイムで変更可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "OpenAI GPT-6.1 Sol が Amazon Bedrock で一般提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "Amazon RDS のコンソールと API でフルスナップショットサイズの情報を確認可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "AWS DevOps Agent Skills を作成するためのベストプラクティス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
@@ -15310,6 +15435,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-10-04",
+        "date_ja": "2026年10月4日（日）",
+        "title": "次期マイナンバーカード導入延期と情報システム整備・運用経費",
+        "summary": "「次期マイナカード」の導入が延期された理由が「業者がいなかった」ためであるとデジタル相が説明。デジタル庁は情報システムの整備・運用に関する経費を計上している。",
+        "source": "tokyo-np.co.jp",
+        "url": "https://www.tokyo-np.co.jp/article/519222",
+        "relevance": "マイナンバーカード関連システムにおける調達・ベンダー選定の課題と、情報システム整備・運用経費の管理について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-28",
         "date_ja": "2026年9月28日（月）",
         "title": "米財務省国債入札、利回りが1993年4月以来の高水準で落札",
@@ -15838,24 +15973,24 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 89,
+    "セキュリティ": 90,
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 343,
-    "クラウド/インフラ": 96,
-    "制度/ガイドライン": 97,
-    "自治体DX事例": 73,
-    "AWS最新情報": 325,
+    "AI活用": 347,
+    "クラウド/インフラ": 97,
+    "制度/ガイドライン": 98,
+    "自治体DX事例": 74,
+    "AWS最新情報": 330,
     "Google Cloud最新情報": 219,
     "働き方/業務改革": 32,
     "さくらのクラウド最新情報": 83,
     "AIガバナンス": 11,
     "ガバメントクラウド": 7,
-    "調達・契約": 18,
+    "調達・契約": 19,
     "デジタル庁": 3,
     "調達/契約": 12,
     "プロジェクト管理": 19
   },
-  "updated_at": "2026-10-02T19:43:13.136Z"
+  "updated_at": "2026-10-03T18:29:52.636Z"
 }

@@ -1,62 +1,22 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni/",
-    "pubDate": "2026-09-22T22:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
-    "pubDate": "2026-09-22T20:08:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/",
-    "pubDate": "2026-09-22T18:09:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws/",
-    "pubDate": "2026-09-22T15:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/",
-    "pubDate": "2026-09-22T15:00:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
     "pubDate": "2026-09-23T22:51:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/",
-    "pubDate": "2026-09-23T17:41:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
+    "pubDate": "2026-09-29T21:00:23.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/",
-    "pubDate": "2026-09-23T16:00:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
+    "pubDate": "2026-09-29T20:17:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support",
-    "pubDate": "2026-09-23T15:00:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/",
+    "pubDate": "2026-09-29T17:00:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/",
-    "pubDate": "2026-09-23T00:06:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
-    "pubDate": "2026-09-22T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
-    "pubDate": "2026-09-22T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-emr-7-14-available/",
-    "pubDate": "2026-09-22T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/",
-    "pubDate": "2026-09-22T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/",
-    "pubDate": "2026-09-22T08:00:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/",
+    "pubDate": "2026-09-29T17:00:00.000Z"
   }
 ]
