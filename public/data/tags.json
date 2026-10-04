@@ -3067,6 +3067,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "個人のAIを見分けて許可を確認するPACTの仕組み「Decagon Personal Agent Gateway」",
+        "summary": "PACTは、個人のAIエージェントを識別し、許可を確認するための「Decagon Personal Agent Gateway」という仕組みを開発しました。",
+        "source": "tech-noisy.com",
+        "url": "https://tech-noisy.com/2026/10/03/decagon-personal-agent-gateway-pact/",
+        "relevance": "AIエージェントの識別と許可確認に関する技術動向について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "IBM、規制業種向けにAI基盤の自己ホスティング導入を発表",
+        "summary": "IBMは、金融や公共セクターなど、厳格なガバナンス要件を持つ規制業種を対象に、AI基盤の自己ホスティング対応を開始しました。",
+        "source": "simplywall.st",
+        "url": "https://simplywall.st/ja/stocks/us/software/nyse-ibm/international-business-machines/news/c8ccd6ae68bc3084/amp",
+        "relevance": "規制業種におけるAI基盤の自己ホスティング導入の動向について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "トランプ氏、AIガバナンスに関する「スーパーインテリジェンス部隊」創設を発表",
+        "summary": "トランプ氏はAI技術のガバナンス規範策定のため、「スーパーインテリジェンス部隊」の創設を発表し、AIの利用には行政方針として制限を設ける意向を示しました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/7b76fd24-8c7e-47e0-9478-0bbad03eaf36",
+        "relevance": "AI技術の利用やガバナンスに関する新たな方針について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
         "title": "国土交通省、2029年春にBIMデータ審査導入へ - AI・プログラム活用",
@@ -6539,6 +6569,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "ベトナム、PVOILシステムにおけるガソリン小売価格の安定維持",
+        "summary": "ベトナム商工省と財務省の合同調整により、PVOILシステムにおけるガソリン小売価格は10月3日午後3時以降、安定を維持しています。",
+        "source": "ja.laodong.vn",
+        "url": "https://ja.laodong.vn/thi-truong/gia-xang-dau-ban-le-hom-nay-310-1776830.ldo",
+        "relevance": "他国におけるインフラ関連の価格安定化策について、PMO/PjMO担当者はその動向をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "AWS、政府機関とのNDA廃止と地域への10億ドル超投資を発表",
+        "summary": "AWSは政府機関との秘密保持契約(NDA)を廃止し、今後5年間で地域へ10億ドル超を投資すると発表しました。",
+        "source": "pasqualepillitteri.it",
+        "url": "https://pasqualepillitteri.it/ja/news/20588/amazon-nda-data-center-built-together",
+        "relevance": "AWSの政府機関向けサービスにおける契約条件の変更について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
         "title": "ガバメントクラウドにおけるGoogle Cloud環境削除機能及びテンプレート等の提供",
@@ -7510,6 +7560,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "AIの社会実装を阻む規制・制度について政府が情報募集",
+        "summary": "政府はAIの社会実装を阻む規制や制度について国民からの情報提供を呼びかけており、規制改革推進会議での議論を経て基本方針が取りまとめられる見込みです。",
+        "source": "dempa-digital.com",
+        "url": "https://dempa-digital.com/article/726906",
+        "relevance": "AI導入における規制や制度に関する政府の動向について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
@@ -8493,6 +8553,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "マカオ政府、行政サービスアプリにAIチャットボットを導入",
+        "summary": "マカオ政府は、行政サービスアプリにAIチャットボットを導入する予定であり、回答は各政府部門が承認した公式ナレッジベースから生成されます。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/aebc7da6d0b6fe3d4009a42b95504a747746795e",
+        "relevance": "行政サービスにおけるAIチャットボット導入事例について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
         "title": "ガバメントクラウドファンディング(GCF)を活用した自治体のプロジェクト支援",
@@ -9234,6 +9304,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "AWS DataSync が共有 VPC のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "AWS Transfer Family がウェブアプリケーションでの複数のファイルおよびフォルダのダウンロードをサポート開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-web-apps-download-multiple-files-folders",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "Amazon Aurora が PostgreSQL 18.6、17.11、16.15、15.19、14.24 のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "Amazon RDS for PostgreSQL が延長サポートのマイナーバージョン 13.23-rds.20260514、12.22-rds.20260514、11.22-rds.20260514 を発表",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "AWS サービスの提供状況に関する最新情報",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-service-availability/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
@@ -15435,6 +15550,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-10-05",
+        "date_ja": "2026年10月5日（月）",
+        "title": "スタートアップからの調達拡大に向けた通知が地方公共団体へ発出",
+        "summary": "総務省と経済産業省は、地方自治法施行令に基づき、スタートアップからの随意契約による調達を拡大するよう地方公共団体へ通知しました。",
+        "source": "holg.jp",
+        "url": "https://www.holg.jp/jirei/pick781/",
+        "relevance": "スタートアップからの調達拡大に向けた政府通知について、PMO/PjMO担当者はその影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-04",
         "date_ja": "2026年10月4日（日）",
         "title": "次期マイナンバーカード導入延期と情報システム整備・運用経費",
@@ -15977,20 +16102,20 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 347,
-    "クラウド/インフラ": 97,
-    "制度/ガイドライン": 98,
-    "自治体DX事例": 74,
-    "AWS最新情報": 330,
+    "AI活用": 350,
+    "クラウド/インフラ": 99,
+    "制度/ガイドライン": 99,
+    "自治体DX事例": 75,
+    "AWS最新情報": 335,
     "Google Cloud最新情報": 219,
     "働き方/業務改革": 32,
     "さくらのクラウド最新情報": 83,
     "AIガバナンス": 11,
     "ガバメントクラウド": 7,
-    "調達・契約": 19,
+    "調達・契約": 20,
     "デジタル庁": 3,
     "調達/契約": 12,
     "プロジェクト管理": 19
   },
-  "updated_at": "2026-10-03T18:29:52.636Z"
+  "updated_at": "2026-10-04T18:30:24.290Z"
 }

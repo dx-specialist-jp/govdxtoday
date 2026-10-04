@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-05",
+  "date_ja": "2026年10月5日（月）",
+  "news_summary": [
+    "米国トランプ氏がAIガバナンスのため「スーパーインテリジェンス部隊」創設を発表しました。",
+    "IBMは規制業種向けにAI基盤の自己ホスティング対応を開始しました。",
+    "AWSは政府機関との秘密保持契約(NDA)を廃止しました。",
+    "政府はAI社会実装を阻む規制・制度について国民からの情報提供を募集しています。",
+    "マカオ政府は行政サービスアプリにAIチャットボットを導入予定です。",
+    "総務省・経済産業省は地方公共団体へスタートアップからの随意契約調達拡大を通知しました。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "トランプ氏、AIガバナンスに関する「スーパーインテリジェンス部隊」創設を発表",
+      "summary": "トランプ氏はAI技術のガバナンス規範策定のため、「スーパーインテリジェンス部隊」の創設を発表し、AIの利用には行政方針として制限を設ける意向を示しました。",
+      "relevance": "AI技術の利用やガバナンスに関する新たな方針について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/7b76fd24-8c7e-47e0-9478-0bbad03eaf36"
+        },
+        {
+          "name": "unite.ai",
+          "url": "https://www.unite.ai/ja/trump-announces-super-intelligence-force-led-by-four-officials/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "IBM、規制業種向けにAI基盤の自己ホスティング導入を発表",
+      "summary": "IBMは、金融や公共セクターなど、厳格なガバナンス要件を持つ規制業種を対象に、AI基盤の自己ホスティング対応を開始しました。",
+      "relevance": "規制業種におけるAI基盤の自己ホスティング導入の動向について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "simplywall.st",
+          "url": "https://simplywall.st/ja/stocks/us/software/nyse-ibm/international-business-machines/news/c8ccd6ae68bc3084/amp"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "個人のAIを見分けて許可を確認するPACTの仕組み「Decagon Personal Agent Gateway」",
+      "summary": "PACTは、個人のAIエージェントを識別し、許可を確認するための「Decagon Personal Agent Gateway」という仕組みを開発しました。",
+      "relevance": "AIエージェントの識別と許可確認に関する技術動向について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "tech-noisy.com",
+          "url": "https://tech-noisy.com/2026/10/03/decagon-personal-agent-gateway-pact/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AWS、政府機関とのNDA廃止と地域への10億ドル超投資を発表",
+      "summary": "AWSは政府機関との秘密保持契約(NDA)を廃止し、今後5年間で地域へ10億ドル超を投資すると発表しました。",
+      "relevance": "AWSの政府機関向けサービスにおける契約条件の変更について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "pasqualepillitteri.it",
+          "url": "https://pasqualepillitteri.it/ja/news/20588/amazon-nda-data-center-built-together"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "ベトナム、PVOILシステムにおけるガソリン小売価格の安定維持",
+      "summary": "ベトナム商工省と財務省の合同調整により、PVOILシステムにおけるガソリン小売価格は10月3日午後3時以降、安定を維持しています。",
+      "relevance": "他国におけるインフラ関連の価格安定化策について、PMO/PjMO担当者はその動向をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "ja.laodong.vn",
+          "url": "https://ja.laodong.vn/thi-truong/gia-xang-dau-ban-le-hom-nay-310-1776830.ldo"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AIの社会実装を阻む規制・制度について政府が情報募集",
+      "summary": "政府はAIの社会実装を阻む規制や制度について国民からの情報提供を呼びかけており、規制改革推進会議での議論を経て基本方針が取りまとめられる見込みです。",
+      "relevance": "AI導入における規制や制度に関する政府の動向について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/726906"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "マカオ政府、行政サービスアプリにAIチャットボットを導入",
+      "summary": "マカオ政府は、行政サービスアプリにAIチャットボットを導入する予定であり、回答は各政府部門が承認した公式ナレッジベースから生成されます。",
+      "relevance": "行政サービスにおけるAIチャットボット導入事例について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/aebc7da6d0b6fe3d4009a42b95504a747746795e"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "スタートアップからの調達拡大に向けた通知が地方公共団体へ発出",
+      "summary": "総務省と経済産業省は、地方自治法施行令に基づき、スタートアップからの随意契約による調達を拡大するよう地方公共団体へ通知しました。",
+      "relevance": "スタートアップからの調達拡大に向けた政府通知について、PMO/PjMO担当者はその影響をご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "holg.jp",
+          "url": "https://www.holg.jp/jirei/pick781/"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS サービスの提供状況に関する最新情報",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-service-availability/",
+          "pub_date": "2026-09-29T16:21:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon RDS for PostgreSQL が延長サポートのマイナーバージョン 13.23-rds.20260514、12.22-rds.20260514、11.22-rds.20260514 を発表",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/",
+          "pub_date": "2026-09-29T16:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Aurora が PostgreSQL 18.6、17.11、16.15、15.19、14.24 のサポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
+          "pub_date": "2026-09-29T16:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Transfer Family がウェブアプリケーションでの複数のファイルおよびフォルダのダウンロードをサポート開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-web-apps-download-multiple-files-folders",
+          "pub_date": "2026-09-29T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS DataSync が共有 VPC のサポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/",
+          "pub_date": "2026-09-29T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-04T18:30:24.281Z"
+}

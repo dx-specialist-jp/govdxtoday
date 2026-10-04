@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
-    "pubDate": "2026-09-23T22:51:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
     "pubDate": "2026-09-29T21:00:23.000Z"
   },
@@ -18,5 +14,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/",
     "pubDate": "2026-09-29T17:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-service-availability/",
+    "pubDate": "2026-09-29T16:21:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/",
+    "pubDate": "2026-09-29T16:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
+    "pubDate": "2026-09-29T16:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/transfer-family-web-apps-download-multiple-files-folders",
+    "pubDate": "2026-09-29T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/",
+    "pubDate": "2026-09-29T08:00:00.000Z"
   }
 ]
