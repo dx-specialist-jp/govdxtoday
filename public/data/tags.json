@@ -3067,6 +3067,36 @@
     ],
     "AI活用": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "行政現場・自治体における生成AI活用事例とセミナー",
+        "summary": "自治体向け生成AIプラットフォーム「自治体AI zevo」の利活用促進を目的としたオンラインセミナーが開催される。また、伊勢湾海運が生成AI活用セミナーを実施する。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19847722",
+        "relevance": "生成AIの行政現場での活用可能性と、職員向け研修のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "AIガバナンスの重要性と進展：規制、倫理、リスク管理の課題",
+        "summary": "AI技術の進化に追いつくためのガバナンス対応が急務となる中、AI特有の脅威やリスクへの対応、倫理的・法的な側面からの検討が求められている。AIガバナンス・リスク管理市場が急速に拡大している。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC067LK0W6A700C2000000",
+        "relevance": "AI導入における倫理的・法的リスクを考慮したガバナンス体制の構築についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "ガバメントAI基盤「源内」で職員のAIエージェント内製が可能に",
+        "summary": "政府職員がAIを利用するだけでなく、AIエージェントを自ら内製できるようになる。長年培ってきた業務上のノウハウをAIスキルとして活用可能になる。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03777/100200002/",
+        "relevance": "職員のAI活用能力向上のための研修・教育体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-05",
         "date_ja": "2026年10月5日（月）",
         "title": "個人のAIを見分けて許可を確認するPACTの仕組み「Decagon Personal Agent Gateway」",
@@ -6569,6 +6599,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "AI普及に伴うインフラ投資とガバメントクラウド推進",
+        "summary": "AIの普及に伴い、データセンターや電力、通信インフラへの投資が世界規模で拡大しており、日本でもAIインフラの整備とガバメントクラウドの推進が重要となっている。",
+        "source": "sakumaga.sakura.ad.jp",
+        "url": "https://sakumaga.sakura.ad.jp/entry/interop2026/",
+        "relevance": "AIインフラ整備とガバメントクラウド推進における、将来的な技術動向と投資計画についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "ガバメントクラウドにおけるシステム障害とセキュリティリスク",
+        "summary": "渋谷区で発生したシステム障害により窓口業務が縮小した事例や、Oracle情報漏洩疑惑など、ガバメントクラウドの運用におけるリスクが露呈している。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/b355d433b343404955178768c3784ada2bc3c44d/images/000",
+        "relevance": "ガバメントクラウド利用におけるシステム障害発生時の対応計画策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-05",
         "date_ja": "2026年10月5日（月）",
         "title": "ベトナム、PVOILシステムにおけるガソリン小売価格の安定維持",
@@ -7560,6 +7610,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "行政DX・AX推進における成果創出とデジタル庁の指針",
+        "summary": "行政DXやAI活用が広がる中で、システム導入に留まらず成果に繋げるためのデジタル庁の指針が示されている。高度AIアドバイザリー・プロセスも継続されている。",
+        "source": "jichitai.works",
+        "url": "https://jichitai.works/articles/3796",
+        "relevance": "DX・AX推進において、成果を最大化するための具体的な進め方についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-05",
         "date_ja": "2026年10月5日（月）",
@@ -8553,6 +8613,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "ガバメントクラウドファンディングを活用した地域課題解決の事例",
+        "summary": "自治体がガバメントクラウドファンディングを通じて、子どもの居場所、地域遺産保護、猫の保護活動など、様々な地域課題解決に向けた寄付を募集している。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000078.000071883&g=prt",
+        "relevance": "地域貢献や社会課題解決に資するガバメントクラウドファンディングの活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-05",
         "date_ja": "2026年10月5日（月）",
         "title": "マカオ政府、行政サービスアプリにAIチャットボットを導入",
@@ -9304,6 +9374,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "AWS ベースの EDA 環境で Rebellions の次世代 AI NPU 開発を加速する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/rebellions-eda-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "週刊AWS – 2026/9/28週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260928/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "Claude Sonnet 5.5 が Kiro で利用可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/sonnet-5-5/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "クラウド環境を最適化するための AI を活用したインテリジェンスである AWS Well-Architected Agent の発表 (プレビュー)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "週刊生成AI with AWS – 2026/9/28週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260928/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-05",
         "date_ja": "2026年10月5日（月）",
@@ -12322,6 +12437,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "日々のマイクロ ハビットを活用して企業における AI 構築担当者ーをスキルアップする方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "Google、2026 年 Gartner Magic Quadrant でコンテナ管理部門のリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "オーケー: AlloyDB と Database Migration Service で「止められない基幹システム」を移行し、データドリブンな価値創出を加速",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/ok-accelerates-data-driven-value-creation-with-alloydb-and-the-database-migration-service/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "October 05, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_05_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
         "title": "AlloyDB と Cloud SQL のネイティブ BM25 ランキングを発表",
@@ -14617,6 +14768,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "「さくらのレンタルサーバ取次店制度のしくみと最新アップデート」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/05/1968225896/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "「30分でわかる！​はじめての『さくらのクラウド』入門～構成・事例・料金まで、使い始める前の疑問をやさしく解説​～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/05/1968225901/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
         "title": "「そのAI検討、迷っていませんか？さくらのAIサービスの違いと選び方」を開催いたします",
@@ -15784,6 +15953,16 @@
     ],
     "調達/契約": [
       {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "西東京市議会でのシステム標準化に向けた業務委託に関する参考人招致",
+        "summary": "西東京市議会では、システム標準化に向けた業務委託に関する参考人招致が行われた。住民税課税システム、介護保険システム、国民健康保険システムなどが対象。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/45640/posts/1524946",
+        "relevance": "システム標準化に向けた業務委託における、調達・契約プロセスの最適化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "米控訴裁、国防総省によるAnthropic製品調達排除を支持",
@@ -15905,6 +16084,16 @@
       }
     ],
     "プロジェクト管理": [
+      {
+        "date": "2026-10-06",
+        "date_ja": "2026年10月6日（火）",
+        "title": "システム刷新前に「WHY」から業務・組織・基盤を描く重要性",
+        "summary": "元カシオCIOの矢澤氏は、システム刷新の前に、その目的（WHY）から業務、組織、基盤設計までを包括的に描くことの重要性を説いている。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20261005-5061771/",
+        "relevance": "プロジェクト開始前に、事業目標達成のための「WHY」を明確化するプロセスについてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-03",
         "date_ja": "2026年10月3日（土）",
@@ -16102,20 +16291,20 @@
     "その他": 178,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 350,
-    "クラウド/インフラ": 99,
-    "制度/ガイドライン": 99,
-    "自治体DX事例": 75,
-    "AWS最新情報": 335,
-    "Google Cloud最新情報": 219,
+    "AI活用": 353,
+    "クラウド/インフラ": 101,
+    "制度/ガイドライン": 100,
+    "自治体DX事例": 76,
+    "AWS最新情報": 340,
+    "Google Cloud最新情報": 223,
     "働き方/業務改革": 32,
-    "さくらのクラウド最新情報": 83,
+    "さくらのクラウド最新情報": 85,
     "AIガバナンス": 11,
     "ガバメントクラウド": 7,
     "調達・契約": 20,
     "デジタル庁": 3,
-    "調達/契約": 12,
-    "プロジェクト管理": 19
+    "調達/契約": 13,
+    "プロジェクト管理": 20
   },
-  "updated_at": "2026-10-04T18:30:24.290Z"
+  "updated_at": "2026-10-05T21:46:59.637Z"
 }
