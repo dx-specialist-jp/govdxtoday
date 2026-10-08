@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "IDCFクラウドでランサム攻撃発生、495の企業・自治体に影響、一部復旧困難",
+        "summary": "ソフトバンク子会社のIDCFクラウドでランサム攻撃が発生し、495の企業・自治体に影響が出ている。一部ではデータの復旧が困難な状況であることが伝えられている。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/topics/itmedia_news_202610072000002107/",
+        "relevance": "クラウドサービスにおけるセキュリティインシデントは、PMO/PjMOの皆様がプロジェクトにおけるリスク評価やBCP策定を行う上で重要な参考情報となるため、ご注目ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
         "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
@@ -3203,6 +3213,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "Anthropic、サイバー検証プログラムを拡大、地域病院や自治体の公益インフラへのアクセス提供",
+        "summary": "Anthropicはサイバー検証プログラムを拡大し、地域病院や自治体の公益インフラ（航空運航システム、電力網、通信ネットワーク、銀行間送金インフラ、政府の行政システム）へのアクセスを提供している。",
+        "source": "remio.ai",
+        "url": "https://www.remio.ai/ja/post/anthropic-cyber-verification-program-expands-access-but-removes-key-claude-sa-ja",
+        "relevance": "AI開発企業が公益インフラへのアクセスを拡大する動きは、PMO/PjMOの皆様がAI活用におけるセキュリティリスクや連携可能性を検討する上で参考になるため、ご注目ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "Google、AI生成コンテンツの「透かし」検出ツール「SynthID Detector」を一般公開",
+        "summary": "Googleは、画像、動画、音声に埋め込まれた電子透かし「SynthID」を検出するツール「SynthID Detector」を一般公開した。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17654345/?ref=pickstream_2056",
+        "relevance": "AI生成コンテンツの信頼性確保は重要であり、PMO/PjMOの皆様は、AI生成物の取り扱いに関するガイドライン策定の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "AI導入はクラウド経由が主流、政府も「Project YATA-Shield」公表、金融庁・日銀が主導",
+        "summary": "AI導入はクラウド経由が主流となっており、日本政府も14府省庁が「Project YATA-Shield」を公表し、金融庁と日銀が金融機関と共に推進している。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/0db27a28-1ca2-4243-abc2-c3d13debf847",
+        "relevance": "政府全体でのAI活用推進の動きは、PMO/PjMOの皆様が自組織のAI戦略を策定する上で参考になるため、ご注目ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "新モデル「Gemini 4 Argon」発表、出力トークン上限100万に拡大し複雑なワークフローに対応",
+        "summary": "Googleが発表した新モデル「Gemini 4 Argon」は、出力トークン上限を100万に拡大し、複雑かつ長期的なワークフロー全体にわたる深い推論を可能にする。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/google-gemini-4-argon-release/",
+        "relevance": "AIモデルの進化は、PMO/PjMOが推進するプロジェクトの可能性を広げるため、最新のAI技術動向としてご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "AIガバナンスの最新動向：EU規制、日米連携、サイバーセキュリティ、コンプライアンス実務への影響",
+        "summary": "EUでは高リスクAI規制の適用延期と透明性義務の開始が進み、日本でもAI基本計画やAIガバナンスに関する議論が進展している。AIガバナンスの測定指標や、AIエージェントの統制基盤に関する共同検討も進められている。",
+        "source": "deloitte.com",
+        "url": "https://www.deloitte.com/jp/ja/services/consulting/perspectives/latest-trends-ai-governance.html",
+        "relevance": "AIガバナンスに関する国内外の規制動向や最新の議論は、PMO/PjMOの皆様がAI導入プロジェクトにおけるリスク管理体制を構築する上で参考になるため、ご注目ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "自治体AI zevo、Claude/Gemini等の生成AI活用に向け新モデル追加、GPT Image 2.5 Flare/Sunburstも提供",
+        "summary": "自治体AI zevoにて、Claude/Gemini等の生成AI活用に向けた新たなClaude系LLMやGPT Image 2.5 Flare/Sunburstなどの画像生成モデルが追加される。これにより、自治体における生成AIの活用が新たな段階に入り始めている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19857612",
+        "relevance": "自治体における生成AIの活用事例として、PMO/PjMOの皆様は、自組織での導入可能性や想定される効果についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
@@ -6756,6 +6826,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "ガバメントクラウド FinOpsツール「srest」、クラウド費用削減のための新機能を提供開始",
+        "summary": "ガバメントクラウドFinOpsツール「srest」が、クラウド利用料の削減余地と見込み額を自治体ごとに示す新機能を提供開始し、クラウド移行後の運用経費増への対応を支援する。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/pr_topics/detail/32519697/",
+        "relevance": "ガバメントクラウド利用におけるコスト最適化は重要な検討事項であり、PMO/PjMOの皆様は、費用削減の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
         "title": "AWSトップ、データセンター建設への批判に反論し、地域支援に10億ドル超を追加投資",
@@ -8800,6 +8880,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "ガバメントクラウドファンディング(GCF)活用事例：絶滅危惧種保全、地域課題解決、災害救助キット整備",
+        "summary": "妙高市での絶滅危惧種ライチョウ保全、石川県加賀市での地域課題解決、岐阜県警での災害救助キット整備など、ガバメントクラウドファンディング(GCF)の活用事例が紹介されている。",
+        "source": "niikei.jp",
+        "url": "https://www.niikei.jp/2081557/",
+        "relevance": "ガバメントクラウドファンディングは、行政が資金調達と国民とのエンゲージメントを強化する手段となり得るため、PMO/PjMOの皆様は、プロジェクトの資金調達や広報戦略の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
         "title": "自治体におけるガバメントクラウドファンディング(GCF)の活用事例と研修実施",
@@ -9571,6 +9661,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "AWS ウィークリーまとめ：OpenAI を搭載した Amazon Bedrock マネージドエージェント、Q3 のサービス可用性アップデート、Kiro ワークフローなど（2026 年 10 月 5 日）",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "Timestream for InfluxDB 3 のワークロード分析とベストプラクティス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/timestream-for-influxdb-3-workload-analysis-and-best-practices/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "Amazon Bedrock の自動推論チェックが変える生成 AI のコンプライアンス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "数値で見る AWS が支える Amazon プライムデー 2026",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "Amazon DynamoDB から Amazon S3 へのフィルター付きエクスポート機能のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-filtered-export-from-amazon-dynamodb-to-amazon-s3/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
@@ -12724,6 +12859,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "分析の高速化: PayPal の Managed Service for Apache Spark 導入事例",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "October 08, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_08_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
         "title": "Google Cloud パートナー、Gemini Enterprise を活用して新たなセキュリティ エージェントと AI 防御機能を提供",
@@ -14805,6 +14958,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "M365 Copilot全庁展開で月2000時間削減、自治体でのAI活用習慣化の仕組み",
+        "summary": "千代田区や取手市の成功事例を基に、M365 Copilotの全庁展開による月2000時間削減や、現場がAIを「使いたくなる」習慣化の仕組みが紹介されている。",
+        "source": "kn.itmedia.co.jp",
+        "url": "https://kn.itmedia.co.jp/kn/article/2610/08/2000002100/",
+        "relevance": "AIツールの定着・活用促進はプロジェクト成功の鍵であり、PMO/PjMOの皆様は、組織内でのAI活用習慣化の施策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-01",
         "date_ja": "2026年10月1日（木）",
         "title": "英国政府、職員向け草案でAIとの“無駄なやり取り”削減を提案",
@@ -15126,6 +15289,33 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "【さくらの専用サーバ PHY】「VMware vSphere ESXi 8.0」提供終了のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/08/1968225848/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "さくらインターネット、企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」を提供開始",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/10/08/1968225874/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-09",
+        "date_ja": "2026年10月9日（金）",
+        "title": "「さくらのクラウドで始める実践アプリ開発入門 ～AppRun×AI Engineまで一気に理解～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/08/1968225945/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
@@ -16683,18 +16873,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 94,
+    "セキュリティ": 95,
     "その他": 188,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 355,
-    "クラウド/インフラ": 102,
+    "AI活用": 361,
+    "クラウド/インフラ": 103,
     "制度/ガイドライン": 102,
-    "自治体DX事例": 77,
-    "AWS最新情報": 350,
-    "Google Cloud最新情報": 231,
-    "働き方/業務改革": 32,
-    "さくらのクラウド最新情報": 88,
+    "自治体DX事例": 78,
+    "AWS最新情報": 355,
+    "Google Cloud最新情報": 233,
+    "働き方/業務改革": 33,
+    "さくらのクラウド最新情報": 91,
     "AIガバナンス": 11,
     "ガバメントクラウド": 7,
     "調達・契約": 21,
@@ -16702,5 +16892,5 @@
     "調達/契約": 13,
     "プロジェクト管理": 20
   },
-  "updated_at": "2026-10-07T20:23:07.396Z"
+  "updated_at": "2026-10-08T20:27:18.408Z"
 }
