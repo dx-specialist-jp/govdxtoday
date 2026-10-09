@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AI時代の情報セキュリティとフィジカルAIの産学官連携",
+        "summary": "AI時代の情報セキュリティEXPOでは、AI生成楽曲判別や画面撮影検知が展示され、AI活用に伴う新たなリスクやAIエージェントのガバナンス強化が課題となっています。また、フィジカルAIの産学官コンソーシアム発足も予定されています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000004721.000032407.html",
+        "relevance": "AI時代のサイバーセキュリティリスクとフィジカルAIの動向について、PMO/PjMOの皆様は、組織のセキュリティ戦略におけるAI関連リスクへの対応策をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "相次ぐ不正アクセス事案とデジタル庁・国家サイバー統括室の注意喚起",
+        "summary": "内閣官房国家サイバー統括室が、相次ぐ不正アクセス事案について注意喚起を行っています。デジタル庁運用のシステムでも情報漏えいが報告されており、対策が急務です。",
+        "source": "internet.watch.impress.co.jp",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2147162.html",
+        "relevance": "政府機関が発信する不正アクセスに関する注意喚起について、PMO/PjMOの皆様は、組織のサイバーセキュリティ対策の有効性評価と強化をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AI悪用によるサイバー攻撃の増加と身代金交渉の効率化",
+        "summary": "AI技術の進化により、日本語でのサイバー攻撃や身代金交渉が10倍効率化する可能性が指摘されています。これにより、不正アクセスの被害が増加する恐れがあります。",
+        "source": "news.tv-asahi.co.jp",
+        "url": "https://news.tv-asahi.co.jp/news_international/articles/000539051.html",
+        "relevance": "AI技術の進化がサイバー攻撃のリスクを増大させる可能性について、PMO/PjMOの皆様は、組織におけるセキュリティ対策の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
         "title": "IDCFクラウドでランサム攻撃発生、495の企業・自治体に影響、一部復旧困難",
@@ -3213,6 +3243,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "Google、業務エージェント「Gemini agent」でAnthropicのClaudeも利用可能に",
+        "summary": "Google Cloudは、業務エージェント「Gemini agent」でAnthropicのClaudeも利用可能にする予定です。政府、ヘルスケア、小売分野への展開も視野に入れています。",
+        "source": "thebridge.jp",
+        "url": "https://thebridge.jp/2026/10/google-cloud-gemini-agent-gemini-at-work-2026",
+        "relevance": "GoogleのAIエージェント機能拡充について、PMO/PjMOの皆様は、業務効率化に資するAIツールの導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AIガバナンス、AIエージェントの安全な活用とリスク管理の重要性",
+        "summary": "AI活用が広がる中、AIガバナンスの確立、AIエージェントの逸脱、情報漏えい、AIシステムのセキュリティ確保、そしてAIリスク管理の有効性検証が課題となっています。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1000_10969/",
+        "relevance": "AIエージェントの安全な活用とAIガバナンス強化に向けた最新動向について、PMO/PjMOの皆様は、自組織のAI導入・運用におけるガバナンス体制の構築をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
@@ -6826,6 +6876,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "ガバメントクラウド活用とガバメントクラウドファンディングの事例",
+        "summary": "ガバメントクラウドの活用状況や、自治体におけるガバメントクラウドファンディング（GCF）を活用した地域課題解決の事例が紹介されています。クラウドコスト最適化の検討も示唆されています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000535_000078927/",
+        "relevance": "ガバメントクラウドの活用とガバメントクラウドファンディングの事例について、PMO/PjMOの皆様は、クラウド利用におけるコスト最適化と、官民連携による地域課題解決の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
         "title": "ガバメントクラウド FinOpsツール「srest」、クラウド費用削減のための新機能を提供開始",
@@ -7857,6 +7917,36 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "米政府、マイクロソフトなど8社の外国人労働者永住権手続きを停止",
+        "summary": "米政府は、マイクロソフトやアドビなど8社について、外国人労働者の永住権申請に必要なPERM手続きを停止すると発表しました。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17664941/?ref=pickstream_2056",
+        "relevance": "他国の行政手続き変更が、グローバルな事業展開に与える影響について、PMO/PjMOの皆様は、海外の規制動向と自組織の事業計画との関連性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "消費減税における財務省不信と異論なき政治の危うさ",
+        "summary": "消費減税に関する財源や農家への影響について、政府内の会議で懸念の声が上がり、財務省への説明責任が問われる状況が報じられています。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/articles/ASVB91CQDVB9USPT00JM.html",
+        "relevance": "政策決定プロセスにおける財源論や説明責任の重要性について、PMO/PjMOの皆様は、プロジェクトの推進における関係各所との連携と合意形成についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AIエージェントの安全な活用とAIガバナンスGL改定",
+        "summary": "AIエージェントの虐待的な利用の禁止や、AIガバナンスに関するガイドライン（GL）の改定案策定が進められています。これにより、AIの安全な活用が目指されています。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/441/4441372/",
+        "relevance": "AIエージェントの利用に関するガイドライン策定の動向について、PMO/PjMOの皆様は、AI活用における倫理的・安全な運用ルールの整備をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
@@ -9661,6 +9751,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "Agent Skills で Amazon Bedrock の自動推論ポリシーのライフサイクルを自動化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "【公共向け】AWS WAF 実践ワークショップ開催報告 ― AI 時代の Web アプリケーション防御",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-waf-workshop-report-ai-bot-protection/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AI を活用した脆弱性検出ハーネス (パート 1 構築編): 3 層パイプラインによる検出結果の絞り込み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/building-your-ai-vulnerability-harness-part-1/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "AI を活用した脆弱性検出ハーネス (パート 2 設定編): ステアリングファイルで実現する証拠ベースの脆弱性トリアージ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "自治体のためのクラウドコスト最適化 ③：予算要求・執行・決算の実務",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/lg-cost-optimization-03-budget-management/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
@@ -12859,6 +12994,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "45 倍高速な GKE Agent Sandbox でエージェント型 RL と評価研究を加速",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "Gemini at Work 2026 で Gemini エージェントを発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "電通、Google Cloud 共催イベント「Gemini Day」を開催、 AI が広げるマーケティングとビジネス変革の未来を提示",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/dentsu-and-google-cloud-co-host-gemini-day-event/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "Data Agent Kit の一般提供を開始: Google のデータクラウドがあらゆるコーディング エージェントで利用可能に",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "October 09, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_09_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
         "title": "分析の高速化: PayPal の Managed Service for Apache Spark 導入事例",
@@ -15290,6 +15470,42 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "「Japan IT Week【秋展】｜ソフトウェア受託開発・開発支援展」にてブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/09/1968225566/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "[メンテナンス] さくらのクラウド(シンプル通知)",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39784",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/09/1968225956/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-10",
+        "date_ja": "2026年10月10日（土）",
+        "title": "「ソフトウェア受託開発・開発支援展｜Japan IT Week【秋展】」にてソリューション本部の亀田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/09/1968225968/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-09",
         "date_ja": "2026年10月9日（金）",
         "title": "【さくらの専用サーバ PHY】「VMware vSphere ESXi 8.0」提供終了のお知らせ",
@@ -16873,18 +17089,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 95,
+    "セキュリティ": 98,
     "その他": 188,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 361,
-    "クラウド/インフラ": 103,
-    "制度/ガイドライン": 102,
+    "AI活用": 363,
+    "クラウド/インフラ": 104,
+    "制度/ガイドライン": 105,
     "自治体DX事例": 78,
-    "AWS最新情報": 355,
-    "Google Cloud最新情報": 233,
+    "AWS最新情報": 360,
+    "Google Cloud最新情報": 238,
     "働き方/業務改革": 33,
-    "さくらのクラウド最新情報": 91,
+    "さくらのクラウド最新情報": 95,
     "AIガバナンス": 11,
     "ガバメントクラウド": 7,
     "調達・契約": 21,
@@ -16892,5 +17108,5 @@
     "調達/契約": 13,
     "プロジェクト管理": 20
   },
-  "updated_at": "2026-10-08T20:27:18.408Z"
+  "updated_at": "2026-10-09T19:58:11.074Z"
 }
