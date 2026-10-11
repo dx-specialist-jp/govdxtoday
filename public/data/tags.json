@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "デジタル庁等への不正アクセスとAI悪用の可能性",
+        "summary": "タイムズモビリティ、さくらインターネット、デジタル庁で相次ぐ不正アクセスが発生。一連の事象の背景にAIの悪用がある可能性も指摘されている。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/11/news002.html",
+        "relevance": "行政システムにおけるサイバーセキュリティ対策の強化と、AI悪用リスクへの備えについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-10",
         "date_ja": "2026年10月10日（土）",
         "title": "AI時代の情報セキュリティとフィジカルAIの産学官連携",
@@ -3243,6 +3253,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AIの限界と人間の責任、地域行政におけるAIの限界",
+        "summary": "AIを利用した人間の確認責任が問われるべきであり、特に地域政治や地方行政の分野ではAIの限界がより明確になると指摘されている。",
+        "source": "go2senkyo.com",
+        "url": "https://go2senkyo.com/seijika/75891/posts/1531892",
+        "relevance": "AI導入における人間の最終的な責任範囲と、行政分野におけるAIの適用限界についてご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AIガバナンス確立に向けた協業と、超知能時代におけるAIガバナンス原則",
+        "summary": "NTTドコモビジネスと日本IBMは、AIを法令や社内規程に沿って管理・運用するAIガバナンスで協業を開始。Microsoft CEOは、超知能時代にはAIのブラックボックスに依存せず、外部統制・監査体制の構築が必要と指摘。",
+        "source": "dempa-digital.com",
+        "url": "https://dempa-digital.com/article/727500",
+        "relevance": "AI活用における法令遵守とリスク管理体制の構築について、最新の動向と技術的課題をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-11",
         "date_ja": "2026年10月11日（日）",
@@ -7948,6 +7978,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AI規制と自主規制の境界線に関する議論",
+        "summary": "中国メディアは、AIのリスクに備える上で、規制と業界の自主規制の境界をどう引くかが課題であると報じている。強制規制では革新を損なう恐れがあるとの見方もある。",
+        "source": "chiba-tv.com",
+        "url": "https://www.chiba-tv.com/plus/detail/2026102101139",
+        "relevance": "AI規制の動向が、行政システムへのAI導入におけるガバナンス設計に与える影響についてご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-11",
         "date_ja": "2026年10月11日（日）",
         "title": "ベトナム・ザライ省税務局、新規則に基づく納税申告・納税ガイダンスを提供",
@@ -9841,6 +9881,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "リージョン別の AWS 機能で個々の機能と高度なフィルターの利用可能状況通知を提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AWS Continuum for Penetration Testing で CI/CD パイプラインに直接統合された継続的なペネトレーションテストのサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AWS Control Tower AFT がプランのみのカスタマイズ実行をサポート開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-control-tower-aft/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AWS IAM アイデンティティセンターでアイデンティティストアのネットワークアクセスコントロールのサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "【開催報告】AWS Cashless Frontier ― 決済業界のフロントランナーと描くAI × デジタル通貨の未来",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/%E3%80%90%E9%96%8B%E5%82%AC%E5%A0%B1%E5%91%8A%E3%80%91aws-cashless-frontier-%E2%80%95-%E6%B1%BA%E6%B8%88%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%83%8A/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-11",
         "date_ja": "2026年10月11日（日）",
@@ -17240,18 +17325,30 @@
         "relevance": "経済情勢の変動が政府のIT・DX投資計画に与える影響について、リスク管理の観点からご留意ください。",
         "type": "news"
       }
+    ],
+    "行政DX事例": [
+      {
+        "date": "2026-10-12",
+        "date_ja": "2026年10月12日（月）",
+        "title": "AI博覧会 Summer 2026の開催と行政DXへのAI導入",
+        "summary": "AI博覧会 Summer 2026では、フィジカルAI、国産LLM、AIエージェント、生成AI、経営・組織へのAI導入、行政DXなど幅広いテーマが扱われた。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/and/pressrelease/16844784",
+        "relevance": "行政DX推進におけるAI活用事例や最新技術動向について、情報収集の機会としてご活用ください。",
+        "type": "news"
+      }
     ]
   },
   "tag_counts": {
-    "セキュリティ": 98,
+    "セキュリティ": 99,
     "その他": 188,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 366,
+    "AI活用": 368,
     "クラウド/インフラ": 104,
-    "制度/ガイドライン": 110,
+    "制度/ガイドライン": 111,
     "自治体DX事例": 79,
-    "AWS最新情報": 365,
+    "AWS最新情報": 370,
     "Google Cloud最新情報": 239,
     "働き方/業務改革": 34,
     "さくらのクラウド最新情報": 95,
@@ -17260,7 +17357,8 @@
     "調達・契約": 21,
     "デジタル庁": 3,
     "調達/契約": 13,
-    "プロジェクト管理": 20
+    "プロジェクト管理": 20,
+    "行政DX事例": 1
   },
-  "updated_at": "2026-10-10T19:07:09.076Z"
+  "updated_at": "2026-10-11T19:18:12.301Z"
 }
