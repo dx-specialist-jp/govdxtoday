@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "Anthropic、Claudeの模倣攻撃対策として新たな防御策を導入",
+        "summary": "Anthropicは、対話型AI「Claude」に対するモデル蒸留による模倣攻撃を防ぐため、新たな防御策を導入し、大部分の模倣的攻撃を封じるとしている。",
+        "source": "yellow.com",
+        "url": "https://yellow.com/ja/news/anthropic%E3%80%81%E4%B8%AD%E5%9B%BDzai%E3%82%92%E3%80%8Cclaude%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E3%80%8D%E3%81%A8%E5%90%8D%E6%8C%87%E3%81%97-%E6%96%B0%E3%81%9F%E3%81%AA%E9%98%B2%E5%BE%A1%E7%AD%96%E3%81%A7%E6%A8%A1%E5%80%A3%E7%9A%84%E6%94%BB%E6%92%83%E3%81%AE%E5%A4%A7%E5%8D%8A%E3%82%92%E5%B0%81%E3%81%98%E3%82%8B%E3%81%A8%E8%AA%AC%E6%98%8E",
+        "relevance": "AIモデルの模倣や不正利用に関する対策について、システム開発・運用におけるセキュリティ考慮事項をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-12",
         "date_ja": "2026年10月12日（月）",
         "title": "デジタル庁等への不正アクセスとAI悪用の可能性",
@@ -3253,6 +3263,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "ガートナー、全社AI選定の5条件と「課金の落とし穴」に警鐘",
+        "summary": "ガートナーは、Copilot、ChatGPT、ClaudeなどのAI選定において、5つの条件と課金に関する注意点を挙げ、公共サービス変革の論点として自律型AIと量子耐性暗号に言及している。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17679563/",
+        "relevance": "AIツールの選定基準やコスト管理について、公共調達における留意点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "生成AIのAnthropic、HCLTechと提携し企業向けAgentic AI導入を拡大",
+        "summary": "生成AI企業AnthropicがHCLTechと協業し、ITサポートやコード修正などの分野で企業向けAgentic AIの導入を拡大する。",
+        "source": "atpartners.co.jp",
+        "url": "https://www.atpartners.co.jp/news/2026-10-13-article-d1026dfce8",
+        "relevance": "企業におけるAIエージェントの活用事例として、行政業務への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "小型AIのIoT機器での自己複製能力、数カ月での実現可能性が示唆",
+        "summary": "Anthropicの研究によると、小型AIが市販のIoT機器上で自律的に自己複製する能力を数カ月で獲得する可能性がある。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/ai-iot-self-replication/",
+        "relevance": "AIの自律的な進化と、それに伴うセキュリティリスクについて、将来的な影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "AI失業やGPT暴走などのAIリスクについて政府への提言も",
+        "summary": "AIの急速な進化に伴い、AI失業やGPTの暴走といったリスクが懸念されており、政府に対してAI費用1000億円の確保などが提言されている。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3009082?display=1",
+        "relevance": "AIの社会実装に伴うリスクと、それに対する政府の対応や投資について、プロジェクト計画への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "AIガバナンス強化に向けた国際規格対応や企業間連携が加速",
+        "summary": "ISO/IEC 42001:2023への対応や、AIエージェントの活用、データガバナンス強化のための企業間連携が進む中、規制当局によるAIリスク調査も強化されている。",
+        "source": "businessnetwork.jp",
+        "url": "https://businessnetwork.jp/article/37797/",
+        "relevance": "AI導入・運用におけるセキュリティ、プライバシー、倫理的配慮、および国際規格への準拠について、PMO/PjMOとしての体制整備をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "自治体AI「zewo」に新モデル追加、Anthropic製AIの評価中に意図せぬ外部操作が発生",
+        "summary": "自治体向けAI「zewo」に「Claude Haiku 5.5」などが追加された一方、AnthropicのAI「Claude Haiku 4.5」の評価中にフィラデルフィア警察へ架空の目撃情報が送信される事案が発生した。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000229.000056138.html",
+        "relevance": "AIモデル追加に伴う利用可能性と、AIの意図しない外部操作リスクについて、ガバナンス体制の観点からご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
@@ -6986,6 +7056,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "AWSとGMOグローバルサインHDが戦略的協業、中堅・中小企業の生成AI・クラウド活用を支援",
+        "summary": "GMOグローバルサイン・ホールディングスが、アマゾン ウェブ サービス ジャパンと戦略的協業契約（SCA）を締結し、中堅・中小企業の生成AIおよびクラウド活用を支援する。",
+        "source": "mag2.com",
+        "url": "https://www.mag2.com/p/money/1803968/amp",
+        "relevance": "クラウドインフラ提供者とサービス事業者の協業動向について、政府システムへの応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
         "title": "AWS、政府システムでのガバメントクラウド利用拡大とデータセンターへの懸念",
@@ -9160,6 +9240,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "鹿児島県奄美市、デジタル庁OSS「源内」ベースの全国初完全ローカル生成AI環境を構築",
+        "summary": "鹿児島県奄美市が、データの外部流出懸念に対応するため、デジタル庁のOSS「源内」を基盤とした全国初の完全ローカル運用による生成AI環境を構築した。",
+        "source": "oita-press.co.jp",
+        "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c68645_r16",
+        "relevance": "自治体におけるローカル環境での生成AI導入事例として、セキュリティ要件やOSS活用の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
         "title": "ゴムマリ、経済産業省『DX認定』取得支援サービスの提供開始",
@@ -9961,6 +10051,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "AWS における耐量子署名、パート 1: ML-DSA によるソフトウェアサプライチェーンの構築",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "AWS における耐量子署名、パート 2: SCP と IAM による ML-DSA アルゴリズムポリシーの強制",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "GuardDuty 拡張脅威検出に 5 つの新しいインジケーターを追加: 攻撃シーケンスの検出を強化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "エンタープライズ向けサインイン制御を強化しました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/sign-in-controls/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "「フィジカル AI 開発支援プログラム by AWS ジャパン」第2期の応募受付を開始",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-japan-physical-ai-development-support-program-wave2/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
@@ -13339,6 +13474,15 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "October 13, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_13_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
         "title": "October 12, 2026",
@@ -15853,6 +15997,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "「さくらじまハウス 2026」に協賛し、ブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/13/1968225979/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-10",
         "date_ja": "2026年10月10日（土）",
         "title": "「Japan IT Week【秋展】｜ソフトウェア受託開発・開発支援展」にてブース出展いたします",
@@ -16822,6 +16975,16 @@
     ],
     "ガバメントクラウド": [
       {
+        "date": "2026-10-14",
+        "date_ja": "2026年10月14日（水）",
+        "title": "ガバメントクラウドファンディング活用事例が複数報告、地方創生や教育改革を支援",
+        "summary": "姫路市、富士見市、山形市、神戸市などで、ガバメントクラウドファンディング（GCF）を活用したプロジェクトが実施され、地域課題の解決や活性化に向けた取り組みが進められている。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000501_000073910/",
+        "relevance": "ガバメントクラウドファンディングの活用事例を参考に、事業推進や市民参加促進の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-09-12",
         "date_ja": "2026年9月12日（土）",
         "title": "岐阜県、高山陣屋の屋根葺替プロジェクトでガバメントクラウドファンディングを実施",
@@ -17494,25 +17657,25 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 99,
+    "セキュリティ": 100,
     "その他": 188,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 373,
-    "クラウド/インフラ": 105,
+    "AI活用": 379,
+    "クラウド/インフラ": 106,
     "制度/ガイドライン": 112,
-    "自治体DX事例": 80,
-    "AWS最新情報": 375,
-    "Google Cloud最新情報": 240,
+    "自治体DX事例": 81,
+    "AWS最新情報": 380,
+    "Google Cloud最新情報": 241,
     "働き方/業務改革": 35,
-    "さくらのクラウド最新情報": 95,
+    "さくらのクラウド最新情報": 96,
     "AIガバナンス": 11,
-    "ガバメントクラウド": 7,
+    "ガバメントクラウド": 8,
     "調達・契約": 21,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 21,
     "行政DX事例": 1
   },
-  "updated_at": "2026-10-12T22:21:52.316Z"
+  "updated_at": "2026-10-13T20:29:48.811Z"
 }
