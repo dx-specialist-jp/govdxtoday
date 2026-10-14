@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "防災メール配信サービスへの不正アクセスでメールアドレス最大313万6000件漏えいの可能性",
+        "summary": "アルカディアの「SpeeCAN RAIDEN」などで第三者による不正アクセスがあり、個人情報が漏えいした可能性が報じられた。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/speecan-raiden-data-breach/",
+        "relevance": "自治体向け情報配信サービスにおけるセキュリティインシデント事例から、関連システムの脆弱性管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Anthropic、AIモデル「Claude」の蒸留攻撃対策を強化",
+        "summary": "Anthropicは、AIモデル「Claude」の能力を無断で複製する「蒸留攻撃」への新たな対策を公表し、推論トークンの抽出量を最大99%減少させると報告。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/anthropic-distillation-defense/",
+        "relevance": "生成AIモデルのセキュリティ対策強化の動向として、自省庁におけるAI利用時のリスク管理についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
         "title": "Anthropic、Claudeの模倣攻撃対策として新たな防御策を導入",
@@ -3263,6 +3283,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "奄美市、デジタル庁「源内」基盤の生成AIサービス「AMAMI GENAI」を庁内に構築",
+        "summary": "デジタル庁の「源内」を基盤とし、川口弘行合同会社が設計・構築を担当。データの外部流出懸念に対応。",
+        "source": "ict-enews.net",
+        "url": "https://ict-enews.net/2026/10/14kawaguchi-2/",
+        "relevance": "自治体における国産生成AI基盤の庁内構築事例から、データセキュリティを考慮したAI活用についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Google、業務向け汎用AI「Geminiエージェント」発表、AI Ultra/ProユーザーもGemini 4 Argon利用可能に",
+        "summary": "Geminiエージェントは作業に応じて最適なモデルを選択・連携し、品質最適化とコスト削減を図る。Gemini 4 ArgonはAPIや企業向けに加え、AI Ultra/Proユーザーも利用可能。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/google-cloud-gemini-agent/",
+        "relevance": "Google Workspace内でのAIエージェント連携や、最新AIモデルの提供状況について、利用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Anthropicの生成AI「Claude」の大学・自治体への導入・活用が進む",
+        "summary": "デジタルハリウッド大学が全学導入し、自治体AIシステム「自治体AI zevo」にもClaude Haiku 5.5が追加された。シンガポール政府とも覚書を締結。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/anthropic-ai-safety-slowdown/",
+        "relevance": "自治体や教育機関における生成AIの導入事例から、中央省庁での展開可能性や留意点をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
@@ -7056,6 +7106,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "マイクロソフト、機密向け隔離環境「Azure Enclave」のGAを発表、認定は作業中",
+        "summary": "2026年10月13日（発表日）にGA、商用Azureと米政府向けAzureで提供。FedRAMPなどの認定は作業中。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/c4104ee7bd730b83e8e7373030c28f84e94cb6a1",
+        "relevance": "政府システム対応を想定したAzure Enclaveの提供開始について、機密情報を取り扱うシステムにおけるセキュリティ基盤としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "大崎コンピュータエンヂニアリング、ガバメントクラウド活用支援で地方自治情報化推進フェアに出展",
+        "summary": "ガバメントクラウドの利用申請支援、共通領域提供、24時間365日の監視・運用に加え、AWSガバメントクラウド構築サービスも提供。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/721961/?from=related-reading-list",
+        "relevance": "ガバメントクラウドの構築・運用支援サービスについて、自省庁のシステム標準化に向けた検討材料としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
         "title": "AWSとGMOグローバルサインHDが戦略的協業、中堅・中小企業の生成AI・クラウド活用を支援",
@@ -8117,6 +8187,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AI・リーガルテックと弁護士法72条の線引きに関するガイドラインと法務DX",
+        "summary": "「令和8年ガイドライン」を基に、AI・リーガルテックと弁護士法72条の線引きや、AI活用とガバナンスのあり方について議論。",
+        "source": "businesslawyers.jp",
+        "url": "https://www.businesslawyers.jp/articles/1582",
+        "relevance": "AIリーガルテックの活用と関連法規の線引きに関する議論は、行政手続きのデジタル化における法的リスク管理に影響する可能性があるため、ご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
@@ -9240,6 +9320,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "ふるさと納税型クラウドファンディング（ガバメントクラウドファンディング）によるプロジェクト実施",
+        "summary": "重症心身障害児者の「働く」を支援するプロジェクトや、山形市の農家応援プロジェクトで、ふるさと納税型クラウドファンディングが実施されている。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000031.000118433.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例から、住民サービス向上や地域活性化に繋がるプロジェクトの可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
         "title": "鹿児島県奄美市、デジタル庁OSS「源内」ベースの全国初完全ローカル生成AI環境を構築",
@@ -10051,6 +10141,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "請求書カード払いにおけるAIエージェント連携 ― Amazon Bedrock AgentCore Runtime を用いたリモート MCP サーバー構築",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-agent-integration-for-invoice-payments-via-card-amazon-bedrock-agentcore-remote-mcp-server/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Amazon Bedrock AgentCore で ESG 対応の意思決定を支援 – 人の判断を記憶する AI エージェント",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/esg-decision-support-with-amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AWS で本番 AI エージェントを構築する: 6つの柱によるウォークスルー",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/building-a-production-ai-agent-on-aws-a-six-pillar-walkthrough/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AWS STS のセッショントークンのサイズ制限を簡素化、サイズのモニタリングにも対応",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Aurora DSQL で外部キー制約を使う",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/working-with-foreign-key-constraints-in-aurora-dsql/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
@@ -13474,6 +13609,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AlloyDB: ハイブリッド検索のための統合データベース エンジン",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "Apache Iceberg を自動管理して大規模展開する: Spanner を活用した Lakehouse ランタイム カタログ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AI のための、そして AI とともに進める変革: Google Cloud Modernize のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AI21、AI Hypercomputer の導入により AI ワークロードの起動時間を 83% 短縮",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "October 14, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_14_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
         "title": "October 13, 2026",
@@ -15997,6 +16177,42 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "[メンテナンス] さくらのクラウド(Workflows)",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39806",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "「クラウド利用実態調査から読み解く、企業のクラウド選定のリアル ～国産クラウドの選び方から、移行・運用のポイントまで～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/14/1968225984/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "さくらインターネット、Preferred Networks、情報通信研究機構、 生成AIを継続的に評価・改善する「能動的評価基盤」の社会実装に向けた取り組みを開始",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/10/14/1968225591/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "「社内データを安全に使い尽くす！攻めの国産プライベートAI戦略」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/14/1968225988/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-14",
         "date_ja": "2026年10月14日（水）",
         "title": "「さくらじまハウス 2026」に協賛し、ブース出展いたします",
@@ -17433,6 +17649,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-10-15",
+        "date_ja": "2026年10月15日（木）",
+        "title": "AIガバナンス管理市場の予測、AI投資の増加とコスト・ガバナンスの課題",
+        "summary": "国内AIガバナンス・リスク管理市場は2030年度に150億円規模と予測。AI投資を増やす企業は7割だが、コスト一元管理やROI測定に課題。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/100500235/?P=2",
+        "relevance": "AIガバナンス市場の成長予測や、AI投資におけるコスト管理・ROI測定の重要性について、プロジェクトの投資対効果分析にご活用ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
         "title": "企業のAI予算枯渇とコスト超過、AIガバナンス・リスク管理の重要性",
@@ -17657,25 +17883,25 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 100,
+    "セキュリティ": 102,
     "その他": 188,
     "行政AI": 30,
     "行政DX": 14,
-    "AI活用": 379,
-    "クラウド/インフラ": 106,
-    "制度/ガイドライン": 112,
-    "自治体DX事例": 81,
-    "AWS最新情報": 380,
-    "Google Cloud最新情報": 241,
+    "AI活用": 382,
+    "クラウド/インフラ": 108,
+    "制度/ガイドライン": 113,
+    "自治体DX事例": 82,
+    "AWS最新情報": 385,
+    "Google Cloud最新情報": 246,
     "働き方/業務改革": 35,
-    "さくらのクラウド最新情報": 96,
+    "さくらのクラウド最新情報": 100,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
     "調達・契約": 21,
     "デジタル庁": 3,
     "調達/契約": 13,
-    "プロジェクト管理": 21,
+    "プロジェクト管理": 22,
     "行政DX事例": 1
   },
-  "updated_at": "2026-10-13T20:29:48.811Z"
+  "updated_at": "2026-10-14T19:08:03.529Z"
 }
