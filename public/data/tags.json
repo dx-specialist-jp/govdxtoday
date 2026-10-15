@@ -2884,6 +2884,24 @@
     ],
     "行政AI": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "デジタル庁 2026年9月の活動報告",
+        "summary": "2026年9月のデジタル庁の政策、サービス、組織に関する主な活動、およびプロジェクトの進捗や成果について共有します。続きをみる",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n72687e1a8f66",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "デジタル庁のデータ分析基盤「sukuna」におけるデータ信頼性を高める取組",
+        "summary": "こんにちは。デジタル庁でデータ分析基盤「sukuna」の開発・運用に携わっているファクト＆データユニット所属データエンジニアの大木基至です。デジタル庁ファクト＆データユニットでは、「誰一人取り残されない、人に優しいデジタル化を。」というミッションの達成に向けて、データと根拠に基づく政策形成（EBPM",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n7ff25f3e4abc",
+        "type": "government"
+      },
+      {
         "date": "2026-09-17",
         "date_ja": "2026年9月17日（木）",
         "title": "デジタル庁 2026年8月の活動報告",
@@ -3283,6 +3301,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "日本工営ら4社、Starlink・ローカル5GとAIを活用したダム遠隔点検を実証",
+        "summary": "日本工営ら4社は、総務省の支援を受け、Starlink・ローカル5G、USV、AIを組み合わせたダム遠隔点検の実証を大分で実施。",
+        "source": "dempa-times.co.jp",
+        "url": "https://www.dempa-times.co.jp/administration/59603/",
+        "relevance": "AI、IoT、通信技術を組み合わせたインフラ点検の最新技術動向について、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100受賞、国産LLMの政府AI基盤試用",
+        "summary": "デジタル庁のダッシュボードシリーズがグッドデザイン・ベスト100を受賞。政府AI基盤「源内」では、国産LLM7モデルが選定され、全府省庁39機関での試用が進められている。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95",
+        "relevance": "デジタル庁によるUI/UXデザインの先進事例と、国産LLMの政府AI基盤での活用状況について、ご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "AIガバナンスに関する国際的な議論と国内での取り組み事例、企業向け支援サービス",
+        "summary": "米国・中国間でのAIガバナンス対話強化、ニューヨーク市監査官によるAIリスク警告、国内ではNTTとIBMの協業、企業向けAIガバナンス研修やセキュリティ支援サービス提供が進む。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=20261014351796&g=bw",
+        "relevance": "AIガバナンスの国際動向と、国内での実務的な対応策・支援サービスについて、自庁・自治体の取り組みにご活用ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "Anthropic、シンガポール政府とAI安全・中小企業支援で協力覚書締結、政府システム現代化にClaude Code活用",
+        "summary": "Anthropicはシンガポールに新拠点を設置し、同国政府とAI安全や中小企業支援で協力覚書を締結。GovTech Singaporeでは1,500人超のエンジニアがClaude Codeで政府システム現代化に取り組む。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187504",
+        "relevance": "AIモデルの行政システムへの適用可能性について、Anthropicとの連携状況やClaude Codeの活用事例をご照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
@@ -7106,6 +7164,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "ガバメントクラウド整備のためのクラウドサービスに「さくらのクラウド」が採択、自治体向けDX・AI活用ソリューション展示",
+        "summary": "「さくらのクラウド」がデジタル庁のガバメントクラウド整備事業に国産サービスとして初採択。地方自治情報化推進フェアでは、ガバメントクラウドや生成AIを活用した自治体向けソリューションが展示される。",
+        "source": "ntt-east.co.jp",
+        "url": "https://www.ntt-east.co.jp/info/detail/261015_01.html",
+        "relevance": "ガバメントクラウドへの国内クラウドサービスの採択状況と、自治体におけるAI活用ソリューションの最新動向について、ご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
         "title": "マイクロソフト、機密向け隔離環境「Azure Enclave」のGAを発表、認定は作業中",
@@ -8187,6 +8255,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "東亜合成、経済産業省認定の「DX認定事業者」に認定",
+        "summary": "東亜合成が、経済産業省が定める「DX認定事業者」に認定された。",
+        "source": "nikkei.com",
+        "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261015551361/",
+        "relevance": "経済産業省のDX認定制度の動向と、認定基準についてご留意ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
@@ -9320,6 +9398,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "山形市、貝塚市、姫路市でガバメントクラウドファンディング（GCF）を活用した事業実施",
+        "summary": "山形市では伝統的工芸産業後継者育成、貝塚市では公民連携支援事業、姫路市では子どもの学校改革プロジェクトでGCFを活用し、寄附募集を実施。",
+        "source": "city.yamagata-yamagata.lg.jp",
+        "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1006793/1018749/1019744.html",
+        "relevance": "ガバメントクラウドファンディングを活用した地方自治体の先進的な取り組みについて、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "総務省「地域社会DX推進パッケージ事業」二次公募、EY Japanなどが計画策定支援",
+        "summary": "総務省の「地域社会DX推進パッケージ事業」二次公募において、EY Japanなどが地方公共団体のDX/AXに向けた計画策定等の伴走支援を行うことが決定。",
+        "source": "soumu.go.jp",
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000489.html",
+        "relevance": "地方自治体におけるDX推進のための計画策定支援の動向について、参考にしてください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
         "title": "ふるさと納税型クラウドファンディング（ガバメントクラウドファンディング）によるプロジェクト実施",
@@ -10141,6 +10239,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "AWS Weekly Roundup:数字で見るプライムデー2026、クロード・ハイク 5.5、Amazon Nova 2.5 Sonic など (2026 年 10 月 13 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "プライベートアクセスでデータ境界を AWS マネジメントコンソールまで拡張",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "AI 定着の現在地 ― 先行企業のリアルに学ぶ AWS AI Day in Nagoya 開催報告",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-ai-day-in-nagoya-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "Aurora DSQL コンソールと CloudWatch アラームで Amazon Aurora DSQL のコストをモニタリングする",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/monitor-amazon-aurora-dsql-costs-with-the-aurora-dsql-console-and-cloudwatch-alarms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "Amazon Bedrock を使った AWS Systems Manager Session Manager ログの AI による異常検知",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-powered-anomaly-detection-for-aws-systems-manager-session-manager-logs-using-amazon-bedrock/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
@@ -13609,6 +13752,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "AI 時代の脆弱性の発見と悪用の傾向",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "2026 年度版クラウド・インフラ最新動向。最優先はサイバー攻撃、次いでレガシー・属人化対応と AI 対応",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-trends-in-cloud-and-infrastructure-2026-edition/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "Spanner キューの発表: エージェント ワークロードとその先を支えるトランザクション メッセージング",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/spanner-queues-provide-native-transactional-messaging/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "October 15, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_15_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
         "title": "AlloyDB: ハイブリッド検索のための統合データベース エンジン",
@@ -15825,6 +16004,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "国土交通省、「物流DX未来会議2026」開催、物流事業者向けプラットフォーム紹介",
+        "summary": "国土交通省は、「物流DX未来会議2026 ～構想から実装へ 現場は、どう動くのか～」を開催。物流事業者向けソフトウェア・AIプラットフォーム「ロジポケ」などが紹介される。",
+        "source": "sankei.com",
+        "url": "https://www.sankei.com/pressrelease/prtimes/BXLH6N74BJI7JONCHLDLL6Q3GA/",
+        "relevance": "物流分野におけるDX推進の動向と、関連するプラットフォームの活用事例について、ご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-13",
         "date_ja": "2026年10月13日（火）",
         "title": "アステラス製薬、AIを活用した医薬情報担当者（MR）の育成を開始",
@@ -16176,6 +16365,33 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "【さくらの専用サーバ PHY】新規OS「Ubuntu 26.04」提供開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/15/1968225869/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "NTT東日本「Multi Interconnect」の接続先として「さくらのクラウド」が追加",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/10/15/1968225948/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "「第46回医療情報学連合大会」にてブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/15/1968225989/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
@@ -17273,6 +17489,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-10-16",
+        "date_ja": "2026年10月16日（金）",
+        "title": "政府、米国に半導体工場建設へ 事業総額1.6兆円、対米投資第3弾",
+        "summary": "政府は、米国での半導体工場建設に事業総額約1.6兆円を投じる対米投資第3弾を発表。今後、両国政府の合意に基づき規模拡大の可能性もある。",
+        "source": "nikkinonline.com",
+        "url": "https://www.nikkinonline.com/article/431682",
+        "relevance": "大規模な政府投資案件における、調達・契約・国際協力の側面について、ご留意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-08",
         "date_ja": "2026年10月8日（木）",
         "title": "日販、米AI企業への書籍販売で出版社側が反発",
@@ -17885,23 +18111,23 @@
   "tag_counts": {
     "セキュリティ": 102,
     "その他": 188,
-    "行政AI": 30,
+    "行政AI": 32,
     "行政DX": 14,
-    "AI活用": 382,
-    "クラウド/インフラ": 108,
-    "制度/ガイドライン": 113,
-    "自治体DX事例": 82,
-    "AWS最新情報": 385,
-    "Google Cloud最新情報": 246,
-    "働き方/業務改革": 35,
-    "さくらのクラウド最新情報": 100,
+    "AI活用": 386,
+    "クラウド/インフラ": 109,
+    "制度/ガイドライン": 114,
+    "自治体DX事例": 84,
+    "AWS最新情報": 390,
+    "Google Cloud最新情報": 250,
+    "働き方/業務改革": 36,
+    "さくらのクラウド最新情報": 103,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
-    "調達・契約": 21,
+    "調達・契約": 22,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 22,
     "行政DX事例": 1
   },
-  "updated_at": "2026-10-14T19:08:03.529Z"
+  "updated_at": "2026-10-15T18:50:41.579Z"
 }

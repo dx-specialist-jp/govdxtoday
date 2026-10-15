@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-16",
+      "summary_short": "デジタル庁のデータ分析基盤「sukuna」におけるデータ信頼…など2件",
+      "article_count": 12,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-10-15",
       "summary_short": "Anthropic、AIモデル「Claude」の蒸留攻撃…など10件",
       "article_count": 10,
@@ -533,12 +539,6 @@
       "summary_short": "政府、AI・科学技術計画を閣議決定しサイバー対策に高性能…など7件",
       "article_count": 7,
       "has_security_alert": false
-    },
-    {
-      "date": "2026-07-17",
-      "summary_short": "お知らせ：ソフトウェア等の脆弱性関連情報に関する届出状況…など10件",
-      "article_count": 10,
-      "has_security_alert": true
     }
   ]
 }

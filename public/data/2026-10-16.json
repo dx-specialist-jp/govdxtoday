@@ -1,0 +1,493 @@
+{
+  "date": "2026-10-16",
+  "date_ja": "2026年10月16日（金）",
+  "news_summary": [
+    "デジタル庁のデータ分析基盤「sukuna」でデータ信頼性向上の取り組みが進められている。",
+    "デジタル庁のダッシュボードシリーズがグッドデザイン・ベスト100を受賞した。",
+    "政府AI基盤「源内」で国産LLM7モデルの全府省庁での試用が開始された。",
+    "Anthropicはシンガポール政府とAI安全・中小企業支援で協力、政府システム現代化にClaude Codeを活用。",
+    "「さくらのクラウド」がガバメントクラウド整備事業に国産サービスとして初採択された。",
+    "日本工営らはStarlink・ローカル5G・AIを活用したダム遠隔点検の実証を実施した。"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：JPCERT/CC Eyes「連続不正アクセス事案の攻撃手法に関する調査」",
+      "url": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Drupalの複数のモジュールに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Movable Typeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のElastic製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Veeam Backup & Replicationに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WordPressに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSonicWall製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMicrosoft製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Horizon3がRejetto HFSの脆弱性に関する技術分析を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: MikroTik RouterOSに未認証のリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: pgvectorに境界外書き込みの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Loom for AWSに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#15",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLab AI Gatewayに任意のコマンド実行の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Citrix NetScaler ADCおよびNetScaler Gatewayに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#17",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#18",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
+      "url": "https://jvn.jp/jp/JVN94004488/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
+      "url": "https://jvn.jp/jp/JVN48627289/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN40460777/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95613365/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 複数のTLSライブラリにおける名前制約回避の問題",
+      "url": "https://jvn.jp/vu/JVNVU95474776/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Bishengにおける複数の認証回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94697946/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "デジタル庁のデータ分析基盤「sukuna」におけるデータ信頼性を高める取組",
+    "summary": "こんにちは。デジタル庁でデータ分析基盤「sukuna」の開発・運用に携わっているファクト＆データユニット所属データエンジニアの大木基至です。デジタル庁ファクト＆データユニットでは、「誰一人取り残されない、人に優しいデジタル化を。」というミッションの達成に向けて、データと根拠に基づく政策形成（EBPM",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n7ff25f3e4abc",
+    "pub_date": "2026-10-15"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "デジタル庁 2026年9月の活動報告",
+      "summary": "2026年9月のデジタル庁の政策、サービス、組織に関する主な活動、およびプロジェクトの進捗や成果について共有します。続きをみる",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n72687e1a8f66",
+      "pub_date": "2026-10-15"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "Anthropic、シンガポール政府とAI安全・中小企業支援で協力覚書締結、政府システム現代化にClaude Code活用",
+      "summary": "Anthropicはシンガポールに新拠点を設置し、同国政府とAI安全や中小企業支援で協力覚書を締結。GovTech Singaporeでは1,500人超のエンジニアがClaude Codeで政府システム現代化に取り組む。",
+      "relevance": "AIモデルの行政システムへの適用可能性について、Anthropicとの連携状況やClaude Codeの活用事例をご照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/187504"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11041/"
+        },
+        {
+          "name": "ai-hikari-ai.com",
+          "url": "https://ai-hikari-ai.com/news/anthropic-singapore-office-mou-20261015-0900/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスに関する国際的な議論と国内での取り組み事例、企業向け支援サービス",
+      "summary": "米国・中国間でのAIガバナンス対話強化、ニューヨーク市監査官によるAIリスク警告、国内ではNTTとIBMの協業、企業向けAIガバナンス研修やセキュリティ支援サービス提供が進む。",
+      "relevance": "AIガバナンスの国際動向と、国内での実務的な対応策・支援サービスについて、自庁・自治体の取り組みにご活用ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=20261014351796&g=bw"
+        },
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/news/2148043.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/e0f7e528-226e-4b5e-833d-474bde5df491"
+        },
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC134N80T11C26A0000000"
+        },
+        {
+          "name": "newscast.jp",
+          "url": "https://newscast.jp/smart/news/1058715"
+        },
+        {
+          "name": "vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/my-va-trung-quoc-thuc-day-doi-thoai-ve-quan-tri-ai"
+        },
+        {
+          "name": "projectdesign.jp",
+          "url": "https://www.projectdesign.jp/articles/news/e719d773-9303-4f24-9779-94b98c3c4bea"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/2314895"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000279.000045379.html"
+        },
+        {
+          "name": "esgjournaljapan.com",
+          "url": "https://esgjournaljapan.com/domestic-news/56699"
+        },
+        {
+          "name": "bizzine.jp",
+          "url": "https://bizzine.jp/article/detail/13698"
+        },
+        {
+          "name": "finance.yahoo.co.jp",
+          "url": "https://finance.yahoo.co.jp/news/detail/dd249e550edddf03229f35535c451b42b0dc97f4"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000030.000161942.html"
+        },
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/10/15internetacademy/"
+        },
+        {
+          "name": "health-isac.org",
+          "url": "https://health-isac.org/ja/%E3%82%B7%E3%82%AB%E3%82%B4%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E3%83%98%E3%83%AB%E3%82%B9ISACS%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%81%8B%E3%82%89%E5%BE%97%E3%82%89%E3%82%8C%E3%81%9F5%E3%81%A4%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/a4d385da3a4b0645c558a6e451145d51fccc1d92?page=2"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/a4d385da3a4b0645c558a6e451145d51fccc1d92/images/000"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35253549/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/253c1952-12a9-48ac-88be-83011d07df06"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100受賞、国産LLMの政府AI基盤試用",
+      "summary": "デジタル庁のダッシュボードシリーズがグッドデザイン・ベスト100を受賞。政府AI基盤「源内」では、国産LLM7モデルが選定され、全府省庁39機関での試用が進められている。",
+      "relevance": "デジタル庁によるUI/UXデザインの先進事例と、国産LLMの政府AI基盤での活用状況について、ご留意ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95"
+        },
+        {
+          "name": "ledge.ai",
+          "url": "https://ledge.ai/articles/sb_intuitions_sarashina_free_beta"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "日本工営ら4社、Starlink・ローカル5GとAIを活用したダム遠隔点検を実証",
+      "summary": "日本工営ら4社は、総務省の支援を受け、Starlink・ローカル5G、USV、AIを組み合わせたダム遠隔点検の実証を大分で実施。",
+      "relevance": "AI、IoT、通信技術を組み合わせたインフラ点検の最新技術動向について、ご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/administration/59603/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド整備のためのクラウドサービスに「さくらのクラウド」が採択、自治体向けDX・AI活用ソリューション展示",
+      "summary": "「さくらのクラウド」がデジタル庁のガバメントクラウド整備事業に国産サービスとして初採択。地方自治情報化推進フェアでは、ガバメントクラウドや生成AIを活用した自治体向けソリューションが展示される。",
+      "relevance": "ガバメントクラウドへの国内クラウドサービスの採択状況と、自治体におけるAI活用ソリューションの最新動向について、ご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "ntt-east.co.jp",
+          "url": "https://www.ntt-east.co.jp/info/detail/261015_01.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/pr_topics/detail/32562910/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19877670?news_ref=watch_60_nw18963321"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "東亜合成、経済産業省認定の「DX認定事業者」に認定",
+      "summary": "東亜合成が、経済産業省が定める「DX認定事業者」に認定された。",
+      "relevance": "経済産業省のDX認定制度の動向と、認定基準についてご留意ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "nikkei.com",
+          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261015551361/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "総務省「地域社会DX推進パッケージ事業」二次公募、EY Japanなどが計画策定支援",
+      "summary": "総務省の「地域社会DX推進パッケージ事業」二次公募において、EY Japanなどが地方公共団体のDX/AXに向けた計画策定等の伴走支援を行うことが決定。",
+      "relevance": "地方自治体におけるDX推進のための計画策定支援の動向について、参考にしてください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000489.html"
+        },
+        {
+          "name": "ey.com",
+          "url": "https://www.ey.com/ja_jp/industries/government-public-sector/public-projects/2026/ey-japan-pp-2026-10-15"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "山形市、貝塚市、姫路市でガバメントクラウドファンディング（GCF）を活用した事業実施",
+      "summary": "山形市では伝統的工芸産業後継者育成、貝塚市では公民連携支援事業、姫路市では子どもの学校改革プロジェクトでGCFを活用し、寄附募集を実施。",
+      "relevance": "ガバメントクラウドファンディングを活用した地方自治体の先進的な取り組みについて、ご参照ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "city.yamagata-yamagata.lg.jp",
+          "url": "https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1006793/1018749/1019744.html"
+        },
+        {
+          "name": "city.kaizuka.lg.jp",
+          "url": "https://www.city.kaizuka.lg.jp/kakuka/sogoseisaku/miryoku/topics/daikibo.html"
+        },
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/10/15himeji/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、米国に半導体工場建設へ 事業総額1.6兆円、対米投資第3弾",
+      "summary": "政府は、米国での半導体工場建設に事業総額約1.6兆円を投じる対米投資第3弾を発表。今後、両国政府の合意に基づき規模拡大の可能性もある。",
+      "relevance": "大規模な政府投資案件における、調達・契約・国際協力の側面について、ご留意ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "nikkinonline.com",
+          "url": "https://www.nikkinonline.com/article/431682"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "国土交通省、「物流DX未来会議2026」開催、物流事業者向けプラットフォーム紹介",
+      "summary": "国土交通省は、「物流DX未来会議2026 ～構想から実装へ 現場は、どう動くのか～」を開催。物流事業者向けソフトウェア・AIプラットフォーム「ロジポケ」などが紹介される。",
+      "relevance": "物流分野におけるDX推進の動向と、関連するプラットフォームの活用事例について、ご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "sankei.com",
+          "url": "https://www.sankei.com/pressrelease/prtimes/BXLH6N74BJI7JONCHLDLL6Q3GA/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000231.000063503.html"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Amazon Bedrock を使った AWS Systems Manager Session Manager ログの AI による異常検知",
+          "url": "https://aws.amazon.com/jp/blogs/news/ai-powered-anomaly-detection-for-aws-systems-manager-session-manager-logs-using-amazon-bedrock/",
+          "pub_date": "2026-10-15T13:48:23.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Aurora DSQL コンソールと CloudWatch アラームで Amazon Aurora DSQL のコストをモニタリングする",
+          "url": "https://aws.amazon.com/jp/blogs/news/monitor-amazon-aurora-dsql-costs-with-the-aurora-dsql-console-and-cloudwatch-alarms/",
+          "pub_date": "2026-10-15T09:28:09.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AI 定着の現在地 ― 先行企業のリアルに学ぶ AWS AI Day in Nagoya 開催報告",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-ai-day-in-nagoya-2026/",
+          "pub_date": "2026-10-15T09:07:58.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "プライベートアクセスでデータ境界を AWS マネジメントコンソールまで拡張",
+          "url": "https://aws.amazon.com/jp/blogs/news/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
+          "pub_date": "2026-10-15T08:46:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Weekly Roundup:数字で見るプライムデー2026、クロード・ハイク 5.5、Amazon Nova 2.5 Sonic など (2026 年 10 月 13 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+          "pub_date": "2026-10-15T08:45:13.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "October 15, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#October_15_2026",
+          "pub_date": "2026-10-15T07:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Spanner キューの発表: エージェント ワークロードとその先を支えるトランザクション メッセージング",
+          "url": "https://cloud.google.com/blog/ja/products/databases/spanner-queues-provide-native-transactional-messaging/",
+          "pub_date": "2026-10-15T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "2026 年度版クラウド・インフラ最新動向。最優先はサイバー攻撃、次いでレガシー・属人化対応と AI 対応",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-trends-in-cloud-and-infrastructure-2026-edition/",
+          "pub_date": "2026-10-15T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AI 時代の脆弱性の発見と悪用の傾向",
+          "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+          "pub_date": "2026-10-15T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「第46回医療情報学連合大会」にてブース出展いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/15/1968225989/",
+          "pub_date": "2026-10-15T07:30:08.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "NTT東日本「Multi Interconnect」の接続先として「さくらのクラウド」が追加",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/10/15/1968225948/",
+          "pub_date": "2026-10-15T06:05:04.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらの専用サーバ PHY】新規OS「Ubuntu 26.04」提供開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/15/1968225869/",
+          "pub_date": "2026-10-15T02:10:06.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "[メンテナンス] さくらのクラウド(Workflows)",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39806",
+          "pub_date": "2026-10-15T01:10:13.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-15T18:50:41.569Z"
+}
