@@ -2,6 +2,25 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "お知らせ：JPCERT/CC Eyes「連続不正アクセス事案の攻撃手法に関する調査」",
+        "summary": "JPCERT/CCが連続不正アクセス事案の攻撃手法を公表\n\n▶ 各府省PMOは、同CC Eyesの調査結果を確認し、自組織のシステムへの影響を評価すること。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "通信インフラのサイバー防御強化とデータ保護に関する総務省の検討会設置",
+        "summary": "総務省は、AI高度化によるサイバー攻撃の脅威増大を受け、通信事業者のデータ保護・セキュリティ強化に向けた有識者検討会を設置する。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/articles/ASVBJ22N7VBJULFA02SM.html",
+        "relevance": "通信インフラにおけるサイバーセキュリティ強化やデータ保護に関する規制動向について、関連するプロジェクトやリスク管理の参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
         "title": "防災メール配信サービスへの不正アクセスでメールアドレス最大313万6000件漏えいの可能性",
@@ -2884,6 +2903,16 @@
     ],
     "行政AI": [
       {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "デジタル庁のデータ分析基盤「sukuna」におけるデータ信頼性を高める取組",
+        "summary": "デジタル庁のデータ分析基盤「sukuna」のデータ信頼性向上策が公開\n\n▶ 各府省PjMOは、デジタル庁のデータ信頼性向上への取り組み内容を確認し、自庁のデータ分析基盤への応用可能性を検討すること。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n7ff25f3e4abc",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "デジタル庁 2026年9月の活動報告",
@@ -3301,6 +3330,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "アンソロピック、シンガポール政府とAI安全性・導入促進で覚書締結",
+        "summary": "米AI企業アンソロピックはシンガポール政府とAI安全性と導入促進に関するMOUを締結し、同国にオフィスを開設した。",
+        "source": "neweconomy.jp",
+        "url": "https://www.neweconomy.jp/posts/617493",
+        "relevance": "海外政府とのAI利活用に関する国際的な動向について、今後の政府間連携の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "AIガバナンス・リスク管理に関する業界動向と先進事例",
+        "summary": "AIガバナンスの高度化、AIモデルの信頼性・安全性、データ品質、セキュリティ、倫理的利用に関する議論が活発化している。",
+        "source": "deloitte.com",
+        "url": "https://www.deloitte.com/jp/ja/Industries/financial-services/perspectives/asia-pacific-financial-services-growth-to-advantage.html",
+        "relevance": "AI導入におけるガバナンス、リスク管理、倫理的利用に関する最新の議論やサービス動向について、自組織でのAI活用方針策定の参考にご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
@@ -7164,6 +7213,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "ガバメントクラウド移行の進捗と自治体向けコスト最適化ソリューション",
+        "summary": "ガバメントクラウドへの自治体システム移行期限が迫る中、NECなどがクラウドコスト最適化ツールを提供開始し、国産クラウドではさくらのクラウドが初採択された。",
+        "source": "asahi.com",
+        "url": "https://www.asahi.com/sp/articles/photo/AS20261016003146.html",
+        "relevance": "ガバメントクラウド移行におけるコスト管理やFinOpsの活用について、今後のシステム調達・運用計画の参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "ガバメントクラウド整備のためのクラウドサービスに「さくらのクラウド」が採択、自治体向けDX・AI活用ソリューション展示",
@@ -10239,6 +10298,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "SAP ネットワークのトラブルシューティングを数時間から数分へ加速する：エージェント型 AI アプローチ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-sap-network-troubleshooting-from-hours-to-minutes-agentic-ai-approach/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "Amazon S3 が Vercel Marketplace と v0 by Vercel で入手可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-s3-vercel-marketplace-v0/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "日本通運の AI 搭載型物流 Web アプリ「DCX」— AWS で実現する次世代サプライチェーンの可視化と予測",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/nx-dcx/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "AWS Security Agent (now part of AWS Continuum) が新たに公開された実在の CVE 37 件中 33 件のエクスプロイトに成功",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "AWS での多段階攻撃の検出: サービス横断のシグナル相関分析ガイド",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
@@ -13752,6 +13856,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "GKE CPU 起動ブースト: オーバープロビジョニングなしでアプリの起動を高速化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "AlloyDB と Memorystore for Valkey で AI エージェントの長期記憶を実装する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "AI 時代の脆弱性の発見と悪用の傾向",
@@ -16366,6 +16488,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "さくらインターネットとKCJ GROUPが「Out of KidZania」を初開催",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/10/16/1968226012/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "「KomeKaigi 2026」にて弊社メンバーが登壇いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/16/1968226039/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-17",
+        "date_ja": "2026年10月17日（土）",
+        "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "【さくらの専用サーバ PHY】新規OS「Ubuntu 26.04」提供開始のお知らせ",
@@ -18109,18 +18258,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 102,
+    "セキュリティ": 104,
     "その他": 188,
-    "行政AI": 32,
+    "行政AI": 33,
     "行政DX": 14,
-    "AI活用": 386,
-    "クラウド/インフラ": 109,
+    "AI活用": 388,
+    "クラウド/インフラ": 110,
     "制度/ガイドライン": 114,
     "自治体DX事例": 84,
-    "AWS最新情報": 390,
-    "Google Cloud最新情報": 250,
+    "AWS最新情報": 395,
+    "Google Cloud最新情報": 252,
     "働き方/業務改革": 36,
-    "さくらのクラウド最新情報": 103,
+    "さくらのクラウド最新情報": 106,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
     "調達・契約": 22,
@@ -18129,5 +18278,5 @@
     "プロジェクト管理": 22,
     "行政DX事例": 1
   },
-  "updated_at": "2026-10-15T18:50:41.579Z"
+  "updated_at": "2026-10-16T18:34:36.645Z"
 }
