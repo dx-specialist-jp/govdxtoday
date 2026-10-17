@@ -1,18 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { NavLink } from 'react-router-dom';
-import { isCspTag } from '../utils.js';
-
-const PREFERRED_TAGS = [
-  'AI活用',
-  'セキュリティ',
-  '行政AI',
-  '行政DX',
-  'クラウド/インフラ',
-  '制度/ガイドライン',
-  '自治体DX事例',
-  '働き方/業務改革',
-  '財務省',
-];
+import { isCspTag, buildCategoryTagList } from '../utils.js';
 
 export default function Sidebar({ open, onClose, tagCounts = {} }) {
   const sidebarRef = useRef(null);
@@ -75,7 +63,7 @@ export default function Sidebar({ open, onClose, tagCounts = {} }) {
 
           <div className="sidebar-section">
             <p className="sidebar-section-label">タグで絞り込む</p>
-            {[...PREFERRED_TAGS, ...Object.keys(tagCounts).filter((t) => tagCounts[t] > 0 && !PREFERRED_TAGS.includes(t) && !isCspTag(t))].map((label) => (
+            {buildCategoryTagList(tagCounts).map((label) => (
               <NavLink
                 key={label}
                 to={`/tag/${encodeURIComponent(label)}`}

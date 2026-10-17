@@ -1,18 +1,6 @@
 import { Link, useParams } from 'react-router-dom';
-import { isCspTag } from '../utils.js';
+import { isCspTag, buildCategoryTagList } from '../utils.js';
 import { useJsonData } from '../hooks.js';
-
-const PREFERRED_TAGS = [
-  'AI活用',
-  'セキュリティ',
-  '行政AI',
-  '行政DX',
-  'クラウド/インフラ',
-  '制度/ガイドライン',
-  '自治体DX事例',
-  '働き方/業務改革',
-  '財務省',
-];
 
 function groupByDate(articles) {
   const groups = {};
@@ -32,10 +20,8 @@ export default function TagPage() {
   const articles = (tagsData?.tags?.[decodedTag]) || [];
   const groups = groupByDate(articles);
   const counts = tagsData?.tag_counts || {};
-  // 優先タグ + データに存在する追加タグ（count > 0 かつ優先リスト外・CSP別タグ以外）を結合。
   // CSP別タグ（生RSSそのまま）は編集キュレーション済みのカテゴリタグと性質が異なるため別枠で表示する
-  const extraTags = Object.keys(counts).filter((t) => counts[t] > 0 && !PREFERRED_TAGS.includes(t) && !isCspTag(t));
-  const ALL_TAGS = [...PREFERRED_TAGS, ...extraTags];
+  const ALL_TAGS = buildCategoryTagList(counts);
   const cspTags = Object.keys(counts).filter((t) => isCspTag(t) && counts[t] > 0);
 
   if (error) {
