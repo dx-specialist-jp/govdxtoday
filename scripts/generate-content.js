@@ -28,7 +28,15 @@ const GOV_SOURCES = [
 
   // ── デジタル庁
   { name: 'デジタル庁 note',            url: 'https://digital-gov.note.jp/rss',                           type: 'ai_government' },
+
+  // ── 各府省（tag を指定したソースは、掲載記事を府省名タグにも登録する）
+  { name: '財務省 新着情報',            url: 'https://www.mof.go.jp/news.rss',                            type: 'dx', tag: '財務省' },
 ];
+
+// ソース名 → 府省名タグ（updateTagsIndex で使用）
+const GOV_SOURCE_TAGS = Object.fromEntries(
+  GOV_SOURCES.filter((s) => s.tag).map((s) => [s.name, s.tag])
+);
 
 // ── ガバメントクラウド認定CSP公式RSS ───────────────────────────────────
 // AI要約は行わず、フィード情報（タイトル・日時・出典）をそのまま掲載する。
@@ -324,8 +332,10 @@ function buildFallbackArticle(a) {
 async function summarizeGovArticles(articles, model) {
   if (articles.length === 0) return [];
 
-  // 件数が多い場合は最新20件に絞る（トークン増加防止）
-  const targetArticles = articles.slice(0, 20);
+  // 件数が多い場合は40件に絞る（トークン増加防止）。財務省新着情報は1日10件前後配信されるため、
+  // 上限が小さいと超過分がフォールバック（importance_score: 2）扱いになり、Geminiの
+  // スコア1判定を経ずにニューストピックへ流れ込んでしまう
+  const targetArticles = articles.slice(0, 40);
   if (articles.length > targetArticles.length) {
     console.warn(`[WARN] 政府記事が${targetArticles.length}件を超えています (${articles.length}件)。超過分はフォールバック処理します`);
   }
@@ -478,23 +488,25 @@ function updateTagsIndex(date, dateJa, dayData) {
   }
 
   // ニューストピックをカテゴリタグで登録
+  // カテゴリタグに加え、府省ソース（GOV_SOURCE_TAGS）由来の記事は府省名タグにも登録する
   for (const topic of (dayData.news_topics || [])) {
-    if (!topic.category) continue;
-    const tag = topic.category;
-    if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
     // 複数ソースを統合したトピックでも、tags.json は従来通り1件1ソースの
     // フラットな形式を維持するため、代表として先頭ソースのみを記録する
     const primarySource = (topic.sources || [])[0] || { name: topic.source, url: topic.url };
-    tagsData.tags[tag].unshift({
-      date,
-      date_ja: dateJa,
-      title: topic.title,
-      summary: topic.summary || '',
-      source: primarySource.name || '',
-      url: primarySource.url || '',
-      relevance: topic.relevance || '',
-      type: 'news',
-    });
+    const tags = [topic.category, GOV_SOURCE_TAGS[primarySource.name]].filter(Boolean);
+    for (const tag of tags) {
+      if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
+      tagsData.tags[tag].unshift({
+        date,
+        date_ja: dateJa,
+        title: topic.title,
+        summary: topic.summary || '',
+        source: primarySource.name || '',
+        url: primarySource.url || '',
+        relevance: topic.relevance || '',
+        type: 'news',
+      });
+    }
   }
 
   // 政府記事をセクションタイプで登録
@@ -505,17 +517,19 @@ function updateTagsIndex(date, dateJa, dayData) {
     if (sn.includes('AI') || sn.includes('生成')) tag = '行政AI';
     else if (sn.includes('DX')) tag = '行政DX';
     else if (sn.includes('セキュリティ') || sn.includes('情報セキュリティ')) tag = 'セキュリティ';
-    if (!tag) continue;
-    if (!tagsData.tags[tag]) tagsData.tags[tag] = [];
-    tagsData.tags[tag].unshift({
-      date,
-      date_ja: dateJa,
-      title: article.title,
-      summary: article.summary || '',
-      source: article.source_name || '',
-      url: article.source_url || '',
-      type: 'government',
-    });
+    const tags = [tag, GOV_SOURCE_TAGS[article.source_name]].filter(Boolean);
+    for (const t of tags) {
+      if (!tagsData.tags[t]) tagsData.tags[t] = [];
+      tagsData.tags[t].unshift({
+        date,
+        date_ja: dateJa,
+        title: article.title,
+        summary: article.summary || '',
+        source: article.source_name || '',
+        url: article.source_url || '',
+        type: 'government',
+      });
+    }
   }
 
   // クラウドサービスプロバイダー更新情報はプロバイダごとにタグを分ける

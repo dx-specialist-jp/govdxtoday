@@ -11,6 +11,7 @@ const PREFERRED_TAGS = [
   '制度/ガイドライン',
   '自治体DX事例',
   '働き方/業務改革',
+  '財務省',
 ];
 
 export default function Sidebar({ open, onClose, tagCounts = {} }) {

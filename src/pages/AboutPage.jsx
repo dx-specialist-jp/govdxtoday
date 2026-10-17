@@ -136,7 +136,7 @@ export default function AboutPage() {
             <h2 className="about-section-title" id="update-heading">更新ポリシー</h2>
             <ul>
               <li>毎日UTC 14:00にジョブをキュー投入し、GitHub Actionsの遅延により<strong>日本時間 翌朝6:00頃</strong>に自動更新されます</li>
-              <li>政府公式RSSフィード（9ソース）・Google Alerts RSS（8キーワード）から記事を収集します</li>
+              <li>政府公式RSSフィード（5ソース）・Google Alerts RSS（8キーワード）から記事を収集します</li>
               <li>Google Gemini AIによる要約・フィルタリング・重要度判定を経て自動公開します</li>
               <li>API障害・ネットワーク障害等により更新が遅延または欠落する場合があります</li>
               <li>過去90日分のアーカイブを保持します</li>
@@ -148,10 +148,11 @@ export default function AboutPage() {
           <section className="about-section" aria-labelledby="sources-heading">
             <h2 className="about-section-title" id="sources-heading">収集対象の情報源</h2>
 
-            <p><strong>政府・公的機関 RSS（4ソース）</strong></p>
+            <p><strong>政府・公的機関 RSS（5ソース）</strong></p>
             <ul>
               <li><strong>セキュリティ:</strong> JPCERT/CC・IPA（情報処理推進機構）・NISC（内閣サイバーセキュリティセンター）</li>
               <li><strong>デジタル庁:</strong> note</li>
+              <li><strong>財務省:</strong> 新着情報</li>
             </ul>
 
             <p style={{ marginTop: '14px' }}><strong>Google Alerts RSS（8キーワード）</strong></p>

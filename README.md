@@ -148,7 +148,7 @@ GitHub の `Actions` タブ → `Daily Content Update` → `Run workflow` → `t
 
 `scripts/generate-content.js` の先頭にある定数を編集:
 
-- `GOV_SOURCES` — 政府公式 RSS（JPCERT/CC・IPA・NISC・デジタル庁など）
+- `GOV_SOURCES` — 政府公式 RSS（JPCERT/CC・IPA・NISC・デジタル庁・財務省など）。`tag` を指定したソースの掲載記事は府省名タグ（例: 財務省）にも登録される
 - `GOOGLE_ALERT_SOURCES` — Google Alerts の RSS URL
 - `CLOUD_SOURCES` — ガバメントクラウド認定CSP公式 RSS（AI要約なし、`cloud_updates` にそのまま掲載）
 
