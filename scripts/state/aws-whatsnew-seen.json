@@ -1,54 +1,22 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
-    "pubDate": "2026-10-06T17:30:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ecs-service-metrics/",
+    "pubDate": "2026-10-13T22:00:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
-    "pubDate": "2026-10-06T14:01:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+    "pubDate": "2026-10-13T21:00:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
-    "pubDate": "2026-10-05T21:57:18.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
+    "pubDate": "2026-10-13T19:35:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
-    "pubDate": "2026-10-05T21:42:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/deadline-cloud/resources",
+    "pubDate": "2026-10-13T18:54:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
-    "pubDate": "2026-10-05T21:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/aws-control-tower-aft/",
-    "pubDate": "2026-10-05T19:31:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
-    "pubDate": "2026-10-05T18:32:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
-    "pubDate": "2026-10-05T17:57:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-ami-shared-tags",
-    "pubDate": "2026-10-05T17:28:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-client-vpn-device-posture/",
-    "pubDate": "2026-10-05T17:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/",
-    "pubDate": "2026-10-05T17:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-batch-access-entries/",
-    "pubDate": "2026-10-05T15:31:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
-    "pubDate": "2026-10-05T09:00:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
+    "pubDate": "2026-10-13T18:46:00.000Z"
   }
 ]

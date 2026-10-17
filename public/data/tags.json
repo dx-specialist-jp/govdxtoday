@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について",
+        "summary": "Linuxカーネルに脆弱性（CVE-2026-99999）が確認され、さくらのクラウドにおける影響について情報提供されている。ガバメント向け問い合わせ窓口も設置されている。",
+        "source": "sakura.ad.jp",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
+        "relevance": "Linuxカーネルの脆弱性情報（CVE-2026-99999）とその影響、およびガバメント向け問い合わせ窓口の有無についてご確認願います。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-17",
         "date_ja": "2026年10月17日（土）",
         "title": "お知らせ：JPCERT/CC Eyes「連続不正アクセス事案の攻撃手法に関する調査」",
@@ -3330,6 +3340,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "AIガバナンスプラットフォームの市場拡大と、AI倫理・リスク管理の重要性",
+        "summary": "AIガバナンスプラットフォーム市場は年平均成長率9.5%で予測され、クラウドベースのプラットフォームはGDPR等への準拠を容易にする。AIの悪用リスク対策や、実行権限制御・コスト管理機能の拡充が進む。",
+        "source": "module362.inkrich.com",
+        "url": "https://module362.inkrich.com/posts/ai-governance-platform-595473-mvcazhca",
+        "relevance": "AI導入におけるガバナンス体制の構築、AIツールの利用に関するリスク管理、および関連するプラットフォームの選定についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "AIの安全性と報告義務に関する国際的な動向と日本政府の対応",
+        "summary": "海外ではAIの脆弱性発見能力に高いAIの報告義務化や、AI安全性に関する政府との覚書締結が進む一方、日本政府は「調査中」となっている。AIの経緯を記憶するツールの開発も進む。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/expert/articles/54d25e1b980b7304a75ecc0cf9c80f4acdb9fd79",
+        "relevance": "AIの安全な利用とガバナンス構築に向けた国際的な規制動向と、自省庁におけるAI利用の報告・管理体制についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-17",
         "date_ja": "2026年10月17日（土）",
@@ -7213,6 +7243,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "NTT、光通信によるAI・量子をつなぐ次世代ネットの国際標準化を推進",
+        "summary": "NTTは、光通信技術を用いてAIや量子コンピュータなどを接続する次世代ネットワークの国際標準化を推進する。2027年にはCxO Roundtableで将来の情報通信基盤について議論予定。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2148949.html",
+        "relevance": "将来的な情報通信基盤の進化が、行政システムの運用やデータ連携に与える影響についてご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "主要クラウドベンダーによるAIモデル提供とパブリッククラウド市場の寡占化",
+        "summary": "AWS、Microsoft Azure、Google Cloud Platformの三大ベンダーがパブリッククラウド市場を寡占する中、AWS Bedrock LLM Day JapanではNECがAIモデル活用について言及。リフレクションAIはApache 2.0で大規模モデルを公開した。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187542",
+        "relevance": "政府システムにおけるクラウド利用の動向と、主要ベンダーが提供するAIモデルの活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-17",
         "date_ja": "2026年10月17日（土）",
         "title": "ガバメントクラウド移行の進捗と自治体向けコスト最適化ソリューション",
@@ -9457,6 +9507,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "ガバメントクラウドファンディングの活用事例が各地で拡大",
+        "summary": "豊岡市、神戸市、筑西市、八尾市、伊勢市など、全国各地でガバメントクラウドファンディングを活用したプロジェクトが実施されている。遊具設置や地域活性化、子供の読書推進などに資金が充てられている。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/766772/",
+        "relevance": "地域課題解決や新たな行政サービス創出のための資金調達手段として、ガバメントクラウドファンディングの活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "山形市、貝塚市、姫路市でガバメントクラウドファンディング（GCF）を活用した事業実施",
@@ -10298,6 +10358,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "Amazon Location Service が Places、Routes、Maps の各 API を備えたインタラクティブな API Playground の提供を開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "AWS Deadline Cloud の Deadline Cloud モニターで、ユーザーがアクセス可能なリソースを確認可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/deadline-cloud/resources",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "Amazon DCV がバージョン 2026.0 をリリースし、RHEL 10 のサポートと新しいクライアントを追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "AWS Agent Registry がレジストリレコードのカスタムメタデータをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-18",
+        "date_ja": "2026年10月18日（日）",
+        "title": "Amazon ECS が LiveTaskCount を追加し、RunningTaskCount メトリクスを無料化",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ecs-service-metrics/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-17",
         "date_ja": "2026年10月17日（土）",
@@ -18258,15 +18363,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 104,
+    "セキュリティ": 105,
     "その他": 188,
     "行政AI": 33,
     "行政DX": 14,
-    "AI活用": 388,
-    "クラウド/インフラ": 110,
+    "AI活用": 390,
+    "クラウド/インフラ": 112,
     "制度/ガイドライン": 114,
-    "自治体DX事例": 84,
-    "AWS最新情報": 395,
+    "自治体DX事例": 85,
+    "AWS最新情報": 400,
     "Google Cloud最新情報": 252,
     "働き方/業務改革": 36,
     "さくらのクラウド最新情報": 106,
@@ -18278,5 +18383,5 @@
     "プロジェクト管理": 22,
     "行政DX事例": 1
   },
-  "updated_at": "2026-10-16T18:34:36.645Z"
+  "updated_at": "2026-10-17T17:42:55.780Z"
 }
