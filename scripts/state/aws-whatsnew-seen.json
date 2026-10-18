@@ -18,5 +18,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
     "pubDate": "2026-10-13T18:46:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/sagemaker-studio-social-sign-in/",
+    "pubDate": "2026-10-13T17:24:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
+    "pubDate": "2026-10-13T14:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/",
+    "pubDate": "2026-10-13T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/route-53-premium-domains/",
+    "pubDate": "2026-10-13T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cu-microsoft-sql-server/",
+    "pubDate": "2026-10-13T07:30:00.000Z"
   }
 ]

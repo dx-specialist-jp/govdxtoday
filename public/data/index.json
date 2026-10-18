@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-19",
+      "summary_short": "AI普及に伴いITシステムの脆弱性発見が世界的に急増…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-10-18",
       "summary_short": "Linuxカーネルの脆弱性（CVE-2026-99999…など6件",
       "article_count": 6,
@@ -532,12 +538,6 @@
       "date": "2026-07-21",
       "summary_short": "Elastic、AWS AIセキュリティコンピテンシーの…など6件",
       "article_count": 6,
-      "has_security_alert": false
-    },
-    {
-      "date": "2026-07-20",
-      "summary_short": "2027年、日本は半導体・AI・行政改革の結実を迎え歴史…など5件",
-      "article_count": 5,
       "has_security_alert": false
     }
   ]
