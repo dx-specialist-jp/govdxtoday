@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "OSS脆弱性検査サービス「OSS Scanner」とAnthropic社とのサイバー防衛プログラム参画",
+        "summary": "OSSの脆弱性をAIで検査するサービスが登場し、日立はAnthropic社のサイバー防衛プログラムに参画し、Claudeを活用したセキュリティ強化を進めている。",
+        "source": "techno-edge.net",
+        "url": "https://www.techno-edge.net/article/2026/10/20/5610.html",
+        "relevance": "OSSの脆弱性管理や、AIを活用したサイバーセキュリティ強化の取り組みについて、自組織のシステムにおけるセキュリティ対策の向上策をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "シンガポール「SICW 2026」でAI悪用対策とサイバー空間の治安維持について議論",
@@ -2943,6 +2953,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "「Androidのマイナンバーカード」がはじまりました（利用方法のご案内）",
+        "summary": "Android端末でマイナンバーカード利用開始\n\n▶ 2026年10月20日よりAndroid端末（Google ウォレット）へのマイナンバーカード追加が可能に。\n▶ 関連するプロジェクト（マイナポータル連携等）の進捗と影響を確認。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/na1920f3a9a7a",
+        "type": "government"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "SNSパトロール業務を支えるデジタル庁のAIシステムの考え方",
@@ -3408,6 +3427,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "米政府によるAI利用規制と、AI導入補助金活用した民間CRMツールの提供",
+        "summary": "米政府は連邦民生機関のITシステムから第三者AI製品の撤去措置を発表。国内ではAI導入補助金2026を活用したCRMツールの提供が開始されている。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/deepseek-federal-ban/",
+        "relevance": "海外のAI利用規制動向と、国内でのAI導入支援策について、自組織のAI導入・調達におけるリスク要因や補助金活用の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "AIガバナンス・セキュリティ・セーフティに関する基準策定と企業・行政での取り組み",
+        "summary": "政府はAIエージェント利用に際し「源内基準」を公表。企業や自治体でもAIガバナンス体制強化やAIエージェントの統制、リスク管理が重要な論点となっている。",
+        "source": "jdla.org",
+        "url": "https://www.jdla.org/news/20261020001/",
+        "relevance": "AIガバナンス・セキュリティ・セーフティに関する最新の基準や、企業・自治体での取り組み状況について、自組織でのAI導入・運用におけるリスク管理体制構築の参考にご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "自治体からの照会事務自動化など、国・地方AI共通サービス実証事業を実施",
+        "summary": "デジタル庁は、自治体職員による政府機関への問い合わせ・照会事務の円滑化・省力化を目指し、国・地方AI共通サービスに関する実証事業を実施する自治体を募集する。",
+        "source": "digital.go.jp",
+        "url": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
+        "relevance": "自治体DX推進におけるAI活用事例として、国・地方AI共通サービス実証事業の進捗や成果について、横展開の可能性を検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "政府職員18万人にAIエージェント環境「源内」を展開、安全・運用基準も公表",
+        "summary": "デジタル庁は政府職員約18万人へのAIエージェント利用環境「源内」の展開を発表。AIの安全・安心な利活用に向けた基準も公表し、自治体や民間企業でのAI統制の参考にもなる。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/2a5cfb1beca1ae06d5fbd06717066aa9def89a1e",
+        "relevance": "政府AI基盤「源内」のAIエージェント導入状況や、策定された安全・運用基準について、自庁・他省庁でのAI活用におけるガバナンス検討の参考にご確認ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
@@ -7421,6 +7480,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "コグニザント、Google Cloudとの提携拡大とAI-Readyなデータ基盤の重要性",
+        "summary": "コグニザントはGoogle Cloudとの提携を拡大し、Geminiに特化した組織を新設。AIエージェント時代の主戦場はAI-Readyなデータ基盤になるとされている。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187588",
+        "relevance": "AIエージェント時代におけるデータ基盤の重要性や、主要ベンダーの動向について、自組織のデータ戦略やインフラ整備の方向性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "NEC、自治体向けガバメントクラウド移行支援でクラウドコスト最適化機能を実証提供",
@@ -9715,6 +9784,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "自治体・行政におけるPDFのAI対応、ガバメントクラウドファンディングの活用状況",
+        "summary": "PDFの自動読み上げ・AI対応の必要性が指摘される一方、自治体ではふるさと納税におけるガバメントクラウドファンディング（GCF）の活用が実施されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000002.000183628&g=prt",
+        "relevance": "自治体における情報提供のAI対応や、ガバメントクラウドファンディングの活用事例について、情報公開のアクセシビリティ向上や新たな財源確保の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "自治体におけるガバメントクラウドファンディングの活用事例が増加、社会課題解決に向けた寄附募集",
@@ -10586,6 +10665,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "AWS のサービスで構築する生成 AI アプリケーションのセキュアなネットワークアーキテクチャ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "データ流出の防止: AWS で実現するクラウドワークロードのエグレス制御",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "リアルタイムのマルウェア防御: AWS Network Firewall のアクティブ脅威防御の活用",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/real-time-malware-defense-leveraging-aws-network-firewall-active-threat-defense/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "約 3 万人のAIネイティブエンジニア体制へ ― NEC は Claude Code をどう全社展開しているのか？ CoE・チャンピオン制度による取り組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/nec-claude-code-bedrock-coe-anthropic/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "脅威の手口を解説: サブドメイン乗っ取りの仕組みと対策",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/threat-tactic-spotlight-subdomain-takeover/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
@@ -14279,6 +14403,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "アイルランドにおけるイノベーション: アイルランド企業が Gemini によって事業を拡大している方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "AI 推論モデル提供のためのネットワーキング - GKE のみ、およびその他すべてのバックエンド",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "AI インフラストラクチャとオーケストレーションに関する最新情報",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "低コストでスムーズな開発を実現する Managed Lustre を誰でも利用可能に",
@@ -16966,6 +17117,42 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "「Japan IT Week -AIインフラ・データセンターEXPO秋-」にて弊社代表 田中が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/20/1968226073/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "「NexTech Week2026秋」にてソリューション本部 亀田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/20/1968226079/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "「地方自治情報化推進フェア」にてブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/20/1968226085/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-21",
+        "date_ja": "2026年10月21日（水）",
+        "title": "「eBPF Meetup Japan #8」にてさくらインターネット研究所 早坂が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/20/1968226090/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-20",
         "date_ja": "2026年10月20日（火）",
         "title": "「DojoCon Japan 2026」にて展示を行います",
@@ -18794,18 +18981,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 108,
+    "セキュリティ": 109,
     "その他": 188,
-    "行政AI": 34,
+    "行政AI": 35,
     "行政DX": 17,
-    "AI活用": 401,
-    "クラウド/インフラ": 114,
+    "AI活用": 405,
+    "クラウド/インフラ": 115,
     "制度/ガイドライン": 115,
-    "自治体DX事例": 87,
-    "AWS最新情報": 410,
-    "Google Cloud最新情報": 257,
+    "自治体DX事例": 88,
+    "AWS最新情報": 415,
+    "Google Cloud最新情報": 260,
     "働き方/業務改革": 37,
-    "さくらのクラウド最新情報": 109,
+    "さくらのクラウド最新情報": 113,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
     "調達・契約": 22,
@@ -18815,5 +19002,5 @@
     "行政DX事例": 1,
     "財務省": 3
   },
-  "updated_at": "2026-10-19T20:19:46.537Z"
+  "updated_at": "2026-10-20T18:52:18.005Z"
 }
