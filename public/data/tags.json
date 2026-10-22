@@ -2,6 +2,73 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "お知らせ：JPCERT/CC 四半期レポート［2026年7月1日～2026年9月30日］",
+        "summary": "JPCERT/CC 2026年第3四半期レポート公開\n\n▶ 報告書内のセキュリティ動向を把握し、プロジェクトリスク評価に反映",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/qr/index.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "お知らせ：ソフトウェア等の脆弱性関連情報に関する届出状況［2026年第3四半期（7月～9月）］",
+        "summary": "2026年第3四半期のソフトウェア脆弱性届出状況\n\n▶ 貴省庁での届出状況を把握し、関連プロジェクトでの対応を検討",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/report/press.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "お知らせ：インシデント報告Webフォーム緊急メンテナンスのお知らせ",
+        "summary": "インシデント報告Webフォームが緊急メンテナンス\n\n▶ メンテナンス期間と影響範囲を確認し、情報共有",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/maintenance20261022.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "ガバメントクラウドファンディングにおける不正アクセスと被害状況",
+        "summary": "「ふるさとチョイス」における不正アクセスにより、個人情報が外部流出した事案が発生。ガバメントクラウドファンディングプロジェクトへの影響も懸念されている。",
+        "source": "civic-force.org",
+        "url": "https://www.civic-force.org/info/news/20261022.html",
+        "relevance": "ガバメントクラウドファンディングにおけるセキュリティインシデントとその影響についてご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Anthropicによる機密AI企業Opaque Systemsの技術・人材獲得とAIエージェントのセキュリティ強化",
+        "summary": "Anthropicは、機密AI技術を持つOpaque Systemsを買収し、AIエージェントのセキュリティとガバナンス強化を目指している。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic_opaque_systems_confidential_ai_20261021/",
+        "relevance": "AIエージェントのセキュリティと機密情報保護に向けた技術動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "NVIDIAによる安全なAIエージェントのためのOpenShellリファレンスアーキテクチャ発表",
+        "summary": "NVIDIAは、AIエージェントのガバナンス、分離、セキュリティを提供するOpenShellリファレンスアーキテクチャを発表した。",
+        "source": "blogs.nvidia.co.jp",
+        "url": "https://blogs.nvidia.co.jp/blog/openshell-reference-architecture/",
+        "relevance": "AIエージェントのセキュリティとガバナンスを強化するための技術的アプローチについてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "PHPの深刻な脆弱性発見と政府・行政機関への影響、AIによる脆弱性発見の進展",
+        "summary": "広く使われるPHPに深刻な脆弱性が見つかり、FBIや英政府通信本部が対応を要請、欧州では行政サイトが停止する事態も発生。AIがこの脆弱性を発見した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/1146fe5f61934788902684910861a908299fe5eb",
+        "relevance": "公共システムに影響する可能性のあるシステム脆弱性とその発見手法についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "Oracle Java の脆弱性対策について(2026年10月)",
@@ -3430,6 +3497,35 @@
     ],
     "行政DX": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "財政制度分科会（令和８年10月22日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年10月22日開催）資料一覧\n\n▶ 財政制度に関する議論の動向を把握",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261022zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
+        "summary": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツ一時停止\n\n▶ 影響を受けたコンテンツの復旧状況を確認",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの公開再開について",
+        "summary": "PHP脆弱性対応に伴うWebサイト・一部コンテンツ公開再開\n\n▶ 影響を受けたコンテンツが正常に公開されているか確認",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/20261022184327.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "国債金利情報(令和8年10月20日)",
@@ -3616,6 +3712,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "AIガバナンス態勢の高度化とAIカメラによるクマ検知システム",
+        "summary": "AI活用を推進する企業がAIガバナンス態勢の高度化を進める一方、AIカメラがクマを自動検知・通知・記録するシステムが開発されている。",
+        "source": "47news.jp",
+        "url": "https://www.47news.jp/15122975.html",
+        "relevance": "AI活用推進におけるガバナンス強化と、AIによる実務課題解決事例についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "米国防総省向けChatGPT「ChatGPT Mil」の機能と安全性",
+        "summary": "米国防総省で利用されるカスタム版ChatGPT「ChatGPT Mil」は、独自の機能と安全性を持ち、GeminiやGrok、ChatGPT Govとの違いが解説されている。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/what-is-chatgpt-mil/",
+        "relevance": "機密性の高い環境におけるAIツールの利用事例についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "AIとの対話による保育施設銃撃予告で逮捕された事案",
+        "summary": "オーストラリアで、生成AI「Claude」とのチャットで保育施設での銃乱射を予告した男が逮捕・起訴された。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
+        "relevance": "AIとの対話におけるリスクとその社会的影響についてご留意ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "政府・自治体向けAIエージェント「源内」導入とGoogle CloudでのAIモデル拡充",
+        "summary": "政府職員18万人にAIエージェント「源内」が投入され、AIガバナンス基準も公表された。Google Cloudでは、政府機関向けGeminiが提供開始され、OpenAIモデルも拡充されている。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+        "relevance": "各省庁・自治体でのAIエージェント導入状況と、利用可能なAIモデルの動向についてご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-21",
         "date_ja": "2026年10月21日（水）",
@@ -8821,6 +8957,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "AI・デジタル改革推進会議の始動とAIガバナンス強化、規制改革の検討",
+        "summary": "AI・デジタル改革推進会議が初会合を開き、AI活用加速のための短期プラン策定やAIガバナンス強化、規制改革について議論を開始した。年内にはAI活用原則などが策定される予定。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/jiji_2026102200874/",
+        "relevance": "政府主導のAI活用・規制改革の動向と、AIガバナンス体制構築の検討状況についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-19",
         "date_ja": "2026年10月19日（月）",
         "title": "シンガポールはAIエージェントの安全性評価を強化、AIガバナンスフレームワークを構築",
@@ -10854,6 +11000,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Amazon Threat Intelligence が PHP2Shell の脆弱性公開前の悪用を MadPot で特定",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "AWS WAF を使用した PHP2Shell RCE 脆弱性 (CVE-2026-109618 および CVE-2026-109619) の緩和策",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "詳解: Amazon EKS Auto Mode によるノード障害の検出、修復、診断の仕組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "AWS ウィークリーラウンドアップ: AWS Lambda Web Functions、Vercel Marketplace の Amazon S3 など (2026 年 10 月 19 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Amazon ECS ゲートウェイの紹介：ECS サービス向けの完全マネージド型イングレスソリューション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
@@ -14637,6 +14828,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "BigQuery で AI 費用を予測可能に: 生成 AI 関数の費用管理のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "BigQuery で多変量時系列予測を行う TimesFM 3.0 のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Google Cloud がモデルの選択肢と柔軟性を拡充、OpenAI モデルを提供開始",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "October 22, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_22_2026",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Cloud CISO の視点: CISO や政策立案者が PQC への準備を整えるのに役立つ Gemini Notebook の新しいノートブック",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "ブラウザベースのセキュリティの未来: ブラウザデータを活用してプロアクティブな防御を実現",
@@ -17387,6 +17623,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "【重要】PHPの脆弱性に関する当社の対応状況について",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/22/1968226117/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "インターネットマルチフィードとさくらインターネット、北海道におけるデータ流通基盤の強化と地域分散型インフラの実現に向けた実証を開始",
@@ -18995,6 +19240,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "Microsoft 365 Copilot活用とAIエージェントの本番運用を支えるAIガバナンス基盤",
+        "summary": "Microsoft 365 Copilotの活用を支援する研修が登場し、AIエージェントの本番運用を支えるAIガバナンス基盤の重要性が指摘されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000015.000172808&g=prt",
+        "relevance": "AIエージェントの活用推進と、その運用におけるガバナンス体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-15",
         "date_ja": "2026年10月15日（木）",
         "title": "AIガバナンス管理市場の予測、AI投資の増加とコスト・ガバナンスの課題",
@@ -19229,6 +19484,35 @@
     ],
     "財務省": [
       {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "財政制度分科会（令和８年10月22日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年10月22日開催）資料一覧\n\n▶ 財政制度に関する議論の動向を把握",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261022zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
+        "summary": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツ一時停止\n\n▶ 影響を受けたコンテンツの復旧状況を確認",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-23",
+        "date_ja": "2026年10月23日（金）",
+        "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの公開再開について",
+        "summary": "PHP脆弱性対応に伴うWebサイト・一部コンテンツ公開再開\n\n▶ 影響を受けたコンテンツが正常に公開されているか確認",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/20261022184327.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "国債金利情報(令和8年10月20日)",
@@ -19290,26 +19574,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 114,
+    "セキュリティ": 121,
     "その他": 198,
     "行政AI": 36,
-    "行政DX": 20,
-    "AI活用": 405,
+    "行政DX": 23,
+    "AI活用": 409,
     "クラウド/インフラ": 115,
-    "制度/ガイドライン": 115,
+    "制度/ガイドライン": 116,
     "自治体DX事例": 88,
-    "AWS最新情報": 420,
-    "Google Cloud最新情報": 264,
+    "AWS最新情報": 425,
+    "Google Cloud最新情報": 269,
     "働き方/業務改革": 37,
-    "さくらのクラウド最新情報": 114,
+    "さくらのクラウド最新情報": 115,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
     "調達・契約": 22,
     "デジタル庁": 3,
     "調達/契約": 13,
-    "プロジェクト管理": 22,
+    "プロジェクト管理": 23,
     "行政DX事例": 1,
-    "財務省": 6
+    "財務省": 9
   },
-  "updated_at": "2026-10-21T19:08:21.051Z"
+  "updated_at": "2026-10-22T19:01:14.475Z"
 }
