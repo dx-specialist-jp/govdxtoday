@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "プロジェクト応援型ふるさと納税（ガバメントクラウドファンディング）と個人情報流出",
+        "summary": "プロジェクト応援型ふるさと納税（ガバメントクラウドファンディング）に関連し、不正アクセスによる会員情報の外部流出が発生した。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/856816/?from=top_category_area",
+        "relevance": "ガバメントクラウドファンディングの推進と、それに伴う情報セキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "PHP脆弱性によるシステム停止とAIによる攻撃の高速化",
+        "summary": "PHPの脆弱性により各国政府サイトが相次いで停止し、AIによって攻撃の急増までのスピードも速まっている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17743763/?ref=picked-news_9985&tabKey=U%3A9985",
+        "relevance": "ソフトウェアの脆弱性管理とAIによるサイバー攻撃の動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "中国政府系集団によるAIを活用したサイバー攻撃と制裁",
+        "summary": "中国政府関係のハッカー集団がAIを用いて大規模サイバー攻撃を行っていると報じられ、米国はDeepSeekを政府ITから排除し、中国5団体に制裁を科した。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/world/20261022-567-GYT1T00278",
+        "relevance": "AIを活用したサイバー攻撃の動向と、それに対する国際的な制裁措置についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "お知らせ：JPCERT/CC 四半期レポート［2026年7月1日～2026年9月30日］",
@@ -3497,6 +3527,15 @@
     ],
     "行政DX": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
+        "summary": "英米財政部局のEBPMへのかかわり方に関する解説記事",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/insideLink/20261020163358.html",
+        "type": "government"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "財政制度分科会（令和８年10月22日開催）資料一覧",
@@ -3712,6 +3751,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "AIガバナンスの重要性と各組織での取り組み強化",
+        "summary": "AIガバナンスが企業の最優先事項となり、AIエージェントの権限検証や、AI・データ・コンプライアンス・リスク管理を強化するソリューション提供が進んでいる。",
+        "source": "jp.investing.com",
+        "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1724003",
+        "relevance": "AIガバナンスの確立と、関連する最新の技術動向や規制についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "政府・自治体向けAIエージェント導入と生成AIモデル提供の拡大",
+        "summary": "政府職員18万人が利用するAIエージェント「源内」が順次導入され、AI開発基盤ではOpenAIモデルやGoogle CloudのGeminiが提供開始された。",
+        "source": "atpartners.co.jp",
+        "url": "https://www.atpartners.co.jp/news/2026-10-23-article-3ef4faa881",
+        "relevance": "政府・自治体におけるAIエージェントの導入状況や、利用可能な生成AIモデルの動向についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
@@ -7805,6 +7864,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "省庁・自治体におけるクラウド基盤（ガバメントクラウド含む）の構築・移行・活用",
+        "summary": "省庁のイントラシステム老朽化に伴うAWSネットワーク基盤構築や、ガバメントクラウドへの移行・運用支援、自治体における情報システム構築方針としてガバメントクラウド利用が示されている。",
+        "source": "jtechservice.jp",
+        "url": "https://jtechservice.jp/freelance/projects/%E7%9C%81%E5%BA%81%E5%90%91%E3%81%91%E3%82%A4%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%80%81%E6%9C%BD%E5%8C%96%E3%81%AB%E4%BC%B4%E3%81%86%E6%A9%9F%E5%99%A8%E6%9B%B4%E6%94%B9/",
+        "relevance": "ガバメントクラウドの導入・移行状況、およびAWS等のクラウド基盤構築・運用に関する最新動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-21",
         "date_ja": "2026年10月21日（水）",
         "title": "コグニザント、Google Cloudとの提携拡大とAI-Readyなデータ基盤の重要性",
@@ -11000,6 +11069,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "Amazon DynamoDB Streams がタイムスタンプベースのストリーム処理のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "Amazon EC2 T8i インスタンスが南米 (サンパウロ) で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "Amazon SageMaker Studio が新しいサインイン方法により、AI/機械学習の新規ビルダーの使用開始を簡素化",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "Amazon Bedrock AgentCore のウェブ検索が AWS GovCloud と 3 つのリージョンに拡大",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "【開催報告 & 資料公開】AWS 秋のクラウドオペレーション祭り 2026",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/awsopsfes2026autumn/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
@@ -14828,6 +14942,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "非構造化データ ワークフローのモダナイズ: Alteryx Live Query と Google Cloud BigQuery の連携",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "Gemini のイノベーションで、ボーダーレス Lakehouse をエージェントの時代へ導く",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "「MCP ツールボックス」Java SDK v1.0 のご紹介: 企業向けのエージェント型データアクセス",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "サイバーエージェント: Cloud Run や Agent Development Kit を活用し、クリエイティブ生成 AI プラットフォーム「AI SCREAM」のエージェント化を推進",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/cyberagent-is-promoting-the-adoption-of-its-creative-ai-platform/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "BigQuery で AI 費用を予測可能に: 生成 AI 関数の費用管理のご紹介",
@@ -17623,6 +17773,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "「高火力PHY品質保証（SLA）」 改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/23/1968226094/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "「さくらの専用サーバサービス約款」改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/23/1968226113/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "[メンテナンス] さくらのクラウドのコントロールパネル/API、会員メニューの一部",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39984",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "【重要】PHPの脆弱性に関する当社の対応状況について",
@@ -18854,6 +19031,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "株式会社Geminiの行政処分履歴",
+        "summary": "株式会社Geminiに行政処分履歴が1件確認された。",
+        "source": "regbase.jp",
+        "url": "https://regbase.jp/company/9eb629fa-e6b8-4bf8-9408-901fe61573cf",
+        "relevance": "公共調達における業者選定の参考情報として、行政処分等の有無についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-16",
         "date_ja": "2026年10月16日（金）",
         "title": "政府、米国に半導体工場建設へ 事業総額1.6兆円、対米投資第3弾",
@@ -19484,6 +19671,15 @@
     ],
     "財務省": [
       {
+        "date": "2026-10-24",
+        "date_ja": "2026年10月24日（土）",
+        "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
+        "summary": "英米財政部局のEBPMへのかかわり方に関する解説記事",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/insideLink/20261020163358.html",
+        "type": "government"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "財政制度分科会（令和８年10月22日開催）資料一覧",
@@ -19574,26 +19770,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 121,
+    "セキュリティ": 124,
     "その他": 198,
     "行政AI": 36,
-    "行政DX": 23,
-    "AI活用": 409,
-    "クラウド/インフラ": 115,
+    "行政DX": 24,
+    "AI活用": 411,
+    "クラウド/インフラ": 116,
     "制度/ガイドライン": 116,
     "自治体DX事例": 88,
-    "AWS最新情報": 425,
-    "Google Cloud最新情報": 269,
+    "AWS最新情報": 430,
+    "Google Cloud最新情報": 273,
     "働き方/業務改革": 37,
-    "さくらのクラウド最新情報": 115,
+    "さくらのクラウド最新情報": 118,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
-    "調達・契約": 22,
+    "調達・契約": 23,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 23,
     "行政DX事例": 1,
-    "財務省": 9
+    "財務省": 10
   },
-  "updated_at": "2026-10-22T19:01:14.475Z"
+  "updated_at": "2026-10-23T18:50:22.202Z"
 }

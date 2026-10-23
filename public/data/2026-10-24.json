@@ -1,0 +1,364 @@
+{
+  "date": "2026-10-24",
+  "date_ja": "2026年10月24日（土）",
+  "news_summary": [
+    "中国政府系集団がAIを利用したサイバー攻撃、米国がDeepSeek排除と中国5団体に制裁。",
+    "PHP脆弱性により各国政府サイトが停止、AIによる攻撃加速のスピードが増加。",
+    "プロジェクト応援型ふるさと納税で不正アクセスによる会員情報流出が発生。",
+    "政府職員18万人が利用するAIエージェント「源内」が順次導入開始。",
+    "AI開発基盤でOpenAIモデル、Google CloudのGemini提供が開始。",
+    "AIガバナンスが最優先事項となり、AI・データ・コンプライアンス・リスク管理強化が進む。",
+    "省庁・自治体でガバメントクラウドへの移行・運用支援、情報システム構築方針が示される。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起 (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
+      "url": "https://jvn.jp/vu/JVNVU99905564/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: プリザンターのLDAP認証における認証不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN82312317/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 三菱電機製の複数製品における複数の脆弱性（2026-006）",
+      "url": "https://jvn.jp/vu/JVNVU93251594/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
+      "url": "https://jvn.jp/vu/JVNVU98747108/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
+    "summary": "英米財政部局のEBPMへのかかわり方に関する解説記事",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/insideLink/20261020163358.html",
+    "pub_date": "2026-10-23"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "中国政府系集団によるAIを活用したサイバー攻撃と制裁",
+      "summary": "中国政府関係のハッカー集団がAIを用いて大規模サイバー攻撃を行っていると報じられ、米国はDeepSeekを政府ITから排除し、中国5団体に制裁を科した。",
+      "relevance": "AIを活用したサイバー攻撃の動向と、それに対する国際的な制裁措置についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/world/20261022-567-GYT1T00278"
+        },
+        {
+          "name": "innovatopia.jp",
+          "url": "https://innovatopia.jp/ai/ai-news/119252/"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/15123277.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "PHP脆弱性によるシステム停止とAIによる攻撃の高速化",
+      "summary": "PHPの脆弱性により各国政府サイトが相次いで停止し、AIによって攻撃の急増までのスピードも速まっている。",
+      "relevance": "ソフトウェアの脆弱性管理とAIによるサイバー攻撃の動向についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17743763/?ref=picked-news_9985&tabKey=U%3A9985"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00304/102200276/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "プロジェクト応援型ふるさと納税（ガバメントクラウドファンディング）と個人情報流出",
+      "summary": "プロジェクト応援型ふるさと納税（ガバメントクラウドファンディング）に関連し、不正アクセスによる会員情報の外部流出が発生した。",
+      "relevance": "ガバメントクラウドファンディングの推進と、それに伴う情報セキュリティ対策についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/856816/?from=top_category_area"
+        },
+        {
+          "name": "city.amami.lg.jp",
+          "url": "https://www.city.amami.lg.jp/pjsenryaku/kifu/202610choice.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府・自治体向けAIエージェント導入と生成AIモデル提供の拡大",
+      "summary": "政府職員18万人が利用するAIエージェント「源内」が順次導入され、AI開発基盤ではOpenAIモデルやGoogle CloudのGeminiが提供開始された。",
+      "relevance": "政府・自治体におけるAIエージェントの導入状況や、利用可能な生成AIモデルの動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "atpartners.co.jp",
+          "url": "https://www.atpartners.co.jp/news/2026-10-23-article-3ef4faa881"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/what-is-chatgpt-mil/"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261022-5172810/"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11138/"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11139/"
+        },
+        {
+          "name": "x3d.jp",
+          "url": "https://x3d.jp/knowledge/aix-lab/gennai-ai-agent-toha"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AIガバナンスの重要性と各組織での取り組み強化",
+      "summary": "AIガバナンスが企業の最優先事項となり、AIエージェントの権限検証や、AI・データ・コンプライアンス・リスク管理を強化するソリューション提供が進んでいる。",
+      "relevance": "AIガバナンスの確立と、関連する最新の技術動向や規制についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1724003"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00811/090300001/"
+        },
+        {
+          "name": "khb-tv.co.jp",
+          "url": "https://www.khb-tv.co.jp/news/16987733"
+        },
+        {
+          "name": "rebasis.kotora.jp",
+          "url": "https://rebasis.kotora.jp/events/ai2026"
+        },
+        {
+          "name": "mikoto.co.jp",
+          "url": "https://mikoto.co.jp/notes/ai-governance"
+        },
+        {
+          "name": "it.impress.co.jp",
+          "url": "https://it.impress.co.jp/articles/-/29928"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/15126786.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/servicenow-ai-passport-governance/"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/15125174.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261023555127"
+        },
+        {
+          "name": "iotnews.jp",
+          "url": "https://iotnews.jp/ai/276274/"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/kikaku/20261023-5168850/"
+        },
+        {
+          "name": "goodway.co.jp",
+          "url": "https://goodway.co.jp/news/34587"
+        },
+        {
+          "name": "techdoor.persol-group.co.jp",
+          "url": "https://techdoor.persol-group.co.jp/contents/14158/"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25360"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00419/102300240/?i_cid=nbpnb_top_video"
+        },
+        {
+          "name": "spap.jst.go.jp",
+          "url": "https://spap.jst.go.jp/china/news/261003/topic_5_01.html"
+        },
+        {
+          "name": "soumu.go.jp",
+          "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000143.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "省庁・自治体におけるクラウド基盤（ガバメントクラウド含む）の構築・移行・活用",
+      "summary": "省庁のイントラシステム老朽化に伴うAWSネットワーク基盤構築や、ガバメントクラウドへの移行・運用支援、自治体における情報システム構築方針としてガバメントクラウド利用が示されている。",
+      "relevance": "ガバメントクラウドの導入・移行状況、およびAWS等のクラウド基盤構築・運用に関する最新動向についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jtechservice.jp",
+          "url": "https://jtechservice.jp/freelance/projects/%E7%9C%81%E5%BA%81%E5%90%91%E3%81%91%E3%82%A4%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%80%81%E6%9C%BD%E5%8C%96%E3%81%AB%E4%BC%B4%E3%81%86%E6%A9%9F%E5%99%A8%E6%9B%B4%E6%94%B9/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/81c20f72-b174-4593-9e76-412c9e7624ee"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/180520/"
+        },
+        {
+          "name": "www2.njss.info",
+          "url": "https://www2.njss.info/offers/view/34171752"
+        },
+        {
+          "name": "pref.ehime.jp",
+          "url": "https://www.pref.ehime.jp/page/162414.html"
+        },
+        {
+          "name": "dreamnews.jp",
+          "url": "https://www.dreamnews.jp/press/0000366085"
+        },
+        {
+          "name": "tenshoku-ex.jp",
+          "url": "https://tenshoku-ex.jp/job_41380410"
+        },
+        {
+          "name": "digital-gyosei.com",
+          "url": "https://www.digital-gyosei.com/post/2026-10-23-news-gamagori-line/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "株式会社Geminiの行政処分履歴",
+      "summary": "株式会社Geminiに行政処分履歴が1件確認された。",
+      "relevance": "公共調達における業者選定の参考情報として、行政処分等の有無についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "regbase.jp",
+          "url": "https://regbase.jp/company/9eb629fa-e6b8-4bf8-9408-901fe61573cf"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【開催報告 & 資料公開】AWS 秋のクラウドオペレーション祭り 2026",
+          "url": "https://aws.amazon.com/jp/blogs/news/awsopsfes2026autumn/",
+          "pub_date": "2026-10-23T04:45:18.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Bedrock AgentCore のウェブ検索が AWS GovCloud と 3 つのリージョンに拡大",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+          "pub_date": "2026-10-15T20:40:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon SageMaker Studio が新しいサインイン方法により、AI/機械学習の新規ビルダーの使用開始を簡素化",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+          "pub_date": "2026-10-15T20:10:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon EC2 T8i インスタンスが南米 (サンパウロ) で利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+          "pub_date": "2026-10-15T20:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon DynamoDB Streams がタイムスタンプベースのストリーム処理のサポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+          "pub_date": "2026-10-15T18:30:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "サイバーエージェント: Cloud Run や Agent Development Kit を活用し、クリエイティブ生成 AI プラットフォーム「AI SCREAM」のエージェント化を推進",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/cyberagent-is-promoting-the-adoption-of-its-creative-ai-platform/",
+          "pub_date": "2026-10-23T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "「MCP ツールボックス」Java SDK v1.0 のご紹介: 企業向けのエージェント型データアクセス",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
+          "pub_date": "2026-10-23T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini のイノベーションで、ボーダーレス Lakehouse をエージェントの時代へ導く",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+          "pub_date": "2026-10-23T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "非構造化データ ワークフローのモダナイズ: Alteryx Live Query と Google Cloud BigQuery の連携",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+          "pub_date": "2026-10-23T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "[メンテナンス] さくらのクラウドのコントロールパネル/API、会員メニューの一部",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39984",
+          "pub_date": "2026-10-23T07:38:22.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「さくらの専用サーバサービス約款」改定のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/23/1968226113/",
+          "pub_date": "2026-10-23T04:00:05.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「高火力PHY品質保証（SLA）」 改定のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/23/1968226094/",
+          "pub_date": "2026-10-23T02:00:52.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-23T18:50:22.190Z"
+}
