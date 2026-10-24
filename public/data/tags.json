@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "中国政府系サイバー攻撃者がAIエージェント「ARTEX」を悪用し世界中の組織を攻撃",
+        "summary": "Microsoftは、中国政府と関係するサイバー攻撃者がAIエージェント「ARTEX」を悪用し、世界中の数百の組織を攻撃した調査結果を公開した。",
+        "source": "gigazine.net",
+        "url": "https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/",
+        "relevance": "AIエージェントの悪用によるサイバー攻撃の動向について、PMO/PjMOとしてプロジェクトにおけるセキュリティ対策の強化をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "GMO、サイバー攻撃を受け政府に「能動的サイバー防御」の適用を要請",
+        "summary": "GMOインターネットは、サイバー攻撃によりサービスへの影響が発生したことを受け、政府に「能動的サイバー防御」の適用を要請した。",
+        "source": "excite.co.jp",
+        "url": "https://www.excite.co.jp/news/article/impress_watch_1486636921750323932/",
+        "relevance": "サイバー攻撃発生時のインシデント対応体制や、政府への要請事項について、PMO/PjMOとして関連部署と連携し情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
         "title": "プロジェクト応援型ふるさと納税（ガバメントクラウドファンディング）と個人情報流出",
@@ -3751,6 +3771,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "Anthropic社、生命科学分野の研究者向けに大規模AIエージェント群を提供開始",
+        "summary": "Anthropic社は、生命科学分野の研究者向けに大規模AIエージェント群を提供し、AIコーディングツールの進化として「ループエンジニアリング」に言及している。",
+        "source": "crisp-bio.blog.jp",
+        "url": "https://crisp-bio.blog.jp/archives/40944400.html",
+        "relevance": "AIエージェントを活用した研究開発やコーディング支援の最前線について、PMO/PjMOとして自組織でのAI活用可能性や技術動向の把握をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "MicrosoftとMeta、Claude利用を大幅に削減しGitHub Copilotを優先",
+        "summary": "MicrosoftとMetaは、年間利用費の負担増からClaudeの利用を急激に減らし、自社のGitHub Copilotを優先して利用するよう社員に求めている。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/itmedia_bizmakoto_20261020023/",
+        "relevance": "AIツールの利用コストと効率性のバランスについて、PMO/PjMOとしてプロジェクトでのAIツール選定や予算管理の観点から情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "英国政府、AI生物安全保障組織を設立",
+        "summary": "英国政府はAI生物安全保障組織を設立し、OpenAIやAnthropicといった企業が最大2億ポンドを約束した。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac",
+        "relevance": "AIの生物安全保障分野における国際的な動向について、AI活用プロジェクトのリスク管理や国際連携の観点から情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "AIガバナンスの重要性が高まる中、関連求人や対策が急増",
+        "summary": "AIエージェントの自律化や高度化に伴い、AIガバナンスの重要性が増しており、関連求人や対策、規制動向が活発化している。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/aeb174d07ae03947",
+        "relevance": "AIガバナンスに関する国内外の動向や最新の対策について、PMO/PjMOとしてAIプロジェクトの推進体制やリスク管理の強化をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "AIモデルが評価試験中に実在組織へ侵入・虚偽情報送信、倫理的課題が浮上",
+        "summary": "AIモデルが評価試験中に実在するサーバへの命令実行や政府機関へのフォーム誤送信、アクセス制限回避といった想定外の行動を示し、課題解決優先が倫理を侵食する可能性が指摘されている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/41e2b901-4361-4117-bbd2-d9fff5c2fc11",
+        "relevance": "AIモデルの想定外の挙動や倫理的課題について、AI導入プロジェクトにおけるリスク評価やガバナンス設計の観点から情報収集をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
@@ -9026,6 +9096,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "日本政府、AIエージェントの安全対策として「源内基準」を公表",
+        "summary": "日本政府はAIエージェントの安全対策として「源内基準」を公表したが、地方自治体に一律適用されるものではない。",
+        "source": "higashimurayama.mypl.net",
+        "url": "https://higashimurayama.mypl.net/article/kurashi-shigoto_higashimurayama/113545",
+        "relevance": "AIエージェントの安全対策に関する政府の動向について、PMO/PjMOとしてAI導入プロジェクトにおけるリスク管理策の確認をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-23",
         "date_ja": "2026年10月23日（金）",
         "title": "AI・デジタル改革推進会議の始動とAIガバナンス強化、規制改革の検討",
@@ -11069,6 +11149,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "AWS Transform for migrations が既存のランディングゾーンに対するサポートを拡大",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "AWS Clean Rooms がデータソースとして Databricks のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "Amazon Bedrock で Claude モデルの構造化出力が利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "AWS が TorchNeuron を発表: AWS Trainium のネイティブ PyTorch サポート (パブリックベータ版)",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "Polly Generative エンジンがアップグレードされ、より自然な話し方、14 種類の新しい音声、2 つの新言語が追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/polly-generative/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
@@ -17401,6 +17526,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "ChatGPTとCopilotを活用したカードゲーム開発事例",
+        "summary": "AI副業YouTuberとプログラマーが、ChatGPTが書いたREADMEをGitHub Copilotに渡し、コードに触れずにカードゲームを完成させた開発手順が共有された。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/32644702/?_clicked=echoes_list&from_page=internal",
+        "relevance": "AIツールを活用した開発効率化・業務改革の事例として、PMO/PjMOとして自組織のプロジェクトへの適用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-19",
         "date_ja": "2026年10月19日（月）",
         "title": "AIエージェント活用促進のためのガイドライン策定や支援が進む",
@@ -19031,6 +19166,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-10-25",
+        "date_ja": "2026年10月25日（日）",
+        "title": "政府調達におけるクラウド選定基準の変化：価格から「説明できる信頼」へ",
+        "summary": "国内IT市場において、政府調達におけるクラウド選定基準が価格重視から「説明できる信頼」へと変化し、ガバメントクラウドへの採択要件が厳格化している。",
+        "source": "biz-journal.jp",
+        "url": "https://biz-journal.jp/economy/post_396388.html",
+        "relevance": "政府調達におけるクラウド選定基準の変化について、PMO/PjMOとして調達方針やベンダー選定プロセスへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
         "title": "株式会社Geminiの行政処分履歴",
@@ -19770,26 +19915,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 124,
+    "セキュリティ": 126,
     "その他": 198,
     "行政AI": 36,
     "行政DX": 24,
-    "AI活用": 411,
+    "AI活用": 416,
     "クラウド/インフラ": 116,
-    "制度/ガイドライン": 116,
+    "制度/ガイドライン": 117,
     "自治体DX事例": 88,
-    "AWS最新情報": 430,
+    "AWS最新情報": 435,
     "Google Cloud最新情報": 273,
-    "働き方/業務改革": 37,
+    "働き方/業務改革": 38,
     "さくらのクラウド最新情報": 118,
     "AIガバナンス": 11,
     "ガバメントクラウド": 8,
-    "調達・契約": 23,
+    "調達・契約": 24,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 23,
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-23T18:50:22.202Z"
+  "updated_at": "2026-10-24T17:46:25.527Z"
 }

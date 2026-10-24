@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ecs-service-metrics/",
-    "pubDate": "2026-10-13T22:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
-    "pubDate": "2026-10-13T21:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
-    "pubDate": "2026-10-13T19:35:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/deadline-cloud/resources",
-    "pubDate": "2026-10-13T18:54:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
     "pubDate": "2026-10-15T20:40:00.000Z"
   },
@@ -30,5 +14,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
     "pubDate": "2026-10-15T18:30:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/polly-generative/",
+    "pubDate": "2026-10-20T15:32:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
+    "pubDate": "2026-10-20T15:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
+    "pubDate": "2026-10-20T14:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
+    "pubDate": "2026-10-20T12:23:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
+    "pubDate": "2026-10-20T08:00:00.000Z"
   }
 ]
