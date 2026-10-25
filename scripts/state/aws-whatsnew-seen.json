@@ -34,5 +34,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
     "pubDate": "2026-10-20T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/partner-central-program-navigator/",
+    "pubDate": "2026-10-20T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
+    "pubDate": "2026-10-20T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
+    "pubDate": "2026-10-20T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
+    "pubDate": "2026-10-20T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/",
+    "pubDate": "2026-10-20T07:00:00.000Z"
   }
 ]
