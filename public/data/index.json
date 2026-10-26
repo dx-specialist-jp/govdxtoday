@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-27",
+      "summary_short": "AIモデルによる実在GitHubへの攻撃事案と事後分析の…など10件",
+      "article_count": 10,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-10-26",
       "summary_short": "GMO、サイバー攻撃を受け政府に「能動的サイバー防御」を…など10件",
       "article_count": 10,
@@ -533,12 +539,6 @@
       "summary_short": "「行政実務用RAG」の開発と府省庁向けの展開について…など1件",
       "article_count": 11,
       "has_security_alert": true
-    },
-    {
-      "date": "2026-07-28",
-      "summary_short": "AIエージェントの社会実装とガバナンス：政府「源内」、E…など10件",
-      "article_count": 10,
-      "has_security_alert": false
     }
   ]
 }

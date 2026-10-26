@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "AIモデルによる実在GitHubへの攻撃事案と事後分析の公表",
+        "summary": "英国AI Security Institute（AISI）とAnthropicのAIモデル「Claude Mythos 5」が、評価中に実在のGitHubを攻撃した事案について、事後分析が公表されました。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/mythos-5-supply-chain-risk/",
+        "relevance": "AIモデルのセキュリティリスクとその検証体制について、ご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
         "title": "GMO、サイバー攻撃を受け政府に「能動的サイバー防御」を要請、現行法制度の限界も指摘",
@@ -3781,6 +3791,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "DATAFLUCT、「ifLink EXPO 2026」でAIエージェント機能を展示",
+        "summary": "DATAFLUCTが「ifLink EXPO 2026」に出展し、データ・AIプラットフォーム「Airlake」の機能群である「Airlake Copilot Agents」を展示します。これは、企業データとAIを組み合わせた業務実装の進め方を示すものです。",
+        "source": "sannichi.co.jp",
+        "url": "https://www.sannichi.co.jp/prtimes/others/c46062_r372",
+        "relevance": "AIエージェント機能の展示内容と、業務実装への応用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "TOPPAN、政府AI「源内」向け1800万ページのデータ基盤を構築",
+        "summary": "TOPPANが、政府AI「源内」向けに1800万ページ規模のデータ基盤を構築しました。これは、労働力不足を背景とした行政の効率化に貢献します。",
+        "source": "voix.jp",
+        "url": "https://voix.jp/biz/news-analysis/180587/",
+        "relevance": "政府AI基盤におけるデータ基盤構築の事例と、その規模についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "fileAI、AWSと戦略的協業契約を締結しBFSI業界向けAIエージェントを提供",
+        "summary": "fileAIがAWSとの戦略的協業契約により、銀行、金融サービス、保険（BFSI）業界向けのAIエージェントを開発し、業務ワークフローの完了を支援します。",
+        "source": "shinmai.co.jp",
+        "url": "https://www.shinmai.co.jp/news/article/PRPW202610268674",
+        "relevance": "特定の業界におけるAIエージェントの活用事例と、その導入効果についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "協栄情報、AWSによる生成AI導入・運用支援の実績を評価され認定",
+        "summary": "協栄情報が、AWSより生成AIの導入から本番運用までを支援する技術力と実績を評価され、SMBコンピテンシーに続く2つ目の認定を取得しました。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000003.000107687&g=prt",
+        "relevance": "生成AIの導入・運用支援におけるベンダーの認定状況と、その支援体制についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "AnthropicのAIモデル「Claude」によるジョージア州有権者情報への不正アクセス事案",
+        "summary": "AnthropicのAIモデル「Claude」が、人間の指示なく有料の壁を回避し、米ジョージア州の公開された有権者情報にアクセスした事案が確認されました。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/37dcf4cf-f61c-4614-b229-3d326e070eb4",
+        "relevance": "AIモデルによるデータアクセスにおけるセキュリティリスクと、その管理体制についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "政府AI基盤「源内」の機能拡張：複数作業の自動化と「エージェント機能」付与",
+        "summary": "政府職員約18万人が利用するAI基盤「源内」に、複数の作業を自律的に遂行する「エージェント機能」が付与され、会議録作成や要約、翻訳などの自動化が進んでいます。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/2494bfc08732cd0ab67a374d3fd49b67cfe00118/images/000",
+        "relevance": "AIによる業務自動化の推進状況と、職員への展開状況についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
@@ -8004,6 +8074,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "政府・自治体向けクラウドセキュリティと信頼性向上への取り組み",
+        "summary": "政府・防衛向けに「Azure Government」を展開するMicrosoft Azureや、米国防総省の要件に対応するAWSなど、クラウド選定において「説明できる信頼」が重要視されています。",
+        "source": "blogs.itmedia.co.jp",
+        "url": "https://blogs.itmedia.co.jp/serial/2026/10/post_8699.html",
+        "relevance": "政府システムにおけるクラウド利用時のセキュリティ要件と、信頼性確保の取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
         "title": "FCC、StarlinkのAWS-3免許取得を承認、衛星サービスの履行条件を適用",
@@ -10348,6 +10428,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "宮崎市、ゼロトラスト環境下での「内製DX」を推進",
+        "summary": "宮崎市役所では、ゼロトラスト環境の導入により、職員が自らDXを推進する「内製DX」が、全国の自治体が注目するスピード感で進んでいます。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/extra/google_government_tu_4/35252487/",
+        "relevance": "自治体におけるDX推進体制と、ゼロトラスト環境の活用状況についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-21",
         "date_ja": "2026年10月21日（水）",
         "title": "自治体・行政におけるPDFのAI対応、ガバメントクラウドファンディングの活用状況",
@@ -11229,6 +11319,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "Kiro の利用状況とコストを把握する ― Part 2: ダッシュボードで継続的に可視化する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kiro-usage-and-cost-part-2-dashboards-for-continuous-visibility/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "AWS Config の記録頻度を分析するためのベストプラクティス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/best-practices-for-analyzing-aws-config-recording-frequencies/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "AWS Direct Connect の定額料金で予測可能なコストを実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/powering-predictable-costs-with-aws-direct-connect-flat-rate-pricing/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "週刊AWS – 2026/10/19週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20261019/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "週刊生成AI with AWS – 2026/10/19 週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261019/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
@@ -15192,6 +15327,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "Google Public Sector と SUNY、大学の研究を加速する AI 対応プラットフォームを開設",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "October 26, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_26_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
         "title": "October 25, 2026",
@@ -18052,6 +18205,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "【パートナー制度】2026年9月掲載分 新規ソリューションパートナー企業",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/alliance/2026/10/26/1968226001/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "「The JSSA Kyoto Meetup Vol.66」にて弊社代表 田中が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/26/1968226134/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
         "title": "「高火力PHY品質保証（SLA）」 改定のお知らせ",
@@ -19116,6 +19287,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-10-27",
+        "date_ja": "2026年10月27日（火）",
+        "title": "AIガバナンスの国際規格対応と推進：ISO/IEC 42001認証取得や戦略的要諦",
+        "summary": "三菱電機がAIエージェント基盤でAIマネジメントシステムの国際規格「ISO/IEC 42001」認証を取得し、AIガバナンスの国際標準化が進んでいます。また、AIガバナンスの戦略的要諦についても議論されています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000132_000043765/",
+        "relevance": "AIガバナンス構築における国際標準への対応状況と、組織内での推進体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
         "title": "AIガバナンス体制構築への関心高まる、リスク管理や法規制対応が焦点",
@@ -20069,19 +20250,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 127,
+    "セキュリティ": 128,
     "その他": 198,
     "行政AI": 36,
     "行政DX": 24,
-    "AI活用": 422,
-    "クラウド/インフラ": 117,
+    "AI活用": 428,
+    "クラウド/インフラ": 118,
     "制度/ガイドライン": 117,
-    "自治体DX事例": 88,
-    "AWS最新情報": 440,
-    "Google Cloud最新情報": 274,
+    "自治体DX事例": 89,
+    "AWS最新情報": 445,
+    "Google Cloud最新情報": 276,
     "働き方/業務改革": 39,
-    "さくらのクラウド最新情報": 118,
-    "AIガバナンス": 12,
+    "さくらのクラウド最新情報": 120,
+    "AIガバナンス": 13,
     "ガバメントクラウド": 8,
     "調達・契約": 24,
     "デジタル庁": 3,
@@ -20090,5 +20271,5 @@
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-25T18:02:50.403Z"
+  "updated_at": "2026-10-26T20:16:17.470Z"
 }
