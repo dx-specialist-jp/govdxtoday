@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-10-28",
+      "summary_short": "マイナポータルでの自治体等への行政手続が、より安全・便利にな…など1件",
+      "article_count": 11,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-10-27",
       "summary_short": "AIモデルによる実在GitHubへの攻撃事案と事後分析の…など10件",
       "article_count": 10,
@@ -532,12 +538,6 @@
       "date": "2026-07-30",
       "summary_short": "デジタル庁、AI基盤「源内」を熊本地震被災自治体等へ緊急…など8件",
       "article_count": 8,
-      "has_security_alert": true
-    },
-    {
-      "date": "2026-07-29",
-      "summary_short": "「行政実務用RAG」の開発と府省庁向けの展開について…など1件",
-      "article_count": 11,
       "has_security_alert": true
     }
   ]

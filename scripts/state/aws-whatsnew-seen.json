@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
-    "pubDate": "2026-10-15T20:40:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
-    "pubDate": "2026-10-15T20:10:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
-    "pubDate": "2026-10-15T20:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
-    "pubDate": "2026-10-15T18:30:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/polly-generative/",
     "pubDate": "2026-10-20T15:32:00.000Z"
   },
@@ -54,5 +38,13 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/",
     "pubDate": "2026-10-20T07:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+    "pubDate": "2026-10-21T19:10:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+    "pubDate": "2026-10-21T17:21:00.000Z"
   }
 ]

@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "サイバー攻撃の緊急対策パッケージ策定へ",
+        "summary": "相次ぐサイバー攻撃による大規模な情報漏えい被害を受け、政府は緊急対策パッケージを来週中に策定します。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20261027_2000002620?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+        "relevance": "サイバー攻撃への対策強化は、PMO/PjMO担当者の皆様が推進するプロジェクトにおけるセキュリティリスク管理の観点から重要です。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "AIモデルによる実在GitHubへの攻撃事案と事後分析の公表",
@@ -3240,6 +3250,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "マイナポータルでの自治体等への行政手続が、より安全・便利になりました",
+        "summary": "マイナポータル行政手続が刷新、より安全・便利に",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n2a0689cfbcdd",
+        "type": "government"
+      },
+      {
         "date": "2026-10-22",
         "date_ja": "2026年10月22日（木）",
         "title": "Excelの機械可読性を判定するツール「Harunobu」のご紹介",
@@ -3791,6 +3810,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "インテルによるクラスィック買収による量子コンピューティングプラットフォーム構築",
+        "summary": "インテルがイスラエルの量子ソフトウェアプロバイダーであるクラスィックを買収し、フルスタック量子コンピューティングプラットフォーム構築を目指します。",
+        "source": "quantumbusinessmagazine.com",
+        "url": "https://quantumbusinessmagazine.com/2026/10/27/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB%E3%80%81%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%B8%EF%BC%9A%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF/",
+        "relevance": "量子コンピューティング技術の進化は、将来的な行政システムの基盤技術に影響を与える可能性があり、PMO/PjMO担当者の皆様は動向を注視することが望ましいです。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AI成果創出段階への移行と経営リスク、先端技術の可能性",
+        "summary": "日本企業はAI導入から成果創出段階へ移行しており、人材、セキュリティ、インフラ、ガバナンスが課題となっています。AIの次に来る先端技術や、AX（AIトランスフォーメーション）の社会実装も注目されています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000098.000038497.html",
+        "relevance": "AI導入の課題や、AI成果創出に向けた取り組みは、PMO/PjMO担当者の皆様がプロジェクトを推進する上での計画立案やリスク管理に役立ちます。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AnthropicのAI開発動向とAIガバナンスに関する議論",
+        "summary": "AnthropicはAIの存続リスクやコードの大部分をAIが生成する状況を示唆し、IPO申請を行いました。AI監査の独立性や規制、意図しないAIの行動に対する安全管理が議論されています。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/2",
+        "relevance": "AI開発における倫理的・安全な側面や、AIガバナンスに関する最新の議論は、PMO/PjMO担当者の皆様がAIプロジェクトの推進にあたり考慮すべき点となります。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "政府・自治体におけるAIエージェント活用とガバメントAI「源内」の展開",
+        "summary": "政府職員18万人がAIエージェントを自作できるよう、ガバメントAI「源内」が展開されます。日立システムズは2027年に自治体向けAIサービス提供を目指し、AIエージェントによる行政業務改革を支援します。",
+        "source": "sattu-ai-agent.com",
+        "url": "https://sattu-ai-agent.com/2026/10/27/%E5%9B%BD%E7%94%A3ai%E3%80%8Cplamo-3-1-prime%E3%80%8D%E3%81%AF%E4%BD%95%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F-%E9%98%B2%E8%A1%9B%E3%83%BB%E8%A1%8C%E6%94%BF%E3%81%8B%E3%82%89/",
+        "relevance": "AIエージェントの活用による行政業務の効率化や、ガバメントAIの展開状況について、PMO/PjMO担当者の皆様は最新動向をご確認ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
@@ -8074,6 +8133,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "『AWSの知識地図［改訂新版］』出版と政府職員のAIエージェント活用",
+        "summary": "『AWSの知識地図［改訂新版］』が出版され、Google Cloud、AWS、Kubernetesなどの情報が更新されました。政府職員18万人がAIエージェント活用へ向けて動いています。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/release/31217989/",
+        "relevance": "AWSの最新知識や、政府におけるAIエージェント活用の動向は、PMO/PjMO担当者の皆様がクラウドインフラの選定やAI導入計画を検討する上で参考になります。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "機密データ管理とAI活用を両立する「主権クラウド」とAIリスクアセスメント支援",
+        "summary": "機密データを自社環境で管理できる「主権クラウド」は、AI活用とセキュリティの両立を支援します。Azure OpenAIを活用したAIリスクアセスメント支援システムも構築されています。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/ytoda2646-20/",
+        "relevance": "政府機関における安全なクラウド・AI活用や、AIリスクアセスメントの実施は、PMO/PjMO担当者の皆様がプロジェクトのセキュリティおよびコンプライアンスを確保する上で参考になります。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "政府・自治体向けクラウドセキュリティと信頼性向上への取り組み",
@@ -10428,6 +10507,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "近畿3省庁によるまちづくり推進セミナー開催",
+        "summary": "近畿経済産業局、近畿地方整備局、近畿環境局の3省庁が、まちづくり推進を目的としたセミナー「和歌山北ぶらくり丁商店街MeetUp」を開催します。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/885777/",
+        "relevance": "省庁間の連携による地域課題解決の取り組みは、PMO/PjMO担当者の皆様が他省庁との連携や、地域の実情に合わせたDX推進を検討する上で参考となります。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "宮崎市、ゼロトラスト環境下での「内製DX」を推進",
@@ -11319,6 +11408,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AWS Direct Connect がイングランドのマンチェスターで 100G の拡張を発表",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AWS Transform が Amazon S3、EBS、EFS、FSx へのストレージ移行評価を追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AWS Coding Plugin for SAP ABAP, powered by Kiro のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-aws-coding-plugin-for-sap-abap/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "Claude Haiku 5.5 が Kiro で利用可能になりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/haiku-5-5/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "スペックファースト: SAP ABAP のスペック駆動開発",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/spec-driven-development-for-sap-abap/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
@@ -15327,6 +15461,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "最新生成 AI 活用事例 121 社を一挙公開！ AI エージェントの本格活用が広がる（2026 年 10 月更新）",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-examples-of-generative-ai-applications-from-121-companies-released/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "ARMORY CASTLE が BeyondTrust の脆弱性を悪用",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "Cloud Run 上の Temporal Serverless Workers: 需要の変動を見越してワーカーをスケーリング",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "October 27, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_27_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "Google Public Sector と SUNY、大学の研究を加速する AI 対応プラットフォームを開設",
@@ -18205,6 +18375,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "「Kotlin Fest 2026」にてさくらインターネット研究所 早坂が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/27/1968226109/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "【ImageFlux】画像変換機能における「自動リサイズ」「自動圧縮」パラメータ提供開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/27/1968226102/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "「OKINAWA OPEN DAYS2026」にて弊社執行役員 横田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/27/1968226150/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "【パートナー制度】2026年9月掲載分 新規ソリューションパートナー企業",
@@ -19287,6 +19484,26 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "AIガバナンス構築とAI活用推進のための専門組織・ソリューション",
+        "summary": "AIエージェントのスキル安全性を評価する仕組みや、AI活用とガバナンス構築を推進する専門組織が新設されています。AIガバナンス、セキュリティ関連のソリューションも提供されています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000087.000041726.html",
+        "relevance": "AI活用を推進するにあたり、ガバナンス体制の構築や、関連する専門組織・ソリューションの動向をPMO/PjMO担当者の皆様は把握しておくことが推奨されます。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-28",
+        "date_ja": "2026年10月28日（水）",
+        "title": "経営リスクとAIガバナンスに関する「GOVERNANCE WEEK 2026」開催",
+        "summary": "「GOVERNANCE WEEK 2026」では、AIガバナンス、サイバーセキュリティ、会計不正などをテーマに、第一線の実務家が解説を行います。",
+        "source": "excite.co.jp",
+        "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-27-89067-276/",
+        "relevance": "AIガバナンスの構築や、複雑化する経営リスクへの対応は、PMO/PjMO担当者の皆様がプロジェクトのガバナンス体制を検討する上で参考になります。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-27",
         "date_ja": "2026年10月27日（火）",
         "title": "AIガバナンスの国際規格対応と推進：ISO/IEC 42001認証取得や戦略的要諦",
@@ -20250,19 +20467,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 128,
+    "セキュリティ": 129,
     "その他": 198,
-    "行政AI": 36,
+    "行政AI": 37,
     "行政DX": 24,
-    "AI活用": 428,
-    "クラウド/インフラ": 118,
+    "AI活用": 432,
+    "クラウド/インフラ": 120,
     "制度/ガイドライン": 117,
-    "自治体DX事例": 89,
-    "AWS最新情報": 445,
-    "Google Cloud最新情報": 276,
+    "自治体DX事例": 90,
+    "AWS最新情報": 450,
+    "Google Cloud最新情報": 280,
     "働き方/業務改革": 39,
-    "さくらのクラウド最新情報": 120,
-    "AIガバナンス": 13,
+    "さくらのクラウド最新情報": 123,
+    "AIガバナンス": 15,
     "ガバメントクラウド": 8,
     "調達・契約": 24,
     "デジタル庁": 3,
@@ -20271,5 +20488,5 @@
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-26T20:16:17.470Z"
+  "updated_at": "2026-10-27T19:48:18.110Z"
 }
