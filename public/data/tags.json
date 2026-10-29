@@ -3831,6 +3831,76 @@
     ],
     "AI活用": [
       {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "テクノロジー業界におけるAI投資の急拡大への歯止めと収支改善",
+        "summary": "マイクロソフトの計画縮小により、テクノロジー業界のAI投資急拡大に歯止めがかかり、収支改善が見込まれる。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17796257/?ref=pickstream_100438",
+        "relevance": "AI投資のペースや企業戦略の変化について、今後の技術投資動向や政府のAI戦略への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AnthropicのAIモデル「Claude」開発企業、株式上場見込み・幹部エンジニアがコード作成をClaudeに依存",
+        "summary": "Anthropicの幹部エンジニアが、自身のチームのコードをすべてClaudeが書いていると明かし、同社は11月中旬にも株式上場する見込みである。",
+        "source": "businessinsider.jp",
+        "url": "https://www.businessinsider.jp/article/2610-anthropic-claude-code-replaces-human-coding/",
+        "relevance": "AIによるコーディング作業への依存度増加や、AI開発企業の動向について、開発プロセスや将来的な技術動向をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "衆議院、立法業務支援強化のためAI活用に合意、政府開発基盤システム「源内」を念頭に",
+        "summary": "衆議院は、調査局や法制局などでの利用を想定し、立法業務の支援強化のためAI活用に合意した。当面は政府開発の生成AI基盤システム「源内」を念頭に置く。",
+        "source": "okinawatimes.co.jp",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1955223",
+        "relevance": "国会におけるAI活用の方針や、政府開発基盤システム「源内」の利用について、立法・行政業務への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "「Claude」を活用した業務運用のスクラム化や、AIによる地図作成・GIS作業の効率化支援",
+        "summary": "生成AI「Claude」を活用した業務運用のスクラム化や、AIによる地図作成・GIS作業の効率化支援サービスについて紹介されている。Claude CodeやCodex CLIの利用環境が必要となる場合がある。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/webinar/aihakunfukuoka20261a-5/",
+        "relevance": "ClaudeなどのAIを活用した業務プロセス改善や、専門分野におけるAI導入支援サービスについて、具体的な活用方法や支援体制をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AIガバナンス強化に向けた新機能や実践セミナー、国際動向、および関連する規制・標準化の動き",
+        "summary": "企業のAI利用ガバナンス強化を目的とした新機能提供や、AIガバナンス実践セミナー、国際動向勉強会などが開催されている。AIガバナンスはエンタープライズ・アーキテクチャ・ツール市場の導入を後押しする要因ともなっている。",
+        "source": "hotomaru.jp",
+        "url": "https://hotomaru.jp/blog/news/102901/",
+        "relevance": "AIガバナンスの最新動向、企業や標準化団体による取り組み、および国際的な規制や連携について、組織のAI活用体制構築の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AIツール認証情報窃盗やサイバー攻撃へのAI利用、およびAIによる地図作成・GIS作業効率化",
+        "summary": "AIツール認証情報を狙う攻撃や、AIを利用したサイバー攻撃の事例が報告されている一方、AIによる地図作成・GIS作業の効率化事例も紹介されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000565.000021207&g=prt",
+        "relevance": "AIツールのセキュリティリスクと、業務効率化のためのAI活用事例について、リスク管理と導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "Googleがサイバー防御強化AIモデル「Gemini 4 Carbon」を発表、政府機関で事前テスト実施",
+        "summary": "GoogleはAIモデル「Gemini 4 Carbon」を発表し、サイバーセキュリティ機能と長時間タスク処理能力を強化した。米国政府機関での事前テストも行われている。",
+        "source": "k-tai.watch.impress.co.jp",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2152170.html",
+        "relevance": "最新AIモデルのサイバー防御能力や政府機関での利用状況について、今後の行政システムへの適用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "Anthropic、AI「Claude」を活用した創薬活動に着手",
@@ -8213,6 +8283,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AWS関連の事業展開：合弁会社設立と地域創生サポーター認定",
+        "summary": "クリーク・アンド・リバー社はeCloudvalley Japanとクラウド関連の合弁会社設立で基本合意し、フラー株式会社はAWS ジャパンの「AWS 地域創生サポーター」に認定された。",
+        "source": "mag2.com",
+        "url": "https://www.mag2.com/p/money/1813006/amp",
+        "relevance": "AWSエコシステムにおける新たな協業や地域連携の動きについて、政府・自治体向けサービス展開の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AWSおよびGoogle Cloud、AI需要増加による演算容量逼迫と事業拡大",
+        "summary": "AWSでは2027年分の演算容量がほぼ契約済みとなり、AI需要が供給を上回る状況。Google Cloudは103％増収を記録し、AI投資負担が増加している。",
+        "source": "tokyonewsmedia.com",
+        "url": "https://tokyonewsmedia.com/archives/29711",
+        "relevance": "主要クラウドベンダーにおけるAI需要による供給状況や、事業拡大の動向について、政府システムにおけるクラウド利用計画への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "主要クラウドベンダーとAI開発プラットフォームの戦略的協業・連携強化",
@@ -10597,6 +10687,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "都城市の要望から生まれた自治体向け生成AIプラットフォーム「自治体AI zevo」が「テックタッチ AI Hub」と連携",
+        "summary": "シフトプラス株式会社は、行政向け生成AIプラットフォーム「自治体AI zevo」が、テックタッチ株式会社の「テックタッチ AI Hub」と連携したことを発表した。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000230.000056138.html",
+        "relevance": "自治体固有のニーズから生まれたAIソリューションと既存システムとの連携事例について、類似業務への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "インフラメンテナンスに関する自治体向け無料セミナーの定期開催",
@@ -11518,6 +11618,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "Amazon OpenSearch Serverless NextGen の時系列コレクションのご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-next-generation-of-serverless-time-series-for-amazon-opensearch-service/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "金融機関が AI-DLC を素早く効果的に運用に乗せる方法",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-financial-institutions-can-operationalize-ai-dlc-quickly-and-effectivel/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "AWS セキュリティハンズオン連続開催のご案内",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-security-handson-series/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "re:Invent 2026 クラウドと AI の支出管理 ガイド: 参加前に押さえておきたいポイント",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/use-ai-to-manage-your-ai-spend-your-guide-to-cloud-financial-management-sessions-at-reinvent-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "Amazon EKS の高度な Kubernetes コントロールプレーン設定の紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
@@ -15616,6 +15761,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "PHP コアの脆弱性 CVE-2026-109618 および CVE-2026-109619 への対応",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "Google Cloud で Claude の利用機会とデプロイの選択肢を拡大",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "ZenteiQ、llm-d を搭載した GKE Inference Gateway でバッチ推論のスループットを 4 倍に拡大",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "Sky: Gemini を全社で一斉に導入し、98% の利用定着率と 2,000 個近いエージェントの共有を実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/sky-implements-gemini-company-wide/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "October 29, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_29_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "グローバル規模のハードウェア格納型セキュリティ: NVIDIA Blackwell を搭載した Confidential G4 の一般提供を開始",
@@ -18566,6 +18756,42 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "「【ご好評につき再配信】一歩先のエンジニアへ：さくらのAI検定で広がるキャリアの地図」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/29/1968226176/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "「SAKURA innobase Okinawa meetup2026」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/29/1968226141/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "「医療DXで変わるIT基盤、これからどう考える？ 〜クラウド・データセンターを組み合わせる新しい選択肢〜」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/29/1968226182/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-30",
+        "date_ja": "2026年10月30日（金）",
+        "title": "「オンプレからクラウドへ。失敗しない移行の進め方 〜現状棚卸し・並行稼働・切替から学ぶ、クラウド移行の実践ステップ〜」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/10/29/1968226186/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "「議事録から始めるAI活用！国内完結で実現する業務効率化の第一歩」を開催いたします",
@@ -20681,14 +20907,14 @@
     "その他": 198,
     "行政AI": 37,
     "行政DX": 24,
-    "AI活用": 438,
-    "クラウド/インフラ": 121,
+    "AI活用": 445,
+    "クラウド/インフラ": 123,
     "制度/ガイドライン": 117,
-    "自治体DX事例": 92,
-    "AWS最新情報": 455,
-    "Google Cloud最新情報": 284,
+    "自治体DX事例": 93,
+    "AWS最新情報": 460,
+    "Google Cloud最新情報": 289,
     "働き方/業務改革": 39,
-    "さくらのクラウド最新情報": 124,
+    "さくらのクラウド最新情報": 128,
     "AIガバナンス": 16,
     "ガバメントクラウド": 8,
     "調達・契約": 24,
@@ -20698,5 +20924,5 @@
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-28T20:01:54.849Z"
+  "updated_at": "2026-10-29T20:01:37.913Z"
 }
