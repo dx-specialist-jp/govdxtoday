@@ -2,6 +2,25 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "お知らせ：オープンリゾルバー確認サイト長期メンテナンスのお知らせ",
+        "summary": "オープンリゾルバー確認サイトが長期メンテナンスに入ります。\n\n▶ JPCERT/CCの「オープンリゾルバー確認サイト」のメンテナンス期間を確認し、影響範囲を把握。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/maintenance20261030.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AIモデルの進化と脆弱性、およびAI回答の統計データ信頼性に関する報告",
+        "summary": "Linuxの重大脆弱性CVE-2026-98432に対するAIによる攻撃実証や、AIモデル（Claude、Gemini等）の回答に含まれる統計データの約40%に裏付けがない「ゾンビ統計」であることが報告されています。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/claude-linux-root-exploit/",
+        "relevance": "AIモデルのセキュリティ脆弱性や回答の信頼性に関するリスクについて、情報収集と対策の検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "Weekly Report: JPCERT/CCが2026年7月から9月分の「JPCERT/CC 四半期レポート」を公開",
@@ -3830,6 +3849,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "ShopifyとChatGPT/Claude連携、AIエージェントが購入・決済代行、Excel Copilotの新スキル",
+        "summary": "ShopifyはAIエージェントと連携し、検索から購入・決済までを代行する新機能を発表しました。また、Excel Copilotには新スキルが追加され、AIによる業務支援が進んでいます。",
+        "source": "netshop.impress.co.jp",
+        "url": "https://netshop.impress.co.jp/n/2026/10/30/16963",
+        "relevance": "民間サービスにおけるAIエージェントの活用事例として、行政手続きの自動化や効率化への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "アクセンチュアとGoogle Cloud、ボルボの車載ソフト開発をAIで加速、テスト最大9倍高速化",
+        "summary": "アクセンチュアとGoogle Cloudは、ボルボ・カーズが車載ソフトウェア開発においてAIを活用し、テスト工程を最大9倍高速化する取り組みを発表しました。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/ytoda2646-47/",
+        "relevance": "民間企業におけるAIを活用した開発・テスト効率化事例として、行政システム開発への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "デジタル庁、国会答弁作成支援AIアプリ「源内」を試験提供、業務効率化と長時間労働是正へ",
+        "summary": "デジタル庁は、政府職員向けAI基盤「源内」を活用した国会答弁作成支援AIアプリの試験提供を開始しました。これにより、政府職員の業務効率化や長時間労働の是正を目指しています。",
+        "source": "newsdig.tbs.co.jp",
+        "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3052650?display=1",
+        "relevance": "AI活用による公務員の業務効率化事例として、「源内」の導入効果や今後の展開について情報収集をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "Google Cloud、行政機関向けGeminiプレビュー版提供開始、公務の自動化・迅速化を支援",
+        "summary": "Google Cloudは、行政機関向けGeminiのプレビュー版提供を開始しました。政府の法令や規制、指針に基づき、既存システム権限管理に従う形で公務の自動化・迅速化を支援します。",
+        "source": "aismiley.co.jp",
+        "url": "https://aismiley.co.jp/ai_news/gemini-government-services-ai/",
+        "relevance": "行政機関でのAI活用による業務効率化の可能性について、Geminiの機能や適用範囲のご検討をお願いします。",
+        "type": "news"
+      },
       {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
@@ -10687,6 +10746,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AWSユーザーカンファレンスでの地方自治体事例発表と、自治体・省庁の行政課題解決提案募集",
+        "summary": "秋田県でのAWS活用事例が紹介されたユーザーカンファレンスや、全国の自治体・省庁の行政課題130件を一挙公開し企業から解決提案を募集する動きがあります。",
+        "source": "okinawatimes.co.jp",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1956076",
+        "relevance": "地方自治体におけるクラウド活用事例や、行政課題解決に向けた企業との連携について、参考となる情報がないかご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
         "title": "都城市の要望から生まれた自治体向け生成AIプラットフォーム「自治体AI zevo」が「テックタッチ AI Hub」と連携",
@@ -11618,6 +11687,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AWS Continuum for code vulnerabilities が一般提供を開始しました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AWS Weekly Roundup: Amazon Polly の Generative エンジン、Trainium 向け TorchNeuron など (2026 年 10 月 26 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "KDDI における Amazon EKS Auto Mode 商用導入：カスタムコントローラーによる運用課題の解決",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/202611-kddi-eks-auto-mode-case-study/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "【随時更新】Inter BEE 2026 AWS ブースのご案内：人が創り、人が決める。AI エージェントが支える次世代放送局",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/jpmne-interbee2026-aws-introduction/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "エージェント時代の運用：re:Invent 2026 の AIOps セッション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/operating-in-the-agentic-era-aiops-sessions-at-reinvent-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
@@ -15760,6 +15874,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "UBCab: Google Maps Platform で平均迎車時間を 25% 短縮",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/maps-platform/ubcab-reducing-average-passenger-pickup-times-by-25-percent-with-google-maps-platform/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "データ主権の境界内におけるマネージド RAG 検索: Gemini on GDC エンタープライズ検索",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "BigQuery ObjectRef の一般提供を開始: 会話分析用のマルチモーダル データ プラットフォームをすべて SQL で構築",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "境界セキュリティのモダナイズ: VPC Service Controls によるスケーラブルな境界",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "October 30, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#October_30_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
@@ -19910,6 +20069,26 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AIガバナンス勉強会、AI導入オールインワンツール、企業のAIガバナンス体制構築",
+        "summary": "AIガバナンス勉強会が開催され、AI導入オールインワンツールが提供開始されるなど、企業のAIガバナンス体制構築に向けた具体的な動きが進んでいます。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000046.000140551.html",
+        "relevance": "AI導入・活用におけるガバナンス体制の構築について、具体的な体制やツールの情報をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-10-31",
+        "date_ja": "2026年10月31日（土）",
+        "title": "AIガバナンスの重要性と課題に関する動向、各社が体制構築やリスク管理策を発表",
+        "summary": "AIエージェント導入に伴うリスクやデータガバナンスの重要性が高まる中、各社がAIガバナンス体制の構築、責任者・承認・監査・事故対応策、およびAI進化の制御の仕組みについて言及しています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/036e3119-f9fe-49bb-9230-0ce713a7e339",
+        "relevance": "AI導入・活用におけるガバナンス体制の構築やリスク管理について、最新の動向と各社の取り組みをご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-29",
         "date_ja": "2026年10月29日（木）",
         "title": "AIガバナンスとデータ管理、AIエージェントの統制強化に向けた動き",
@@ -20903,19 +21082,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 131,
+    "セキュリティ": 133,
     "その他": 198,
     "行政AI": 37,
     "行政DX": 24,
-    "AI活用": 445,
+    "AI活用": 449,
     "クラウド/インフラ": 123,
     "制度/ガイドライン": 117,
-    "自治体DX事例": 93,
-    "AWS最新情報": 460,
-    "Google Cloud最新情報": 289,
+    "自治体DX事例": 94,
+    "AWS最新情報": 465,
+    "Google Cloud最新情報": 294,
     "働き方/業務改革": 39,
     "さくらのクラウド最新情報": 128,
-    "AIガバナンス": 16,
+    "AIガバナンス": 18,
     "ガバメントクラウド": 8,
     "調達・契約": 24,
     "デジタル庁": 3,
@@ -20924,5 +21103,5 @@
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-29T20:01:37.913Z"
+  "updated_at": "2026-10-30T19:50:28.014Z"
 }
