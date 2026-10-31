@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "公共部門における高度な認証メーカー選定、Thales Groupらが主要企業として注目",
+        "summary": "公共部門、特に政府機関や国防分野において、高度な認証メーカーとしてCisco Systems Inc.、Google Cloud、Oracle Corporation、BIO-keyなどが挙げられる。Thales Groupも影響力を持つ企業の一つである。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4755994",
+        "relevance": "PMO/PjMO担当者は、政府システムにおける認証基盤の選定基準や、セキュリティ強化のための技術動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "外務省で不正アクセス、約3600件の個人情報漏洩の可能性",
+        "summary": "外務省は、外部とのやり取りが可能なネットワークで不正アクセスが発生し、個人情報を含むメールなどが漏洩した可能性があると発表した。パスポート情報のシステムには影響はなかった。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/d97cadc8-2980-4253-8ee5-5162d50d787d",
+        "relevance": "PMO/PjMO担当者は、サイバーセキュリティ対策の強化と、インシデント発生時の対応計画策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-31",
         "date_ja": "2026年10月31日（土）",
         "title": "お知らせ：オープンリゾルバー確認サイト長期メンテナンスのお知らせ",
@@ -3849,6 +3869,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "ClaudeのAIチャットボット、上位プラン「Ultra」へ改名、料金据え置きで機能拡充",
+        "summary": "Claudeの上位プランであった「Max 20x」が「Ultra」に、「Max 5x」が「Max」に改名された。料金は月200ドル、100ドルのまま据え置かれ、Ultraプランでは認証済みアカウントの5時間制限が撤廃される。",
+        "source": "mediadogs.jp",
+        "url": "https://mediadogs.jp/2026/10/31/claude-max-ultra-plan-rename/",
+        "relevance": "PMO/PjMO担当者は、AIツールの選定・導入にあたり、機能、料金体系、利用制限等の比較検討についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "AIガバナンスの重要性が高まる中、AIエージェントの運用や規制対応が焦点に",
+        "summary": "AIエージェントの自律的なリスクや、適切なガバナンス設計の難しさが課題となる中、AIガバナンスプラットフォーム市場の成長や、AI関連規制の進展が指摘されている。総務省AIネットワーク社会推進会議では、AIガバナンス検討会が更新されている。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187986",
+        "relevance": "PMO/PjMO担当者は、AI導入・運用におけるガバナンス体制の構築と、関連する規制動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "行政文書における機密情報漏洩リスク、ChatGPT等への入力制限を促す",
+        "summary": "行政の連絡文に含まれる生徒や保護者、住民に関する情報などがChatGPT等の生成AIへの入力時、情報漏洩のリスクがあることが指摘されている。Chrome拡張機能や管理者向けダッシュボードによる対策が紹介されている。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2660ota64/",
+        "relevance": "PMO/PjMO担当者は、生成AI利用における情報セキュリティリスクと、組織的な対策の必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "政府、国会答弁作成支援にAI「源内」を導入、全省庁で試験提供開始",
+        "summary": "政府は、国会答弁案の作成を支援するAIアプリの試作版を、30日からすべての省庁で利用開始した。「源内」と名付けられた政府独自のAI基盤を活用し、2027年1月からの本格提供を目指す。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/32698374/",
+        "relevance": "PMO/PjMO担当者は、AIを活用した業務効率化の可能性について、関連部署やプロジェクトでの導入可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-31",
         "date_ja": "2026年10月31日（土）",
@@ -8342,6 +8402,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "Google Cloud、行政機関向けGeminiプレビュー版提供開始、AI需要がクラウド市場を牽引",
+        "summary": "Google Cloudは、行政機関向けにGeminiプレビュー版の提供を開始した。AI需要はクラウド市場の成長を牽引しており、Alphabetの設備投資は過去最高を記録した。",
+        "source": "zaikei.co.jp",
+        "url": "https://www.zaikei.co.jp/article/20261031/875716.html",
+        "relevance": "PMO/PjMO担当者は、クラウドインフラの選定におけるAI活用支援機能や、将来的なAI需要への対応についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
         "title": "AWS関連の事業展開：合弁会社設立と地域創生サポーター認定",
@@ -9573,6 +9643,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "「AIガバナンス入門[全面改訂版] 超知性との共存」が12月16日に発売",
+        "summary": "AIガバナンスに関する書籍「AIガバナンス入門[全面改訂版] 超知性との共存」が、12月16日にハヤカワ新書から発売される。著者は羽深宏樹氏。",
+        "source": "bunko.sumikko.info",
+        "url": "https://bunko.sumikko.info/item-select/4153400653",
+        "relevance": "PMO/PjMO担当者は、AIガバナンスに関する専門知識の習得や、最新の議論動向の把握についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-10-25",
         "date_ja": "2026年10月25日（日）",
@@ -11687,6 +11767,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "Amazon SageMaker Unified Studio に IDC ベースのドメインのライトモードサポートが追加",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/smus-light-mode",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "Amazon WorkSpaces Core マネージドインスタンスが ModifyVolume API をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "OpenAI の GPT-6.1 Terra が Amazon Bedrock で一般提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "Spec it safe：セキュリティ要件で仕様をハードニングし、シフトレフトを実現する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/spec-it-safe/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-01",
+        "date_ja": "2026年11月1日（日）",
+        "title": "Kiro のハロウィンハッカソン Kiroween 2026 が始まりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kiroween-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-10-31",
         "date_ja": "2026年10月31日（土）",
@@ -21082,15 +21207,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 133,
+    "セキュリティ": 135,
     "その他": 198,
     "行政AI": 37,
     "行政DX": 24,
-    "AI活用": 449,
-    "クラウド/インフラ": 123,
-    "制度/ガイドライン": 117,
+    "AI活用": 453,
+    "クラウド/インフラ": 124,
+    "制度/ガイドライン": 118,
     "自治体DX事例": 94,
-    "AWS最新情報": 465,
+    "AWS最新情報": 470,
     "Google Cloud最新情報": 294,
     "働き方/業務改革": 39,
     "さくらのクラウド最新情報": 128,
@@ -21103,5 +21228,5 @@
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-30T19:50:28.014Z"
+  "updated_at": "2026-10-31T19:00:42.916Z"
 }

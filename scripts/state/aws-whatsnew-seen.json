@@ -1,50 +1,18 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/polly-generative/",
-    "pubDate": "2026-10-20T15:32:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
-    "pubDate": "2026-10-20T15:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
-    "pubDate": "2026-10-20T14:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
-    "pubDate": "2026-10-20T12:23:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
-    "pubDate": "2026-10-20T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/partner-central-program-navigator/",
-    "pubDate": "2026-10-20T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
-    "pubDate": "2026-10-20T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
-    "pubDate": "2026-10-20T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
-    "pubDate": "2026-10-20T08:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/",
-    "pubDate": "2026-10-20T07:00:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
     "pubDate": "2026-10-21T19:10:00.000Z"
   },
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
-    "pubDate": "2026-10-21T17:21:00.000Z"
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+    "pubDate": "2026-10-26T18:27:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+    "pubDate": "2026-10-26T18:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/smus-light-mode",
+    "pubDate": "2026-10-26T15:32:00.000Z"
   }
 ]
