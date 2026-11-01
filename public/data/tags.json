@@ -3870,6 +3870,56 @@
     ],
     "AI活用": [
       {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Googleの「Gemini Notebook」、数百冊の教科書を無料で追加可能に",
+        "summary": "Googleは「Gemini Notebook」で、数百冊の教科書を無料で追加可能にした。自治体や企業での活用事例も紹介されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17812273/?ref=technology&tabKey=C%3A3",
+        "relevance": "「Gemini Notebook」の教科書追加機能や活用アイデアについて、教育・研修分野でのAI活用事例の参考にご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "名古屋をAIで盛り上げる、名古屋大学出身者が立ち上げたCentral AX",
+        "summary": "ChatGPT、Gemini、Claude、Copilotなどの主要AIツールを業務で使いこなすための研修から、業務へのAI組み込み（受託開発）まで支援するCentral AXの紹介。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19944588?news_ref=tag",
+        "relevance": "AIツールの研修や業務への組み込み支援サービスについて、職員のAI活用能力向上や業務効率化の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "AIガバナンスの重要性が高まる、企業や政府機関で体制構築やガイドライン策定が進む",
+        "summary": "AIの利活用が進む中、データガバナンスやAIライフサイクル全体でのリスク管理、セキュリティガイドラインの策定など、AIガバナンスの重要性が高まっている。",
+        "source": "medical.nikkeibp.co.jp",
+        "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t374/202611/595021.html",
+        "relevance": "AIガバナンスに関する最新の動向や、企業・政府機関での体制構築・ルール策定事例について、自組織のAI活用におけるリスク管理体制構築の参考にご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Google、最先端モデル「Gemini 4 Carbon」を発表、OpenAIも新モデル「GPT-6.1 Terra」を公開",
+        "summary": "Googleは最先端モデル「Gemini 4 Carbon」を発表し、OpenAIも新モデル「GPT-6.1 Terra」を公開した。Gemini 4 Carbonは政府機関などに提供先を限定する。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/itmedia_pcuser_20261101003/",
+        "relevance": "最新のAIモデルの提供状況や利用制限について、今後の行政システムへの適用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "デジタル庁、政府職員18万人対象のAIエージェント環境「ガバメントAI 源内」を提供開始、安全基準も公表",
+        "summary": "デジタル庁は、政府職員約18万人にAIエージェント利用環境「ガバメントAI 源内」を提供し、独自の安全基準「源内基準」を公表した。国会答弁作成支援アプリも本格提供へ。",
+        "source": "troy-technical.jp",
+        "url": "https://troy-technical.jp/%E3%82%AC%E3%83%90%E3%83%A1%E3%83%B3%E3%83%88ai%E6%BA%90%E5%86%85%EF%BD%9C%E6%94%BF%E5%BA%9C%E8%81%B7%E5%93%A118%E4%B8%87%E4%BA%BA%E5%90%91%E3%81%91ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3/",
+        "relevance": "「ガバメントAI 源内」の利用状況や効果、コストに関する工夫について、他省庁や自治体への横展開の参考にご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-01",
         "date_ja": "2026年11月1日（日）",
         "title": "ClaudeのAIチャットボット、上位プラン「Ultra」へ改名、料金据え置きで機能拡充",
@@ -10826,6 +10876,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "自治体がふるさと納税制度を活用して資金調達を行う「ガバメントクラウドファンディング」",
+        "summary": "自治体が抱える問題解決のため、ふるさと納税制度を活用して寄附金の使途を特定して行う資金調達の仕組みである「ガバメントクラウドファンディング」について。",
+        "source": "city.oita.oita.jp",
+        "url": "https://www.city.oita.oita.jp/o154/bunkasports/guide/tanabata-gcf.html",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、公共サービスの資金調達手法の参考にご確認ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-31",
         "date_ja": "2026年10月31日（土）",
         "title": "AWSユーザーカンファレンスでの地方自治体事例発表と、自治体・省庁の行政課題解決提案募集",
@@ -11767,6 +11827,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Amazon EC2 Auto Scaling がインスタンス置き換え時の「終了前の起動」をアカウントレベルでサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "AWS IAM アイデンティティセンターがクロスリージョンの信頼できる ID の伝播をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Amazon Connect Customer で顧客維持と収益につながる成果の測定が可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Amazon Connect Customer で顧客ライフタイムバリューとリピート発信者のステータス別にメトリクスを表示可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "Amazon Connect Customer がテストとシミュレーションを拡張し、フローアクションの結果を検証可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-01",
         "date_ja": "2026年11月1日（日）",
@@ -18648,6 +18753,36 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "防災庁発足へ向け、知識伝承・蓄積できる省庁体制の構築が重要",
+        "summary": "防災庁の発足を前に、石破前首相は知識を伝承・蓄積できる省庁体制の重要性を説いている。デジタル庁は国会答弁作成支援AIアプリを提供開始した。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/amp/article/jiji_202611010093947002/",
+        "relevance": "省庁における知識伝承・蓄積の重要性や、AIを活用した業務効率化の取り組みについて、組織運営の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "「もうプロンプトは書かない」、Claude Code生みの親が明かす“ループエンジニアリング”",
+        "summary": "人間が毎回AIに指示を出すのではなく、仕事を見つけ、こなし、検証し、改善し続けるループを設計する「ループエンジニアリング」について、Claude Code開発者が解説。",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://topics.smt.docomo.ne.jp/article/itmedia_business/trend/itmedia_business-20261024_009?page=6",
+        "relevance": "AIとの協働における新しいアプローチ「ループエンジニアリング」について、業務プロセス設計の参考にご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "AI木曜会、会員向けポータルを2026年11月1日リリースへ",
+        "summary": "AI木曜会は、ChatGPT、Claude、Geminiなどの生成AIを仕事や生活で活用するためのコミュニティとして、会員向けポータルを2026年11月1日にリリースする。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/986263/?from=top_category_area",
+        "relevance": "生成AI活用コミュニティの活動内容について、職員のスキルアップや情報交換の場の参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-26",
         "date_ja": "2026年10月26日（月）",
         "title": "サイバーセキュリティクラウド、AIと協働して面接業務工数を50%削減",
@@ -20458,6 +20593,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-11-02",
+        "date_ja": "2026年11月2日（月）",
+        "title": "日本におけるオンラインプロジェクト管理ソフトウェアの市場動向",
+        "summary": "政府のデジタル庁が主導するガバメントクラウド対応や、セキュリティ基準ISMAPへの適合が調達条件に組み込まれるようになり、国内ベンダーの動向に影響。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4759019",
+        "relevance": "ガバメントクラウド対応やISMAP適合が調達条件に組み込まれる動向について、調達・契約プロセスへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-10-25",
         "date_ja": "2026年10月25日（日）",
         "title": "政府調達におけるクラウド選定基準の変化：価格から「説明できる信頼」へ",
@@ -21211,22 +21356,22 @@
     "その他": 198,
     "行政AI": 37,
     "行政DX": 24,
-    "AI活用": 453,
+    "AI活用": 458,
     "クラウド/インフラ": 124,
     "制度/ガイドライン": 118,
-    "自治体DX事例": 94,
-    "AWS最新情報": 470,
+    "自治体DX事例": 95,
+    "AWS最新情報": 475,
     "Google Cloud最新情報": 294,
-    "働き方/業務改革": 39,
+    "働き方/業務改革": 42,
     "さくらのクラウド最新情報": 128,
     "AIガバナンス": 18,
     "ガバメントクラウド": 8,
-    "調達・契約": 24,
+    "調達・契約": 25,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 23,
     "行政DX事例": 1,
     "財務省": 10
   },
-  "updated_at": "2026-10-31T19:00:42.916Z"
+  "updated_at": "2026-11-01T19:19:38.784Z"
 }

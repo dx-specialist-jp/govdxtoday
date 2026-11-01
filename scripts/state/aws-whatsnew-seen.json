@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
-    "pubDate": "2026-10-21T19:10:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
     "pubDate": "2026-10-26T18:27:00.000Z"
   },
@@ -14,5 +10,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/smus-light-mode",
     "pubDate": "2026-10-26T15:32:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+    "pubDate": "2026-10-26T15:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+    "pubDate": "2026-10-26T13:47:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+    "pubDate": "2026-10-26T13:31:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+    "pubDate": "2026-10-26T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+    "pubDate": "2026-10-26T08:00:00.000Z"
   }
 ]
