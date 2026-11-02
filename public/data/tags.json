@@ -2,6 +2,25 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "JVN: Siemens製品に対するアップデート（2026年10月）",
+        "summary": "Siemens製品にセキュリティアップデート（2026年10月）\n\n▶ Siemens製システムを管理する部署は、公開されたアドバイザリに基づき、対象製品のアップデート計画を立案・実行すること。影響範囲と対応状況をPMOへ報告すること。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU90141693/",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "AIツールの利用状況可視化・統制とセキュリティリスクに関する課題",
+        "summary": "Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見されたほか、AI利用の可視化・統制強化が課題となっている。Browser Insightsでは、ブラウザ経由のAI利用状況も可視化可能となっている。",
+        "source": "gigazine.net",
+        "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+        "relevance": "AIツールの利用におけるセキュリティリスクの管理と、利用状況の可視化・統制強化策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-01",
         "date_ja": "2026年11月1日（日）",
         "title": "公共部門における高度な認証メーカー選定、Thales Groupらが主要企業として注目",
@@ -3645,6 +3664,24 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨",
+        "summary": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨\n\n▶ 本研究会第1回議事要旨を確認し、国債のオンチェーン対応に関する議論の初期段階での論点、今後の進め方を把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/on_chain_giji1.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "国債のオンチェーン対応に関する研究会",
+        "summary": "国債のオンチェーン対応に関する研究会設置\n\n▶ 関連プロジェクト（特にブロックチェーン・分散型台帳技術活用）は、本研究会の議論動向を注視し、最新の技術的・制度的動向を把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+        "type": "government"
+      },
+      {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
         "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
@@ -3869,6 +3906,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "NTTドコモと製造業におけるAIエージェント・Copilot導入・定着支援事例",
+        "summary": "NTTドコモでは、Beyont社が「資格挑戦支援施策 問い合わせAIエージェント」を2ヶ月で構築した。製造業では、Copilot導入後の社内定着を支援し、業務への広がりを促すレポートが発表されている。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19948177?news_ref=watch_20_nw19779022",
+        "relevance": "AIエージェントの迅速な構築・導入や、Copilot等のツール導入後の社内定着・活用促進策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "Google Geminiのドキュメント生成・編集機能とJR九州での導入事例",
+        "summary": "Google Geminiにチャットから直接PDF、ドキュメント、スプレッドシートなどを生成・編集する新機能が追加された。JR九州では、Google Workspace with Geminiを導入し、非エンジニアによるアプリケーション開発が進められている。",
+        "source": "chiba-tv.com",
+        "url": "https://www.chiba-tv.com/plus/detail/2026112183344",
+        "relevance": "Geminiの機能拡充や、他機関におけるGoogle Workspace with Geminiの導入事例を踏まえ、業務効率化・DX推進への活用についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "AIガバナンスとAIエージェントの統制に関する動向",
+        "summary": "AIエージェントの普及が進む中、AIガバナンスポリシーの策定や、開発・運用における統制・セキュリティ対策の重要性が高まっている。香港金融管理局がエージェント型AI金融のルール策定に着手するなど、各国・機関で規制やガイドライン策定の動きが進んでいる。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/podcast/a331e57af705dbf5",
+        "relevance": "AIエージェントの導入・運用におけるリスク管理と、適切なガバナンス体制の構築についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "政府生成AI「源内」の国会答弁作成支援アプリ試験提供、利用者満足度調査も実施",
+        "summary": "政府職員向け生成AI環境「源内」で、国会答弁案作成支援アプリの試験提供が開始された。利用者の7割以上が満足しており、週1.83時間の短縮効果も推計されている。",
+        "source": "jpjj.jp",
+        "url": "https://jpjj.jp/articles/gennai-usage-survey-first-results/",
+        "relevance": "「源内」の利用状況や効果測定の結果を踏まえ、業務効率化に資するAIツールの導入・活用についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-02",
         "date_ja": "2026年11月2日（月）",
@@ -8452,6 +8529,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "ソブリンAI基盤構築とガバメントクラウドファンディング",
+        "summary": "リコーはKDDIのデータセンターでAI検証を開始し、安全な国内基盤構築を目指す。ソブリンAIは、自国の法域内・インフラ内で開発・データ処理を行うAI基盤で、データ漏洩リスク低減に寄与する。一方、仙台市役所ではガバメントクラウドファンディングが実施されている。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/1005540/",
+        "relevance": "国内インフラを活用したAI基盤の構築や、ガバメントクラウドファンディングの活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-01",
         "date_ja": "2026年11月1日（日）",
         "title": "Google Cloud、行政機関向けGeminiプレビュー版提供開始、AI需要がクラウド市場を牽引",
@@ -11827,6 +11914,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "週刊生成AI with AWS – 2026/10/26 週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "【開催報告】フロンティア AI 時代のサイバー攻撃に備える ― 臨時開催 AWS セキュリティセミナー",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-security-seminar-frontier-ai-report/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "Amazon EVS と FSx for ONTAP における Oracle Database のデプロイステップ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "Amazon EVS と FSx for ONTAP 上で高可用性の Oracle Database を設計する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "大規模金融系保守開発における AI 適用への挑戦 ── ニッセイ情報テクノロジーが AI-DLC v2 と内製ツールで進める、個人保険基幹系システムの AI 駆動開発",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ai-dlc-unicorn-gym-nissay-it-202611/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-02",
         "date_ja": "2026年11月2日（月）",
@@ -16105,6 +16237,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "Agent Compute Engine と拡張されたエージェント ガバナンスのご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "エージェント プラグインの開発から学んだ、評価エンジニアリングの 4 つの教訓",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/four-eval-engineering-lessons/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "Knowledge Catalog に新しい自己学習型コンテキスト エンリッチメントを導入",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "ARTEX とその同類: エージェント型攻撃フレームワークの登場",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "November 02, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_02_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-31",
         "date_ja": "2026年10月31日（土）",
         "title": "UBCab: Google Maps Platform で平均迎車時間を 25% 短縮",
@@ -19175,6 +19352,51 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "[メンテナンス] [緊急]さくらのレンタルサーバ・マネージドサーバ・リセールサービスの一部機能",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39941",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "【さくらのAI Engine / さくらのレンタルサーバ / さくらのVPS】記事投稿キャンペーン開催のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/02/1968226190/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "「情報セキュリティEXPO｜Japan IT Week【関西展】」にてソリューション本部 亀田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/02/1968226130/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "「ご好評につき再配信！2か月で習得するAI実践力！さくらのAI検定スタートガイド」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/02/1968226204/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/02/1968226208/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-10-30",
         "date_ja": "2026年10月30日（金）",
         "title": "「【ご好評につき再配信】一歩先のエンジニアへ：さくらのAI検定で広がるキャリアの地図」を開催いたします",
@@ -21253,6 +21475,24 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨",
+        "summary": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨\n\n▶ 本研究会第1回議事要旨を確認し、国債のオンチェーン対応に関する議論の初期段階での論点、今後の進め方を把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/on_chain_giji1.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-03",
+        "date_ja": "2026年11月3日（火）",
+        "title": "国債のオンチェーン対応に関する研究会",
+        "summary": "国債のオンチェーン対応に関する研究会設置\n\n▶ 関連プロジェクト（特にブロックチェーン・分散型台帳技術活用）は、本研究会の議論動向を注視し、最新の技術的・制度的動向を把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+        "type": "government"
+      },
+      {
         "date": "2026-10-24",
         "date_ja": "2026年10月24日（土）",
         "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
@@ -21352,18 +21592,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 135,
+    "セキュリティ": 137,
     "その他": 198,
     "行政AI": 37,
-    "行政DX": 24,
-    "AI活用": 458,
-    "クラウド/インフラ": 124,
+    "行政DX": 26,
+    "AI活用": 462,
+    "クラウド/インフラ": 125,
     "制度/ガイドライン": 118,
     "自治体DX事例": 95,
-    "AWS最新情報": 475,
-    "Google Cloud最新情報": 294,
+    "AWS最新情報": 480,
+    "Google Cloud最新情報": 299,
     "働き方/業務改革": 42,
-    "さくらのクラウド最新情報": 128,
+    "さくらのクラウド最新情報": 133,
     "AIガバナンス": 18,
     "ガバメントクラウド": 8,
     "調達・契約": 25,
@@ -21371,7 +21611,7 @@
     "調達/契約": 13,
     "プロジェクト管理": 23,
     "行政DX事例": 1,
-    "財務省": 10
+    "財務省": 12
   },
-  "updated_at": "2026-11-01T19:19:38.784Z"
+  "updated_at": "2026-11-02T22:58:05.316Z"
 }
