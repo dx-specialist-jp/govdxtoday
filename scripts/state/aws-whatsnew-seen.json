@@ -30,5 +30,13 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
     "pubDate": "2026-10-26T08:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+    "pubDate": "2026-10-28T21:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "pubDate": "2026-10-28T20:00:00.000Z"
   }
 ]
