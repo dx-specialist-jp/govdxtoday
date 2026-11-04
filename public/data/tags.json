@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "中国政府系ハッカー集団、AIを用いてサイバー攻撃を実行か",
+        "summary": "マイクロソフトは、中国政府系ハッカー集団がAIを用いてサイバー攻撃を実行している可能性を確認しました。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17828294/",
+        "relevance": "PMO/PjMOの皆様は、AIを活用したサイバー攻撃のリスクを認識し、セキュリティ対策の強化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "GMO、不正アクセス問題で上場企業としてのガバナンス欠如を指摘、AIへの危機感も",
@@ -3358,6 +3368,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "登記データを「使えるデータ」に変える——法人ベース・レジストリのデータ基盤設計",
+        "summary": "登記データを「使えるデータ」に変える法人ベース・レジストリの基盤設計を紹介",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n6b9910682c7b",
+        "type": "government"
+      },
+      {
         "date": "2026-10-28",
         "date_ja": "2026年10月28日（水）",
         "title": "マイナポータルでの自治体等への行政手続が、より安全・便利になりました",
@@ -3956,6 +3975,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Google、学校向けGemini・検索機能の提供方法を管理者に委ねるオプションを導入",
+        "summary": "Googleは、学校が生徒向けGeminiや検索機能の利用を管理者の判断で制御できるオプションを導入しました。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188062",
+        "relevance": "PMO/PjMOの皆様は、教育分野におけるAIツールの導入と管理に関するGoogleの対応を参考に、自組織でのAI活用における利用者管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "AIガバナンスの重要性が高まる中、専門家や国際規格での議論が進展",
+        "summary": "AIガバナンスに関する専門家表彰や、ISO規格、OSPOにおける関与拡大など、AI利用拡大に伴うガバナンス整備の動きが加速しています。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/3fe5de9e788615289f0f4ac7f8f03afc7305c1c1",
+        "relevance": "PMO/PjMOの皆様は、AIガバナンスに関する最新の動向や国際規格、先進事例を把握し、自組織におけるAI利用のルール策定をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Google、次世代AI「Gemini」発表。政策インテリジェンス・プラットフォームや政府機関でのテストも",
+        "summary": "Googleは次世代AI「Gemini」を発表し、政策インテリジェンス・プラットフォームでの活用や、一部政府機関でのテストが実施されています。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19954135?news_ref=top_newComments",
+        "relevance": "PMO/PjMOの皆様は、AI技術の進化や政府機関での導入動向を注視し、政策立案や情報分析への活用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "生成AI「Claude」など、行政・自治体での活用事例が多数報告",
+        "summary": "生成AI「Claude」や「ChatGPT」などが、行政や自治体でのアンケート分析、資料作成、業務効率化に活用される事例が報告されています。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302138/",
+        "relevance": "PMO/PjMOの皆様は、生成AIの行政・自治体における具体的な活用事例や効果について情報収集し、自組織での導入可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "デジタル庁、政府職員向け国会答弁作成支援AI「源内」を提供開始",
+        "summary": "デジタル庁は、国会答弁案作成を支援するAIアプリ「源内」を政府職員向けに提供開始しました。これにより、DX推進を加速します。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1000_11273/",
+        "relevance": "PMO/PjMOの皆様は、政府職員の業務効率化に資するAIツールの導入事例として、「源内」の機能や効果をご参考にしてください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
@@ -8619,6 +8688,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "自治体DXセミナー開催、CYLLENGEクラウドはISMAP登録でガバメントクラウド対応を強化",
+        "summary": "地域DXセミナーでCYLLENGEクラウドが紹介され、ISMAP登録によりガバメントクラウド対応を強化していることが示されました。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/release/31221272/",
+        "relevance": "PMO/PjMOの皆様は、ガバメントクラウドへの移行や、ISMAP登録済みのクラウドサービス活用についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "AWS、日本国内に2.26兆円規模のAIデータセンター投資計画を発表、デジタル主権確保と生成AI普及へ",
@@ -9880,6 +9959,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "トランプ大統領令「超知能」への呼称変更、政治的忠誠心の踏み絵となる懸念",
+        "summary": "トランプ大統領がAIの呼称を「超知能」に変更した指示は、政治的忠誠心の踏み絵となる懸念が指摘されています。",
+        "source": "technologyreview.jp",
+        "url": "https://www.technologyreview.jp/s/394304/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "relevance": "PMO/PjMOの皆様は、AIに関する用語や政府の動向が政治的文脈で変化する可能性を理解し、情報収集の際の留意点をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-01",
         "date_ja": "2026年11月1日（日）",
@@ -12014,6 +12103,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Amazon MSK Connect がコネクタプラグインとワーカー設定の更新をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Amazon Aurora がポスト量子 TLS キー交換をサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Amazon RDS for Oracle/SQL Server が追加のストレージボリュームでのストレージの自動スケーリングをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "AWS Marketplace ではパートナーが 1 回出品するだけで複数の子会社アカウントを通じて販売可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock、エージェントツールとしての Step Functions など (2026 年 11 月 2 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
@@ -16382,6 +16516,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Gemini Robotics Embodied Reasoning 2 が Google Cloud で利用可能に",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "TorchTPU がオープンソースに: TPU でネイティブ PyTorch を実行",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "Google TPU を Oracle Cloud Infrastructure に導入",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "アップグレード時のダウンタイムをほぼゼロに: Cloud SQL for MySQL 向けの Blue/Green デプロイを発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/cloud-sql-blue-green-deployments/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "XCPE ボットネットを完全封鎖：Google による脅威への対抗と詳細解析",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "November 03, 2026",
@@ -19516,6 +19695,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "「情報セキュリティEXPO｜Japan IT Week【関西展】」にてブース出展いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/04/1968225888/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-03",
         "date_ja": "2026年11月3日（火）",
         "title": "[メンテナンス] [緊急]さくらのレンタルサーバ・マネージドサーバ・リセールサービスの一部機能",
@@ -20979,6 +21167,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-11-05",
+        "date_ja": "2026年11月5日（木）",
+        "title": "公取委、自治体システムの標準化・ガバメントクラウド移行巡り実態調査を開始",
+        "summary": "公正取引委員会は、自治体システムの標準化やガバメントクラウドへの移行におけるベンダー乗り換え妨げ要因の実態調査を開始しました。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12153/",
+        "relevance": "PMO/PjMOの皆様は、自治体システムの移行やベンダー選定における公正取引委員会の動向にご注意ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-02",
         "date_ja": "2026年11月2日（月）",
         "title": "日本におけるオンラインプロジェクト管理ソフトウェアの市場動向",
@@ -21786,26 +21984,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 140,
+    "セキュリティ": 141,
     "その他": 198,
-    "行政AI": 37,
+    "行政AI": 38,
     "行政DX": 28,
-    "AI活用": 466,
-    "クラウド/インフラ": 126,
-    "制度/ガイドライン": 118,
+    "AI活用": 471,
+    "クラウド/インフラ": 127,
+    "制度/ガイドライン": 119,
     "自治体DX事例": 95,
-    "AWS最新情報": 485,
-    "Google Cloud最新情報": 300,
+    "AWS最新情報": 490,
+    "Google Cloud最新情報": 305,
     "働き方/業務改革": 43,
-    "さくらのクラウド最新情報": 133,
+    "さくらのクラウド最新情報": 134,
     "AIガバナンス": 18,
     "ガバメントクラウド": 8,
-    "調達・契約": 25,
+    "調達・契約": 26,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 24,
     "行政DX事例": 1,
     "財務省": 14
   },
-  "updated_at": "2026-11-03T20:44:33.306Z"
+  "updated_at": "2026-11-04T21:01:44.966Z"
 }

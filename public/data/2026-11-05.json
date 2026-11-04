@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-05",
+  "date_ja": "2026年11月5日（木）",
+  "news_summary": [
+    "中国政府系ハッカー集団がAIを用いてサイバー攻撃を実行している可能性が確認されました。",
+    "デジタル庁が政府職員向けに国会答弁作成支援AI「源内」の提供を開始しました。",
+    "生成AI「Claude」などが行政・自治体でアンケート分析や資料作成に活用されています。",
+    "Googleが次世代AI「Gemini」を発表、一部政府機関でテストが実施されています。",
+    "AIガバナンス整備に向け、専門家表彰や国際規格での議論が進展しています。",
+    "CYLLENGEクラウドがISMAP登録し、ガバメントクラウド対応を強化しています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Hinemosにおける不適切な権限の割り当ての脆弱性",
+      "url": "https://jvn.jp/jp/JVN46901199/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Airbyteにおける任意のコードが実行可能な脆弱性",
+      "url": "https://jvn.jp/jp/JVN12040144/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+      "url": "https://jvn.jp/jp/JVN44272550/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99859918/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92281274/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
+      "url": "https://jvn.jp/vu/JVNVU91151184/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政AI最前線",
+    "title": "登記データを「使えるデータ」に変える——法人ベース・レジストリのデータ基盤設計",
+    "summary": "登記データを「使えるデータ」に変える法人ベース・レジストリの基盤設計を紹介",
+    "source_name": "デジタル庁 note",
+    "source_url": "https://digital-gov.note.jp/n/n6b9910682c7b",
+    "pub_date": "2026-11-04"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "中国政府系ハッカー集団、AIを用いてサイバー攻撃を実行か",
+      "summary": "マイクロソフトは、中国政府系ハッカー集団がAIを用いてサイバー攻撃を実行している可能性を確認しました。",
+      "relevance": "PMO/PjMOの皆様は、AIを活用したサイバー攻撃のリスクを認識し、セキュリティ対策の強化についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17828294/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "デジタル庁、政府職員向け国会答弁作成支援AI「源内」を提供開始",
+      "summary": "デジタル庁は、国会答弁案作成を支援するAIアプリ「源内」を政府職員向けに提供開始しました。これにより、DX推進を加速します。",
+      "relevance": "PMO/PjMOの皆様は、政府職員の業務効率化に資するAIツールの導入事例として、「源内」の機能や効果をご参考にしてください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11273/"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "生成AI「Claude」など、行政・自治体での活用事例が多数報告",
+      "summary": "生成AI「Claude」や「ChatGPT」などが、行政や自治体でのアンケート分析、資料作成、業務効率化に活用される事例が報告されています。",
+      "relevance": "PMO/PjMOの皆様は、生成AIの行政・自治体における具体的な活用事例や効果について情報収集し、自組織での導入可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302138/"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20261105/pr2/00m/020/027000c"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19956169?news_ref=20_20"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000068.000074398&g=prt"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000046_000136673/"
+        },
+        {
+          "name": "digital-construction.jp",
+          "url": "https://digital-construction.jp/news/4172"
+        },
+        {
+          "name": "tsuhannews.jp",
+          "url": "https://www.tsuhannews.jp/event/detail/1359"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-04-136909-47/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000046.000136673.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17829930/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Google、次世代AI「Gemini」発表。政策インテリジェンス・プラットフォームや政府機関でのテストも",
+      "summary": "Googleは次世代AI「Gemini」を発表し、政策インテリジェンス・プラットフォームでの活用や、一部政府機関でのテストが実施されています。",
+      "relevance": "PMO/PjMOの皆様は、AI技術の進化や政府機関での導入動向を注視し、政策立案や情報分析への活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19954135?news_ref=top_newComments"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2647-8/"
+        },
+        {
+          "name": "shimotsuke.co.jp",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1453100"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスの重要性が高まる中、専門家や国際規格での議論が進展",
+      "summary": "AIガバナンスに関する専門家表彰や、ISO規格、OSPOにおける関与拡大など、AI利用拡大に伴うガバナンス整備の動きが加速しています。",
+      "relevance": "PMO/PjMOの皆様は、AIガバナンスに関する最新の動向や国際規格、先進事例を把握し、自組織におけるAI利用のルール策定をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3fe5de9e788615289f0f4ac7f8f03afc7305c1c1"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/6f720f6b-fb8e-45b9-bb5b-11825aea3768"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/cd57cf0f-6faf-4298-8c89-e9ba530f325d"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/bengoshi/life/bengoshi-topics-21147?page=2"
+        },
+        {
+          "name": "rodo.co.jp",
+          "url": "https://www.rodo.co.jp/seminar/workseminar/226789"
+        },
+        {
+          "name": "bengo4.com",
+          "url": "https://www.bengo4.com/corporate/news/article/0p9zx7_dr/"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32732677/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7b3259a3233863d4577750bd7e85df2bc31b0f05/images/000"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32732412/"
+        },
+        {
+          "name": "bengo4.com",
+          "url": "https://www.bengo4.com/c_18/n_21147/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19955439?news_ref=20_20"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1959299"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000058_000048564/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17830591/"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261104-5255763/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3243287"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/analyst-ratings/article-93CH-1740771"
+        },
+        {
+          "name": "businessnetwork.jp",
+          "url": "https://businessnetwork.jp/article/38348"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Google、学校向けGemini・検索機能の提供方法を管理者に委ねるオプションを導入",
+      "summary": "Googleは、学校が生徒向けGeminiや検索機能の利用を管理者の判断で制御できるオプションを導入しました。",
+      "relevance": "PMO/PjMOの皆様は、教育分野におけるAIツールの導入と管理に関するGoogleの対応を参考に、自組織でのAI活用における利用者管理についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188062"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20261104-google-guided-learning-search/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "自治体DXセミナー開催、CYLLENGEクラウドはISMAP登録でガバメントクラウド対応を強化",
+      "summary": "地域DXセミナーでCYLLENGEクラウドが紹介され、ISMAP登録によりガバメントクラウド対応を強化していることが示されました。",
+      "relevance": "PMO/PjMOの皆様は、ガバメントクラウドへの移行や、ISMAP登録済みのクラウドサービス活用についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31221272/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000063_000028632/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "トランプ大統領令「超知能」への呼称変更、政治的忠誠心の踏み絵となる懸念",
+      "summary": "トランプ大統領がAIの呼称を「超知能」に変更した指示は、政治的忠誠心の踏み絵となる懸念が指摘されています。",
+      "relevance": "PMO/PjMOの皆様は、AIに関する用語や政府の動向が政治的文脈で変化する可能性を理解し、情報収集の際の留意点をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "technologyreview.jp",
+          "url": "https://www.technologyreview.jp/s/394304/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "公取委、自治体システムの標準化・ガバメントクラウド移行巡り実態調査を開始",
+      "summary": "公正取引委員会は、自治体システムの標準化やガバメントクラウドへの移行におけるベンダー乗り換え妨げ要因の実態調査を開始しました。",
+      "relevance": "PMO/PjMOの皆様は、自治体システムの移行やベンダー選定における公正取引委員会の動向にご注意ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12153/"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock、エージェントツールとしての Step Functions など (2026 年 11 月 2 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+          "pub_date": "2026-11-04T09:25:26.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Marketplace ではパートナーが 1 回出品するだけで複数の子会社アカウントを通じて販売可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
+          "pub_date": "2026-10-29T20:12:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon RDS for Oracle/SQL Server が追加のストレージボリュームでのストレージの自動スケーリングをサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+          "pub_date": "2026-10-29T18:06:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Aurora がポスト量子 TLS キー交換をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+          "pub_date": "2026-10-29T16:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon MSK Connect がコネクタプラグインとワーカー設定の更新をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+          "pub_date": "2026-10-29T15:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "XCPE ボットネットを完全封鎖：Google による脅威への対抗と詳細解析",
+          "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+          "pub_date": "2026-11-04T03:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "アップグレード時のダウンタイムをほぼゼロに: Cloud SQL for MySQL 向けの Blue/Green デプロイを発表",
+          "url": "https://cloud.google.com/blog/ja/products/databases/cloud-sql-blue-green-deployments/",
+          "pub_date": "2026-11-04T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google TPU を Oracle Cloud Infrastructure に導入",
+          "url": "https://cloud.google.com/blog/ja/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
+          "pub_date": "2026-11-04T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "TorchTPU がオープンソースに: TPU でネイティブ PyTorch を実行",
+          "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
+          "pub_date": "2026-11-04T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Robotics Embodied Reasoning 2 が Google Cloud で利用可能に",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+          "pub_date": "2026-11-04T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「情報セキュリティEXPO｜Japan IT Week【関西展】」にてブース出展いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/04/1968225888/",
+          "pub_date": "2026-11-04T01:30:17.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-04T21:01:44.955Z"
+}
