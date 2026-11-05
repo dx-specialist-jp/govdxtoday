@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-11-06",
+      "summary_short": "JVN: Siemens製品に対するアップデート（2026年…など2件",
+      "article_count": 9,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-11-05",
       "summary_short": "登記データを「使えるデータ」に変える——法人ベース・レジスト…など1件",
       "article_count": 10,
@@ -533,12 +539,6 @@
       "summary_short": "デジタル庁、熊本地震を受け被災自治体へ生成AI「ガバメン…など10件",
       "article_count": 10,
       "has_security_alert": false
-    },
-    {
-      "date": "2026-08-07",
-      "summary_short": "Anthropic、AIの安全性と米国政府との関係構築に…など5件",
-      "article_count": 5,
-      "has_security_alert": true
     }
   ]
 }

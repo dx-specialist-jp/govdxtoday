@@ -2,6 +2,25 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+        "summary": "Siemens製品に対するアップデート（2026年11月）\n\n▶ Siemens製品を利用している部署は、公表されたアドバイザリを確認し、アップデートの要否を判断すること。\n▶ 該当製品については、速やかにアップデートを実施すること。\n▶ 詳細については、Siemensが提供する情報を参照すること。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://jvn.jp/vu/JVNVU98354779/",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "政府、サイバー攻撃被害急増を受け緊急対策パッケージ。官民サイバー救援隊創設。",
+        "summary": "政府はサイバー攻撃被害の急増に対し、緊急対策パッケージをまとめた。被害企業への迅速な支援を目的とした官民サイバー救援隊の創設や、能動的サイバー防御の始動などが含まれる。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/fake-microsoft-support-scam-pixm-80-organizations-2026/",
+        "relevance": "PMO/PjMO担当者は、サイバー攻撃の増加に伴う緊急対策パッケージの内容や、官民サイバー救援隊の役割についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
         "title": "中国政府系ハッカー集団、AIを用いてサイバー攻撃を実行か",
@@ -3713,6 +3732,25 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "財政制度分科会（令和8年11月5日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年11月5日開催）資料一覧\n\n▶ PMO/PjMO担当者は、財政制度分科会の開催資料を確認し、プロジェクトへの影響を評価すること。\n▶ 議論された内容から、今後の予算編成や制度変更の動向を把握すること。\n▶ 資料は財務省ウェブサイトで公開されている。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261105zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "全国財務局管内経済情勢報告概要（令和8年10月）",
+        "summary": "全国財務局管内経済情勢報告概要（令和8年10月）\n\n▶ 各地域の経済情勢は、DXプロジェクトの推進や効果測定に影響を与える可能性があるため、参考情報として把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/index.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨",
@@ -3975,6 +4013,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "AIガバナンス、AI倫理、データガバナンスが経営戦略の重要課題に。",
+        "summary": "AIエージェントの進化に伴い、AIガバナンスやAI倫理、データガバナンスが経営戦略における必須要素となっている。企業はAI活用とリスク管理のバランスを取りながら、データ統合戦略を固めている。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1010_11299/",
+        "relevance": "PMO/PjMO担当者は、AIガバナンスやAI倫理に関する専門家や、データガバナンスの重要性についての議論についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "AIガバナンスの重要性が高まる中、AIエージェント活用とリスク管理が焦点に。",
+        "summary": "AIエージェントが自律的にタスクを実行する時代において、ガバナンスは導入の前提条件となる。AI生成コンテンツの安全性研究会や、AIエージェントのリスク管理、データ防衛などが議論されている。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/pr_topics/detail/32736828/",
+        "relevance": "PMO/PjMO担当者は、AIエージェントの導入・活用におけるガバナンス体制の構築や、AIリスク管理、データセキュリティ対策の最新動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "行政・自治体におけるAI活用事例が拡大、舞鶴市は全庁導入で年間328時間創出。",
+        "summary": "舞鶴市はクラウド・生成AI全庁導入により年間328時間を創出し、KANSAI DX AWARD 2026で金賞を受賞した。広島AIプロセスでは自治体AI検証への応用も進む。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/82f19bd7e4acdcaf",
+        "relevance": "PMO/PjMO担当者は、舞鶴市のような自治体でのAI全庁導入による業務効率化事例や、行政実務へのAI適用可能性を高めるための検証事例についてご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
@@ -8688,6 +8756,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初。",
+        "summary": "浦安市は、ガバメントクラウド移行にあたり「さくらのクラウド」を初採用し、Jip-BaseやAWSとの併用で運用する。政府のクラウド評価制度ISMAPも、政府システム対応で注目されている。",
+        "source": "cloudsign.jp",
+        "url": "https://www.cloudsign.jp/journal/ismap/",
+        "relevance": "PMO/PjMO担当者は、ガバメントクラウド移行における複数ベンダーの選定・活用事例や、ISMAP制度の要件についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "デジタル庁、物品管理システム刷新事業をフレクトが受託。Salesforce, AWS, Google Cloud活用。",
+        "summary": "デジタル庁は、約30府省庁が利用する旅費等内部管理業務共通システム（SEABIS）の次期システム設計・開発業務をフレクトに委託した。Salesforce、AWS、Google Cloudなどを活用し、2026年時点での対応を目指す。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/1054467/",
+        "relevance": "PMO/PjMO担当者は、本事業におけるガバメントクラウドへの対応状況や、Salesforce、AWS、Google Cloudといった複数ベンダーとの連携、およびクラウド移行の進捗についてご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
         "title": "自治体DXセミナー開催、CYLLENGEクラウドはISMAP登録でガバメントクラウド対応を強化",
@@ -12103,6 +12191,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "トヨタはいかにして BasisPilot を構築したか – AWS 上の AI アシスト型 SAP 運用プラットフォーム",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-toyota-built-basispilot-an-ai-assisted-sap-operations-platform-on-aws/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "Amazon S3 Tables で Apache Hive テーブルから Apache Iceberg へのマネージドな移行が可能に",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "クレジットプーリングで Kiro のクレジットをチーム全体で共有する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/credit-pooling/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "【自動車業界】車載ソフト開発をクラウドネイティブに ─ dSPACE × AWS で加速する次世代クルマづくり（dSPACE Japan User Conference 2026 で発表）",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/automotive-dspace-user-conference-2026-aws-session/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
@@ -16515,6 +16639,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "KDDI のコンシューマー向け RAG アプリ「Buffmee」: 高速化と信頼性向上を実現した舞台裏",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "エージェントの時代に向けたコンピュート基盤 Agent Compute Engine 開発の裏側",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "エンタープライズ コンテキストとセマンティクスを統合: Knowledge Catalog における LookML の一般提供を開始",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "LLMJacking の台頭：攻撃者はどのようにして侵害したクラウドおよびモデルのリソースをマネタイズするのか",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "November 05, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_05_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
@@ -21847,6 +22016,25 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "財政制度分科会（令和8年11月5日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年11月5日開催）資料一覧\n\n▶ PMO/PjMO担当者は、財政制度分科会の開催資料を確認し、プロジェクトへの影響を評価すること。\n▶ 議論された内容から、今後の予算編成や制度変更の動向を把握すること。\n▶ 資料は財務省ウェブサイトで公開されている。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261105zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-06",
+        "date_ja": "2026年11月6日（金）",
+        "title": "全国財務局管内経済情勢報告概要（令和8年10月）",
+        "summary": "全国財務局管内経済情勢報告概要（令和8年10月）\n\n▶ 各地域の経済情勢は、DXプロジェクトの推進や効果測定に影響を与える可能性があるため、参考情報として把握すること。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/index.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "国債のオンチェーン対応に関する研究会（第１回） 議事要旨",
@@ -21984,16 +22172,16 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 141,
+    "セキュリティ": 143,
     "その他": 198,
     "行政AI": 38,
-    "行政DX": 28,
-    "AI活用": 471,
-    "クラウド/インフラ": 127,
+    "行政DX": 30,
+    "AI活用": 474,
+    "クラウド/インフラ": 129,
     "制度/ガイドライン": 119,
     "自治体DX事例": 95,
-    "AWS最新情報": 490,
-    "Google Cloud最新情報": 305,
+    "AWS最新情報": 494,
+    "Google Cloud最新情報": 310,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 134,
     "AIガバナンス": 18,
@@ -22003,7 +22191,7 @@
     "調達/契約": 13,
     "プロジェクト管理": 24,
     "行政DX事例": 1,
-    "財務省": 14
+    "財務省": 16
   },
-  "updated_at": "2026-11-04T21:01:44.966Z"
+  "updated_at": "2026-11-05T21:18:39.001Z"
 }
