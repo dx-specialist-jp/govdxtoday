@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-07",
+  "date_ja": "2026年11月7日（土）",
+  "news_summary": [
+    "デジタル庁は「ガバメントAI 源内」による行政実務用RAGの解説動画を公開しました。",
+    "AIによる政策立案業務支援で、デジタル庁「源内」の月平均利用回数データが示されました。",
+    "OpenAI、Googleはセキュリティ特化AIモデルを発表、AI機能が進化しています。",
+    "AIが自社業務手順に答えられないのは、参照データが古い、または未整備が理由です。",
+    "AIエージェントは「AIにツールを使わせる」段階へ、組織利用には管理が必要です。",
+    "製造、建設、金融、自治体等、多様な業種で生成AI活用シナリオが具体化しています。",
+    "あずさ監査法人とKPMG AiXが予測・生成AI活用型ローリング・フォーキャスト支援を開始しました。",
+    "各府省PMO/PjMOはAI時代の人材・組織開発に関する動向把握が求められています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
+      "url": "https://jvn.jp/vu/JVNVU90841469/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "「AI時代の人材・組織開発に関するワークショップ」第１回会合を開催しました",
+    "summary": "「AI時代の人材・組織開発に関するワークショップ」第１回会合が開催されました。\n\n▶ 各府省PMO/PjMOは、AI活用推進のための人材・組織開発に関する動向を把握し、自省庁の計画に反映させる。",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/insideLink/20261105115434.html",
+    "pub_date": "2026-11-06"
+  },
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "日蘭税関当局は、連携強化に関する協力文書を取り交わしました",
+      "summary": "日蘭税関当局が連携強化に関する協力文書を取り交わしました。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/policy/customs_tariff/trade/international/conference/ka20261106.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "「ガバメントAI 源内」による行政実務用RAGの解説と活用",
+      "summary": "デジタル庁は政府向けAI基盤「ガバメントAI 源内」で作成した「行政実務用RAG」の解説動画を公開。マニュアル検索AIなど、行政実務における活用方法が示された。",
+      "relevance": "PMO/PjMOの皆様は、行政実務用RAGの活用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "korecara-ai.com",
+          "url": "https://korecara-ai.com/digital-agency-gennai-rag/"
+        },
+        {
+          "name": "shigyonochikara.jp",
+          "url": "https://shigyonochikara.jp/digital-gennai-gyosei-jitsumu-rag-shigyo/"
+        },
+        {
+          "name": "digital.go.jp",
+          "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIによる政策立案業務支援と「ガバメントAI 源内」の利用実態",
+      "summary": "AIが政策立案業務の一部を代替する可能性について議論されており、デジタル庁の「源内」の月平均利用回数データが紹介された。",
+      "relevance": "PMO/PjMOの皆様は、AIによる行政業務支援の進展と、関連する基盤の利用状況についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "economic.jp",
+          "url": "http://economic.jp/?p=121154"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "セキュリティ特化AIモデルの投入とAI機能の進化",
+      "summary": "OpenAIはGPT-6サイバー、GoogleはGemini 4 Carbonといったセキュリティ特化AIモデルを発表し、AnthropicはClaudeに家計管理機能を追加するなど、AI機能が進化している。",
+      "relevance": "PMO/PjMOの皆様は、セキュリティ特化AIモデルや、行政業務に応用可能なAI機能の進化についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/650fe3e5-d07e-43bd-a199-6377a3245ab2"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32752273/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIが自社業務手順に答えられない理由と参照データの問題",
+      "summary": "AIが自社業務手順に答えられない背景として、業務手順書が作成されていない、またはシステム刷新後の変更が反映されていない古いデータが参照されている問題が挙げられている。",
+      "relevance": "PMO/PjMOの皆様は、AI活用における参照データの整備と更新状況についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-06-54842-6039/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIエージェントの実用段階とAI駆動開発の組織利用",
+      "summary": "AIエージェントの実用段階は「ツールを作る」ことではなく「AIにそのツールを使わせる」ことにあり、個人利用から組織利用への移行には適切な管理が必要となる。",
+      "relevance": "PMO/PjMOの皆様は、AIエージェントの組織的な活用と、AI駆動開発の推進体制についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/3a65943f01e38d0d"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "生成AI活用法とCopilot Studioの業種別シナリオ",
+      "summary": "製造、建設、小売、金融、自治体などの様々な業種における生成AI活用シナリオが紹介されており、Power AppsやPower Automateとの組み合わせ方、AIに任せる範囲が議論されている。",
+      "relevance": "PMO/PjMOの皆様は、生成AIの多様な業種別活用シナリオと、Copilot Studioの応用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/webinar-generative-ai-utilization/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AI活用型ローリング・フォーキャスト実装支援サービスの提供開始",
+      "summary": "あずさ監査法人とKPMG AiXが、予測AIと生成AIを活用した「AIを活用したローリング・フォーキャスト実装支援サービス」の提供を開始する。",
+      "relevance": "PMO/PjMOの皆様は、AIを活用した業務効率化・高度化の支援サービスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/azsa-ai-rolling-forecast/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "Claude Opus 5.5の登場とAI開発コスト削減、性能向上",
+      "summary": "Anthropicが新たなAIモデル「Claude Opus 5.5」を発表し、一般的な作業の実行コストを約40％削減、コード作成からビジネス業務まで性能を向上させている。",
+      "relevance": "PMO/PjMOの皆様は、AIモデルの性能向上とコスト削減動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2647-20/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "約30府省庁で利用される政府共通システムのモダナイゼーションとクラウド移行",
+      "summary": "約30府省庁、約3.6万人が利用する政府共通システムのモダナイゼーションを支援する動きがあり、浦安市は「さくらのクラウド」を採用しガバメントクラウド移行を進めている。",
+      "relevance": "PMO/PjMOの皆様は、政府共通システムのモダナイゼーションや、ガバメントクラウド移行の事例についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "dempa-times.co.jp",
+          "url": "https://www.dempa-times.co.jp/administration/61158/"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/110600514/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDUDPKEYWORDDXKEYWORD"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "生成AI/Copilot利用におけるガバナンスとセキュリティリスク",
+      "summary": "生成AIの組織利用が進む中、参照する業務データの問題や、AIが参照するデータへのアクセス権限、個人情報漏洩リスクが指摘されており、ガバナンスポリシー策定の重要性が示唆されている。",
+      "relevance": "PMO/PjMOの皆様は、生成AI利用におけるガバナンス体制とセキュリティ対策についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32748641/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000006031_000054842/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19962381"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188166"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/0652c34c9a6cf8739ee13dd3d15a128d7726706a/images/000"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Managed Services（AMS）で AWS クラウドインフラのセキュリティを強化する",
+          "url": "https://aws.amazon.com/jp/blogs/news/enhance-your-aws-cloud-infrastructure-security-with-aws-managed-services-ams/",
+          "pub_date": "2026-11-06T13:06:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "【寄稿】両備システムズが挑む、地方自治体ガバメントクラウドのコスト最適化 ～共同利用（ネットワーク分離方式）で長期継続割引を使いこなし、クラウド利用料を削減～",
+          "url": "https://aws.amazon.com/jp/blogs/news/%E3%80%90%E5%AF%84%E7%A8%BF%E3%80%91%E4%B8%A1%E5%82%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E3%81%8C%E6%8C%91%E3%82%80%E3%80%81%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%AC%E3%83%90/",
+          "pub_date": "2026-11-06T06:19:56.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro Crew の Bot のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/crew-bots/",
+          "pub_date": "2026-11-05T23:31:49.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Bedrock が AWS GovCloud (米国) における OpenAI モデルの API サポートを拡張し、クロスリージョン推論を導入",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+          "pub_date": "2026-10-30T20:43:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS GovCloud (米国) の Kiro でウェブ検索が利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
+          "pub_date": "2026-10-30T19:40:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 06, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_06_2026",
+          "pub_date": "2026-11-06T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Oracle AI Database@Google Cloud の最新イノベーションでエージェント型エンタープライズを強化",
+          "url": "https://cloud.google.com/blog/ja/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
+          "pub_date": "2026-11-06T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud と NASA: 深宇宙ミッション用のロボット システムをテスト",
+          "url": "https://cloud.google.com/blog/ja/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
+          "pub_date": "2026-11-06T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "金融サービスチームと法務チーム向けの新しい Gemini コース",
+          "url": "https://cloud.google.com/blog/ja/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+          "pub_date": "2026-11-06T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "独自のビジネス条件の範囲内でイノベーションを実現: Google Cloud の利用額上限の一般提供を開始",
+          "url": "https://cloud.google.com/blog/ja/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+          "pub_date": "2026-11-06T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「CloudNative Days Winter 2026」にてソリューション本部 亀田が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/06/1968226239/",
+          "pub_date": "2026-11-06T07:10:37.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「さくらの夕べ Debianナイト」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/06/1968226233/",
+          "pub_date": "2026-11-06T06:30:01.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「自鯖缶」に協賛し、ブース出展いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/06/1968226230/",
+          "pub_date": "2026-11-06T05:00:56.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "[メンテナンス] [緊急]さくらのレンタルサーバ・マネージドサーバ・リセールサービスの一部機能",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=39941",
+          "pub_date": "2026-11-06T04:50:54.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「関西オープンフォーラム2026」にて弊社メンバーが登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/06/1968226225/",
+          "pub_date": "2026-11-06T03:00:23.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-06T20:40:32.874Z"
+}
