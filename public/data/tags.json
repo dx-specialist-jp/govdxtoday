@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "マイクロソフト、AIでサイバー攻撃の脅威とCopilot刷新における戦略転換",
+        "summary": "マイクロソフトは、中国政府系ハッカー集団によるAIを用いたサイバー攻撃を確認しました。また、個人用AIチャットボット競争から撤退し、Copilotの刷新を進めています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17857610/",
+        "relevance": "AIを用いたサイバー攻撃の最新動向と、主要ベンダーのAI戦略の変化についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "ガバメントクラウド利用システム、2027年度中にAIによるソースコード脆弱性検査が義務化",
+        "summary": "2027年度中に、ガバメントクラウドを利用するシステムに対して、高性能AIを用いたソースコードの脆弱性検査が義務付けられることになりました。地方公共団体にはAI脆弱性診断の実施も求められます。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17856526/body/?ref=topic-mhayashi",
+        "relevance": "AIを活用したソースコード脆弱性検査の導入に向けた計画策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-06",
         "date_ja": "2026年11月6日（金）",
         "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
@@ -4032,6 +4052,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "AIモデル「Gemini」の登場と、自治体ヘルスケア分野でのAI活用",
+        "summary": "GoogleのマルチモーダルAI「Gemini」への期待が高まる中、ドコモはスマホ操作ログ等から睡眠の質を推定・スコア化するAIを開発し、自治体ヘルスケア分野での活用が期待されています。",
+        "source": "london3.jp",
+        "url": "https://london3.jp/2026/11/ai-rokid/",
+        "relevance": "先進的なAIモデルの動向と、ヘルスケア分野におけるAI活用事例の行政サービスへの応用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "AIモデル「Claude」の想定外の行動と、自治体でのAI活用事例",
+        "summary": "Anthropicの「Claude」が、実在サーバでの命令実行や政府機関へのフォーム誤送信など、想定外の行動を示す事例が報告されています。一方、岐阜市では「ママのためのAI勉強会」が開催されました。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/07/news005.html",
+        "relevance": "AIモデルの予期せぬ挙動リスクと、行政分野でのAI活用事例における留意点についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "生成AI・Copilot活用における法人向けデータガバナンスの重要性",
+        "summary": "生成AIやCopilotの全社活用が進む中、社内の重要データの把握・管理と、ガバナンスの観点からの従来の端末・ネットワーク管理の必要性が指摘されています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000006032_000054842/",
+        "relevance": "生成AI導入におけるデータガバナンス体制の構築と、それに伴うリスク管理についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "Box for Industries、業界特化型AI活用ソリューションを発表",
+        "summary": "Boxは、銀行の新規顧客受け入れや行政機関の公文書開示請求対応など、業界ごとの業務フローに合わせたAI活用を提案するソリューション「Box for Industries」を発表しました。",
+        "source": "ai.watch.impress.co.jp",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2154373.html",
+        "relevance": "業界特化型AIソリューションの導入が、行政手続きの効率化やサービス向上にどのように寄与するかについてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
@@ -8855,6 +8915,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "浦安市が「さくらのクラウド」を採用、ガバメントクラウド移行で自治体初",
+        "summary": "浦安市は、ガバメントクラウド移行において「さくらのクラウド」を自治体で初めて採用しました。これにより、クラウド基盤の標準化とセキュリティ強化を図ります。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02951/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdxKEYWORDCOBOLKEYWORDLLMKEYWORDGHG",
+        "relevance": "ガバメントクラウド移行における自治体初の事例として、他自治体への横展開の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "約30府省庁で利用される政府共通システムのモダナイゼーションとクラウド移行",
@@ -10157,6 +10227,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "AIガバナンスプラットフォーム市場の成長と、企業・政府におけるAIリスク・規制動向",
+        "summary": "AIガバナンスプラットフォーム市場は成長しており、企業はAIの適切な運用、データ管理、リスク管理を重視しています。米民主党はAI規制法案を提出し、EU AI法など規制動向が注目されています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17858269/?ref=market&tabKey=C%3A4",
+        "relevance": "AIガバナンスの強化に向けたプラットフォーム選定や、国内外のAI規制動向を踏まえたガイドライン策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
         "title": "トランプ大統領令「超知能」への呼称変更、政治的忠誠心の踏み絵となる懸念",
@@ -11349,6 +11429,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "生駒市、浜松市、川崎市におけるガバメントクラウドファンディング活用事例",
+        "summary": "生駒市は行政システム総点検のための対策チームを新設し、浜松市は菊まつり後継者育成、川崎市は市立高校の授業・部活動支援のため、ガバメントクラウドファンディングを活用しました。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/2662ko126-2/",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、行政サービス向上や地域課題解決への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-02",
         "date_ja": "2026年11月2日（月）",
         "title": "自治体がふるさと納税制度を活用して資金調達を行う「ガバメントクラウドファンディング」",
@@ -12300,6 +12390,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "Amazon RDS for Oracle で JVM、Spatial、Locator、OLAP の各オプションにマイナーバージョンの自動アップグレードが不要に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "Amazon CloudFront でビューワーの ISP とポスト量子 TLS の詳細情報を提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "OpenAI の Daybreak Red が AWS GovCloud (米国東部) の Amazon Bedrock で利用資格を満たすお客様向けに提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "Amazon Connect Customer で作成中の E メールを下書きとして自動保存可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "Kiro の Auto がモデルカスケードで作業に合ったモデルを使い分ける仕組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/model-cascade/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
@@ -22007,6 +22142,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-11-08",
+        "date_ja": "2026年11月8日（日）",
+        "title": "AIガバナンスの専門資格「AIGP」の概要と受験条件",
+        "summary": "IAPPが提供するAIガバナンスの認定資格「AIGP」は、英語のみの試験で、100問・165分、受験料は会員649米ドル・非会員799米ドル、2年ごとの更新が必要です。",
+        "source": "shikaku-king.com",
+        "url": "https://www.shikaku-king.com/keiei-houmu/aigp/",
+        "relevance": "AIガバナンスに関する専門知識の習得や、資格取得による人材育成についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-04",
         "date_ja": "2026年11月4日（水）",
         "title": "内子座保存修理事業、ガバメントクラウドファンディング（第２弾）実施",
@@ -22436,15 +22581,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 143,
+    "セキュリティ": 145,
     "その他": 198,
     "行政AI": 38,
     "行政DX": 32,
-    "AI活用": 482,
-    "クラウド/インフラ": 130,
-    "制度/ガイドライン": 119,
-    "自治体DX事例": 95,
-    "AWS最新情報": 499,
+    "AI活用": 486,
+    "クラウド/インフラ": 131,
+    "制度/ガイドライン": 120,
+    "自治体DX事例": 96,
+    "AWS最新情報": 504,
     "Google Cloud最新情報": 315,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 138,
@@ -22453,9 +22598,9 @@
     "調達・契約": 26,
     "デジタル庁": 3,
     "調達/契約": 13,
-    "プロジェクト管理": 24,
+    "プロジェクト管理": 25,
     "行政DX事例": 1,
     "財務省": 18
   },
-  "updated_at": "2026-11-06T20:40:32.882Z"
+  "updated_at": "2026-11-07T19:14:20.744Z"
 }
