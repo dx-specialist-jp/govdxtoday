@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "個人情報漏洩リスクとセキュリティ対策の強化",
+        "summary": "行政システムにおける個人情報漏洩のおそれが指摘される中、セキュリティ対策の強化や、DV被害者情報等の機密情報漏洩に対する緊急報告体制が求められている。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/himeji_city_arara_online_reservation_disaster_email_20261107/",
+        "relevance": "個人情報保護の観点から、セキュリティインシデント発生時の報告体制と、既存システムの脆弱性点検についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
         "title": "マイクロソフト、AIでサイバー攻撃の脅威とCopilot刷新における戦略転換",
@@ -4052,6 +4062,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "GX推進とデジタル庁のAI・デジタル関連施策",
+        "summary": "経済産業省のGX（グリーン・トランスフォーメーション）推進において、AI・デジタル技術の活用が模索されており、デジタル庁は国産LLMの選定やシステム強化を進めている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/c4c5f821d142cd84",
+        "relevance": "GX推進におけるAI・デジタル技術の活用可能性と、デジタル庁の施策動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "AIガバナンス・リスク管理と企業・組織の対応",
+        "summary": "AIの利点を生かしつつリスクを管理するためのAIガバナンスが重要視されており、国内外でAIガバナンス研修やコンサルティング、AIガバナンス委員会の設立が進められている。",
+        "source": "value-press.com",
+        "url": "https://www.value-press.com/s/pressrelease/383562",
+        "relevance": "AIガバナンスの体制構築や、リスク管理・活用コンサルティングの必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "行政・自治体におけるAI・生成AI活用と留意点",
+        "summary": "行政機関や自治体でAI・生成AIの活用が進む一方、脆弱性修正AIエージェントの強化や、AI利用に伴うリスク、政府調達への接続プロセスなどが議論されている。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188183",
+        "relevance": "AI・生成AIの行政分野での活用事例や、それに伴うリスク管理・調達プロセスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "AIガバナンスにおける国際的な潮流と国内研究会の動向",
+        "summary": "AIガバナンスは、リスクベースアプローチへの国際的な潮流転換が進んでおり、国内でもAI生成コンテンツの安全性研究会やAIリスク研究会が動向を議論している。",
+        "source": "excite.co.jp",
+        "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-09-90102-47/",
+        "relevance": "AIガバナンスの国際的な潮流と国内の研究動向について、推進体制の検討とリスク管理策の策定にご留意ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
@@ -8915,6 +8965,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "データ利活用政策とクラウドインフラの動向",
+        "summary": "政府主導のデータ利活用政策が需要を後押しする中、AWS、Azure、Google Cloudといったハイパースケーラーがデータレイクシステムを提供し、地方自治体ではクラウドコスト最適化も進められている。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4783841",
+        "relevance": "データ利活用政策の動向と、クラウドインフラの選定・コスト最適化についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "地方公共団体のガバメントクラウド移行遅延とコスト最適化の課題",
+        "summary": "地方公共団体の基幹業務システム標準化、すなわちガバメントクラウドへの移行が遅延しており、コスト最適化に向けた共同での取り組みが模索されている。",
+        "source": "sohodo.jp",
+        "url": "https://sohodo.jp/topics/26009",
+        "relevance": "ガバメントクラウド移行の遅延状況と、コスト最適化に向けた先進事例をご参照ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
         "title": "浦安市が「さくらのクラウド」を採用、ガバメントクラウド移行で自治体初",
@@ -10227,6 +10297,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "安保実務経験者から見た憲法9条への自衛隊明記に関する議論",
+        "summary": "安保実務経験者への取材を通じて、憲法公布80年となる今、憲法9条への自衛隊明記に関する賛否両論が示されている。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=2026110700334&g=pol&p=20261107at19S&rel=pv",
+        "relevance": "安保環境の変化と、それに関連する法制度・組織体制の検討についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
         "title": "AIガバナンスプラットフォーム市場の成長と、企業・政府におけるAIリスク・規制動向",
@@ -11429,6 +11509,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "ガバメントクラウドファンディングによる地方創生と寄附募集",
+        "summary": "山形県では、クラウドファンディング型でふるさと納税を募る「ガバメントクラウドファンディング」を活用し、蔵王の樹氷復活に向けた寄附を受け付けている。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/388868/?from=related_list",
+        "relevance": "ガバメントクラウドファンディングの活用事例について、地方創生への貢献可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
         "title": "生駒市、浜松市、川崎市におけるガバメントクラウドファンディング活用事例",
@@ -12390,6 +12480,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "AWS Transform for mainframe は、刷新されたモダナイズワークフローを改善します",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "Amazon RDS が Microsoft SQL Server の最新の累積更新プログラムおよび GDR 更新プログラムをサポート",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "AWS Config で新たに 10 種類のリソースタイプのサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "Amazon Connect Customer は、ケースから開始された新しいスレッドのメールアドレスを事前に入力します",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-09",
+        "date_ja": "2026年11月9日（月）",
+        "title": "Amazon Connect Customer がエージェントに E メールの一時停止と再開を許可",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/connect-pause-resume-email/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-08",
         "date_ja": "2026年11月8日（日）",
@@ -22581,15 +22716,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 145,
+    "セキュリティ": 146,
     "その他": 198,
     "行政AI": 38,
     "行政DX": 32,
-    "AI活用": 486,
-    "クラウド/インフラ": 131,
-    "制度/ガイドライン": 120,
-    "自治体DX事例": 96,
-    "AWS最新情報": 504,
+    "AI活用": 490,
+    "クラウド/インフラ": 133,
+    "制度/ガイドライン": 121,
+    "自治体DX事例": 97,
+    "AWS最新情報": 509,
     "Google Cloud最新情報": 315,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 138,
@@ -22602,5 +22737,5 @@
     "行政DX事例": 1,
     "財務省": 18
   },
-  "updated_at": "2026-11-07T19:14:20.744Z"
+  "updated_at": "2026-11-08T19:17:48.194Z"
 }

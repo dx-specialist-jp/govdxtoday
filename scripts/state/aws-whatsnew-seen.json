@@ -1,27 +1,7 @@
 [
   {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-    "pubDate": "2026-10-28T21:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
-    "pubDate": "2026-10-28T20:00:00.000Z"
-  },
-  {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
     "pubDate": "2026-10-29T20:12:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-    "pubDate": "2026-10-29T18:06:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
-    "pubDate": "2026-10-29T16:00:00.000Z"
-  },
-  {
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
-    "pubDate": "2026-10-29T15:00:00.000Z"
   },
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
@@ -46,5 +26,25 @@
   {
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
     "pubDate": "2026-10-30T17:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/connect-pause-resume-email/",
+    "pubDate": "2026-11-03T20:15:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+    "pubDate": "2026-11-03T17:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+    "pubDate": "2026-11-03T16:00:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "pubDate": "2026-11-03T08:30:00.000Z"
+  },
+  {
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+    "pubDate": "2026-11-03T08:00:00.000Z"
   }
 ]
