@@ -1,0 +1,348 @@
+{
+  "date": "2026-11-10",
+  "date_ja": "2026年11月10日（火）",
+  "news_summary": [
+    "FATF（金融活動作業部会）声明が公表され、関連プロジェクト・政策への影響確認が必要。",
+    "生成AI「源内」の利用満足度調査で高い結果、自治体でのAI活用勉強会・実証運行が進行中。",
+    "AIエージェントの安全な自律性引き出しのため、AIガバナンス原則・指針策定と人材育成が重要。",
+    "政府システムにおけるクラウドインフラ市場でGoogle Cloudのシェアが上昇、AWSは後退。",
+    "政府システム向けサイバー対策費用100億円の内訳に警察、デジタル庁、AI点検などが含まれる。"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：CyberNewsFlash「OpenSSHにおける認証回避の脆弱性（CVE-2026-123158）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026110901.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN76179675/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: WebSAM WinShareにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN89009783/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Effekseerにおける入力データ検証不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN56286875/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92635551/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93403064/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Zabbix agentにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN42011956/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "FATF（金融活動作業部会）声明が公表されました",
+      "summary": "FATF声明公表\n\n▶ 財務省よりFATF声明が公表された旨の連絡。関連するプロジェクトや政策への影響を確認。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/policy/international_policy/convention/fatf/20261106180337.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "生成AIの行政・自治体での活用とガバナンスに関する動向",
+      "summary": "Anthropicは最新AIモデル「Claude Fable 5.2」と「Mythos 5.2」を発表し、API料金の引き下げや出力速度の向上を実現した。政府は生成AI「源内」の利用満足度調査で高い結果を示しており、自治体でもAI活用勉強会や実証運行が実施されている。",
+      "relevance": "生成AIの行政・自治体における導入事例や機能アップデート、そしてそれに伴うセキュリティリスクや活用方法について、PMO/PjMO担当者は最新動向の把握と、組織内での適切な利用ガイドライン策定の必要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17869977/?ref=news-summary_4212306"
+        },
+        {
+          "name": "thebridge.jp",
+          "url": "https://thebridge.jp/2026/11/anthropic-claude-fable-5-2-mythos-5-2"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000107_000138218/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-10-158626-11/"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20261109-ai-dreaming-agent-memory/"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20261109-claude-code-leak-secrets/"
+        },
+        {
+          "name": "gigazine.net",
+          "url": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000866.000053344&g=prt"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19970643"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/anthropic-claude-drug-development/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-09-132307-13/"
+        },
+        {
+          "name": "kyodonewsprwire.jp",
+          "url": "https://kyodonewsprwire.jp/corp/shioj/11756/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1082550/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19971010?news_ref=watch_60_nw19947798"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19970937?news_ref=top_newComments"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000410_000033909/"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/serial/glossary/2154735.html"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1087439/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンスとAIエージェント導入における統制・管理体制の構築",
+      "summary": "AIエージェントの自律性を安全に引き出すためのガバナンス原則、AIガバナンス指針の策定、およびAI活用と統制のバランスを設計・運用できる人材の必要性が強調されている。データトラスト、メタデータ管理、AI倫理・AIガバナンスの重要性が指摘されている。",
+      "relevance": "AIエージェント導入の加速に伴うAIガバナンス体制の構築、AI活用と統制のバランス設計、そしてAI倫理・AIガバナンスに関する教育・研修の検討について、PMO/PjMO担当者はご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.linkedin.com",
+          "url": "https://jp.linkedin.com/jobs/view/ai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%83%BBai%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E7%AD%96%E5%AE%9A%E3%83%BB%E7%B5%B1%E5%88%B6%E8%A8%AD%E8%A8%88-at-persol-career-brs-bilingual-recruitment-solutions-4489123034"
+        },
+        {
+          "name": "jp.indeed.com",
+          "url": "https://jp.indeed.com/viewjob?jk=caf0018531f42c7f"
+        },
+        {
+          "name": "blogs.oracle.com",
+          "url": "https://blogs.oracle.com/oracle4engineer/ja-from-jakarta-to-bangkok-how-the-oracle-apex-ai-roadshow-brought-ai-powered-development-to-asean"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/09/news061.html"
+        },
+        {
+          "name": "techplay.jp",
+          "url": "https://techplay.jp/event/1002685"
+        },
+        {
+          "name": "blogs.oracle.com",
+          "url": "https://blogs.oracle.com/oracle4engineer/ja-how-tamilnad-mercantile-bank-transformed-workforce-mobility-with-oracle-apex-oci-generative-ai"
+        },
+        {
+          "name": "bizreach.jp",
+          "url": "https://www.bizreach.jp/jobs/11315474"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35254510/"
+        },
+        {
+          "name": "pwc.com",
+          "url": "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-06.html"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/8099043"
+        },
+        {
+          "name": "salesforce.com",
+          "url": "https://www.salesforce.com/jp/news/stories/cfos-ai-agents-to-tame-revenue-complexity/"
+        },
+        {
+          "name": "jetro.go.jp",
+          "url": "https://www.jetro.go.jp/biz/areareports/special/2026/1101/0e9135228371002e.html"
+        },
+        {
+          "name": "minkabu.jp",
+          "url": "https://minkabu.jp/news/4654203"
+        },
+        {
+          "name": "openwork.jp",
+          "url": "https://www.openwork.jp/a0910000000FrRa/recruit_agent?j=aed40c7e16018fd352"
+        },
+        {
+          "name": "goodway.co.jp",
+          "url": "https://goodway.co.jp/report/34615"
+        },
+        {
+          "name": "jp.linkedin.com",
+          "url": "https://jp.linkedin.com/learning/g-certificate-cert-prep-ai-ethics-and-governance?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17861222/body/?ref=index"
+        },
+        {
+          "name": "atpress.ne.jp",
+          "url": "https://www.atpress.ne.jp/news/3988389"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/449/4449811/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "政府システムにおけるクラウドインフラのシェアとサイバー対策費用",
+      "summary": "クラウドインフラ市場ではAWSのシェアが後退し、Google Cloudが上昇している。政府システムではAWSが8割超を占めているとの指摘がある一方、サイバー対策には100億円が充てられ、その内訳として警察やデジタル庁、AI点検などが挙げられている。",
+      "relevance": "ガバメントクラウドにおける主要プロバイダーの動向や、サイバーセキュリティ対策への投資状況について、PMO/PjMO担当者はコスト最適化とセキュリティ強化のバランスについてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/"
+        },
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4785151"
+        },
+        {
+          "name": "biz-journal.jp",
+          "url": "https://biz-journal.jp/ai/pickup-news/post_337358.html"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "月刊AWS製造 2026年11月号",
+          "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202611/",
+          "pub_date": "2026-11-09T12:33:48.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "週刊生成AI with AWS – 2026年11月2日週",
+          "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261102/",
+          "pub_date": "2026-11-09T05:31:50.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "CFO は次の四半期に SAP AI の成果を求めている – どこから始めるべきか",
+          "url": "https://aws.amazon.com/jp/blogs/news/your-cfo-wants-sap-ai-results-next-quarter-heres-where-to-start/",
+          "pub_date": "2026-11-09T02:52:09.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "SAP のお客様向けに Amazon のサプライチェーン機能を拡大: Multi-Channel Fulfillment アクセラレーター",
+          "url": "https://aws.amazon.com/jp/blogs/news/expanding-amazons-supply-chain-capabilities-for-sap-customers-multi-channel-fulfillment-accelerator/",
+          "pub_date": "2026-11-09T02:50:47.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "従来の市場価格追跡を超えて: SAP のお客様向け生成AIソリューション",
+          "url": "https://aws.amazon.com/jp/blogs/news/beyond-traditional-market-price-tracking-a-generative-ai-solution-for-sap-customers/",
+          "pub_date": "2026-11-09T02:48:28.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 09, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_09_2026",
+          "pub_date": "2026-11-09T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Google Cloud Developer プラグインが Antigravity Marketplace から入手可能に",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
+          "pub_date": "2026-11-09T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Enterprise を Snowflake のデータに安全に接続する方法",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
+          "pub_date": "2026-11-09T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "IAM Helper エージェント スキルと MCP ツールでエージェントを安全にスケール",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+          "pub_date": "2026-11-09T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "損害保険ジャパン:「正しく使われる」ための運用設計で、約 2 万ユーザーの Gemini Enterprise 活用を推進",
+          "url": "https://cloud.google.com/blog/ja/topics/customers/sompo-japan-promotes-the-use-of-gemini-enterprise/",
+          "pub_date": "2026-11-09T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「Enterprise IT Summit 2026 秋」にてソリューション本部 亀田が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226254/",
+          "pub_date": "2026-11-09T08:00:22.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「【ご好評につき再配信】次世代のエンジニアへ さくらのクラウド検定対策ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226248/",
+          "pub_date": "2026-11-09T01:30:34.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「【ご好評につき再配信】クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226244/",
+          "pub_date": "2026-11-09T00:37:52.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T23:40:42.828Z"
+}

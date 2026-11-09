@@ -3762,6 +3762,16 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "FATF（金融活動作業部会）声明が公表されました",
+        "summary": "FATF声明公表\n\n▶ 財務省よりFATF声明が公表された旨の連絡。関連するプロジェクトや政策への影響を確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/convention/fatf/20261106180337.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "「AI時代の人材・組織開発に関するワークショップ」第１回会合を開催しました",
@@ -4062,6 +4072,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "AIガバナンスとAIエージェント導入における統制・管理体制の構築",
+        "summary": "AIエージェントの自律性を安全に引き出すためのガバナンス原則、AIガバナンス指針の策定、およびAI活用と統制のバランスを設計・運用できる人材の必要性が強調されている。データトラスト、メタデータ管理、AI倫理・AIガバナンスの重要性が指摘されている。",
+        "source": "jp.linkedin.com",
+        "url": "https://jp.linkedin.com/jobs/view/ai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%83%BBai%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E7%AD%96%E5%AE%9A%E3%83%BB%E7%B5%B1%E5%88%B6%E8%A8%AD%E8%A8%88-at-persol-career-brs-bilingual-recruitment-solutions-4489123034",
+        "relevance": "AIエージェント導入の加速に伴うAIガバナンス体制の構築、AI活用と統制のバランス設計、そしてAI倫理・AIガバナンスに関する教育・研修の検討について、PMO/PjMO担当者はご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "生成AIの行政・自治体での活用とガバナンスに関する動向",
+        "summary": "Anthropicは最新AIモデル「Claude Fable 5.2」と「Mythos 5.2」を発表し、API料金の引き下げや出力速度の向上を実現した。政府は生成AI「源内」の利用満足度調査で高い結果を示しており、自治体でもAI活用勉強会や実証運行が実施されている。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17869977/?ref=news-summary_4212306",
+        "relevance": "生成AIの行政・自治体における導入事例や機能アップデート、そしてそれに伴うセキュリティリスクや活用方法について、PMO/PjMO担当者は最新動向の把握と、組織内での適切な利用ガイドライン策定の必要性についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
@@ -8965,6 +8995,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "政府システムにおけるクラウドインフラのシェアとサイバー対策費用",
+        "summary": "クラウドインフラ市場ではAWSのシェアが後退し、Google Cloudが上昇している。政府システムではAWSが8割超を占めているとの指摘がある一方、サイバー対策には100億円が充てられ、その内訳として警察やデジタル庁、AI点検などが挙げられている。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
+        "relevance": "ガバメントクラウドにおける主要プロバイダーの動向や、サイバーセキュリティ対策への投資状況について、PMO/PjMO担当者はコスト最適化とセキュリティ強化のバランスについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
         "title": "データ利活用政策とクラウドインフラの動向",
@@ -12480,6 +12520,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "従来の市場価格追跡を超えて: SAP のお客様向け生成AIソリューション",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/beyond-traditional-market-price-tracking-a-generative-ai-solution-for-sap-customers/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "SAP のお客様向けに Amazon のサプライチェーン機能を拡大: Multi-Channel Fulfillment アクセラレーター",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/expanding-amazons-supply-chain-capabilities-for-sap-customers-multi-channel-fulfillment-accelerator/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "CFO は次の四半期に SAP AI の成果を求めている – どこから始めるべきか",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/your-cfo-wants-sap-ai-results-next-quarter-heres-where-to-start/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "週刊生成AI with AWS – 2026年11月2日週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261102/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "月刊AWS製造 2026年11月号",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202611/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
@@ -17064,6 +17149,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "損害保険ジャパン:「正しく使われる」ための運用設計で、約 2 万ユーザーの Gemini Enterprise 活用を推進",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/sompo-japan-promotes-the-use-of-gemini-enterprise/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "IAM Helper エージェント スキルと MCP ツールでエージェントを安全にスケール",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "Gemini Enterprise を Snowflake のデータに安全に接続する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "Google Cloud Developer プラグインが Antigravity Marketplace から入手可能に",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "November 09, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_09_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "独自のビジネス条件の範囲内でイノベーションを実現: Google Cloud の利用額上限の一般提供を開始",
@@ -20333,6 +20463,33 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "「【ご好評につき再配信】クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226244/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "「【ご好評につき再配信】次世代のエンジニアへ さくらのクラウド検定対策ウェビナー」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226248/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "「Enterprise IT Summit 2026 秋」にてソリューション本部 亀田が登壇します",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/09/1968226254/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "「関西オープンフォーラム2026」にて弊社メンバーが登壇します",
@@ -22541,6 +22698,16 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-10",
+        "date_ja": "2026年11月10日（火）",
+        "title": "FATF（金融活動作業部会）声明が公表されました",
+        "summary": "FATF声明公表\n\n▶ 財務省よりFATF声明が公表された旨の連絡。関連するプロジェクトや政策への影響を確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/convention/fatf/20261106180337.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "「AI時代の人材・組織開発に関するワークショップ」第１回会合を開催しました",
@@ -22719,15 +22886,15 @@
     "セキュリティ": 146,
     "その他": 198,
     "行政AI": 38,
-    "行政DX": 32,
-    "AI活用": 490,
-    "クラウド/インフラ": 133,
+    "行政DX": 33,
+    "AI活用": 492,
+    "クラウド/インフラ": 134,
     "制度/ガイドライン": 121,
     "自治体DX事例": 97,
-    "AWS最新情報": 509,
-    "Google Cloud最新情報": 315,
+    "AWS最新情報": 514,
+    "Google Cloud最新情報": 320,
     "働き方/業務改革": 43,
-    "さくらのクラウド最新情報": 138,
+    "さくらのクラウド最新情報": 141,
     "AIガバナンス": 19,
     "ガバメントクラウド": 8,
     "調達・契約": 26,
@@ -22735,7 +22902,7 @@
     "調達/契約": 13,
     "プロジェクト管理": 25,
     "行政DX事例": 1,
-    "財務省": 18
+    "財務省": 19
   },
-  "updated_at": "2026-11-08T19:17:48.194Z"
+  "updated_at": "2026-11-09T23:40:42.842Z"
 }
