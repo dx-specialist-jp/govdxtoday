@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "AIサイバー攻撃激化に対応、政府はサイバーセキュリティ緊急対策パッケージを策定、AI総合サイバーリスク診断も提供",
+        "summary": "政府はAIも活用したサイバー攻撃対策を強化するため「サイバーセキュリティ緊急対策パッケージ」を策定した。AI総合サイバーリスク診断も提供され、政府もAIのサイバーセキュリティ対策強化を打ち出している。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110902142/",
+        "relevance": "AI活用に伴うサイバーリスクの増大を踏まえ、政府のサイバーセキュリティ対策パッケージや、AI総合サイバーリスク診断の活用をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
         "title": "個人情報漏洩リスクとセキュリティ対策の強化",
@@ -4072,6 +4082,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表、API料金値下げと性能向上",
+        "summary": "Anthropicは「Claude Fable 5.2」と「Claude Mythos 5.2」を発表し、API料金を2割値下げ、出力速度を最大30%高速化した。安全性への懸念から試験期間の延長も行われた。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+        "relevance": "Anthropicの最新AIモデルの性能、料金、安全性に関する動向を把握し、業務への適用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "CTC、AI全社展開を支える製品群を拡充、AWS Marketplace経由での提供を強化",
+        "summary": "伊藤忠テクノソリューションズ（CTC）は、AIの全社利用を支える製品群を拡充し、AWS Marketplaceを通じて提供を開始した。AI基盤の設計・構築から導入後の活用までを支援する。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw19976598?news_ref=watch_20_nw19951020",
+        "relevance": "AI導入にあたり、CTCが提供するようなAI基盤構築・活用支援サービスや、AWS Marketplaceでの調達効率化の可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
@@ -8995,6 +9025,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "Google、政府機関や規制産業向けに最適化された新型TPUを発表",
+        "summary": "Googleは、機密性の高いデータを扱う政府機関や金融機関向けに設計された新型TPU「TPU 8tx」と「TPU 8i Max」を発表した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/37da538b-df5f-4cd2-8066-a5d7054fe02e",
+        "relevance": "政府機関向けに最適化されたGoogleの最新AIプロセッサTPUについて、将来的なインフラ調達や技術動向をご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "OpenAI on AWS Day開催、ChatGPT EnterpriseのAWS Marketplace提供開始とAPI・AI関連製品の販売拡大",
+        "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始し、AWS契約の消化先にも入る。KongとCTCはパートナー契約を締結し、API・AI関連製品の販売を拡大する。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188240",
+        "relevance": "ガバメントクラウドの選択肢として、OpenAI on AWSの活用や、AWS Marketplace経由でのAI関連製品調達の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
         "title": "政府システムにおけるクラウドインフラのシェアとサイバー対策費用",
@@ -10337,6 +10387,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "マイナンバーカード利用のコンビニ交付サービスでシステム障害発生",
+        "summary": "マイナンバーカードを利用したコンビニ交付サービスで、戸籍謄本などが取得できないシステム障害が各地で相次いで発生している。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
+        "relevance": "マイナンバーカード関連システムの安定稼働と障害発生時の対応について、関係部署との連携状況をご確認ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "豪政府、AI企業に事故報告義務化など規制強化へ。米政府は対ドローン対策で省庁連携強化、AnthropicはAI安全性への懸念に対応",
+        "summary": "豪政府はAI企業に事故報告を義務化する規制強化を受け入れる。米政府は対ドローン対策で省庁連携を拡大し、AnthropicはAI安全性への懸念から試験期間を延長した。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188243",
+        "relevance": "海外におけるAI規制の動向や、AIの安全性確保に向けた取り組みについて、今後の国内規制への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
         "title": "安保実務経験者から見た憲法9条への自衛隊明記に関する議論",
@@ -11549,6 +11619,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "地方自治体におけるDX推進と生成AI活用研修の実施",
+        "summary": "岡山県美咲町では、パーソルワークスイッチコンサルティングがDXを構想から実装まで支援している。福島県では、岐阜県職員向けに生成AIの活用研修が実施された。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20261110-5295785/",
+        "relevance": "先進自治体におけるDX推進支援や、生成AI活用研修の事例から、職員のリスキリングや業務効率化のヒントをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-09",
         "date_ja": "2026年11月9日（月）",
         "title": "ガバメントクラウドファンディングによる地方創生と寄附募集",
@@ -12520,6 +12600,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "【開催報告】ランサムウェアに備える「防御」「復旧」「説明責任」— AI エージェント時代に見直す対策と次の一歩",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/ransomware-security-seminar-oct-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "AWS 上の Microsoft ワークロード: re:Invent 2026 完全ガイド",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/microsoft-workloads-on-aws-your-complete-reinvent-2026-guide/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "AMS Trusted Remediator でコスト最適化とセキュリティ修復を自動化する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "第 1 回: 電子カルテベンダーのためのガバメントクラウド入門 — ガバクラ・公共 SaaS を理解する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/emr-govcloud-saas-japan/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "AWS Nitro Sandboxes: Amazon EKS で実現するハードウェア強制型ワークロード分離",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
@@ -17149,6 +17274,24 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "エージェンティック時代に向けて開発した最新の TPU：8tx および 8i Max",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "November 10, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_10_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
         "title": "損害保険ジャパン:「正しく使われる」ための運用設計で、約 2 万ユーザーの Gemini Enterprise 活用を推進",
@@ -21734,6 +21877,26 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "AI活用進展に伴うガバナンスの重要性と、金融AIの安全性強化、AI・データ取引のルール整備",
+        "summary": "AI活用が進むほどリスクも増大し、導入スピードにガバナンスが追いつかない不均衡が課題となっている。金融AIの安全性強化や、AI・データ取引の契約論点・ルール整備も検討されている。",
+        "source": "business.nikkei.com",
+        "url": "https://business.nikkei.com/atcl/gen/19/00953/111000007/",
+        "relevance": "AI活用におけるガバナンスの空白を埋めるため、関連する規制動向、契約論点、安全性確保の取り組みをご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-11",
+        "date_ja": "2026年11月11日（水）",
+        "title": "生成AI/Copilot利用における情報漏えいリスクとガバナンスの必要性",
+        "summary": "AI全社活用が進む中、社内の重要データを把握・管理できていない状況が指摘されている。生成AI/Copilot利用における情報漏えいリスクを防ぐためのガバナンス体制の整備が求められている。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000541.000092586.html",
+        "relevance": "生成AI/Copilot利用における情報漏えいリスクと、それに伴うガバナンス体制の重要性について、組織内での管理体制の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-07",
         "date_ja": "2026年11月7日（土）",
         "title": "生成AI/Copilot利用におけるガバナンスとセキュリティリスク",
@@ -22883,19 +23046,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 146,
+    "セキュリティ": 147,
     "その他": 198,
     "行政AI": 38,
     "行政DX": 33,
-    "AI活用": 492,
-    "クラウド/インフラ": 134,
-    "制度/ガイドライン": 121,
-    "自治体DX事例": 97,
-    "AWS最新情報": 514,
-    "Google Cloud最新情報": 320,
+    "AI活用": 494,
+    "クラウド/インフラ": 136,
+    "制度/ガイドライン": 123,
+    "自治体DX事例": 98,
+    "AWS最新情報": 519,
+    "Google Cloud最新情報": 322,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 141,
-    "AIガバナンス": 19,
+    "AIガバナンス": 21,
     "ガバメントクラウド": 8,
     "調達・契約": 26,
     "デジタル庁": 3,
@@ -22904,5 +23067,5 @@
     "行政DX事例": 1,
     "財務省": 19
   },
-  "updated_at": "2026-11-09T23:40:42.842Z"
+  "updated_at": "2026-11-10T21:10:02.148Z"
 }
