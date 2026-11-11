@@ -2,6 +2,44 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "お知らせ：インシデント調査報告書チェックリスト公開のお知らせ",
+        "summary": "インシデント調査報告書チェックリストが公開されました\n\n▶ 各府省PMOは、インシデント対応体制の確認・強化のため、本チェックリストの内容を参照・活用する。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Weekly Report: NCOが「個人情報の漏えい等につながる不正アクセスへの対策について - ウェブサイトやモバイルアプリに関する基本的な対策の徹底 -」を公開",
+        "summary": "NCOが「個人情報の漏えい等につながる不正アクセスへの対策について」を公開\n\n▶ 各府省PMOは、本注意喚起の内容を確認し、担当システムにおけるWebサイト・モバイルアプリのセキュリティ対策状況を点検・強化する。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "政府、サイバーセキュリティ緊急対策パッケージ決定：マイナンバーカードICチップ活用へ",
+        "summary": "政府は、マイナンバーカードなどのICチップを読み取って本人確認を行う方法を民間や行政で広げるサイバーセキュリティ緊急対策パッケージを決定しました。",
+        "source": "smartwatchlife.jp",
+        "url": "https://www.smartwatchlife.jp/93376/",
+        "relevance": "PMO/PjMOの皆様は、マイナンバーカードICチップを活用した本人確認方法の普及と、そのセキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "政府統一基準DS-221準拠のAI活用セキュリティ診断サービス提供開始",
+        "summary": "AWS Security AgentやAmazon Bedrockを活用し、AIによるソースコード診断と自律型ペネトレーションテストを組み合わせた公共向けセキュリティ診断サービスが提供開始されました。これにより、中央省庁・地方公共団体が運用するシステムの脆弱性診断から是正検収までを一気通貫で支援します。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000190.000018724.html",
+        "relevance": "PMO/PjMOの皆様は、政府統一基準DS-221に準拠したセキュリティ診断の最新動向についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "AIサイバー攻撃激化に対応、政府はサイバーセキュリティ緊急対策パッケージを策定、AI総合サイバーリスク診断も提供",
@@ -3427,6 +3465,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "政府相互運用性フレームワーク（GIF）を「URLで参照できる」データモデルに ― GIFサイトの実装",
+        "summary": "政府相互運用性フレームワーク（GIF）を「URLで参照できる」データモデルに\n\n▶ 各府省・自治体PMOは、GIFサイト（ダウンロードサイト）を2026年10月6日にオープンしたことを確認する。\n▶ GIFデータモデルの活用や連携プロジェクトにおいて、本サイトの情報を参照する。",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/nf79d1c100c0f",
+        "type": "government"
+      },
+      {
         "date": "2026-11-05",
         "date_ja": "2026年11月5日（木）",
         "title": "登記データを「使えるデータ」に変える——法人ベース・レジストリのデータ基盤設計",
@@ -4082,6 +4129,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Anthropic Claude最新モデルAPI提供開始と、行政・業務での活用事例",
+        "summary": "Anthropicの最新モデル「Claude Fable 5.2」のAPI提供が開始され、OpenAI互換APIを通じて多数のLLM・生成AIモデルが利用可能になるほか、行政実務や事業会社での活用事例も報告されています。",
+        "source": "hashout.jp",
+        "url": "https://hashout.jp/ai/14192/",
+        "relevance": "PMO/PjMOの皆様は、Anthropic Claudeの最新モデルと、行政・業務におけるAI活用の多様な事例についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Google、業務向け汎用AI「Geminiエージェント」発表と高性能AIの進化",
+        "summary": "Googleは、Google Workspace内で直接機能する業務向け汎用AI「Geminiエージェント」を発表し、Gemini 4 Carbonでは複数エージェントによる開発作業や、映像・音声知覚能力の向上が図られています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17886391/",
+        "relevance": "PMO/PjMOの皆様は、Googleの最新AIモデルGeminiの業務向け活用可能性と、その進化した機能についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "AWS、ヘルスケア分野のAI・クラウド技術提供で1億ドル規模の支援を発表",
+        "summary": "AWSは、ヘルスケア分野の非営利団体、政府機関、研究機関などを対象に、1億米ドル相当のAI・クラウド技術を提供し、スマートウォッチライフによる病気の早期発見や栄養ある給食などを通じた医療格差解消を目指します。",
+        "source": "smartwatchlife.jp",
+        "url": "https://www.smartwatchlife.jp/93352/",
+        "relevance": "PMO/PjMOの皆様は、AWSによるヘルスケア分野へのAI・クラウド技術支援の具体的内容と、政府機関の活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "デジタル庁「源内」による政府職員向け生成AI基盤の実証と行政実務への活用",
+        "summary": "デジタル庁は、政府内製生成AI基盤「源内」を全府省庁職員約18万人に展開する大規模実証を進めており、膨大な法令や資料確認など行政実務での活用が広がっています。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20261111-5294821/",
+        "relevance": "PMO/PjMOの皆様は、行政実務における生成AI基盤「源内」の活用事例と、その展開・運用体制についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
@@ -9025,6 +9112,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "AWS CEO、GPU不足は2年続くとの見通しとデータセンターへのチップ追加状況",
+        "summary": "AWSのCEOは、GPU不足が少なくともあと2年は続くと予測し、同クラウド部門が14秒ごとにデータセンターへチップを1基追加していると明かしました。クラウド事業は1兆ドル規模へ向かうと見られています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/63d3a4fe-eba3-46c4-98c2-f54a697f45ee",
+        "relevance": "PMO/PjMOの皆様は、クラウドインフラにおけるGPU不足の長期化見通しと、AWSのインフラ増強状況についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "Google、政府機関や規制産業向けに最適化された新型TPUを発表",
@@ -10387,6 +10484,16 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "政府、成長戦略の重点項目として半導体とAIへの官民投資を提示",
+        "summary": "政府は、成長戦略の重点16項目・28製品技術として、半導体とAIへの官民投資を優先実行する方針を示し、フィジカルAIや量子コンピューターを「今後の稼ぎ頭」と位置付けています。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/japan-priority-investment-plan/",
+        "relevance": "PMO/PjMOの皆様は、政府が掲げる成長戦略におけるAI関連投資の優先順位と、その背景にある国家戦略についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "マイナンバーカード利用のコンビニ交付サービスでシステム障害発生",
@@ -11619,6 +11726,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "磐梯町、責任あるAI宣言を発表し行政経営を再デザイン",
+        "summary": "磐梯町は、生成AIの急速な普及を踏まえ、全職員の利用環境を考慮した「責任あるAI宣言」を発表し、国内の行政機関における先進的な取り組みとして注目されています。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1000_11357/",
+        "relevance": "PMO/PjMOの皆様は、地方自治体における「責任あるAI宣言」の策定と、それを踏まえた行政経営の再デザインについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "地方自治体におけるDX推進と生成AI活用研修の実施",
@@ -12600,6 +12717,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Agent Registry が AWS GovCloud (米国西部) リージョンで一般提供開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Kimi K3.1 Pro (Highspeed) が Amazon Bedrock で利用可能に",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "AIが進め、人が決める ― AI駆動開発の本当のボトルネックはどこにあったか",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/mbk-wellness-ai-dlc-workshop/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "製造業 7 社が率直に語った AI エージェント全社基盤の実践と課題：生成 AI 基盤・活用推進 ラウンドテーブル 2026年10月 開催報告",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Kiro の「Approve for me」のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-approve-for-me/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
@@ -17274,6 +17436,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "AlloyDB for PostgreSQL から Iceberg に直接アクセスして、運用データと Lakehouse データを統合する",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/direct-iceberg-access-in-alloydb/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "Compute Engine API マルチ バージョニングの概要: 本番環境に影響を与えない予測可能な進化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "November 11, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_11_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "エージェンティック時代に向けて開発した最新の TPU：8tx および 8i Max",
@@ -21877,6 +22066,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-12",
+        "date_ja": "2026年11月12日（木）",
+        "title": "AIガバナンスに関する国際的な議論と国内での取り組み",
+        "summary": "国連事務次長がAIガバナンスの重要性を訴える中、韓国のデジタル・AI競争力が上昇しており、国内でも法務AIコンサルティングや企業のAIガバナンス方針策定が進んでいます。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/f43f77d9-fe50-4f54-9bca-12108e50e5ff",
+        "relevance": "PMO/PjMOの皆様は、AIガバナンスに関する国際的な動向と、国内での法務・企業における取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-11",
         "date_ja": "2026年11月11日（水）",
         "title": "AI活用進展に伴うガバナンスの重要性と、金融AIの安全性強化、AI・データ取引のルール整備",
@@ -23046,19 +23245,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 147,
+    "セキュリティ": 151,
     "その他": 198,
-    "行政AI": 38,
+    "行政AI": 39,
     "行政DX": 33,
-    "AI活用": 494,
-    "クラウド/インフラ": 136,
-    "制度/ガイドライン": 123,
-    "自治体DX事例": 98,
-    "AWS最新情報": 519,
-    "Google Cloud最新情報": 322,
+    "AI活用": 498,
+    "クラウド/インフラ": 137,
+    "制度/ガイドライン": 124,
+    "自治体DX事例": 99,
+    "AWS最新情報": 524,
+    "Google Cloud最新情報": 325,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 141,
-    "AIガバナンス": 21,
+    "AIガバナンス": 22,
     "ガバメントクラウド": 8,
     "調達・契約": 26,
     "デジタル庁": 3,
@@ -23067,5 +23266,5 @@
     "行政DX事例": 1,
     "財務省": 19
   },
-  "updated_at": "2026-11-10T21:10:02.148Z"
+  "updated_at": "2026-11-11T21:41:52.268Z"
 }

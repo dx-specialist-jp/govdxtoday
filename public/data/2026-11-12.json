@@ -1,0 +1,443 @@
+{
+  "date": "2026-11-12",
+  "date_ja": "2026年11月12日（木）",
+  "news_summary": [
+    "NCOがWebサイト・モバイルアプリの不正アクセス対策に関する注意喚起を公開しました。",
+    "政府相互運用性フレームワーク（GIF）サイトがURL参照可能なデータモデルで2026年10月6日にオープンします。",
+    "JPCERT/CCがインシデント調査報告書チェックリストを公開し、体制確認・強化に活用できます。",
+    "政府統一基準DS-221準拠のAI活用セキュリティ診断サービスが提供開始され、脆弱性診断から検収まで支援します。",
+    "政府はマイナンバーカードICチップ活用を広げるサイバーセキュリティ緊急対策パッケージを決定しました。",
+    "デジタル庁は全府省庁職員18万人に生成AI基盤「源内」を展開し、行政実務での活用を進めています。",
+    "政府は成長戦略の重点項目に半導体とAIへの官民投資を位置付け、フィジカルAI等を将来の稼ぎ頭とします。"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Cloud Software GroupのXenServerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Puppet ServerおよびOpenVoxに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Airbyteに任意のコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Firefoxにバッファエラーの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のManageEngine製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のZyxel Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAbsolute Security製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のElastic製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Androidに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のBarracuda Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のPostgreSQL向けツールに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Intel製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU93337738/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93068550/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
+      "url": "https://jvn.jp/vu/JVNVU99905564/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）",
+      "url": "https://jvn.jp/vu/JVNVU92618679/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Microsoft 製品の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1111-ms.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "Weekly Report: NCOが「個人情報の漏えい等につながる不正アクセスへの対策について - ウェブサイトやモバイルアプリに関する基本的な対策の徹底 -」を公開",
+    "summary": "NCOが「個人情報の漏えい等につながる不正アクセスへの対策について」を公開\n\n▶ 各府省PMOは、本注意喚起の内容を確認し、担当システムにおけるWebサイト・モバイルアプリのセキュリティ対策状況を点検・強化する。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14",
+    "pub_date": "2026-11-11"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "政府相互運用性フレームワーク（GIF）を「URLで参照できる」データモデルに ― GIFサイトの実装",
+      "summary": "政府相互運用性フレームワーク（GIF）を「URLで参照できる」データモデルに\n\n▶ 各府省・自治体PMOは、GIFサイト（ダウンロードサイト）を2026年10月6日にオープンしたことを確認する。\n▶ GIFデータモデルの活用や連携プロジェクトにおいて、本サイトの情報を参照する。",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/nf79d1c100c0f",
+      "pub_date": "2026-11-11"
+    },
+    {
+      "section_name": "セキュリティ速報",
+      "title": "お知らせ：インシデント調査報告書チェックリスト公開のお知らせ",
+      "summary": "インシデント調査報告書チェックリストが公開されました\n\n▶ 各府省PMOは、インシデント対応体制の確認・強化のため、本チェックリストの内容を参照・活用する。",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+      "pub_date": "2026-11-11"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "政府統一基準DS-221準拠のAI活用セキュリティ診断サービス提供開始",
+      "summary": "AWS Security AgentやAmazon Bedrockを活用し、AIによるソースコード診断と自律型ペネトレーションテストを組み合わせた公共向けセキュリティ診断サービスが提供開始されました。これにより、中央省庁・地方公共団体が運用するシステムの脆弱性診断から是正検収までを一気通貫で支援します。",
+      "relevance": "PMO/PjMOの皆様は、政府統一基準DS-221に準拠したセキュリティ診断の最新動向についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000190.000018724.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/182210/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19980133?news_ref=20_20"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20261111/pr1/00m/020/278000c"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1137598/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "政府、サイバーセキュリティ緊急対策パッケージ決定：マイナンバーカードICチップ活用へ",
+      "summary": "政府は、マイナンバーカードなどのICチップを読み取って本人確認を行う方法を民間や行政で広げるサイバーセキュリティ緊急対策パッケージを決定しました。",
+      "relevance": "PMO/PjMOの皆様は、マイナンバーカードICチップを活用した本人確認方法の普及と、そのセキュリティ対策についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "smartwatchlife.jp",
+          "url": "https://www.smartwatchlife.jp/93376/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁「源内」による政府職員向け生成AI基盤の実証と行政実務への活用",
+      "summary": "デジタル庁は、政府内製生成AI基盤「源内」を全府省庁職員約18万人に展開する大規模実証を進めており、膨大な法令や資料確認など行政実務での活用が広がっています。",
+      "relevance": "PMO/PjMOの皆様は、行政実務における生成AI基盤「源内」の活用事例と、その展開・運用体制についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261111-5294821/"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3245264"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/sn/%E3%80%90%E5%9B%BD%E4%BC%9A%E7%AD%94%E5%BC%81%E3%82%82ai%E6%94%AF%E6%8F%B4%E3%80%91%E3%82%AC%E3%83%90%E3%83%A1%E3%83%B3%E3%83%88ai%E3%80%8C%E6%BA%90%E5%86%85%E3%80%8D%E3%81%8C%E8%A1%8C%E6%94%BF/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AWS、ヘルスケア分野のAI・クラウド技術提供で1億ドル規模の支援を発表",
+      "summary": "AWSは、ヘルスケア分野の非営利団体、政府機関、研究機関などを対象に、1億米ドル相当のAI・クラウド技術を提供し、スマートウォッチライフによる病気の早期発見や栄養ある給食などを通じた医療格差解消を目指します。",
+      "relevance": "PMO/PjMOの皆様は、AWSによるヘルスケア分野へのAI・クラウド技術支援の具体的内容と、政府機関の活用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "smartwatchlife.jp",
+          "url": "https://www.smartwatchlife.jp/93352/"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/aws-health-initiative-funding/"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2663ko150/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/release/31222950/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Google、業務向け汎用AI「Geminiエージェント」発表と高性能AIの進化",
+      "summary": "Googleは、Google Workspace内で直接機能する業務向け汎用AI「Geminiエージェント」を発表し、Gemini 4 Carbonでは複数エージェントによる開発作業や、映像・音声知覚能力の向上が図られています。",
+      "relevance": "PMO/PjMOの皆様は、Googleの最新AIモデルGeminiの業務向け活用可能性と、その進化した機能についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17886391/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17886811/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000155164.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/623306/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/d9cd20e5275494cc"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Anthropic Claude最新モデルAPI提供開始と、行政・業務での活用事例",
+      "summary": "Anthropicの最新モデル「Claude Fable 5.2」のAPI提供が開始され、OpenAI互換APIを通じて多数のLLM・生成AIモデルが利用可能になるほか、行政実務や事業会社での活用事例も報告されています。",
+      "relevance": "PMO/PjMOの皆様は、Anthropic Claudeの最新モデルと、行政・業務におけるAI活用の多様な事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/14192/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1125352/"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1963903"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-11-138449-135/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000135_000138449/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19979938?news_ref=top_newComments"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/photo/877070.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/article/detail/32790160/?from_page=internal"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20261111/pr2/00m/020/645000c"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AWS CEO、GPU不足は2年続くとの見通しとデータセンターへのチップ追加状況",
+      "summary": "AWSのCEOは、GPU不足が少なくともあと2年は続くと予測し、同クラウド部門が14秒ごとにデータセンターへチップを1基追加していると明かしました。クラウド事業は1兆ドル規模へ向かうと見られています。",
+      "relevance": "PMO/PjMOの皆様は、クラウドインフラにおけるGPU不足の長期化見通しと、AWSのインフラ増強状況についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/63d3a4fe-eba3-46c4-98c2-f54a697f45ee"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/c9a23059696daf5b"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "政府、成長戦略の重点項目として半導体とAIへの官民投資を提示",
+      "summary": "政府は、成長戦略の重点16項目・28製品技術として、半導体とAIへの官民投資を優先実行する方針を示し、フィジカルAIや量子コンピューターを「今後の稼ぎ頭」と位置付けています。",
+      "relevance": "PMO/PjMOの皆様は、政府が掲げる成長戦略におけるAI関連投資の優先順位と、その背景にある国家戦略についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/japan-priority-investment-plan/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "磐梯町、責任あるAI宣言を発表し行政経営を再デザイン",
+      "summary": "磐梯町は、生成AIの急速な普及を踏まえ、全職員の利用環境を考慮した「責任あるAI宣言」を発表し、国内の行政機関における先進的な取り組みとして注目されています。",
+      "relevance": "PMO/PjMOの皆様は、地方自治体における「責任あるAI宣言」の策定と、それを踏まえた行政経営の再デザインについてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11357/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AIガバナンスに関する国際的な議論と国内での取り組み",
+      "summary": "国連事務次長がAIガバナンスの重要性を訴える中、韓国のデジタル・AI競争力が上昇しており、国内でも法務AIコンサルティングや企業のAIガバナンス方針策定が進んでいます。",
+      "relevance": "PMO/PjMOの皆様は、AIガバナンスに関する国際的な動向と、国内での法務・企業における取り組みについてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/f43f77d9-fe50-4f54-9bca-12108e50e5ff"
+        },
+        {
+          "name": "mainichi.jp",
+          "url": "https://mainichi.jp/articles/20261112/ddm/004/070/010000c"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/recordchina/business/recordchina-RC_997557?page=2"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000495.000033386&g=prt"
+        },
+        {
+          "name": "project.nikkeibp.co.jp",
+          "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/110500702/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Kiro の「Approve for me」のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-approve-for-me/",
+          "pub_date": "2026-11-11T05:29:19.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "製造業 7 社が率直に語った AI エージェント全社基盤の実践と課題：生成 AI 基盤・活用推進 ラウンドテーブル 2026年10月 開催報告",
+          "url": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
+          "pub_date": "2026-11-11T01:38:37.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AIが進め、人が決める ― AI駆動開発の本当のボトルネックはどこにあったか",
+          "url": "https://aws.amazon.com/jp/blogs/news/mbk-wellness-ai-dlc-workshop/",
+          "pub_date": "2026-11-10T23:48:12.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kimi K3.1 Pro (Highspeed) が Amazon Bedrock で利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+          "pub_date": "2026-11-06T22:47:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Agent Registry が AWS GovCloud (米国西部) リージョンで一般提供開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+          "pub_date": "2026-11-06T19:48:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 11, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_11_2026",
+          "pub_date": "2026-11-11T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Compute Engine API マルチ バージョニングの概要: 本番環境に影響を与えない予測可能な進化",
+          "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+          "pub_date": "2026-11-11T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AlloyDB for PostgreSQL から Iceberg に直接アクセスして、運用データと Lakehouse データを統合する",
+          "url": "https://cloud.google.com/blog/ja/products/databases/direct-iceberg-access-in-alloydb/",
+          "pub_date": "2026-11-11T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-11T21:41:52.255Z"
+}
