@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-13",
+  "date_ja": "2026年11月13日（金）",
+  "news_summary": [
+    "AWSが政府システム向けAI脆弱性診断・是正検収支援サービス提供開始",
+    "政府は高性能AIの安全確保義務・罰則新設を検討開始",
+    "デジタル庁が生成AI調達ガイドライン2.0版施行、AIガバナンス・教育を仕様書に明記",
+    "Gemini 4 CarbonはClaude Fable 5.2と同等性能で費用1/5以下、法務・行政分野で有用",
+    "Anthropicが官公庁向けAIサービス共同開発、自治体で生成AI活用研修実施",
+    "GoogleがAIに「書かせず選ばせる」Gemini Decisions APIを発表"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92635551/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
+      "url": "https://jvn.jp/vu/JVNVU97400824/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95523788/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN64740097/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
+      "url": "https://jvn.jp/vu/JVNVU90805396/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AWS、AIを活用した政府システム向け脆弱性診断・是正検収支援サービスを提供",
+      "summary": "AWS Security AgentとAmazon Bedrockを組み合わせ、中央省庁・地方公共団体のシステム脆弱性診断から是正検収までを一気通貫で支援するサービスが提供開始された。",
+      "relevance": "PMO/PjMO担当者は、政府統一基準群DS-221への準拠状況や、AIによる診断・是正プロセスにおけるガバナンス体制についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "shiftinc.jp",
+          "url": "https://www.shiftinc.jp/news/20261111_security-assessment/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "日本企業のAI導入率54%に上昇、先進的活用と人材育成が課題",
+      "summary": "AWSの調査によると、日本企業のAI導入率は54%に上昇したが、先進的な活用企業と基礎的な活用企業の差は縮小傾向にあるものの、人材育成が課題となっている。",
+      "relevance": "PMO/PjMO担当者は、組織におけるAI導入の現状と課題を把握し、効果的な人材育成戦略の策定についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261112-5307407/"
+        },
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/730424"
+        },
+        {
+          "name": "digitalpr.jp",
+          "url": "https://digitalpr.jp/r/148224"
+        },
+        {
+          "name": "okinawatimes.co.jp",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1964643"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Google、AIに「書かせず選ばせる」ためのGemini Decisions APIを発表",
+      "summary": "Googleは、AIに判断させるのではなく、ユーザーが選択できるように支援する「Gemini Decisions API」を発表した。",
+      "relevance": "PMO/PjMO担当者は、AIによる意思決定支援ツールの導入可能性や、その際のユーザーインターフェース設計における注意点についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "realsound.jp",
+          "url": "https://realsound.jp/tech/2026/11/post-2582501.html"
+        },
+        {
+          "name": "realsound.jp",
+          "url": "https://realsound.jp/tech/2026/11/post-2582501.html/amp"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Gemini 4 Carbon、Claude Fable 5.2と性能同等で費用は1/5以下、法務・行政分野でも高性能",
+      "summary": "Gemini 4 Carbonは、Claude Fable 5.2と同等の性能を1/5以下の費用で実現し、法務・行政分野においても高い性能を示している。",
+      "relevance": "PMO/PjMO担当者は、AIモデル選定における費用対効果と性能のバランス、特に法務・行政分野での活用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/article/20261112/877263.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Anthropic、企業・官公庁向けAIサービスを共同開発、自治体での生成AI活用研修も実施",
+      "summary": "Anthropicは企業・官公庁向けAIサービスを共同開発しており、自治体では生成AI活用研修も実施されている。",
+      "relevance": "PMO/PjMO担当者は、AnthropicのAI技術を活用した企業・官公庁向けソリューションの動向と、自治体での生成AI活用事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "kabukiso.com",
+          "url": "https://kabukiso.com/siryou/kanren/anthropic.html"
+        },
+        {
+          "name": "agara.co.jp",
+          "url": "https://www.agara.co.jp/article/711797?rct=pr_times"
+        },
+        {
+          "name": "atpartners.co.jp",
+          "url": "https://www.atpartners.co.jp/news/2026-11-12-article-073c4804e0"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府、高性能AIの安全確保義務と罰則新設を検討",
+      "summary": "政府は、高性能AIによる重大なリスクに対応するため、AI関連事業者への安全確保義務と罰則の導入を検討している。",
+      "relevance": "PMO/PjMO担当者は、AI関連事業者の安全確保義務や罰則に関する政府の動向を注視し、リスク管理体制への影響についてご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/japan-ai-safety-penalties/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "GovTech東京、「東京アプリ」で利用者目線に立ったシステム改善を推進",
+      "summary": "GovTech東京は、「東京アプリ」を通じて、利用者目線に立ち、継続的な改善を目指した行政システム開発を進めている。",
+      "relevance": "PMO/PjMO担当者は、GovTech東京の「東京アプリ」における利用者中心の開発アプローチや、アジャイルなシステム改善プロセスについてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "codezine.jp",
+          "url": "https://codezine.jp/article/detail/29842"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "デジタル庁、生成AI調達ガイドライン第2.0版を施行、AIガバナンスと教育を調達仕様書に明記",
+      "summary": "デジタル庁は、生成AI調達ガイドライン第2.0版を施行し、事業者のAIガバナンスや従事者への教育を調達仕様書に盛り込むことを規定した。",
+      "relevance": "PMO/PjMO担当者は、デジタル庁の生成AI調達ガイドライン第2.0版の内容を理解し、調達仕様書作成におけるAIガバナンスと教育要件の考慮についてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=122266"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ベトナム、世界デジタル・AI競争力でAI活用・ガバナンス分野で高評価",
+      "summary": "ベトナムは世界デジタル・AI競争力ランキングにおいて、AI活用で13位、AIガバナンスで15位と高い評価を得た。",
+      "relevance": "PMO/PjMO担当者は、他国のAIガバナンスおよび活用における先進事例を参考に、自組織の取り組みの改善点についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "viet-jo.com",
+          "url": "https://www.viet-jo.com/news/economy/261112122816.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "アライブ、AIガバナンスと情報セキュリティ教育を全社で推進",
+      "summary": "アライブは、AIを安全かつ適切に活用するためのルールや管理体制を整備するAIガバナンスと、AI・情報セキュリティのリテラシー向上を全社で推進している。",
+      "relevance": "PMO/PjMO担当者は、アライブのAIガバナンス体制構築や情報セキュリティ教育の取り組みを参考に、自組織のAI活用におけるリスク管理と人材育成についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/alive-ai-governance-security-education/"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-12-186712-5/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000005_000186712/"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/",
+          "pub_date": "2026-11-12T01:20:54.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS re:Invent 2026 で見逃せないデジタル主権関連セッション",
+          "url": "https://aws.amazon.com/jp/blogs/news/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/",
+          "pub_date": "2026-11-12T00:02:08.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "業務部門が自分で改善できる AI Ready Data を作る ― AI がどれだけ賢くなっても解決できないこと",
+          "url": "https://aws.amazon.com/jp/blogs/news/%E6%A5%AD%E5%8B%99%E9%83%A8%E9%96%80%E3%81%8C%E8%87%AA%E5%88%86%E3%81%A7%E6%94%B9%E5%96%84%E3%81%A7%E3%81%8D%E3%82%8B-ai-ready-data-%E3%82%92%E4%BD%9C%E3%82%8B-%E2%80%95-ai-%E3%81%8C%E3%81%A9%E3%82%8C/",
+          "pub_date": "2026-11-11T23:44:21.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon MSK Replicator が AWS GovCloud (米国東部、米国西部) リージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+          "pub_date": "2026-11-06T16:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Redshift が SUPER データ型を拡張し、最大 1,600 万バイトの文字列を保存可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
+          "pub_date": "2026-11-06T16:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 12, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_12_2026",
+          "pub_date": "2026-11-12T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "ブランドがフィットする「場所」",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/the-geography-of-brand-fit/",
+          "pub_date": "2026-11-12T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "没入型地図、リアルタイムの混雑状況、レスポンシブな地図のスタイル設定が実現する、安心感のある場所選び",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/drive-confident-place-decisions-with-immersive-maps-live-crowd-signals-and-responsive-map-styling/",
+          "pub_date": "2026-11-12T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-systems-streamlines-maintenance-through-knowledge-graphs-and-ai-development/",
+          "pub_date": "2026-11-12T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Neurun: Google Maps Platform で、人混みの中でも迷わないファン体験を",
+          "url": "https://cloud.google.com/blog/ja/products/maps-platform/neurun-makes-sure-no-fan-gets-lost-in-the-crowd-using-google-maps-platform/",
+          "pub_date": "2026-11-12T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「トークン破産に悩まない。生成AIの利用拡大に耐える本番運用とは ～定額制・専有GPU環境で実現する生成AI運用～」を開催いたします",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/12/1968226277/",
+          "pub_date": "2026-11-12T08:00:12.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「KYFA第29回九州女子サッカーリーグ１部第11節（ヴィアマテラス宮崎Alegrita＠吉の浦公園ごさまる陸上競技場）」にて執行役員の大嵜が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/12/1968226273/",
+          "pub_date": "2026-11-12T07:15:40.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "「オンプレからのクラウド化、国産クラウドも選択肢に入れていますか？ ～データ主権・費用変動も踏まえた移行先選定と、構築・運用費用の見通し～」にてソリューション本部 亀田が登壇します",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/12/1968226263/",
+          "pub_date": "2026-11-12T06:52:33.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-12T21:41:39.896Z"
+}
