@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "大阪市の行政オンラインシステムで情報漏えい、107万件超のメールアドレスが外部流出",
+        "summary": "大阪市の行政オンラインシステムで、外部配信サービスへの不正アクセスにより、利用者のメールアドレス107万8713件が外部に漏えいした。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/osaka-city-email-data-leak/",
+        "relevance": "行政システムにおける個人情報漏えい事案の発生原因と対策について、情報セキュリティ管理体制の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
         "title": "AWS、AIを活用した政府システム向け脆弱性診断・是正検収支援サービスを提供",
@@ -3475,6 +3485,15 @@
     ],
     "行政AI": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "デジタル庁 2026年10月の活動報告",
+        "summary": "デジタル庁2026年10月活動報告\n\n▶ デジタル庁の政策、サービス、プロジェクト進捗を確認\n▶ 貴庁のDX推進計画との連携事項や、参考になる事例がないか確認\n▶ 該当するプロジェクトがあれば、担当部署と情報共有し、連携を検討",
+        "source": "デジタル庁 note",
+        "url": "https://digital-gov.note.jp/n/n3a67b39a1a64",
+        "type": "government"
+      },
+      {
         "date": "2026-11-12",
         "date_ja": "2026年11月12日（木）",
         "title": "政府相互運用性フレームワーク（GIF）を「URLで参照できる」データモデルに ― GIFサイトの実装",
@@ -3829,6 +3848,34 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年11月13日開催）資料一覧\n\n▶ 財政制度に関する議論の動向と、貴庁の予算・事業計画への影響を確認\n▶ 特に、DX関連予算やAI導入に関する議論があれば、詳細を確認\n▶ 関連するプロジェクトがあれば、担当部署へ情報共有し、影響を分析",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261113zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "システム障害に伴うメール受信不具合のお知らせ",
+        "summary": "システム障害に伴うメール受信不具合のお知らせ\n\n▶ 貴庁のメールシステムや関連システムに同様の障害が発生していないか確認\n▶ 障害発生時の対応手順・連絡体制が整備されているか確認\n▶ 影響を受ける可能性のあるプロジェクトがあれば、関係者へ通知",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/2026111301.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "政府調達情報",
+        "summary": "政府調達情報\n\n▶ 貴庁が関連する調達案件がないか確認\n▶ 新規プロジェクトの調達要件やスケジュール感を把握\n▶ （PMO/PjMO業務に直接関係なし）",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
         "title": "FATF（金融活動作業部会）声明が公表されました",
@@ -4139,6 +4186,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AI分野におけるグローバル企業の動向と人材獲得",
+        "summary": "AI分野では、NvidiaのCEO交代や、中国AI企業によるGPU規制、MetaのAI基盤増強など、グローバルな動きが見られる。",
+        "source": "diamond.jp",
+        "url": "https://diamond.jp/articles/-/403357",
+        "relevance": "AI技術開発の最前線におけるグローバル企業の動向や、人材獲得・連携の戦略についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AI検索時代に対応する企業・サービスのAI検索対応状況を調査",
+        "summary": "ChatGPT、GeminiなどのAI検索時代に対応するため、企業やサービスがAIに正しく理解・引用・推薦されることを目的としたAI検索対応を独自調査した。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000013.000176171&g=prt",
+        "relevance": "AI検索エンジンへの対応が求められる状況を踏まえ、情報発信のあり方についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "Google、社内専用コーディングAI「GfG」の全容を公開",
+        "summary": "Googleの研究者らが、社内データ1兆トークンを学習させた社内専用コーディングAI「GfG」の論文を発表した。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+        "relevance": "企業独自の膨大な開発データを学習させたLLMのカスタマイズ事例として、社内AI開発の可能性についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "Google、AIアシスタント「Gemini」のスケジュール公開と新モデル「Gemini 4 Hydrogen」発表",
+        "summary": "Googleは、AIアシスタント「Gemini」による「夏休みの宿題」スケジュールを公開し、高速実行AIと新機能を持つ「Gemini 4 Hydrogen」を発表した。",
+        "source": "sanyonews.jp",
+        "url": "https://www.sanyonews.jp/article/1981037?kw=2024%3Cbr%20/%3E%E2%80%9D%20target=%E2%80%9D_blank%E2%80%9D%3Ehttps://www.sanyonews.jp/article/1815191?kw=",
+        "relevance": "AIアシスタントの活用事例として、Geminiの機能や、AIモデルの進化動向についてご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AIガバナンスとリスク管理に関するセミナー開催、AI導入企業は半数超",
+        "summary": "AIの進化に伴い、AIガバナンスや法的責任、リスク管理に関するセミナーが開催され、日本のAI導入企業は半数を超えている。",
+        "source": "xtech.nikkei.com",
+        "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03471/",
+        "relevance": "生成AIやAIエージェントの契約実務、法的責任、リスク管理、およびAIガバナンス構築の重要性について、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AWS、健康支援事業に1億ドル相当のAIサービスを提供",
+        "summary": "AWSは、非営利団体、政府機関、研究機関などを対象に、健康支援事業へ1億ドル相当のAIサービスを提供する。",
+        "source": "news.shoninsha.co.jp",
+        "url": "https://news.shoninsha.co.jp/world/324301",
+        "relevance": "政府機関へのAIサービス提供事例として、AWSの支援内容や適用範囲についてご参照ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
@@ -9162,6 +9269,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "さくらインターネット、国産クラウドの未来を目指す",
+        "summary": "さくらインターネットは、エンジニア向けの技術ブログをAWSのものになぞらえ、さくらのクラウド版を開発し、国産クラウドの未来を目指している。",
+        "source": "sakumaga.sakura.ad.jp",
+        "url": "https://sakumaga.sakura.ad.jp/entry/eastcloud/",
+        "relevance": "国産クラウドの発展動向として、さくらインターネットの取り組みにご関心をお持ちであれば、ご参照ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "Microsoft 365障害、政府共通基盤「GSS」にも影響、代替手段で業務継続",
+        "summary": "Microsoft 365の障害が政府共通基盤「GSS」に波及し、Outlook、Teams、Copilotなどに影響が出た。政府は代替手段で業務を継続している。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4",
+        "relevance": "政府共通基盤が利用するクラウドサービスの障害発生時の代替手段や事業継続計画（BCP）の整備状況について、ご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-12",
         "date_ja": "2026年11月12日（木）",
         "title": "AWS CEO、GPU不足は2年続くとの見通しとデータセンターへのチップ追加状況",
@@ -12787,6 +12914,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AWS Quick をエンタープライズ対応に: 自動化され監査も可能な、アカウント間のリソース昇格",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AWS Quick の Smart Approvals: 必要なところに人の監督を",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "臨床開発の AI 活用はどこまで進んだのか? 2026年 4つの業務で見る現在地",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/insights_for_japan_ai_clinical_development/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "GxP 環境で AI エージェントを構築するためのガイド",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/a-guide-to-building-ai-agents-in-gxp-environments/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
@@ -17541,6 +17713,51 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "AlloyDB Express: デベロッパーやコーディング エージェント向けの、即時プロビジョニングとゼロへのスケーリングに対応した PostgreSQL",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "Google の Agentic Data Cloud にエージェントを大規模に強化する新機能が登場",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/whats-new-across-googles-agentic-data-cloud/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "エージェント時代におけるマシンスピードでの構築と防御を支援",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "November 13, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_13_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
@@ -22568,6 +22785,16 @@
     ],
     "調達・契約": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "MegazoneCloud、韓国調達庁のデジタルサービスモールにAWS仲介サービスを登録",
+        "summary": "MegazoneCloudは、韓国調達庁のデジタルサービスモールにAWS仲介サービスを登録し、公共機関のAWSインフラ契約期間が短縮された。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/da386860-008e-4311-aec2-e9975fac0ff5",
+        "relevance": "海外における公共調達とクラウドサービス契約の連携事例として、AWSインフラ契約の調達プロセスについてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
         "title": "デジタル庁、生成AI調達ガイドライン第2.0版を施行、AIガバナンスと教育を調達仕様書に明記",
@@ -23268,6 +23495,34 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
+        "summary": "財政制度分科会（令和8年11月13日開催）資料一覧\n\n▶ 財政制度に関する議論の動向と、貴庁の予算・事業計画への影響を確認\n▶ 特に、DX関連予算やAI導入に関する議論があれば、詳細を確認\n▶ 関連するプロジェクトがあれば、担当部署へ情報共有し、影響を分析",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261113zaiseia.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "システム障害に伴うメール受信不具合のお知らせ",
+        "summary": "システム障害に伴うメール受信不具合のお知らせ\n\n▶ 貴庁のメールシステムや関連システムに同様の障害が発生していないか確認\n▶ 障害発生時の対応手順・連絡体制が整備されているか確認\n▶ 影響を受ける可能性のあるプロジェクトがあれば、関係者へ通知",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/ohter/2026111301.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-14",
+        "date_ja": "2026年11月14日（土）",
+        "title": "政府調達情報",
+        "summary": "政府調達情報\n\n▶ 貴庁が関連する調達案件がないか確認\n▶ 新規プロジェクトの調達要件やスケジュール感を把握\n▶ （PMO/PjMO業務に直接関係なし）",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-10",
         "date_ja": "2026年11月10日（火）",
         "title": "FATF（金融活動作業部会）声明が公表されました",
@@ -23453,26 +23708,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 152,
+    "セキュリティ": 153,
     "その他": 198,
-    "行政AI": 39,
-    "行政DX": 33,
-    "AI活用": 502,
-    "クラウド/インフラ": 137,
+    "行政AI": 40,
+    "行政DX": 36,
+    "AI活用": 508,
+    "クラウド/インフラ": 139,
     "制度/ガイドライン": 125,
     "自治体DX事例": 100,
-    "AWS最新情報": 528,
-    "Google Cloud最新情報": 330,
+    "AWS最新情報": 533,
+    "Google Cloud最新情報": 335,
     "働き方/業務改革": 43,
     "さくらのクラウド最新情報": 144,
     "AIガバナンス": 24,
     "ガバメントクラウド": 8,
-    "調達・契約": 27,
+    "調達・契約": 28,
     "デジタル庁": 3,
     "調達/契約": 13,
     "プロジェクト管理": 25,
     "行政DX事例": 1,
-    "財務省": 19
+    "財務省": 22
   },
-  "updated_at": "2026-11-12T21:41:39.908Z"
+  "updated_at": "2026-11-13T21:08:24.126Z"
 }

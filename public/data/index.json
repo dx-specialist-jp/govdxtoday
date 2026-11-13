@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-11-14",
+      "summary_short": "システム障害に伴うメール受信不具合のお知らせ…など3件",
+      "article_count": 14,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-11-13",
       "summary_short": "AWS、AIを活用した政府システム向け脆弱性診断・是正検…など10件",
       "article_count": 10,
@@ -532,12 +538,6 @@
       "date": "2026-08-17",
       "summary_short": "宮城県、保育現場での生成AI活用促進に向けたワークショッ…など3件",
       "article_count": 3,
-      "has_security_alert": true
-    },
-    {
-      "date": "2026-08-16",
-      "summary_short": "AIガバナンスの重要性が増し、エンタープライズAIは「ツ…など8件",
-      "article_count": 8,
       "has_security_alert": true
     }
   ]

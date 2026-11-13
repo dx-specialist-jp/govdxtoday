@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-14",
+  "date_ja": "2026年11月14日（土）",
+  "news_summary": [
+    "大阪市行政オンラインシステムで107万件超のメールアドレスが情報漏えいした。",
+    "AWSは健康支援事業に1億ドル相当のAIサービスを非営利団体等へ提供する。",
+    "AIガバナンスとリスク管理に関するセミナー開催、AI導入企業は半数超。",
+    "Googleが新AIモデル「Gemini 4 Hydrogen」を発表、高速実行AIを強化。",
+    "Googleは社内専用コーディングAI「GfG」の全容を論文で公開した。",
+    "Nvidia CEO交代やMetaのAI基盤増強など、AI分野でグローバル企業動向活発化。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN76799957/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+      "url": "https://jvn.jp/vu/JVNVU90821966/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92656681/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95718857/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: PromZardにおけるリモートコード実行の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98641453/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99429639/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "システム障害に伴うメール受信不具合のお知らせ",
+    "summary": "システム障害に伴うメール受信不具合のお知らせ\n\n▶ 貴庁のメールシステムや関連システムに同様の障害が発生していないか確認\n▶ 障害発生時の対応手順・連絡体制が整備されているか確認\n▶ 影響を受ける可能性のあるプロジェクトがあれば、関係者へ通知",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/public_relations/ohter/2026111301.html",
+    "pub_date": "2026-11-13"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政AI最前線",
+      "title": "デジタル庁 2026年10月の活動報告",
+      "summary": "デジタル庁2026年10月活動報告\n\n▶ デジタル庁の政策、サービス、プロジェクト進捗を確認\n▶ 貴庁のDX推進計画との連携事項や、参考になる事例がないか確認\n▶ 該当するプロジェクトがあれば、担当部署と情報共有し、連携を検討",
+      "source_name": "デジタル庁 note",
+      "source_url": "https://digital-gov.note.jp/n/n3a67b39a1a64",
+      "pub_date": "2026-11-13"
+    },
+    {
+      "section_name": "行政DXトピックス",
+      "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
+      "summary": "財政制度分科会（令和8年11月13日開催）資料一覧\n\n▶ 財政制度に関する議論の動向と、貴庁の予算・事業計画への影響を確認\n▶ 特に、DX関連予算やAI導入に関する議論があれば、詳細を確認\n▶ 関連するプロジェクトがあれば、担当部署へ情報共有し、影響を分析",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261113zaiseia.html",
+      "pub_date": "2026-11-13"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "大阪市の行政オンラインシステムで情報漏えい、107万件超のメールアドレスが外部流出",
+      "summary": "大阪市の行政オンラインシステムで、外部配信サービスへの不正アクセスにより、利用者のメールアドレス107万8713件が外部に漏えいした。",
+      "relevance": "行政システムにおける個人情報漏えい事案の発生原因と対策について、情報セキュリティ管理体制の見直しをご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/osaka-city-email-data-leak/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "政府調達情報",
+      "summary": "政府調達情報\n\n▶ 貴庁が関連する調達案件がないか確認\n▶ 新規プロジェクトの調達要件やスケジュール感を把握\n▶ （PMO/PjMO業務に直接関係なし）",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "AWS、健康支援事業に1億ドル相当のAIサービスを提供",
+      "summary": "AWSは、非営利団体、政府機関、研究機関などを対象に、健康支援事業へ1億ドル相当のAIサービスを提供する。",
+      "relevance": "政府機関へのAIサービス提供事例として、AWSの支援内容や適用範囲についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.shoninsha.co.jp",
+          "url": "https://news.shoninsha.co.jp/world/324301"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスとリスク管理に関するセミナー開催、AI導入企業は半数超",
+      "summary": "AIの進化に伴い、AIガバナンスや法的責任、リスク管理に関するセミナーが開催され、日本のAI導入企業は半数を超えている。",
+      "relevance": "生成AIやAIエージェントの契約実務、法的責任、リスク管理、およびAIガバナンス構築の重要性について、ご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03471/"
+        },
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/column/uncategorized/ai-adoption-promotion/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35254828/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw19990585?news_ref=60_60"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "Google、AIアシスタント「Gemini」のスケジュール公開と新モデル「Gemini 4 Hydrogen」発表",
+      "summary": "Googleは、AIアシスタント「Gemini」による「夏休みの宿題」スケジュールを公開し、高速実行AIと新機能を持つ「Gemini 4 Hydrogen」を発表した。",
+      "relevance": "AIアシスタントの活用事例として、Geminiの機能や、AIモデルの進化動向についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1981037?kw=2024%3Cbr%20/%3E%E2%80%9D%20target=%E2%80%9D_blank%E2%80%9D%3Ehttps://www.sanyonews.jp/article/1815191?kw="
+        },
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/gemini-four-hydrogen-launch/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "Google、社内専用コーディングAI「GfG」の全容を公開",
+      "summary": "Googleの研究者らが、社内データ1兆トークンを学習させた社内専用コーディングAI「GfG」の論文を発表した。",
+      "relevance": "企業独自の膨大な開発データを学習させたLLMのカスタマイズ事例として、社内AI開発の可能性についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AI検索時代に対応する企業・サービスのAI検索対応状況を調査",
+      "summary": "ChatGPT、GeminiなどのAI検索時代に対応するため、企業やサービスがAIに正しく理解・引用・推薦されることを目的としたAI検索対応を独自調査した。",
+      "relevance": "AI検索エンジンへの対応が求められる状況を踏まえ、情報発信のあり方についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000013.000176171&g=prt"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "AI分野におけるグローバル企業の動向と人材獲得",
+      "summary": "AI分野では、NvidiaのCEO交代や、中国AI企業によるGPU規制、MetaのAI基盤増強など、グローバルな動きが見られる。",
+      "relevance": "AI技術開発の最前線におけるグローバル企業の動向や、人材獲得・連携の戦略についてご参照ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "diamond.jp",
+          "url": "https://diamond.jp/articles/-/403357"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/9bdc088eb73c24fa51ee6e302dbb4f4e436b5ae3?page=2"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20261113/877457.html"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "title": "Microsoft 365障害、政府共通基盤「GSS」にも影響、代替手段で業務継続",
+      "summary": "Microsoft 365の障害が政府共通基盤「GSS」に波及し、Outlook、Teams、Copilotなどに影響が出た。政府は代替手段で業務を継続している。",
+      "relevance": "政府共通基盤が利用するクラウドサービスの障害発生時の代替手段や事業継続計画（BCP）の整備状況について、ご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188382"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003183/"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/a9de4784-1c4c-4d6a-a47c-b4582244dda3"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4/images/000"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/img/2026/11/13/5723/35549.html"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20261113_2000003185"
+        },
+        {
+          "name": "shunan.keizai.biz",
+          "url": "https://shunan.keizai.biz/gpnews/1778986/"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/2026/11/13/5723.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/93d28e3f-6474-4f66-9d75-d424c5875864"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/61f529d2-29f8-40da-82a3-5ebd47d72c3d"
+        },
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/amp/article/20261113/877549.html"
+        },
+        {
+          "name": "tokyonewsmedia.com",
+          "url": "https://tokyonewsmedia.com/archives/30378"
+        },
+        {
+          "name": "lalalausa.com",
+          "url": "https://lalalausa.com/archives/84663"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/fnn/business/fnn-1151854?page=4"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/75891/posts/1580974"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/img/2026/11/13/5723/35548.html"
+        },
+        {
+          "name": "gamebusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/13/28667.html"
+        },
+        {
+          "name": "fnn.jp",
+          "url": "https://www.fnn.jp/articles/-/1151854?page=2&display=full"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5a9939ee8ba46f8145702e7f06eb96bf00e7910e"
+        },
+        {
+          "name": "fnn.jp",
+          "url": "https://www.fnn.jp/articles/-/1151912"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/2026/11/13/5714.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "さくらインターネット、国産クラウドの未来を目指す",
+      "summary": "さくらインターネットは、エンジニア向けの技術ブログをAWSのものになぞらえ、さくらのクラウド版を開発し、国産クラウドの未来を目指している。",
+      "relevance": "国産クラウドの発展動向として、さくらインターネットの取り組みにご関心をお持ちであれば、ご参照ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/eastcloud/"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "title": "MegazoneCloud、韓国調達庁のデジタルサービスモールにAWS仲介サービスを登録",
+      "summary": "MegazoneCloudは、韓国調達庁のデジタルサービスモールにAWS仲介サービスを登録し、公共機関のAWSインフラ契約期間が短縮された。",
+      "relevance": "海外における公共調達とクラウドサービス契約の連携事例として、AWSインフラ契約の調達プロセスについてご検討ください。",
+      "category": "調達・契約",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/da386860-008e-4311-aec2-e9975fac0ff5"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "GxP 環境で AI エージェントを構築するためのガイド",
+          "url": "https://aws.amazon.com/jp/blogs/news/a-guide-to-building-ai-agents-in-gxp-environments/",
+          "pub_date": "2026-11-13T06:15:25.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "臨床開発の AI 活用はどこまで進んだのか? 2026年 4つの業務で見る現在地",
+          "url": "https://aws.amazon.com/jp/blogs/news/insights_for_japan_ai_clinical_development/",
+          "pub_date": "2026-11-13T03:36:51.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする",
+          "url": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+          "pub_date": "2026-11-13T02:12:53.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Quick の Smart Approvals: 必要なところに人の監督を",
+          "url": "https://aws.amazon.com/jp/blogs/news/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+          "pub_date": "2026-11-13T01:57:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Quick をエンタープライズ対応に: 自動化され監査も可能な、アカウント間のリソース昇格",
+          "url": "https://aws.amazon.com/jp/blogs/news/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+          "pub_date": "2026-11-13T01:56:04.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 13, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_13_2026",
+          "pub_date": "2026-11-13T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "エージェント時代におけるマシンスピードでの構築と防御を支援",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+          "pub_date": "2026-11-13T02:15:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google の Agentic Data Cloud にエージェントを大規模に強化する新機能が登場",
+          "url": "https://cloud.google.com/blog/ja/products/databases/whats-new-across-googles-agentic-data-cloud/",
+          "pub_date": "2026-11-13T02:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+          "pub_date": "2026-11-13T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "AlloyDB Express: デベロッパーやコーディング エージェント向けの、即時プロビジョニングとゼロへのスケーリングに対応した PostgreSQL",
+          "url": "https://cloud.google.com/blog/ja/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+          "pub_date": "2026-11-13T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-13T21:08:24.115Z"
+}
