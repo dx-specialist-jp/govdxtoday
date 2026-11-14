@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-15",
+  "date_ja": "2026年11月15日（日）",
+  "news_summary": [
+    "国家公務員向け国産AI基盤システム「源内」の実証事業が開始された。",
+    "自治体向けにLGWAN接続系で都市OS「GeonicDB」が利用可能となった。",
+    "デジタルスキル標準ver.2.0でAI・データ活用強化のため「データマネジメント」類型が新設された。",
+    "生成AIのガバナンス欠如が指摘されており、AIエコノミー主導権には投資と最適化が求められる。",
+    "Microsoftは英国CopilotテナントでAnthropic Claudeをデフォルト有効化する。",
+    "NVIDIA CEO辞任はAIインフラ市場構造再編の転換点となる可能性が示唆された。"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "国家公務員向け国産AI基盤システム「源内」の実証事業開始、自治体でも都市OSが利用可能に",
+      "summary": "政府は国家公務員の業務支援のため、独自開発した生成AI基盤システム「源内」の大規模実証事業を開始した。また、自治体ではLGWAN接続系で都市OS「GeonicDB」が利用可能になった。",
+      "relevance": "国産AIシステムの導入状況や、自治体におけるDX推進のための都市OS活用事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1974840?kw=%E3%82%AF"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000031_000060265/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "オーティファイ、AIソフトウェア品質エンジニアリングプラットフォームをAWS Marketplaceで提供開始",
+      "summary": "オーティファイは、AIを活用した品質保証の仕組みを提供する「Autify」をAWS Marketplaceでの提供を開始した。AWSを利用する企業は、使い慣れたAWSアカウントから利用できる。",
+      "relevance": "AIを活用した業務効率化ツールがAWS Marketplaceで提供される状況についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=123735"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "デジタルスキル標準ver.2.0、AI・データ活用強化で「データマネジメント」類型新設",
+      "summary": "デジタルスキル標準ver.2.0では、AIやデータの組織的活用・品質担保の重要性から「データマネジメント」類型が新設された。データサイエンティスト類型にはAI実装・運用やAIガバナンスに関するスキルが追加された。",
+      "relevance": "AI・データ活用推進のための人材育成・スキル標準化の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-14-82128-51/"
+        },
+        {
+          "name": "exawizards.com",
+          "url": "https://exawizards.com/column/article/ai-performance-evaluation/"
+        },
+        {
+          "name": "ibm.com",
+          "url": "https://www.ibm.com/jp-ja/think/insights/automated-ai-governance"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "生成AI研修の実施、AIガバナンスとコンプライアンス上の懸念への対応",
+      "summary": "社員と家族向けの生成AI研修が開始され、AIガバナンスとセキュリティ教育が推進されている。ニューヨーク市ではAIバイアス監査要件やコンプライアンス上の懸念が指摘されている。",
+      "relevance": "生成AI利用における研修体制の構築や、AIガバナンス、コンプライアンス遵守の重要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000008_000183670/"
+        },
+        {
+          "name": "ibm.com",
+          "url": "https://www.ibm.com/jp-ja/think/news/nyc-puts-ai-on-notice"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "生成AIのガバナンス欠如、AIエコノミーの主導権とコスト最適化",
+      "summary": "企業の13%しか生成AIのガバナンスを備えていない状況が指摘されており、AIエコノミーの主導権を握るにはAIへの投資、ROI、ガバナンス、パフォーマンスの最適化が求められる。",
+      "relevance": "生成AI導入におけるガバナンス体制の整備や、AI投資のROI、コスト最適化の観点についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/408f1c0cfe4dfe7a8fbf239f8c6fe55fecb11f26/images/000"
+        },
+        {
+          "name": "branc.jp",
+          "url": "https://branc.jp/article/2026/11/14/3291.html"
+        },
+        {
+          "name": "ibm.com",
+          "url": "https://www.ibm.com/jp-ja/think/leadership/the-way-work-moves/taking-control-ai-economics"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/0d09523557416b55"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Microsoft、英国のCopilotテナントでAnthropicのClaudeをデフォルトで有効化へ",
+      "summary": "Microsoftは、英国のCopilotテナントでAnthropicのClaudeをデフォルトで有効化する。選択していない管理者のテナントは全ユーザーに移行され、Claudeを許可する選択肢は廃止される。",
+      "relevance": "AIツールの連携・統合による利用拡大の動向についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/8473ecba-c458-4b8c-8986-670b93701f53"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "NVIDIACEO辞任、AIインフラ市場への影響とAI開発ツールの配布",
+      "summary": "NVIDIAのCEO辞任はAIインフラ市場全体の構造を再編する転換点になる可能性があり、AI開発ツールの配布によるコスト削減効果も示唆されている。",
+      "relevance": "AIインフラ市場の動向や、AI開発ツール導入によるコスト削減効果についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2611/14/2000003201/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIアシスタントの利用制限と自主的なスケジュール公開、生成AIのブランド言及数",
+      "summary": "AIアシスタントCopilotが利用できない状況や、Google Geminiによる「夏休みの宿題」スケジュール公開、生成AIのブランド言及数に関する情報。",
+      "relevance": "AIツールの利用可否や、AIを活用した情報発信・業務支援の事例についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "togetter.com",
+          "url": "https://togetter.com/li/2770072"
+        },
+        {
+          "name": "sanyonews.jp",
+          "url": "https://www.sanyonews.jp/article/1981037?kw=2024%3Cbr%20/%3E%E2%80%9D%20target=%E2%80%9D_blank%E2%80%9D%3Ehttps://www.sanyonews.jp/article/1815191?kw="
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000070.000073406&g=prt"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "AIガバナンス推進プロジェクトマネージャーの募集、デジタルスキル標準との連携",
+      "summary": "AIガバナンス推進プロジェクトマネージャーの求人があり、デジタルスキル標準ver.2.0では「データマネジメント」類型が新設され、データサイエンティスト類型にAIガバナンス関連スキルが追加されている。",
+      "relevance": "AIガバナンス推進体制の構築や、関連するプロジェクトマネジメント人材の確保についてご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "jp.indeed.com",
+          "url": "https://jp.indeed.com/viewjob?jk=4b7dcdcb449c92d3"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Microsoft 365大規模障害、政府共通基盤「GSS」に波及、関係部署での業務に支障",
+      "summary": "Microsoft 365で発生した世界規模の障害は、Outlook、Teams、Copilotなど広範囲に影響を及ぼし、政府共通基盤「GSS」にも波及した。復旧まで約35時間を要した。",
+      "relevance": "政府共通基盤等、広範囲に影響を及ぼすクラウドサービス障害発生時の代替手段や影響範囲の特定、復旧後の検証体制についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03470/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/ab4e4eb8-57cd-445c-b244-48d48b294ae4"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/bbaf1e0d-d410-476d-832d-cb47c5cf2609"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3c0740f0e08fce285790e101b8719963d0c834b3"
+        },
+        {
+          "name": "gamebusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/14/28682.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/article/detail/32811710/?from_page=internal"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/eea71095-3178-43dd-9c56-5c1165ef3dd1"
+        },
+        {
+          "name": "yasashii.asahi.com",
+          "url": "https://yasashii.asahi.com/articles/article_0017675.html"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32810510/"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/a391c078-a7c7-40aa-ad6d-5fdd496cf2a6"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/4dba4d69-00ef-4b49-8bae-ff6eac20334d"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/3d9fd64860b561957570c8a5277fd15079a88d67"
+        },
+        {
+          "name": "techno-edge.net",
+          "url": "https://www.techno-edge.net/article/img/2026/11/13/5723/35548.html"
+        },
+        {
+          "name": "gamebusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/13/28667.html"
+        }
+      ],
+      "score": 10
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "脅威アクターが ARTEX の AI エージェントで展開するサイバー犯罪キャンペーンを Amazon Threat Intelligence が観測",
+          "url": "https://aws.amazon.com/jp/blogs/news/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+          "pub_date": "2026-11-13T22:39:34.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS が EC2 Capacity Blocks for ML の償却サポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+          "pub_date": "2026-11-06T15:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "キャパシティ予約リソースグループが、AWS GovCloud (米国) リージョンにおいて、Amazon EC2 Capacity Blocks および中断可能なキャパシティ予約に対応",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+          "pub_date": "2026-11-06T14:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Simple Email Service が新たに 6 つの AWS リージョンで利用可能に",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+          "pub_date": "2026-11-06T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Elemental MediaConvert が AWS Elemental Inference スマート字幕とのネイティブ統合を追加",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
+          "pub_date": "2026-11-06T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-14T19:39:51.339Z"
+}
