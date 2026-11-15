@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-16",
+  "date_ja": "2026年11月16日（月）",
+  "news_summary": [
+    "Microsoft 365大規模障害が政府業務システムに影響、復旧済み",
+    "防衛省はAI活用基本方針を見直し、AI実装と安全確保の両立を目指す",
+    "国土交通省は上下水道維持管理DX技術募集、AIを行政事業レビューに活用",
+    "日本企業のAI導入率は54%だが、活用レベルに格差、ガバナンス整備は21%",
+    "2030年AX推進へ規制改革・中小企業支援を検討、自治体支援も議論",
+    "経済産業省は海外コンテンツ支援の新補助金制度を創設、支援を一元化"
+  ],
+  "security_alerts": [],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AI活用・ガバナンス強化の動向と課題",
+      "summary": "日本企業のAI導入率は54%に上昇したが、活用レベルに格差が見られる。AIエージェントの普及や、AI悪用攻撃拠点の発覚など、AI活用が進む一方で、AIガバナンス体制の整備が21%にとどまる組織もあるなど、AIの安全性と活用の両立が課題となっている。",
+      "relevance": "AI導入にあたってのガバナンス体制構築や、AI活用による業務効率化・リスク管理について、ご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32824970/"
+        },
+        {
+          "name": "ehako.com",
+          "url": "https://www.ehako.com/weekly/archives/95775"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5dbfe06a53992c6507b8ffa85f202a6e40f78aef/images/000"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/5dbfe06a53992c6507b8ffa85f202a6e40f78aef"
+        },
+        {
+          "name": "iwate-np.co.jp",
+          "url": "https://www.iwate-np.co.jp/pr/prtimes/34643"
+        },
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4806848"
+        },
+        {
+          "name": "shibukei.com",
+          "url": "https://www.shibukei.com/release/684411/"
+        },
+        {
+          "name": "khb-tv.co.jp",
+          "url": "https://www.khb-tv.co.jp/news/17052269"
+        },
+        {
+          "name": "president.jp",
+          "url": "https://president.jp/articles/-/122056"
+        },
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=124964"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1046501/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17914763/?ref=picked-news_20729&tabKey=U%3A20729"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1065530/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1029618/"
+        },
+        {
+          "name": "f2ff.jp",
+          "url": "https://f2ff.jp/event/commerce-sns/2026/session?date=20260903&room=RoomH"
+        },
+        {
+          "name": "blogs.itmedia.co.jp",
+          "url": "https://blogs.itmedia.co.jp/business20/2026/11/ai58.html"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/de64744d331f0f57"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/148302/"
+        },
+        {
+          "name": "chofu.keizai.biz",
+          "url": "https://chofu.keizai.biz/release/684365/"
+        },
+        {
+          "name": "pnb.jiho.jp",
+          "url": "https://pnb.jiho.jp/article/251419"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "防衛省・自衛隊のAI活用基本方針見直しと実装化・安全確保の両立",
+      "summary": "防衛省は、AIの活用に関する基本方針を見直し、AIとデータを防衛力強化につなげる方針を示した。AIの実装化と安全確保の両立を目指し、システムへのAI搭載も明らかにした。",
+      "relevance": "防衛分野におけるAI活用基本方針の見直し動向について、ご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sakigake.jp",
+          "url": "https://www.sakigake.jp/news/article/20261115CO0072/"
+        },
+        {
+          "name": "times.abema.tv",
+          "url": "https://times.abema.tv/articles/-/10289309"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Microsoft 365大規模障害、政府業務システムにも影響、全面復旧",
+      "summary": "Microsoft 365で発生した大規模障害により、日本時間13日未明から世界各地でOutlookやAIサービスCopilotなどが一時利用できなくなり、政府の業務システムにも影響があったことが古川デジタル大臣により明かされた。その後、全面復旧が発表された。",
+      "relevance": "ITサービス利用における障害発生時の対応計画や代替手段について、ご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "chiba-tv.com",
+          "url": "https://www.chiba-tv.com/plus/detail/amp/2026112220154"
+        },
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/topics/detail/32817723/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AWS AgentCore Runtime V2の料金改定とAI導入率の動向",
+      "summary": "AWSは2026年11月12日、東京を含む19リージョンで、新規ランタイムの既定を次世代版へ移行すると発表した。一方、AWS調査では日本企業のAI導入率が54%に上昇したものの、活用レベルには格差があることが判明した。",
+      "relevance": "クラウドサービスの料金体系変更や、AI導入率の動向について、ご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "zaikei.co.jp",
+          "url": "https://www.zaikei.co.jp/article/20261115/877647.html"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1148627/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "経済産業省による海外で稼ぐコンテンツ支援の新補助金制度",
+      "summary": "経済産業省は今年度、海外で稼ぐコンテンツを後押しするための新しい補助金制度を創設し、総務省、経産省、文科省に分かれていた支援を一元的に行う。",
+      "relevance": "コンテンツ分野における国際競争力強化のための政府支援策について、ご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "president.jp",
+          "url": "https://president.jp/articles/-/122041?page=3"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "藤井総務大臣、熊本地震被災地を視察、全国自治体からの応援職員に謝意",
+      "summary": "藤井総務大臣は、就任後初めて熊本県を訪れ、木村知事と意見交換を行った。知事は、総務省が指揮する全国の自治体からの応援職員の対応に謝意を示した。",
+      "relevance": "災害時における自治体間の応援体制や、総務省の役割について、ご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/0d419045-6d8c-4549-b2ec-91e5a29986b5"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "2030年のAI・デジタル改革推進に向けた論点整理と自治体支援",
+      "summary": "AI・デジタル改革推進会議では、2030年のAX（AIトランスフォーメーション）の具体像と規制改革、中小企業支援が論点となっている。自治体では実装体制の二極化が懸念されており、先行事例を参考に、共同利用や専門人材派遣による支援が政府により検討されている。",
+      "relevance": "自治体におけるDX推進やAI導入支援策について、ご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17915485/body/?ref=topic-mhayashi"
+        },
+        {
+          "name": "47news.jp",
+          "url": "https://www.47news.jp/15232995.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "国土交通省によるDX推進とAI活用、インフラ老朽化対策",
+      "summary": "国土交通省は、上下水道の維持管理DX技術を募集し、インフラ老朽化対策を進める。また、行政事業レビューにAIを活用する実証実験を開始し、熟練職員不足への対応や都市機能の持続性、防災力向上を目指している。",
+      "relevance": "インフラ老朽化対策におけるDX推進や、行政事業レビューへのAI活用について、ご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "liv-plus.jp",
+          "url": "https://liv-plus.jp/business_news/55429/"
+        },
+        {
+          "name": "go2senkyo.com",
+          "url": "https://go2senkyo.com/seijika/200599/posts/1582380"
+        },
+        {
+          "name": "diamond.jp",
+          "url": "https://diamond.jp/articles/-/403319?page=5"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "中国財務省、カナダで人民元建てグリーン国債を発行",
+      "summary": "中国財務省がカナダで40億人民元（約6億米ドル）の人民元建てグリーン国債を発行した。これはロンドン、香港に次ぐ3回目のオフショア人民元建てグリーンボンド発行となる。",
+      "relevance": "国際的なグリーンボンド発行動向について、ご検討ください。",
+      "category": "調達/契約",
+      "sources": [
+        {
+          "name": "rief-jp.org",
+          "url": "https://rief-jp.org/ct6/169929"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Glue データカタログが Apache Iceberg REST カタログフェデレーションによるカタログ提供の認証情報をサポート",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
+          "pub_date": "2026-11-06T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Security Hub がコンピューティングリソース向けの SBOM インベントリを提供開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+          "pub_date": "2026-11-06T00:30:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Interconnect - last mile が米国バージニア北部で新しいメトロを発表",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+          "pub_date": "2026-11-05T21:30:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "Amazon Bedrock AgentCore の Web Answer を発表",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+          "pub_date": "2026-11-05T20:56:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 15, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_15_2026",
+          "pub_date": "2026-11-15T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-15T20:06:00.175Z"
+}
