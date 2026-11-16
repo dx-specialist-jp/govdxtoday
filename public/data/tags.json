@@ -2,6 +2,46 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "フランスの文書発送サービスでサイバー攻撃、2200万人の個人情報流出",
+        "summary": "フランスの文書発送事業者Mailevaへのサイバー攻撃により、顧客企業・機関から郵便物を受け取る2200万人の氏名と郵便番号が流出した。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/maileva-cyberattack-data-leak/",
+        "relevance": "PMO/PjMOの皆様は、サプライヤーが被るサイバー攻撃が利用者の個人情報に与える影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "行政オンラインシステムのメールアドレス10万件超が漏えい、外部メール配信サービスへの不正アクセスが原因",
+        "summary": "外部メール配信サービスへの不正アクセスにより、行政オンラインシステムのメールアドレス10万7804件が漏えいした。個人情報の保護や行政手続きの継続に影響が出る。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/osaka_pref_online_system_email_leak_107804/",
+        "relevance": "PMO/PjMOの皆様は、外部委託サービスにおけるセキュリティインシデントが行政システムに与える影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "ラキールのAWS不正アクセス、顧客環境で個人情報漏えいとサーバ侵入",
+        "summary": "ラキールはAWS環境への不正アクセスにより、ソースコード管理システムの設定不備を突かれ、顧客1社の従業員等140名の個人情報が漏えいし、サーバへ侵入された。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188433",
+        "relevance": "PMO/PjMOの皆様は、クラウド環境におけるアクセス制御設定の不備による情報漏えいリスクと、サプライヤーのセキュリティ管理体制についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "AIエージェントによるサイバー攻撃自動化と不正拡張機能による情報漏えいのリスク",
+        "summary": "FBIとAWSはAIエージェントによるサイバー攻撃自動化の脅威を警告し、一方、AIコーディング履歴の認証情報流出から内部侵害に至る不正拡張機能の事例も報告されている。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ecfb572f-4783-4050-9422-9ac41a76b981",
+        "relevance": "PMO/PjMOの皆様は、AIエージェントの活用に伴う新たなサイバー攻撃リスクと、AIツール利用時のセキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-14",
         "date_ja": "2026年11月14日（土）",
         "title": "大阪市の行政オンラインシステムで情報漏えい、107万件超のメールアドレスが外部流出",
@@ -4186,6 +4226,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "TOPPANなど3社、政府AI「源内」向け1800万ページ整備、行政AI活用の基盤強化へ",
+        "summary": "TOPPANなどは、政府AI「源内」向けに1800万ページを整備し、行政AI活用の基盤強化を図る実証を行っている。AIガバナンスや3者分散鍵管理も検証されている。",
+        "source": "plus-web3.com",
+        "url": "https://plus-web3.com/media/latestnews_1000_11442/",
+        "relevance": "PMO/PjMOの皆様は、政府AI開発への参画や、行政AI活用基盤の整備動向についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "主要AIモデルの機能更新と行政・業務への影響、関連ツールの性能比較",
+        "summary": "Anthropicが新AIモデルや法人向けサービスを発表する一方、Microsoft 365の障害はCopilot利用にも影響を与えた。Excel等でのAIツール性能比較や、行政AI基盤の検証も進められている。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/187916",
+        "relevance": "PMO/PjMOの皆様は、最新のAIモデルやツールの動向と、それらが業務効率化やDX推進に与える影響についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "AIガバナンスの重要性と課題、企業・政府における整備・実践の動き",
+        "summary": "AIの本格運用にはトークン消費増やガバナンス負担が課題となり、企業の約9割が再設計を迫られている。政府はAI法改正で命令違反に罰則新設を検討するなど、AIガバナンス強化が急務となっている。",
+        "source": "kn.itmedia.co.jp",
+        "url": "https://kn.itmedia.co.jp/kn/article/2611/17/2000003223/",
+        "relevance": "PMO/PjMOの皆様は、AI活用におけるガバナンス体制の構築や、関連する法制度・規制動向についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
@@ -9369,6 +9439,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "主要クラウドプロバイダーと医療分野AI連携の動向",
+        "summary": "Amazon Web Services、Microsoft Azure、Google CloudがIaaS分野で有力企業として挙げられる中、InterSystemsはGoogle Cloudの「Gemini for Healthcare」のローンチパートナーとなった。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4809665",
+        "relevance": "PMO/PjMOの皆様は、主要クラウドプロバイダーの動向と、特定の分野（医療等）におけるAI連携事例についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "Microsoft 365の世界規模障害、OutlookやTeams、Copilot利用に支障",
+        "summary": "Microsoft 365の複数サービスが世界規模で利用不能となり、OutlookやTeams、Copilotなどに影響が出た。日本国内でも行政機関や企業の業務に支障が生じた。",
+        "source": "lalalausa.com",
+        "url": "https://lalalausa.com/archives/84710",
+        "relevance": "PMO/PjMOの皆様は、Microsoft 365などの基幹クラウドサービスにおける障害発生時の代替手段や情報収集体制についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
         "title": "AWS AgentCore Runtime V2の料金改定とAI導入率の動向",
@@ -12063,6 +12153,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "自治体DX展示会でAI活用ニーズの高まりを確認",
+        "summary": "自治体向けDX展示会において、AI・業務改革への関心が高まっていることが確認された。自治体DXの現場でAI活用ニーズが高まっている。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000545.000092586.html",
+        "relevance": "PMO/PjMOの皆様は、自治体におけるDX推進やAI活用事例について、中央省庁での横展開の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
         "title": "2030年のAI・デジタル改革推進に向けた論点整理と自治体支援",
@@ -13074,6 +13174,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "AWS Systems Manager と Amazon Security Lake を使用したファイル整合性監視",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/file-integrity-monitoring-with-aws-systems-manager-and-amazon-security-lake/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "S3 バケットへフォレンジックアーティファクトを安全に収集するためのフレームワーク",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "AWS でのマルウェア解析: 安全な環境の構築",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/malware-analysis-on-aws-setting-up-a-secure-environment/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "週刊生成AI with AWS – 2026/11/9週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261109/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "【開催報告】AWSデータ活用ワークショップ〜パートナー共創型・地域金融機関合同〜",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/data-utilization-workshop-regional-bank/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
@@ -17955,6 +18100,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "VPC フローログを使用して GKE ワークロードを迅速にトラブルシューティングする方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "最新の調査により、企業がレガシー ソフトウェアと AI モダナイゼーションの狭間で立ち往生していることが明らかに",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "November 16, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_16_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
         "title": "November 15, 2026",
@@ -21423,6 +21595,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "「300万人の学びを支えるサービスから学ぶ！～クラウド選定・移行・拡張の実践ポイント～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/16/1968226284/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-17",
+        "date_ja": "2026年11月17日（火）",
+        "title": "「SCS評価制度の準備は進んでいますか？ ～今から始めるサプライチェーンセキュリティ対策～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/16/1968226305/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
         "title": "「オンプレからのクラウド化、国産クラウドも選択肢に入れていますか？ ～データ主権・費用変動も踏まえた移行先選定と、構築・運用費用の見通し～」にてソリューション本部 亀田が登壇します",
@@ -23988,18 +24178,18 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 153,
+    "セキュリティ": 157,
     "その他": 198,
     "行政AI": 40,
     "行政DX": 36,
-    "AI活用": 518,
-    "クラウド/インフラ": 142,
+    "AI活用": 521,
+    "クラウド/インフラ": 144,
     "制度/ガイドライン": 127,
-    "自治体DX事例": 101,
-    "AWS最新情報": 542,
-    "Google Cloud最新情報": 336,
+    "自治体DX事例": 102,
+    "AWS最新情報": 547,
+    "Google Cloud最新情報": 339,
     "働き方/業務改革": 44,
-    "さくらのクラウド最新情報": 144,
+    "さくらのクラウド最新情報": 146,
     "AIガバナンス": 24,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
@@ -24009,5 +24199,5 @@
     "行政DX事例": 1,
     "財務省": 22
   },
-  "updated_at": "2026-11-15T20:06:00.185Z"
+  "updated_at": "2026-11-16T23:37:12.380Z"
 }
