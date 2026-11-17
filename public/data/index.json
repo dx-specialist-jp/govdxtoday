@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-11-18",
+      "summary_short": "中西 英介様に「AI時代における情報発信－LLMOとは？AI…など1件",
+      "article_count": 13,
+      "has_security_alert": true
+    },
+    {
       "date": "2026-11-17",
       "summary_short": "AIエージェントによるサイバー攻撃自動化と不正拡張機能に…など10件",
       "article_count": 10,
@@ -532,12 +538,6 @@
       "date": "2026-08-21",
       "summary_short": "政府、国産AI基盤システム「源内」の本格実証を開始、18…など5件",
       "article_count": 5,
-      "has_security_alert": true
-    },
-    {
-      "date": "2026-08-20",
-      "summary_short": "総務省による自治体サイバー対策強化とIT機器調達支援…など8件",
-      "article_count": 8,
       "has_security_alert": true
     }
   ]

@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "AWS不正アクセスにより140人の個人情報漏えい、アクセスキー窃取が発端",
+        "summary": "ラキール社は、利用するAWS環境への不正アクセスにより、アクセスキーの窃取が原因で140人の個人情報が漏えいしたことを公表した。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/lakeel-aws-key-breach/",
+        "relevance": "PMO/PjMO担当者は、AWS利用におけるセキュリティインシデント事例を把握し、アクセスキー管理を含むクラウド環境のセキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "FBIとAWSがAIエージェントによる産業規模のサイバー攻撃自動化に警鐘",
+        "summary": "FBIとAmazon Threat Intelligenceは、犯罪グループが自律型AIエージェントを用いて銀行、政府機関、産業などを標的としたサイバー攻撃を自動化していると警告した。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/ecfb572f-4783-4050-9422-9ac41a76b981",
+        "relevance": "PMO/PjMO担当者は、AIエージェントによるサイバー攻撃の自動化リスクを把握し、政府システムにおけるセキュリティ対策の強化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
         "title": "フランスの文書発送サービスでサイバー攻撃、2200万人の個人情報流出",
@@ -3888,6 +3908,35 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "中西 英介様に「AI時代における情報発信－LLMOとは？AIは財務省をどう語っているか？ AIにどう対峙していくべきか？－」について、ご講演いただきました",
+        "summary": "AI時代における情報発信等に関する講演\n\n▶ 各府省PjMOは、講演内容からAI活用や情報発信に関する知見を得て、DX推進への示唆を探ってください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/insideLink/20261116154329.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月17日(火曜日))",
+        "summary": "片山財務大臣記者会見概要公表\n\n▶ 各府省PjMOは、会見概要を確認し、関連する政策動向やDX推進への影響を把握してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/conference/my20261117.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "財政投融資分科会（令和8年11月17日開催）資料一覧",
+        "summary": "財政投融資分科会資料一覧公開\n\n▶ 各府省PjMOは、本分科会資料を参照し、関連するプロジェクト管理への影響を確認してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261117.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-14",
         "date_ja": "2026年11月14日（土）",
         "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
@@ -4226,6 +4275,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "Google Geminiの機能アップデートと「Gems」廃止、カスタムAIボット機能の移行",
+        "summary": "Google Geminiは、資料やメモからWebサイトを作成できる機能を追加し、カスタムAIボット作成機能「Gems」を廃止して「Skills」へ移行する。",
+        "source": "mediadogs.jp",
+        "url": "https://mediadogs.jp/2026/11/18/gemini-notebook-sites/",
+        "relevance": "PMO/PjMO担当者は、生成AIツールの機能アップデート動向を注視し、業務効率化に資するツールの選定や活用方法についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "OpenAI財団理事が「1年以内に政府転覆可能なAI」登場の可能性を警告、開発一時停止を提言",
+        "summary": "OpenAI財団の理事が、政府転覆能力を持つ強力なAIが1年以内に登場する可能性を警告し、開発の一時停止を提言した。",
+        "source": "exawizards.com",
+        "url": "https://exawizards.com/column/ai-trend/news-11-17-2026-3/",
+        "relevance": "PMO/PjMO担当者は、AIの急速な進化とその潜在的リスクについて、プロジェクトのガバナンスやセキュリティ対策への影響を考慮し、ご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "デジタル庁、政府職員の業務効率化を目指すガバメントAI「源内」のワークショップを開催",
+        "summary": "デジタル庁は政府職員の業務効率化を目的としたガバメントAI「源内」に関するワークショップを開催した。内閣府、総務省、法務省などから職員が参加し、AIによる答弁作成支援などの活用について情報交換が行われた。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/15370e5279ed3d230849cbbc56dc40a3c8a8d51c/images/000",
+        "relevance": "PMO/PjMO担当者は、ガバメントAIの活用事例として「源内」の動向を把握し、職員の業務効率化策としてのAI導入可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "Google Cloud、日本政府・重要インフラ事業者向けにサイバー防御AI「Gemini 4 Carbon for Cyber」を先行提供",
+        "summary": "Google Cloudは日本政府とサイバーセキュリティ強化で協力し、最新AIモデルを先行提供する。国家サイバー統括室、デジタル庁、金融機関、重要インフラ事業者を対象に、脆弱性修復支援や脅威インテリジェンスの共有も行う。",
+        "source": "watch.impress.co.jp",
+        "url": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+        "relevance": "PMO/PjMO担当者は、政府機関へのAI提供動向を踏まえ、サイバーセキュリティ対策におけるAI活用の可能性についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
@@ -9439,6 +9528,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "基幹システムのAWS移行、約2か月で実現した事例公開",
+        "summary": "総合金属加工メーカーが、物理サーバーに集中していた基幹システムを約2か月でAWSへ移行した事例が公開された。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/pr_topics/detail/32837947/",
+        "relevance": "PMO/PjMO担当者は、基幹システムのクラウド移行事例を参考に、自組織のインフラ戦略や移行計画の策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
         "title": "主要クラウドプロバイダーと医療分野AI連携の動向",
@@ -12153,6 +12252,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "東京都庁、サイバー攻撃・不正アクセス対策と「ウィズAI時代」の行政のあり方を模索",
+        "summary": "DXを推進する東京都庁は、増大するサイバー攻撃や不正アクセスに対し、AI時代における行政のあり方について対策を模索している。",
+        "source": "article.auone.jp",
+        "url": "https://article.auone.jp/ea0fa699-3a06-4f03-b341-042e0ad4fda3",
+        "relevance": "PMO/PjMO担当者は、先進的な自治体のサイバー攻撃対策とAI活用動向を参考に、自組織のDX推進におけるセキュリティリスク管理についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
         "title": "自治体DX展示会でAI活用ニーズの高まりを確認",
@@ -13174,6 +13283,42 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "NTTドコモにおけるレシート OCR サーバーレスシステムの多重処理流量制御",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/docomo-receipt-ocr-system/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "NESICホールディングス傘下 3 社の 99 名が AI エージェント Kiro でトラブルシューティングに挑戦 ―― NESICホールディングス Cup 2026 開催レポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/nesic-holdings-cup-2026-kiro-troubleshooting/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "AWS KMS か AWS CloudHSM か: 適切なキー管理ソリューションの選び方",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "AWS KMS: キーはいくつ必要か? 4 つの原則から考えるキー管理戦略",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-kms-how-many-keys-do-i-need/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
@@ -18100,6 +18245,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "Gartner Magic Quadrant のデータ レイクハウス プラットフォーム部門で、Google が「ビジョンの完全性」において最高評価を獲得",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "エージェント向けの Physical-Engineering’s Last Exam のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "Google Cloud、日本のサイバーセキュリティ強化と、 AI の導入や人材育成を加速する新たな取り組みを発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/gcp/announces-initiatives-to-strengthen-cybersecurity-and-accelerate-ai/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "Kubernetes 上のオープンな AI ネイティブ スタック: オープンモデルから分散推論やエージェントまで",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "November 17, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_17_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
         "title": "VPC フローログを使用して GKE ワークロードを迅速にトラブルシューティングする方法",
@@ -21153,6 +21343,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "製造業向けCopilot活用による社内FDE育成レポート（2026年11月版）",
+        "summary": "製造業向けに、Copilotを活用した社内FDE（Future Development Engineer）育成の進め方に関するレポートが公開された。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw20002443?news_ref=20_20",
+        "relevance": "PMO/PjMO担当者は、AIツールを活用した職員育成の先進事例として、自組織における人材育成プログラムへの応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
         "title": "国土交通省によるDX推進とAI活用、インフラ老朽化対策",
@@ -21594,6 +21794,24 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "「30分でわかる！​はじめての『さくらのクラウド』入門～構成・事例・料金まで、使い始める前の疑問をやさしく解説​～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/17/1968226317/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "「さくらで解決！高騰するITインフラへの対策 ～選択としての『さくらのクラウド』～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/17/1968226321/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-17",
         "date_ja": "2026年11月17日（火）",
@@ -22911,6 +23129,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "生成AI普及に伴うITガバナンス再構築の必要性、AIガバナンスの動向",
+        "summary": "生成AIの普及により、企業はITガバナンスの再構築と業務プロセスの見直しを迫られている。AIガバナンスの設計プロセスや、外部専門家によるAIモデルの安全性を長期検証する仕組みなどが議論されている。",
+        "source": "jbpress.ismedia.jp",
+        "url": "https://jbpress.ismedia.jp/articles/-/97915",
+        "relevance": "PMO/PjMO担当者は、生成AIの導入に伴うITガバナンスの課題と、AIガバナンスの最新動向について、組織のAI活用方針策定のためにご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-13",
         "date_ja": "2026年11月13日（金）",
         "title": "アライブ、AIガバナンスと情報セキュリティ教育を全社で推進",
@@ -23965,6 +24193,35 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "中西 英介様に「AI時代における情報発信－LLMOとは？AIは財務省をどう語っているか？ AIにどう対峙していくべきか？－」について、ご講演いただきました",
+        "summary": "AI時代における情報発信等に関する講演\n\n▶ 各府省PjMOは、講演内容からAI活用や情報発信に関する知見を得て、DX推進への示唆を探ってください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/insideLink/20261116154329.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月17日(火曜日))",
+        "summary": "片山財務大臣記者会見概要公表\n\n▶ 各府省PjMOは、会見概要を確認し、関連する政策動向やDX推進への影響を把握してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/conference/my20261117.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-18",
+        "date_ja": "2026年11月18日（水）",
+        "title": "財政投融資分科会（令和8年11月17日開催）資料一覧",
+        "summary": "財政投融資分科会資料一覧公開\n\n▶ 各府省PjMOは、本分科会資料を参照し、関連するプロジェクト管理への影響を確認してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261117.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-14",
         "date_ja": "2026年11月14日（土）",
         "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
@@ -24178,26 +24435,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 157,
+    "セキュリティ": 159,
     "その他": 198,
     "行政AI": 40,
-    "行政DX": 36,
-    "AI活用": 521,
-    "クラウド/インフラ": 144,
+    "行政DX": 39,
+    "AI活用": 525,
+    "クラウド/インフラ": 145,
     "制度/ガイドライン": 127,
-    "自治体DX事例": 102,
-    "AWS最新情報": 547,
-    "Google Cloud最新情報": 339,
-    "働き方/業務改革": 44,
-    "さくらのクラウド最新情報": 146,
-    "AIガバナンス": 24,
+    "自治体DX事例": 103,
+    "AWS最新情報": 551,
+    "Google Cloud最新情報": 344,
+    "働き方/業務改革": 45,
+    "さくらのクラウド最新情報": 148,
+    "AIガバナンス": 25,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
     "調達/契約": 14,
     "プロジェクト管理": 26,
     "行政DX事例": 1,
-    "財務省": 22
+    "財務省": 25
   },
-  "updated_at": "2026-11-16T23:37:12.380Z"
+  "updated_at": "2026-11-17T22:45:15.215Z"
 }
