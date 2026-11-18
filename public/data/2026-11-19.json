@@ -1,0 +1,492 @@
+{
+  "date": "2026-11-19",
+  "date_ja": "2026年11月19日（木）",
+  "news_summary": [
+    "JPCERT/CCがインシデント調査報告書受領時のチェックリストを公開、委託先との連携強化に活用可能",
+    "Google Cloudが日本政府向けにサイバー防御AI「Gemini 4 Carbon for Cyber」を先行提供、脆弱性診断も無償実施",
+    "デジタル庁の行政AI基盤「源内」で政府職員18万人がAIエージェント自作、業務効率化の大規模実証事業を開始",
+    "Microsoft 365大規模障害が政府共通基盤GSSに波及、クラウドSLAの死角やフェイルオーバー課題が露呈",
+    "AIリスキル株式会社がAnthropic「Claude Startups」に採択、企業・自治体向けClaude Code研修を提供開始",
+    "財務省広報誌「ファイナンス」11月号で全国財務局の地域連携取組事例を紹介、他省庁の参考になる可能性"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：CyberNewsFlash「OpenJDKにおけるリモートコード実行につながる脆弱性（CVE-2026-114938）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026111801.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: N-able N-centralに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ImageMagickを利用したアプリケーションに任意のファイルの読み書きなどにつながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: PostgreSQLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のIntel製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Movable Typeにコードインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: OpenSSLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: React Server Componentsに任意のコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Node.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: MongoDBに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Atlassian Confluence Data Centerに任意のコード実行の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Gitに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#15",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のIvanti製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#17",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#18",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#19",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#20",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#21",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: WebSAM WinShareにおける複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#22",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#23",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#25",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenJDKにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99608534/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ISC BINDにおける複数の脆弱性（2026年10月）",
+      "url": "https://jvn.jp/vu/JVNVU91196958/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN19906678/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU96847970/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU99888632/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "お知らせ：JPCERT/CC Eyes「インシデント調査報告書受領時のチェックリスト」",
+    "summary": "JPCERT/CCがインシデント調査報告書受領時のチェックリストを公開しました。\n\n▶ PMO/PjMO担当者は、インシデント対応プロセスにおける報告書作成・確認に活用できるか確認してください。\n▶ 委託先との共通認識形成や調査円滑化のために、チェックリストの共有・活用を検討してください。\n▶ JPCERT/CC提供の情報を参照し、チェックリストの内容を把握してください。",
+    "source_name": "JPCERT/CC 注意喚起",
+    "source_url": "https://blogs.jpcert.or.jp/ja/2026/11/ir_report_checklist.html",
+    "pub_date": "2026-11-18"
+  },
+  "sub_articles": [
+    {
+      "section_name": "セキュリティ速報",
+      "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
+      "summary": "JPCERT/CCがインシデント調査報告書チェックリストを公開しました。\n\n▶ PMO/PjMO担当者は、インシデント対応プロセスにおける報告書作成・確認に活用できるか確認してください。\n▶ 委託先との共通認識形成や調査円滑化のために、チェックリストの共有・活用を検討してください。\n▶ JPCERT/CC提供の情報を参照し、チェックリストの内容を把握してください。",
+      "source_name": "JPCERT/CC 注意喚起",
+      "source_url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#24",
+      "pub_date": "2026-11-18"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "広報誌「ファイナンス」11月号 特集 令和7年度の事例集から紹介 全国財務局の地域連携の取組",
+      "summary": "広報誌「ファイナンス」11月号で、令和7年度の事例集から全国財務局の地域連携の取組が紹介されました。\n\n▶ 行政DX推進担当者は、他省庁・組織の地域連携の取組事例を参考にしてください。\n▶ 関連部署・担当者への情報共有を検討してください。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/public_relations/finance/index.htm"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+      "summary": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261118.htm"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "国庫短期証券（第1420回）の入札発行",
+      "summary": "国庫短期証券（第1420回）の入札発行",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261118.htm"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "Google Cloud、日本政府向けにサイバー防御AI「Gemini 4 Carbon for Cyber」を先行提供、無償脆弱性診断も実施",
+      "summary": "Google Cloudは、日本政府や重要インフラ事業者に対し、サイバー防御に特化したAIモデル「Gemini 4 Carbon for Cyber」を早期提供する。併せて、脆弱性診断も無償で実施し、サイバーセキュリティ強化とAI活用を加速する。",
+      "relevance": "サイバー防御AIの導入による、政府システムにおけるセキュリティ強化策についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/google-cloud-japan-cyber-ai/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/065bd7d5d9c10c8c36112099d516b3ff4e216cc0/images/000"
+        },
+        {
+          "name": "ai.watch.impress.co.jp",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2157377.html"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/fj/188522"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/065bd7d5d9c10c8c36112099d516b3ff4e216cc0"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/topnews/business/999/d34f5d452a7e4796fdc107d18009d164"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/4afe206f8a8497255a66cbace57c995d26ea840a/images/000"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIリスキル、Anthropicの「Claude Startups」に採択、企業・自治体向けClaude Code研修を提供",
+      "summary": "AIリスキル株式会社がAnthropicの「Claude Startups」に採択され、Claude Codeなどを活用した企業・自治体向けの研修提供を行う。AIツールギャラリー新サイトの開発作業の約8割をClaudeが担当した。",
+      "relevance": "行政機関におけるAI人材育成の推進や、Claude Codeを活用した業務改善の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000060.000136909&g=prt"
+        },
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=130052"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1232789/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20005385?news_ref=60_60"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントAI「源内」、政府職員18万人がAIエージェントを自作へ、大規模実証事業を開始",
+      "summary": "デジタル庁が開発した行政機関向けのAI基盤「源内」で、政府職員約18万人がAIエージェントを自作する大規模実証事業が開始された。チャット、文書・会議録作成、国会対応などの業務効率化を図る。",
+      "relevance": "職員によるAIエージェント自作を促進するガバメントAI基盤「源内」の活用状況についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/60dc14e1773349a9804f4a76a6299875450dcfbc"
+        },
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/techtopia-79/"
+        },
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/society/f75b5da21d314e2b92e73f8c7585278c"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AI開発企業8社に軍事標的を探させた結果、Claudeは小学校を「軍事目標」と判定",
+      "summary": "AI開発企業8社への評価で、Claudeはイランの小学校を32回中22回「軍事目標」と判定した。Valsによる報告書で、AIの判断基準とリスクが示唆されている。",
+      "relevance": "AIの判断におけるバイアスや誤判定のリスクについて、評価・検証体制の構築をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/98115"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "Microsoft 365大規模障害が政府共通基盤GSSにも波及、クラウド安全神話に警鐘",
+      "summary": "Microsoft 365の大規模障害が、デジタル庁が各省庁に提供する政府共通の業務システムであるGSSにも影響を及ぼした。クラウドのSLAの死角や、フェイルオーバーの課題が浮き彫りになった。",
+      "relevance": "クラウドサービスの障害発生時の事業継続計画（BCP）や、代替システム、SLAの確認についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/japan-security-youtuber/"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2611/18/2000003277/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "職員のDXスキル可視化、スキルチェック等実施は0.5% 研修の具体化と実施が課題",
+      "summary": "一般社団法人自治体DX推進協議会の調査で、職員のDXスキルをスキルチェック等で可視化している自治体は0.5%に留まり、研修の具体化と実施が課題であることが明らかになった。",
+      "relevance": "行政職員のDXスキル向上に向けた、効果的なスキル可視化と研修プログラムの設計についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000423.000132312.html"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIガバナンス、データガバナンスとセキュリティの新時代を AvePointが新プラットフォーム発表",
+      "summary": "AvePoint Japanは、AIのガバナンス、セキュリティ、最適化を一元的に実現する新プラットフォームを発表した。AI活用が広がる中、データ保護やAIガバナンス、アプリケーション開発・運用におけるセキュリティ対策の重要性が高まっている。",
+      "relevance": "AIガバナンスの強化と、データガバナンスおよびセキュリティ対策の連携についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "internet.watch.impress.co.jp",
+          "url": "https://internet.watch.impress.co.jp/docs/news/2156476.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/business-cards/avepoint-ai-trust-platform-launch/"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/11/02/00491/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "日本のCISO経験の9割に「退職した従業員」が関与、内部不正と生成AIガバナンス対応にプレッシャー",
+      "summary": "日本のCISOが経験した情報漏えいの約9割に退職した従業員が関与しており、内部不正への対応と生成AIのガバナンス対応に極度のプレッシャーにさらされている状況が明らかになった。",
+      "relevance": "内部不正対策と生成AIガバナンスを両立させるための体制構築についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news048.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "NTTドコモビジネスと日本IBM、AIエージェントの誤判断・情報漏えいを防止するAIガバナンスで協業",
+      "summary": "NTTドコモビジネスと日本IBMは、AIエージェントの誤判断や情報漏えいを防止するためのAIガバナンスで協業する。これにより、AI導入におけるリスク管理を強化する。",
+      "relevance": "AIエージェント導入に伴うリスク（誤判断、情報漏えい）に対するガバナンス体制についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/ytoda2650-26/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "生成AIエージェントの情報アクセス制御（RAGガバナンス）について社員が技術カンファレンスに登壇",
+      "summary": "株式会社クレスコの社員が、香港で開催された「AWS Community Day Hong Kong 2026」で、生成AIエージェントの情報アクセス制御（RAGガバナンス）について登壇した。",
+      "relevance": "生成AIエージェントにおける情報アクセス制御（RAGガバナンス）の実現方法についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "cresco.co.jp",
+          "url": "https://www.cresco.co.jp/ja/news/news-3786056866003127136.html"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS Well-Architected Framework のアップデートを発表",
+          "url": "https://aws.amazon.com/jp/blogs/news/announcing-updates-to-the-aws-well-architected-framework-3/",
+          "pub_date": "2026-11-18T06:45:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AI エージェントをより SAP の身近に: AWS for SAP MCP Server の新機能",
+          "url": "https://aws.amazon.com/jp/blogs/news/bringing-ai-agents-closer-to-sap-whats-new-in-aws-for-sap-mcp-server/",
+          "pub_date": "2026-11-18T02:43:53.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Systems Manager for SAP が SAP HANA スケールアウト構成をサポート",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-systems-manager-for-sap-now-supports-sap-hana-scale-out-deployments/",
+          "pub_date": "2026-11-18T02:41:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon ElastiCache Serverless for Valkey の DynamoDB caching で DynamoDB ワークロードを高速化",
+          "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-dynamodb-workloads-with-dynamodb-caching-with-amazon-elasticache-serverless-for-valkey/",
+          "pub_date": "2026-11-18T01:51:42.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Nitro Sandboxes: すべての EKS ポッド、ECS タスク、EC2 ワークロードをハードウェアで分離",
+          "url": "https://aws.amazon.com/jp/blogs/news/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+          "pub_date": "2026-11-18T00:51:49.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 18, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_18_2026",
+          "pub_date": "2026-11-18T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "AI.AGG で BigQuery の数百万行にわたるデータのセマンティック集計を実現",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
+          "pub_date": "2026-11-18T01:20:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "自律型エージェントのためのオープン インフラストラクチャを強化",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf/",
+          "pub_date": "2026-11-18T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Delivery: SOAP を用いて LLM が導いた発見を、ガバナンスの下で「届ける」",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/delivering-the-insights-derived-by-llms-using-soap-under-a-governance-framework/",
+          "pub_date": "2026-11-18T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/18/1968226310/",
+          "pub_date": "2026-11-18T02:00:17.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-18T22:27:24.643Z"
+}

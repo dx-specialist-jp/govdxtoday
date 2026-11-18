@@ -2,6 +2,24 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
+        "summary": "JPCERT/CCがインシデント調査報告書チェックリストを公開しました。\n\n▶ PMO/PjMO担当者は、インシデント対応プロセスにおける報告書作成・確認に活用できるか確認してください。\n▶ 委託先との共通認識形成や調査円滑化のために、チェックリストの共有・活用を検討してください。\n▶ JPCERT/CC提供の情報を参照し、チェックリストの内容を把握してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#24",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "お知らせ：JPCERT/CC Eyes「インシデント調査報告書受領時のチェックリスト」",
+        "summary": "JPCERT/CCがインシデント調査報告書受領時のチェックリストを公開しました。\n\n▶ PMO/PjMO担当者は、インシデント対応プロセスにおける報告書作成・確認に活用できるか確認してください。\n▶ 委託先との共通認識形成や調査円滑化のために、チェックリストの共有・活用を検討してください。\n▶ JPCERT/CC提供の情報を参照し、チェックリストの内容を把握してください。",
+        "source": "JPCERT/CC 注意喚起",
+        "url": "https://blogs.jpcert.or.jp/ja/2026/11/ir_report_checklist.html",
+        "type": "government"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "AWS不正アクセスにより140人の個人情報漏えい、アクセスキー窃取が発端",
@@ -3908,6 +3926,36 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "国庫短期証券（第1420回）の入札発行",
+        "summary": "国庫短期証券（第1420回）の入札発行",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261118.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+        "summary": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261118.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "広報誌「ファイナンス」11月号 特集 令和7年度の事例集から紹介 全国財務局の地域連携の取組",
+        "summary": "広報誌「ファイナンス」11月号で、令和7年度の事例集から全国財務局の地域連携の取組が紹介されました。\n\n▶ 行政DX推進担当者は、他省庁・組織の地域連携の取組事例を参考にしてください。\n▶ 関連部署・担当者への情報共有を検討してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/finance/index.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "中西 英介様に「AI時代における情報発信－LLMOとは？AIは財務省をどう語っているか？ AIにどう対峙していくべきか？－」について、ご講演いただきました",
@@ -4275,6 +4323,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AI開発企業8社に軍事標的を探させた結果、Claudeは小学校を「軍事目標」と判定",
+        "summary": "AI開発企業8社への評価で、Claudeはイランの小学校を32回中22回「軍事目標」と判定した。Valsによる報告書で、AIの判断基準とリスクが示唆されている。",
+        "source": "jbpress.ismedia.jp",
+        "url": "https://jbpress.ismedia.jp/articles/-/98115",
+        "relevance": "AIの判断におけるバイアスや誤判定のリスクについて、評価・検証体制の構築をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "ガバメントAI「源内」、政府職員18万人がAIエージェントを自作へ、大規模実証事業を開始",
+        "summary": "デジタル庁が開発した行政機関向けのAI基盤「源内」で、政府職員約18万人がAIエージェントを自作する大規模実証事業が開始された。チャット、文書・会議録作成、国会対応などの業務効率化を図る。",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/articles/60dc14e1773349a9804f4a76a6299875450dcfbc",
+        "relevance": "職員によるAIエージェント自作を促進するガバメントAI基盤「源内」の活用状況についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AIリスキル、Anthropicの「Claude Startups」に採択、企業・自治体向けClaude Code研修を提供",
+        "summary": "AIリスキル株式会社がAnthropicの「Claude Startups」に採択され、Claude Codeなどを活用した企業・自治体向けの研修提供を行う。AIツールギャラリー新サイトの開発作業の約8割をClaudeが担当した。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000060.000136909&g=prt",
+        "relevance": "行政機関におけるAI人材育成の推進や、Claude Codeを活用した業務改善の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Google Cloud、日本政府向けにサイバー防御AI「Gemini 4 Carbon for Cyber」を先行提供、無償脆弱性診断も実施",
+        "summary": "Google Cloudは、日本政府や重要インフラ事業者に対し、サイバー防御に特化したAIモデル「Gemini 4 Carbon for Cyber」を早期提供する。併せて、脆弱性診断も無償で実施し、サイバーセキュリティ強化とAI活用を加速する。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/google-cloud-japan-cyber-ai/",
+        "relevance": "サイバー防御AIの導入による、政府システムにおけるセキュリティ強化策についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
@@ -9528,6 +9616,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Microsoft 365大規模障害が政府共通基盤GSSにも波及、クラウド安全神話に警鐘",
+        "summary": "Microsoft 365の大規模障害が、デジタル庁が各省庁に提供する政府共通の業務システムであるGSSにも影響を及ぼした。クラウドのSLAの死角や、フェイルオーバーの課題が浮き彫りになった。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/japan-security-youtuber/",
+        "relevance": "クラウドサービスの障害発生時の事業継続計画（BCP）や、代替システム、SLAの確認についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "基幹システムのAWS移行、約2か月で実現した事例公開",
@@ -13283,6 +13381,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Nitro Sandboxes: すべての EKS ポッド、ECS タスク、EC2 ワークロードをハードウェアで分離",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Amazon ElastiCache Serverless for Valkey の DynamoDB caching で DynamoDB ワークロードを高速化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-dynamodb-workloads-with-dynamodb-caching-with-amazon-elasticache-serverless-for-valkey/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AWS Systems Manager for SAP が SAP HANA スケールアウト構成をサポート",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-systems-manager-for-sap-now-supports-sap-hana-scale-out-deployments/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AI エージェントをより SAP の身近に: AWS for SAP MCP Server の新機能",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/bringing-ai-agents-closer-to-sap-whats-new-in-aws-for-sap-mcp-server/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AWS Well-Architected Framework のアップデートを発表",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/announcing-updates-to-the-aws-well-architected-framework-3/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
@@ -18245,6 +18388,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "Delivery: SOAP を用いて LLM が導いた発見を、ガバナンスの下で「届ける」",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/delivering-the-insights-derived-by-llms-using-soap-under-a-governance-framework/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "自律型エージェントのためのオープン インフラストラクチャを強化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AI.AGG で BigQuery の数百万行にわたるデータのセマンティック集計を実現",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "November 18, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_18_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "Gartner Magic Quadrant のデータ レイクハウス プラットフォーム部門で、Google が「ビジョンの完全性」において最高評価を獲得",
@@ -21343,6 +21522,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "職員のDXスキル可視化、スキルチェック等実施は0.5% 研修の具体化と実施が課題",
+        "summary": "一般社団法人自治体DX推進協議会の調査で、職員のDXスキルをスキルチェック等で可視化している自治体は0.5%に留まり、研修の具体化と実施が課題であることが明らかになった。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000423.000132312.html",
+        "relevance": "行政職員のDXスキル向上に向けた、効果的なスキル可視化と研修プログラムの設計についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "製造業向けCopilot活用による社内FDE育成レポート（2026年11月版）",
@@ -21794,6 +21983,15 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/18/1968226310/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
@@ -23129,6 +23327,46 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "生成AIエージェントの情報アクセス制御（RAGガバナンス）について社員が技術カンファレンスに登壇",
+        "summary": "株式会社クレスコの社員が、香港で開催された「AWS Community Day Hong Kong 2026」で、生成AIエージェントの情報アクセス制御（RAGガバナンス）について登壇した。",
+        "source": "cresco.co.jp",
+        "url": "https://www.cresco.co.jp/ja/news/news-3786056866003127136.html",
+        "relevance": "生成AIエージェントにおける情報アクセス制御（RAGガバナンス）の実現方法についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "NTTドコモビジネスと日本IBM、AIエージェントの誤判断・情報漏えいを防止するAIガバナンスで協業",
+        "summary": "NTTドコモビジネスと日本IBMは、AIエージェントの誤判断や情報漏えいを防止するためのAIガバナンスで協業する。これにより、AI導入におけるリスク管理を強化する。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/news/ytoda2650-26/",
+        "relevance": "AIエージェント導入に伴うリスク（誤判断、情報漏えい）に対するガバナンス体制についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "日本のCISO経験の9割に「退職した従業員」が関与、内部不正と生成AIガバナンス対応にプレッシャー",
+        "summary": "日本のCISOが経験した情報漏えいの約9割に退職した従業員が関与しており、内部不正への対応と生成AIのガバナンス対応に極度のプレッシャーにさらされている状況が明らかになった。",
+        "source": "atmarkit.itmedia.co.jp",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news048.html",
+        "relevance": "内部不正対策と生成AIガバナンスを両立させるための体制構築についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "AIガバナンス、データガバナンスとセキュリティの新時代を AvePointが新プラットフォーム発表",
+        "summary": "AvePoint Japanは、AIのガバナンス、セキュリティ、最適化を一元的に実現する新プラットフォームを発表した。AI活用が広がる中、データ保護やAIガバナンス、アプリケーション開発・運用におけるセキュリティ対策の重要性が高まっている。",
+        "source": "internet.watch.impress.co.jp",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2156476.html",
+        "relevance": "AIガバナンスの強化と、データガバナンスおよびセキュリティ対策の連携についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "生成AI普及に伴うITガバナンス再構築の必要性、AIガバナンスの動向",
@@ -24193,6 +24431,36 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "国庫短期証券（第1420回）の入札発行",
+        "summary": "国庫短期証券（第1420回）の入札発行",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261118.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+        "summary": "20年利付国債（第198回）の入札発行（令和8年11月18日入札）",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261118.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-19",
+        "date_ja": "2026年11月19日（木）",
+        "title": "広報誌「ファイナンス」11月号 特集 令和7年度の事例集から紹介 全国財務局の地域連携の取組",
+        "summary": "広報誌「ファイナンス」11月号で、令和7年度の事例集から全国財務局の地域連携の取組が紹介されました。\n\n▶ 行政DX推進担当者は、他省庁・組織の地域連携の取組事例を参考にしてください。\n▶ 関連部署・担当者への情報共有を検討してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/finance/index.htm",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "中西 英介様に「AI時代における情報発信－LLMOとは？AIは財務省をどう語っているか？ AIにどう対峙していくべきか？－」について、ご講演いただきました",
@@ -24435,26 +24703,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 159,
+    "セキュリティ": 161,
     "その他": 198,
     "行政AI": 40,
-    "行政DX": 39,
-    "AI活用": 525,
-    "クラウド/インフラ": 145,
+    "行政DX": 42,
+    "AI活用": 529,
+    "クラウド/インフラ": 146,
     "制度/ガイドライン": 127,
     "自治体DX事例": 103,
-    "AWS最新情報": 551,
-    "Google Cloud最新情報": 344,
-    "働き方/業務改革": 45,
-    "さくらのクラウド最新情報": 148,
-    "AIガバナンス": 25,
+    "AWS最新情報": 556,
+    "Google Cloud最新情報": 348,
+    "働き方/業務改革": 46,
+    "さくらのクラウド最新情報": 149,
+    "AIガバナンス": 29,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
     "調達/契約": 14,
     "プロジェクト管理": 26,
     "行政DX事例": 1,
-    "財務省": 25
+    "財務省": 28
   },
-  "updated_at": "2026-11-17T22:45:15.215Z"
+  "updated_at": "2026-11-18T22:27:24.655Z"
 }
