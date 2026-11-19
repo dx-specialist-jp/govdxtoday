@@ -1,0 +1,383 @@
+{
+  "date": "2026-11-20",
+  "date_ja": "2026年11月20日（金）",
+  "news_summary": [
+    "PHPのセキュリティリリースが11月に公開予定、システム担当者は計画的なアップデート準備が必要",
+    "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」が改訂、関連プロジェクトへの影響評価を",
+    "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」が決定、関連プロジェクトへの影響評価を",
+    "サーバーソフトウェア「エンジンエックス」の深刻な脆弱性を受け、政府は必要な措置を呼びかけ",
+    "Microsoftの「Agent Framework」侵害、認証情報を盗む不正版がPyPIで公開、政府は更新を呼びかけ",
+    "総務省は自治体のAI脆弱性診断を官民チームで支援、個人情報漏えい防止を後押し",
+    "Google Cloudは政府機関向けAI基盤提供やAI人材育成を拡大、サイバー防御支援を強化",
+    "AI機能の進化で複数手順作業代行や履歴管理・学習拒否・サイト自動生成が可能に",
+    "米国ではデータセンター開発による公共用地への影響を懸念する法案が提出"
+  ],
+  "security_alerts": [
+    {
+      "title": "お知らせ：CyberNewsFlash「nginxにおける複数の脆弱性（CVE-2026-123007など）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026111902.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "お知らせ：CyberNewsFlash「認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について」",
+      "url": "https://www.jpcert.or.jp/newsflash/2026111901.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN28897261/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": {
+    "section_name": "セキュリティ速報",
+    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+    "summary": "PHPのセキュリティアップデートが11月に予定されています。\n\n▶ 各府省のシステム担当者は、PHPのセキュリティリリース公開予定を確認し、計画的なアップデート準備を進めてください。",
+    "source_name": "IPA 重要なセキュリティ情報",
+    "source_url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+    "pub_date": "2026-11-19"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政DXトピックス",
+      "title": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」を改訂しました（令和8年11月19日）",
+      "summary": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」が改訂されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」改訂内容を確認し、関連プロジェクトへの影響を評価してください。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_2.html",
+      "pub_date": "2026-11-19"
+    },
+    {
+      "section_name": "行政DXトピックス",
+      "title": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を決定しました（令和8年11月19日）",
+      "summary": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」が決定されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を確認し、関連プロジェクトへの影響を評価してください。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_1.html",
+      "pub_date": "2026-11-19"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "相次ぐシステム障害とサーバーソフトウェアの深刻な脆弱性、政府も注意喚起",
+      "summary": "マイクロソフトの大規模障害や、ウェブサイトで広く利用されるサーバーソフトウェア「エンジンエックス」に深刻な脆弱性が見つかった問題を受け、政府は必要な措置を呼びかけています。パッチの急増が一因との指摘もあります。",
+      "relevance": "インフラストラクチャの安定稼働とセキュリティリスク管理の重要性について、PMO/PjMOの皆様は、システム障害対策や脆弱性管理体制の見直しをご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17948136/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/topics/tbs_3098279/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+      "summary": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPython Package Index (PyPI) で公開されたことが確認されました。政府も更新を呼びかけています。",
+      "relevance": "AI開発ツールにおけるサプライチェーンリスクとセキュリティ対策について、PMO/PjMOの皆様は、利用する開発ツールのセキュリティ評価と管理体制をご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17949295/?block=categories&ref=index&tabKey=C%3A3"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "総務省、自治体のAI脆弱性診断を官民チームで支援、個人情報漏えい防止を後押し",
+      "summary": "総務省は、自治体のAI脆弱性診断を官民チームで支援する体制を創設しました。これにより、住民の個人情報を扱うサービスの情報漏えい防止を後押しします。",
+      "relevance": "自治体におけるAIのセキュリティリスク対策と、官民連携による支援体制について、PMO/PjMOの皆様は、中央省庁の動向を参考に、自組織のAIセキュリティ戦略をご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/ai-local-government-security/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Google Cloud、日本のサイバー防御支援およびAI人材育成を拡大、政府機関向けAI基盤も提供",
+      "summary": "Google Cloudは、日本のサイバーセキュリティ強化とAI人材育成のため、政府機関向けAI基盤「Gemini for government」の提供やAI・クラウド・サイバーセキュリティ分野の人材育成を拡大します。AIエージェント機能「Tasks in Gemini」も日本を含む6カ国で無料提供を開始しました。",
+      "relevance": "AIを活用したサイバー防御や人材育成の動向について、PMO/PjMOの皆様は、政府の取り組みとの連携や、自組織での活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188596"
+        },
+        {
+          "name": "article.auone.jp",
+          "url": "https://article.auone.jp/38e716ec-aabb-4ad0-9272-52320a6d2969"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/263309101cbda7fb56b5dd5bcca33d62296b18fa"
+        },
+        {
+          "name": "plus-web3.com",
+          "url": "https://plus-web3.com/media/latestnews_1000_11499/"
+        },
+        {
+          "name": "gizmodo.jp",
+          "url": "https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/topics/itmedia_news_202611192000003319/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/f316afa9f3d6a584943c0ed17c8bcfced805378c/images/000"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20261119_2000003319"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/d5aee9791864f1954b909ac5db9f1ef9079ca303"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188578"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "マイクロソフト、中国ByteDanceとのAIモデル提供契約を巡り米下院委から説明要求",
+      "summary": "マイクロソフトが中国ByteDanceに対し、Azure経由でOpenAIのAIモデルを提供する約5億ドル規模の契約について、米下院中国特別委員会が説明を求めています。AI開発競争における米国の優位性維持や、情報漏洩への懸念が交錯しています。",
+      "relevance": "国際的なAI取引における透明性やセキュリティリスクについて、PMO/PjMOの皆様は、関連する規制動向や契約リスクをご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/microsoft-bytedance-ai-cloud/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/9b8679af-1efc-4d0a-93fe-d47e25742662"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/18reutersJAPAN_KCN3WT318/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17945888/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "富士通、Google Cloudとの戦略的パートナーシップを拡大し、AIトランスフォーメーションを支援",
+      "summary": "富士通はGoogle Cloudとのパートナーシップを拡大し、業種・業務知見とGoogle CloudのAI、AIエージェント、サイバーセキュリティ、データ分析技術を組み合わせたソリューションを提供します。社内AI活用の契約も締結し、顧客のAIトランスフォーメーションを支援します。",
+      "relevance": "ベンダーとの連携によるAI活用推進の事例として、PMO/PjMOの皆様は、自組織におけるAI導入・活用のパートナーシップ戦略をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jp.acrofan.com",
+          "url": "https://jp.acrofan.com/detail.php?number=131689"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188570"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188587"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/8e87c7f3-230e-43b5-9ce2-f321505f1e14"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3248147"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI機能の進化と活用、学習拒否・履歴残し・解説サイト作成機能の追加、AI研究者の警告とガバナンス",
+      "summary": "GoogleはMac向けGeminiアプリに複数手順の作業を代行する機能を追加し、AIの履歴を残しつつ学習を拒否する機能や、資料からサイトを自動生成する機能も提供開始しました。AI研究者からは人類滅亡の可能性も指摘されており、AIガバナンスの重要性が示唆されています。",
+      "relevance": "AIの機能拡張と、それに伴う倫理的・社会的な影響、およびガバナンスの必要性について、PMO/PjMOの皆様は、AI利用ポリシーやリスク管理体制の整備をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188608"
+        },
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/11/19tac-18/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/8d67c064-fe81-4bd3-b468-a8964dbafa8d"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/14597/"
+        },
+        {
+          "name": "courrier.jp",
+          "url": "https://courrier.jp/news/archives/466062/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "米国、一部連邦政府所有地でのデータセンター開発を禁止する法案を提出",
+      "summary": "米国オレゴン州選出の下院議員が、データセンターから公共用地を守るための法案を提出しました。これは、データセンター開発による公共用地への影響を懸念する動きです。",
+      "relevance": "インフラ開発における環境・土地利用規制の動向について、PMO/PjMOの皆様は、将来的なインフラ整備計画への影響をご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/dccafe/2157599.html"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体における人事・人材育成のDXに関する実態調査、紙・Excel運用が依然として主流",
+      "summary": "一般社団法人自治体DX推進協議会（GDX）の調査によると、全国の自治体の64.9%で人事評価が紙・Excelで運用されており、DXの進展が課題となっています。",
+      "relevance": "人事・人材育成分野におけるDXの現状と課題について、PMO/PjMOの皆様は、業務効率化やデータ活用推進の観点から、DX推進施策をご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1249543/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AIガバナンス構築支援サービスやAI提案根拠の可視化、生成AIの安全な活用を推進",
+      "summary": "電通は企業の安全な生成AI活用を支援するAIガバナンス構築支援サービスを開始しました。また、GMOインターネットグループは陸上自衛隊のチャレンジに採択され、国産AIガバナンス基盤でAIの提案根拠を可視化する取り組みを進めています。高性能ノートPC導入によるAI活用推進も報じられています。",
+      "relevance": "AIの倫理的・技術的なリスク管理と、その活用を推進するためのガバナンス体制構築について、PMO/PjMOの皆様は、自組織におけるAIガバナンス戦略の策定をご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188593"
+        },
+        {
+          "name": "webtan.impress.co.jp",
+          "url": "https://webtan.impress.co.jp/n/2026/11/20/53639"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000005606_000000136/"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35255151/"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "AWS エージェントスキルを使った Amazon MWAA のアップグレードとトラブルシューティング",
+          "url": "https://aws.amazon.com/jp/blogs/news/upgrading-and-troubleshooting-amazon-mwaa-with-aws-agent-skills/",
+          "pub_date": "2026-11-19T14:23:03.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "生成 AI セキュリティを強化する – SATv2 で始めるマルチアカウント環境の LLM ジャッキング対策",
+          "url": "https://aws.amazon.com/jp/blogs/news/llmjacking-protection-with-satv2/",
+          "pub_date": "2026-11-19T09:17:07.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Weekly Roundup: AWS Nitro Sandboxes、AWS Emulator など (2026 年 11 月 16 日)",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+          "pub_date": "2026-11-19T06:11:37.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "re:Invent 2026 の AWS クラウドレジリエンス関連セッションガイド",
+          "url": "https://aws.amazon.com/jp/blogs/news/your-guide-to-aws-cloud-resilience-sessions-at-reinvent-2026/",
+          "pub_date": "2026-11-19T05:29:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Aurora DSQL の監査ログの使い方",
+          "url": "https://aws.amazon.com/jp/blogs/news/how-to-use-amazon-aurora-dsql-audit-logs/",
+          "pub_date": "2026-11-19T04:43:35.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 19, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_19_2026",
+          "pub_date": "2026-11-19T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Cloud CISO の視点: 2027 年のセキュリティ動向予測",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+          "pub_date": "2026-11-19T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "問題を検出するだけでなく修正まで行う: pull リクエストで CodeMender を実行する方法",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+          "pub_date": "2026-11-19T01:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "医療向け Gemini のご紹介",
+          "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-for-healthcare/",
+          "pub_date": "2026-11-18T16:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「さくらのクラウドサービス約款」改定のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/19/1968226298/",
+          "pub_date": "2026-11-19T05:00:42.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-19T22:32:32.494Z"
+}

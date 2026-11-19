@@ -2,6 +2,45 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+        "summary": "PHPのセキュリティアップデートが11月に予定されています。\n\n▶ 各府省のシステム担当者は、PHPのセキュリティリリース公開予定を確認し、計画的なアップデート準備を進めてください。",
+        "source": "IPA 重要なセキュリティ情報",
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "総務省、自治体のAI脆弱性診断を官民チームで支援、個人情報漏えい防止を後押し",
+        "summary": "総務省は、自治体のAI脆弱性診断を官民チームで支援する体制を創設しました。これにより、住民の個人情報を扱うサービスの情報漏えい防止を後押しします。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/ai-local-government-security/",
+        "relevance": "自治体におけるAIのセキュリティリスク対策と、官民連携による支援体制について、PMO/PjMOの皆様は、中央省庁の動向を参考に、自組織のAIセキュリティ戦略をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+        "summary": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPython Package Index (PyPI) で公開されたことが確認されました。政府も更新を呼びかけています。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17949295/?block=categories&ref=index&tabKey=C%3A3",
+        "relevance": "AI開発ツールにおけるサプライチェーンリスクとセキュリティ対策について、PMO/PjMOの皆様は、利用する開発ツールのセキュリティ評価と管理体制をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "相次ぐシステム障害とサーバーソフトウェアの深刻な脆弱性、政府も注意喚起",
+        "summary": "マイクロソフトの大規模障害や、ウェブサイトで広く利用されるサーバーソフトウェア「エンジンエックス」に深刻な脆弱性が見つかった問題を受け、政府は必要な措置を呼びかけています。パッチの急増が一因との指摘もあります。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17948136/",
+        "relevance": "インフラストラクチャの安定稼働とセキュリティリスク管理の重要性について、PMO/PjMOの皆様は、システム障害対策や脆弱性管理体制の見直しをご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
@@ -3926,6 +3965,24 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を決定しました（令和8年11月19日）",
+        "summary": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」が決定されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を確認し、関連プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_1.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」を改訂しました（令和8年11月19日）",
+        "summary": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」が改訂されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」改訂内容を確認し、関連プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_2.html",
+        "type": "government"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "国庫短期証券（第1420回）の入札発行",
@@ -4323,6 +4380,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "AI機能の進化と活用、学習拒否・履歴残し・解説サイト作成機能の追加、AI研究者の警告とガバナンス",
+        "summary": "GoogleはMac向けGeminiアプリに複数手順の作業を代行する機能を追加し、AIの履歴を残しつつ学習を拒否する機能や、資料からサイトを自動生成する機能も提供開始しました。AI研究者からは人類滅亡の可能性も指摘されており、AIガバナンスの重要性が示唆されています。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188608",
+        "relevance": "AIの機能拡張と、それに伴う倫理的・社会的な影響、およびガバナンスの必要性について、PMO/PjMOの皆様は、AI利用ポリシーやリスク管理体制の整備をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "富士通、Google Cloudとの戦略的パートナーシップを拡大し、AIトランスフォーメーションを支援",
+        "summary": "富士通はGoogle Cloudとのパートナーシップを拡大し、業種・業務知見とGoogle CloudのAI、AIエージェント、サイバーセキュリティ、データ分析技術を組み合わせたソリューションを提供します。社内AI活用の契約も締結し、顧客のAIトランスフォーメーションを支援します。",
+        "source": "jp.acrofan.com",
+        "url": "https://jp.acrofan.com/detail.php?number=131689",
+        "relevance": "ベンダーとの連携によるAI活用推進の事例として、PMO/PjMOの皆様は、自組織におけるAI導入・活用のパートナーシップ戦略をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "マイクロソフト、中国ByteDanceとのAIモデル提供契約を巡り米下院委から説明要求",
+        "summary": "マイクロソフトが中国ByteDanceに対し、Azure経由でOpenAIのAIモデルを提供する約5億ドル規模の契約について、米下院中国特別委員会が説明を求めています。AI開発競争における米国の優位性維持や、情報漏洩への懸念が交錯しています。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/microsoft-bytedance-ai-cloud/",
+        "relevance": "国際的なAI取引における透明性やセキュリティリスクについて、PMO/PjMOの皆様は、関連する規制動向や契約リスクをご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "Google Cloud、日本のサイバー防御支援およびAI人材育成を拡大、政府機関向けAI基盤も提供",
+        "summary": "Google Cloudは、日本のサイバーセキュリティ強化とAI人材育成のため、政府機関向けAI基盤「Gemini for government」の提供やAI・クラウド・サイバーセキュリティ分野の人材育成を拡大します。AIエージェント機能「Tasks in Gemini」も日本を含む6カ国で無料提供を開始しました。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188596",
+        "relevance": "AIを活用したサイバー防御や人材育成の動向について、PMO/PjMOの皆様は、政府の取り組みとの連携や、自組織での活用可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
@@ -9616,6 +9713,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "米国、一部連邦政府所有地でのデータセンター開発を禁止する法案を提出",
+        "summary": "米国オレゴン州選出の下院議員が、データセンターから公共用地を守るための法案を提出しました。これは、データセンター開発による公共用地への影響を懸念する動きです。",
+        "source": "cloud.watch.impress.co.jp",
+        "url": "https://cloud.watch.impress.co.jp/docs/dccafe/2157599.html",
+        "relevance": "インフラ開発における環境・土地利用規制の動向について、PMO/PjMOの皆様は、将来的なインフラ整備計画への影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "Microsoft 365大規模障害が政府共通基盤GSSにも波及、クラウド安全神話に警鐘",
@@ -12350,6 +12457,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "自治体における人事・人材育成のDXに関する実態調査、紙・Excel運用が依然として主流",
+        "summary": "一般社団法人自治体DX推進協議会（GDX）の調査によると、全国の自治体の64.9%で人事評価が紙・Excelで運用されており、DXの進展が課題となっています。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/1249543/",
+        "relevance": "人事・人材育成分野におけるDXの現状と課題について、PMO/PjMOの皆様は、業務効率化やデータ活用推進の観点から、DX推進施策をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-18",
         "date_ja": "2026年11月18日（水）",
         "title": "東京都庁、サイバー攻撃・不正アクセス対策と「ウィズAI時代」の行政のあり方を模索",
@@ -13381,6 +13498,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "Amazon Aurora DSQL の監査ログの使い方",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-to-use-amazon-aurora-dsql-audit-logs/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "re:Invent 2026 の AWS クラウドレジリエンス関連セッションガイド",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/your-guide-to-aws-cloud-resilience-sessions-at-reinvent-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "AWS Weekly Roundup: AWS Nitro Sandboxes、AWS Emulator など (2026 年 11 月 16 日)",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "生成 AI セキュリティを強化する – SATv2 で始めるマルチアカウント環境の LLM ジャッキング対策",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/llmjacking-protection-with-satv2/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "AWS エージェントスキルを使った Amazon MWAA のアップグレードとトラブルシューティング",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/upgrading-and-troubleshooting-amazon-mwaa-with-aws-agent-skills/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
@@ -18388,6 +18550,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "医療向け Gemini のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-for-healthcare/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "問題を検出するだけでなく修正まで行う: pull リクエストで CodeMender を実行する方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "Cloud CISO の視点: 2027 年のセキュリティ動向予測",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "November 19, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_19_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "Delivery: SOAP を用いて LLM が導いた発見を、ガバナンスの下で「届ける」",
@@ -21984,6 +22182,15 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "「さくらのクラウドサービス約款」改定のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/19/1968226298/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始",
@@ -23327,6 +23534,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "AIガバナンス構築支援サービスやAI提案根拠の可視化、生成AIの安全な活用を推進",
+        "summary": "電通は企業の安全な生成AI活用を支援するAIガバナンス構築支援サービスを開始しました。また、GMOインターネットグループは陸上自衛隊のチャレンジに採択され、国産AIガバナンス基盤でAIの提案根拠を可視化する取り組みを進めています。高性能ノートPC導入によるAI活用推進も報じられています。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188593",
+        "relevance": "AIの倫理的・技術的なリスク管理と、その活用を推進するためのガバナンス体制構築について、PMO/PjMOの皆様は、自組織におけるAIガバナンス戦略の策定をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "生成AIエージェントの情報アクセス制御（RAGガバナンス）について社員が技術カンファレンスに登壇",
@@ -24431,6 +24648,24 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を決定しました（令和8年11月19日）",
+        "summary": "「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」が決定されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を確認し、関連プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_1.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-20",
+        "date_ja": "2026年11月20日（金）",
+        "title": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」を改訂しました（令和8年11月19日）",
+        "summary": "「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」が改訂されました（令和8年11月19日）。\n\n▶ 財務省の「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」改訂内容を確認し、関連プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_2.html",
+        "type": "government"
+      },
+      {
         "date": "2026-11-19",
         "date_ja": "2026年11月19日（木）",
         "title": "国庫短期証券（第1420回）の入札発行",
@@ -24703,26 +24938,26 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 161,
+    "セキュリティ": 165,
     "その他": 198,
     "行政AI": 40,
-    "行政DX": 42,
-    "AI活用": 529,
-    "クラウド/インフラ": 146,
+    "行政DX": 44,
+    "AI活用": 533,
+    "クラウド/インフラ": 147,
     "制度/ガイドライン": 127,
-    "自治体DX事例": 103,
-    "AWS最新情報": 556,
-    "Google Cloud最新情報": 348,
+    "自治体DX事例": 104,
+    "AWS最新情報": 561,
+    "Google Cloud最新情報": 352,
     "働き方/業務改革": 46,
-    "さくらのクラウド最新情報": 149,
-    "AIガバナンス": 29,
+    "さくらのクラウド最新情報": 150,
+    "AIガバナンス": 30,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
     "調達/契約": 14,
     "プロジェクト管理": 26,
     "行政DX事例": 1,
-    "財務省": 28
+    "財務省": 30
   },
-  "updated_at": "2026-11-18T22:27:24.655Z"
+  "updated_at": "2026-11-19T22:32:32.509Z"
 }
