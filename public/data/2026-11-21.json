@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-21",
+  "date_ja": "2026年11月21日（土）",
+  "news_summary": [
+    "政府機関ファイル共有サービスで情報漏えいの可能性、デジタル庁が使用停止措置を実施",
+    "公開コンテナレジストリのAWSキーが最短7.86秒で悪用可能、認証情報管理強化が急務",
+    "富士通とGoogle CloudはAI・セキュリティ分野で協業拡大、国内サイバーセキュリティ強化策を発表",
+    "Google Gemini、Mac版でアプリ操作機能追加、低メモリAndroid端末でのAI利用環境整備も進む",
+    "さくらインターネットが政府機関・自治体向けクラウド提供、AIトップ企業アンソロピックのガバナンス体制に注目",
+    "自治体AI zevoにGPT-6.1 Terra追加、Polimillは自治体向け生成AI「QommonsAI」研修を実施",
+    "IPAがAI活用セミナーでCopilot Studio活用、採用・研修・労務業務のAI効率化を推進",
+    "電通が生成AIの社外公開リスクに備えるガバナンス構築支援サービス提供を開始",
+    "令和9年度予算編成等建議でDX・AI関連施策への予算配分や重点事項の確認が重要",
+    "国債のオンチェーン対応に関する研究会で将来的な国債発行・管理のDX化の方向性を把握"
+  ],
+  "security_alerts": [
+    {
+      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起 (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN64740097/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
+      "url": "https://jvn.jp/vu/JVNVU92814490/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "PHPの脆弱性対策について（2026年11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
+      "source": "IPA 重要なセキュリティ情報"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "令和9年度予算の編成等に関する建議",
+    "summary": "令和9年度予算の編成等に関する建議\n\n▶ 予算編成に関する建議を確認し、DX・AI関連施策への予算配分や重点事項を把握してください。\n▶ 建議内容に、行政DX推進やAI活用に関する具体的な提案があれば、その詳細を調査してください。\n▶ 予算編成プロセスに関わる担当部署と連携し、DX・AI関連施策の実現に向けた情報収集を行ってください。",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20261120/index.html",
+    "pub_date": "2026-11-20"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政DXトピックス",
+      "title": "国債のオンチェーン対応に関する研究会",
+      "summary": "国債のオンチェーン対応に関する研究会\n\n▶ 国債のオンチェーン（ブロックチェーン技術などを活用したデジタル化）対応に関する研究会の内容を確認してください。\n▶ 研究会の議論から、将来的な国債発行・管理のDX化の方向性や、関連する技術要件を把握してください。\n▶ デジタル庁や関係省庁のDX推進担当者と連携し、研究会の成果を行政DXの観点から評価・活用してください。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+      "pub_date": "2026-11-20"
+    },
+    {
+      "section_name": "行政DXトピックス",
+      "title": "財務省再生プロジェクトについて",
+      "summary": "財務省再生プロジェクトについて\n\n▶ 財務省の再生プロジェクトに関する概要を確認してください。\n▶ プロジェクトの目的、進捗、およびDX・AI活用との関連性を把握してください。\n▶ 関連するプロジェクトのPMO/PjMO担当者と情報共有を行い、連携体制を構築してください。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/about_mof/saisei/index.html",
+      "pub_date": "2026-11-20"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "政府機関ファイル共有サービスで情報漏えいの可能性、デジタル庁が使用停止",
+      "summary": "政府機関が業務で使用するファイル共有サービスで、7月30日から11月12日の間に情報漏えいの可能性が浮上し、11月12日から当該ソフトの使用が停止されました。デジタル庁は、不正アクセスによる情報漏えいの可能性を調査しています。",
+      "relevance": "ファイル共有サービスにおけるセキュリティインシデントの発生状況と、それに対するデジタル庁の対応について、各省庁のPMO/PjMO担当者は、自組織での類似サービスの利用状況とリスク管理体制をご確認ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/b81d1791f1b99efe80c3cc8780ac45a82789018a/images/000"
+        },
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/japan-government-file-leak/"
+        },
+        {
+          "name": "news.ntv.co.jp",
+          "url": "https://news.ntv.co.jp/category/society/dd957cdc50b2402baa52892802f45ca7"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/b81d1791f1b99efe80c3cc8780ac45a82789018a"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17960081/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "Docker Hub公開イメージからAWSキーが最短7.86秒で悪用可能、認証情報管理の重要性",
+      "summary": "公開コンテナレジストリに埋め込まれた認証情報が、自動スキャンにより公開直後に悪用されるリスクが、米研究者による実測で明らかになりました。政府機関で利用される認証情報管理の強化が求められます。",
+      "relevance": "コンテナイメージのセキュリティリスクと認証情報管理の重要性について、PMO/PjMO担当者は、政府機関におけるクラウド環境での認証情報管理体制の確認をご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/docker_hub_containerbots_aws_api_keys_7_86_second/"
+        },
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4821111"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "富士通とGoogle Cloud、AI・セキュリティ分野で協業拡大を発表、Google Cloudは国内サイバーセキュリティ強化とAI導入・人材育成施策を新発表",
+      "summary": "富士通とGoogle Cloudは、AI・セキュリティなど4領域での協業を拡大します。一方、Google Cloudは日本のサイバーセキュリティ強化、AIスキル習得・業務への活用促進のための新施策を発表しました。",
+      "relevance": "政府機関におけるAI活用とサイバーセキュリティ強化に向けた、主要ベンダーの協業動向および施策について、PMO/PjMO担当者は、自組織のDX戦略との連携可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20014356?news_ref=watch_20_nw20014150"
+        },
+        {
+          "name": "iotnews.jp",
+          "url": "https://iotnews.jp/ai/276717/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Google Gemini、Mac版でアプリ操作機能追加。低メモリAndroid端末でも実用レベルのAI利用環境整備",
+      "summary": "Mac版GeminiアプリにAIが画面を認識しアプリを操作する機能が追加されました。また、低メモリのAndroid端末でも個人向けAIが実用レベルで利用できる環境が整備されつつあります。",
+      "relevance": "AI機能の拡充と、多様なデバイスでのAI活用可能性について、PMO/PjMO担当者は、職員の業務効率化に資するAIツールの導入可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2664ko350/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "さくらインターネット、政府機関・自治体向けクラウド提供。AIトップ企業アンソロピックの時価総額と公益性",
+      "summary": "さくらインターネットは、政府機関、自治体向けのクラウドサービスを提供しています。一方、AIトップ企業アンソロピックは、成長と人類存亡の矛盾を抱えつつ、公益性を守る先進ガバナンス体制を特徴としています。",
+      "relevance": "政府機関・自治体向けクラウドインフラの動向と、AI先進企業のガバナンス戦略について、PMO/PjMO担当者は、将来的なAIインフラ導入の参考となる先進事例についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "sakumaga.sakura.ad.jp",
+          "url": "https://sakumaga.sakura.ad.jp/entry/wingarc-nex-meetup/"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00950/111900001/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体AI zevo、GPT-6.1 Terra追加。Polimillは自治体向け生成AI「QommonsAI」の研修を実施",
+      "summary": "自治体AI zevoにGPT-6.1 Terraが追加され、ChatGPT、Claude、Geminiの生成AIシリーズが利用可能となりました。また、Polimillは自治体向け生成AI「QommonsAI」の活用研修を宮崎県新富町で実施しました。",
+      "relevance": "自治体におけるAI導入事例や活用研修の動向について、PMO/PjMO担当者は、先進的なAI活用事例の横展開可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1263416/"
+        },
+        {
+          "name": "ict-enews.net",
+          "url": "https://ict-enews.net/2026/11/20polimill/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "IPA、セキュリティ・キャンプ2027コネクト開催。AI活用セミナーでCopilot Studio活用",
+      "summary": "IPAは、セキュリティ以外の分野を専門とする受講者向けイベント「セキュリティ・キャンプ2027コネクト」のエントリー受付を開始しました。また、採用・研修・労務業務をAIで効率化するCopilot Studio活用セミナーが開催されます。",
+      "relevance": "AI活用による業務効率化の具体例や、セキュリティ人材育成の動向について、PMO/PjMO担当者は、自組織におけるAI活用推進と職員のリスキリングの必要性についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "reseed.resemom.jp",
+          "url": "https://reseed.resemom.jp/article/2026/11/20/14605.html"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-20-159338-94/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "電通、生成AIの社外公開リスクに備えるガバナンス構築支援を開始。AIガバナンス診断サービスも提供",
+      "summary": "電通は、企業の安全な生成AI活用を支える「AIガバナンス構築支援サービス」の提供を開始し、AIリスクを管理・改善する自走体制の構築を支援します。AIガバナンスの整備状況を可視化する診断サービスも提供します。",
+      "relevance": "生成AIの社外公開リスク等、AI活用におけるガバナンス構築の重要性が高まっていることから、PMO/PjMO担当者は、自組織におけるAIガバナンス体制の現状と課題についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261120-5361174/"
+        },
+        {
+          "name": "aismiley.co.jp",
+          "url": "https://aismiley.co.jp/ai_news/fortience-ai-governance-service/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI活用が進む企業、ガバナンスは追いついているか？ EU AI法適用開始に向けた転換点",
+      "summary": "AI活用が進む企業において、ガバナンスの遅れが指摘されており、2027年はAIガバナンスの転換点となり得るとされています。EUのAI法が段階的に適用されることも影響します。",
+      "relevance": "AIガバナンスの重要性が国際的な規制動向と連動して高まっていることから、PMO/PjMO担当者は、EU AI法等の海外規制動向と国内への影響についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "trendnewscaster.jp",
+          "url": "https://trendnewscaster.jp/business/2026111959858155/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AI活用が進む企業、ガバナンスは追いついているか？アビタスが指摘する「3ライン連携」と人材不足",
+      "summary": "AI活用が進む企業において、ガバナンスが追いついていない状況が指摘されており、アビタスは「3ライン連携」と人材不足を課題として挙げています。2027年がAIガバナンスの転換点になる可能性も示唆されています。",
+      "relevance": "AI活用におけるガバナンス体制の構築と人材育成の課題について、PMO/PjMO担当者は、自組織でのAI人材育成・確保の必要性についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/trendnewscaster/business/trendnewscaster-112184"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "Kiro Crew の Conductor mode のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/conductor-mode/",
+          "pub_date": "2026-11-20T12:16:05.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "第 9 回 AWS ジャパン 生成 AI Frontier Meetup ～学びと繋がりの場～【開催報告】",
+          "url": "https://aws.amazon.com/jp/blogs/news/9th-gen-ai-frontier-meet-up/",
+          "pub_date": "2026-11-20T10:56:32.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "株式会社 BTM 様がシステム調査エージェントを Amazon Bedrock AgentCore でリアーキテクチャするまで",
+          "url": "https://aws.amazon.com/jp/blogs/news/genai-case-study-btm2/",
+          "pub_date": "2026-11-20T02:37:40.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Lambda が Lambda Managed Instances 上のイベント関数向けに GPU インスタンスをサポートするようになりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+          "pub_date": "2026-11-20T02:14:59.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "4 大陸、4 人の新たな AWS ヒーロー: 2026 年を締めくくる",
+          "url": "https://aws.amazon.com/jp/blogs/news/four-continents-four-new-aws-heroes-closing-out-2026/",
+          "pub_date": "2026-11-20T02:01:08.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 20, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_20_2026",
+          "pub_date": "2026-11-20T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "2026 年 Google Cloud Partner All-stars の受賞者を表彰",
+          "url": "https://cloud.google.com/blog/ja/topics/partners/2026-google-cloud-partner-all-stars-winners/",
+          "pub_date": "2026-11-20T02:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "ARMORY CASTLE が vSphere の脆弱性を悪用",
+          "url": "https://cloud.google.com/blog/ja/topics/threat-intelligence/armory-castle-exploits-vsphere/",
+          "pub_date": "2026-11-20T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "一般提供開始: TPU のレジリエンスと効率性を高める GKE の動的スライス",
+          "url": "https://cloud.google.com/blog/ja/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
+          "pub_date": "2026-11-20T02:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "新しい BigQuery アクセサーを使用した pandas でのゼロショット予測",
+          "url": "https://cloud.google.com/blog/ja/products/data-analytics/bigquery-ai-functions-in-pandas/",
+          "pub_date": "2026-11-20T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "「YAPC::Tokyo 2026」にて弊社メンバーが登壇・ブース出展を行います",
+          "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/20/1968226365/",
+          "pub_date": "2026-11-20T04:30:34.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "[メンテナンス] [緊急]さくらのレンタルサーバ・マネージドサーバ・リセール向けサービス",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=40155",
+          "pub_date": "2026-11-20T02:32:46.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-20T22:05:30.603Z"
+}
