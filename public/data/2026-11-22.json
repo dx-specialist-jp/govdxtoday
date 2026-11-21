@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-22",
+  "date_ja": "2026年11月22日（日）",
+  "news_summary": [
+    "デジタル庁運用基盤GSSのファイル共有サービスで情報漏えい懸念、サービス停止",
+    "機密データ発見市場はクラウド環境最適化が重要、IBM等各社が市場を牽引",
+    "IPAがセキュリティ分野以外向け「セキュリティ・キャンプ2027コネクト」開催",
+    "生成AI「Claude」によるリーマン予想証明の可能性が発表された",
+    "新潟市等で職員向け生成AIツール勉強会、行政審査支援ツールの活用も",
+    "AIガバナンス構築の重要性が高まり、Anthropic社が悪用監視調査員募集"
+  ],
+  "security_alerts": [],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "財務省再生プロジェクトについて",
+    "summary": "財務省の再生プロジェクトについて発表。\n\n▶ 財務省PMOは、プロジェクトの進捗状況と目標達成に向けた具体的なアクションプランを確認。",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/about_mof/saisei/index.html",
+    "pub_date": "2026-11-20"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政DXトピックス",
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
+      "summary": "片山財務大臣兼内閣府特命担当大臣の閣議後記者会見概要。\n\n▶ 関係部署は、会見で言及されたDX・AI関連施策について、PMO/PjMOとして確認すべき事項がないか精査。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/public_relations/conference/my20261120.html",
+      "pub_date": "2026-11-20"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "デジタル庁運用基盤におけるファイル共有サービスからの情報漏えい懸念と不正アクセス",
+      "summary": "デジタル庁が運用する政府共通基盤「GSS」のファイル共有サービスで、第三者による不正アクセスにより個人情報を含む業務ファイルが漏えいした可能性が浮上しました。デジタル庁は7月末から不正アクセスがあったことを公表し、サービス提供を停止しました。",
+      "relevance": "政府システムにおけるセキュリティインシデント発生時の対応プロセスや、ファイル共有サービスのガバナンス強化についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html"
+        },
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/731469?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2583%2587%25e3%2582%25b8%25e3%2582%25bf%25e3%2583%25ab%25e5%25ba%2581%25e9%2581%258b%25e7%2594%25a8%25e3%2581%25ae%25e6%2594%25bf%25e5%25ba%259c%25e5%2585%25b1%25e9%2580%259a%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ab%25e4%25b8%258d%25e6%25ad%25a3%25e3%2582%25a2%25e3%2582%25af%25e3%2582%25bb%25e3%2582%25b9%25e3%2580%2581"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17965500/?ref=technology&tabKey=C%3A3"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188641"
+        },
+        {
+          "name": "coplus-one.jp",
+          "url": "https://coplus-one.jp/digital-agency-gss-file-leak/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "機密データ発見市場の成長戦略と主要企業、クラウド環境への最適化",
+      "summary": "機密データ発見市場では、AWSやAzureなどのクラウドネイティブ環境に最適化された検出ツールの重要性が増しており、IBM、Microsoft、Google Cloud、Palantir、Varonisといった企業が市場を牽引しています。2026年から2033年にかけての市場成長予測も示されています。",
+      "relevance": "政府システムにおける機密データ管理と、クラウド環境でのセキュリティ対策強化の必要性についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "pando.life",
+          "url": "https://pando.life/article/4827491"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "IPAによる「セキュリティ・キャンプ2027コネクト」のエントリー受付",
+      "summary": "独立行政法人情報処理推進機構（IPA）は、セキュリティ以外の分野を専門とする受講者を対象とした合宿型イベント「セキュリティ・キャンプ」のエントリー受付を12月2日まで行っています。",
+      "relevance": "サイバーセキュリティ人材育成の取り組みについて、PMO/PjMOとしてプロジェクトに必要なスキルセットの把握や人材育成計画の参考としてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "reseed.resemom.jp",
+          "url": "https://reseed.resemom.jp/article/2026/11/20/14605.html"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "title": "関税・外国為替等審議会 第70回外国為替等分科会議事録",
+      "summary": "関税・外国為替等審議会外国為替等分科会第70回会議の議事録掲載。\n\n▶ PMO/PjMOは、議事録内容からDX・AI活用やプロジェクト管理に関わる論点・決定事項がないか確認。",
+      "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+      "category": "行政DX",
+      "sources": [
+        {
+          "name": "財務省 新着情報",
+          "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "title": "生成AI「Claude」によるリーマン予想の証明に関する発表",
+      "summary": "米AI開発企業Anthropicの数学者が、同社の生成AI「Claude」を用いて、167年間未解決であった数学上の難問「リーマン予想」の証明を発見したと主張しています。",
+      "relevance": "最先端AI技術の進化とその応用可能性について、プロジェクトにおける技術選定やPoCの参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "mediadogs.jp",
+          "url": "https://mediadogs.jp/2026/11/21/riemann-hypothesis-claude-alpoge-claim/"
+        },
+        {
+          "name": "yomiuri.co.jp",
+          "url": "https://www.yomiuri.co.jp/science/20261121-GYT1T00089/"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188656"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20017254?news_ref=watch_20_nw18668280"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "自治体・行政機関におけるAI活用と生成AIツールの導入事例",
+      "summary": "新潟市では職員向けにChatGPT、Claude、Geminiなどの生成AIツールを活用した勉強会が開催され、行政審査におけるAIの一次評価案作成支援ツールなども紹介されています。自治体AI zevoでは、ChatGPTシリーズに「GPT-6.1 Terra」が追加されました。",
+      "relevance": "行政分野におけるAI、特に生成AIの具体的な活用方法や導入効果について、自組織での展開可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1279601/"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2664ko430-2/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1263416/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AIガバナンスの構築と関連規制・技術動向",
+      "summary": "AIの悪用防止や安全な活用に向け、AIガバナンスの重要性が高まっており、Anthropic社ではClaudeの悪用監視調査員を募集しています。また、AIガバナンス・リスク管理市場の拡大予測や、Microsoftの「Shadow AI」機能、SAP×AIによる経営改革など、技術・規制・運用の側面からAIガバナンスに関する動向が報じられています。",
+      "relevance": "AI導入・活用におけるリスク管理と、それに伴うガバナンス体制構築の必要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "remedy-tokyo.co.jp",
+          "url": "https://remedy-tokyo.co.jp/xross/jobs/44499"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/29c2cea6945071fc"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17964392/?ref=news-summary_1431679"
+        },
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-21-10333-121/"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/000549606.html"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2664ko403-3/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1263412/"
+        },
+        {
+          "name": "mtfdx.co.jp",
+          "url": "https://mtfdx.co.jp/business/ai-dx"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/podcast/94757c48d71e0dbf"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/article/mainichigahakken/trend/mainichigahakken-1457078"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/podcast/c271ce69c46e9b29"
+        },
+        {
+          "name": "korit.jp",
+          "url": "https://www.korit.jp/news/ai/etnews-platter-ax-solution-expansion-261121/"
+        },
+        {
+          "name": "president.jp",
+          "url": "https://president.jp/articles/photo/122673?pn=1"
+        },
+        {
+          "name": "president.jp",
+          "url": "https://president.jp/articles/photo/122016?pn=1"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/insider-trading-news/article-93CH-1766825"
+        },
+        {
+          "name": "jp.investing.com",
+          "url": "https://jp.investing.com/news/sec-filings/article-93CH-1766731"
+        },
+        {
+          "name": "qiita.com",
+          "url": "https://qiita.com/yyoshida15/items/0c31c2ee62f1ae9e463b"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "韓国におけるデータセンター建設とAWS活用、および国内における医療・介護分野でのAI・データ活用",
+      "summary": "韓国ではSKグループとAWSがデータセンター建設を進め、AI競争加速に向けた投資が行われています。国内では、AWSの東京リージョンを活用したレセコン一体型クラウド電子カルテ「AIカルテ」が稼働し、データおよびAI処理に利用されています。",
+      "relevance": "海外のAI・クラウドインフラ投資動向や、国内医療・介護分野におけるデータ・AI活用事例について、今後の行政サービス連携の参考としてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a5babc60-f510-4ccf-8c8a-942aa1cf5636"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1132618/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "Google、AIモデル群「Gemini 4」の中核モデル「Gemini 4 Neon」を発表",
+      "summary": "Googleは、AIモデル群「Gemini 4」の中核モデル「Gemini 4 Neon」を発表しました。このモデルは100万トークンのコンテキストウィンドウを持ち、価格面でも効率化が図られています。",
+      "relevance": "主要AIモデルの性能向上とコスト動向について、将来的な行政システムへの応用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188650"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "KDDIアイレットのAWS MSPプログラム認定更新とGoogle Cloudサービス",
+      "summary": "KDDIアイレット株式会社が、AWSマネージドサービスプロバイダ（MSP）プログラム認定を12年連続で更新し、2,500社超の導入実績と24時間365日のクラウド運用支援を提供しています。また、Google Cloud環境のセキュリティリスクを可視化するサービスも提供開始しました。",
+      "relevance": "クラウドサービスプロバイダーの技術力や実績について、政府システムにおけるクラウド導入・運用時の選定基準としてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000478.000009999&g=prt"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20015542?news_ref=60_60"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "英政府によるAppleへの秘密命令と暗号化データ開示を巡る裁判所判断",
+      "summary": "英政府がAppleに対して行っていた暗号化データ開示の秘密命令が、裁判所の判断で正式に確認されました。裁判所は命令の存在を認めつつも、国家安全保障を損なうものではないとしています。",
+      "relevance": "法執行機関によるデータアクセスとプライバシー保護のバランスについて、今後の行政システムへの影響をご検討ください。",
+      "category": "制度/ガイドライン",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
+          "url": "https://news.livedoor.com/article/detail/32864830/"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました",
+          "url": "https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/",
+          "pub_date": "2026-11-21T05:54:49.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro のリモートワークスペース: コードとコンピューティングリソースがすでにある場所で IDE を使う",
+          "url": "https://aws.amazon.com/jp/blogs/news/remote-workspaces/",
+          "pub_date": "2026-11-21T02:52:51.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro のクラウドセッションからプライベートネットワークにアクセスできるようになりました",
+          "url": "https://aws.amazon.com/jp/blogs/news/private-networks/",
+          "pub_date": "2026-11-21T02:51:34.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Kiro for VS Code のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/kiro-for-vs-code/",
+          "pub_date": "2026-11-21T02:50:43.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "re:Invent 2026 の AWS Security, Identity, and Governance ガイド: セキュリティセッションの見どころ",
+          "url": "https://aws.amazon.com/jp/blogs/news/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
+          "pub_date": "2026-11-21T01:12:36.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-21T20:44:04.367Z"
+}

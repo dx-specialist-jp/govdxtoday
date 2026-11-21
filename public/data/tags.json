@@ -2,6 +2,36 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "IPAによる「セキュリティ・キャンプ2027コネクト」のエントリー受付",
+        "summary": "独立行政法人情報処理推進機構（IPA）は、セキュリティ以外の分野を専門とする受講者を対象とした合宿型イベント「セキュリティ・キャンプ」のエントリー受付を12月2日まで行っています。",
+        "source": "reseed.resemom.jp",
+        "url": "https://reseed.resemom.jp/article/2026/11/20/14605.html",
+        "relevance": "サイバーセキュリティ人材育成の取り組みについて、PMO/PjMOとしてプロジェクトに必要なスキルセットの把握や人材育成計画の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "機密データ発見市場の成長戦略と主要企業、クラウド環境への最適化",
+        "summary": "機密データ発見市場では、AWSやAzureなどのクラウドネイティブ環境に最適化された検出ツールの重要性が増しており、IBM、Microsoft、Google Cloud、Palantir、Varonisといった企業が市場を牽引しています。2026年から2033年にかけての市場成長予測も示されています。",
+        "source": "pando.life",
+        "url": "https://pando.life/article/4827491",
+        "relevance": "政府システムにおける機密データ管理と、クラウド環境でのセキュリティ対策強化の必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "デジタル庁運用基盤におけるファイル共有サービスからの情報漏えい懸念と不正アクセス",
+        "summary": "デジタル庁が運用する政府共通基盤「GSS」のファイル共有サービスで、第三者による不正アクセスにより個人情報を含む業務ファイルが漏えいした可能性が浮上しました。デジタル庁は7月末から不正アクセスがあったことを公表し、サービス提供を停止しました。",
+        "source": "itmedia.co.jp",
+        "url": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
+        "relevance": "政府システムにおけるセキュリティインシデント発生時の対応プロセスや、ファイル共有サービスのガバナンス強化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "Docker Hub公開イメージからAWSキーが最短7.86秒で悪用可能、認証情報管理の重要性",
@@ -3985,6 +4015,34 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
+        "summary": "片山財務大臣兼内閣府特命担当大臣の閣議後記者会見概要。\n\n▶ 関係部署は、会見で言及されたDX・AI関連施策について、PMO/PjMOとして確認すべき事項がないか精査。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/conference/my20261120.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "財務省再生プロジェクトについて",
+        "summary": "財務省の再生プロジェクトについて発表。\n\n▶ 財務省PMOは、プロジェクトの進捗状況と目標達成に向けた具体的なアクションプランを確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/saisei/index.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "関税・外国為替等審議会 第70回外国為替等分科会議事録",
+        "summary": "関税・外国為替等審議会外国為替等分科会第70回会議の議事録掲載。\n\n▶ PMO/PjMOは、議事録内容からDX・AI活用やプロジェクト管理に関わる論点・決定事項がないか確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "財務省再生プロジェクトについて",
@@ -4427,6 +4485,56 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "Google、AIモデル群「Gemini 4」の中核モデル「Gemini 4 Neon」を発表",
+        "summary": "Googleは、AIモデル群「Gemini 4」の中核モデル「Gemini 4 Neon」を発表しました。このモデルは100万トークンのコンテキストウィンドウを持ち、価格面でも効率化が図られています。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188650",
+        "relevance": "主要AIモデルの性能向上とコスト動向について、将来的な行政システムへの応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "韓国におけるデータセンター建設とAWS活用、および国内における医療・介護分野でのAI・データ活用",
+        "summary": "韓国ではSKグループとAWSがデータセンター建設を進め、AI競争加速に向けた投資が行われています。国内では、AWSの東京リージョンを活用したレセコン一体型クラウド電子カルテ「AIカルテ」が稼働し、データおよびAI処理に利用されています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/a5babc60-f510-4ccf-8c8a-942aa1cf5636",
+        "relevance": "海外のAI・クラウドインフラ投資動向や、国内医療・介護分野におけるデータ・AI活用事例について、今後の行政サービス連携の参考としてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "AIガバナンスの構築と関連規制・技術動向",
+        "summary": "AIの悪用防止や安全な活用に向け、AIガバナンスの重要性が高まっており、Anthropic社ではClaudeの悪用監視調査員を募集しています。また、AIガバナンス・リスク管理市場の拡大予測や、Microsoftの「Shadow AI」機能、SAP×AIによる経営改革など、技術・規制・運用の側面からAIガバナンスに関する動向が報じられています。",
+        "source": "remedy-tokyo.co.jp",
+        "url": "https://remedy-tokyo.co.jp/xross/jobs/44499",
+        "relevance": "AI導入・活用におけるリスク管理と、それに伴うガバナンス体制構築の必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "自治体・行政機関におけるAI活用と生成AIツールの導入事例",
+        "summary": "新潟市では職員向けにChatGPT、Claude、Geminiなどの生成AIツールを活用した勉強会が開催され、行政審査におけるAIの一次評価案作成支援ツールなども紹介されています。自治体AI zevoでは、ChatGPTシリーズに「GPT-6.1 Terra」が追加されました。",
+        "source": "news.dellows.jp",
+        "url": "https://news.dellows.jp/1279601/",
+        "relevance": "行政分野におけるAI、特に生成AIの具体的な活用方法や導入効果について、自組織での展開可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "生成AI「Claude」によるリーマン予想の証明に関する発表",
+        "summary": "米AI開発企業Anthropicの数学者が、同社の生成AI「Claude」を用いて、167年間未解決であった数学上の難問「リーマン予想」の証明を発見したと主張しています。",
+        "source": "mediadogs.jp",
+        "url": "https://mediadogs.jp/2026/11/21/riemann-hypothesis-claude-alpoge-claim/",
+        "relevance": "最先端AI技術の進化とその応用可能性について、プロジェクトにおける技術選定やPoCの参考としてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
@@ -9780,6 +9888,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "KDDIアイレットのAWS MSPプログラム認定更新とGoogle Cloudサービス",
+        "summary": "KDDIアイレット株式会社が、AWSマネージドサービスプロバイダ（MSP）プログラム認定を12年連続で更新し、2,500社超の導入実績と24時間365日のクラウド運用支援を提供しています。また、Google Cloud環境のセキュリティリスクを可視化するサービスも提供開始しました。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000478.000009999&g=prt",
+        "relevance": "クラウドサービスプロバイダーの技術力や実績について、政府システムにおけるクラウド導入・運用時の選定基準としてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "さくらインターネット、政府機関・自治体向けクラウド提供。AIトップ企業アンソロピックの時価総額と公益性",
@@ -11261,6 +11379,16 @@
       }
     ],
     "制度/ガイドライン": [
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "英政府によるAppleへの秘密命令と暗号化データ開示を巡る裁判所判断",
+        "summary": "英政府がAppleに対して行っていた暗号化データ開示の秘密命令が、裁判所の判断で正式に確認されました。裁判所は命令の存在を認めつつも、国家安全保障を損なうものではないとしています。",
+        "source": "news.livedoor.com",
+        "url": "https://news.livedoor.com/article/detail/32864830/",
+        "relevance": "法執行機関によるデータアクセスとプライバシー保護のバランスについて、今後の行政システムへの影響をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-16",
         "date_ja": "2026年11月16日（月）",
@@ -13585,6 +13713,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "re:Invent 2026 の AWS Security, Identity, and Governance ガイド: セキュリティセッションの見どころ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "Kiro for VS Code のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kiro-for-vs-code/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "Kiro のクラウドセッションからプライベートネットワークにアクセスできるようになりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/private-networks/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "Kiro のリモートワークスペース: コードとコンピューティングリソースがすでにある場所で IDE を使う",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/remote-workspaces/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
@@ -24883,6 +25056,34 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
+        "summary": "片山財務大臣兼内閣府特命担当大臣の閣議後記者会見概要。\n\n▶ 関係部署は、会見で言及されたDX・AI関連施策について、PMO/PjMOとして確認すべき事項がないか精査。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/public_relations/conference/my20261120.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "財務省再生プロジェクトについて",
+        "summary": "財務省の再生プロジェクトについて発表。\n\n▶ 財務省PMOは、プロジェクトの進捗状況と目標達成に向けた具体的なアクションプランを確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/saisei/index.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-22",
+        "date_ja": "2026年11月22日（日）",
+        "title": "関税・外国為替等審議会 第70回外国為替等分科会議事録",
+        "summary": "関税・外国為替等審議会外国為替等分科会第70回会議の議事録掲載。\n\n▶ PMO/PjMOは、議事録内容からDX・AI活用やプロジェクト管理に関わる論点・決定事項がないか確認。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html",
+        "relevance": "元記事の内容をご確認のうえ、所管業務への影響・対応要否のご検討をお願いします。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "財務省再生プロジェクトについて",
@@ -25200,15 +25401,15 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 167,
+    "セキュリティ": 170,
     "その他": 198,
     "行政AI": 40,
-    "行政DX": 47,
-    "AI活用": 535,
-    "クラウド/インフラ": 148,
-    "制度/ガイドライン": 127,
+    "行政DX": 50,
+    "AI活用": 540,
+    "クラウド/インフラ": 149,
+    "制度/ガイドライン": 128,
     "自治体DX事例": 105,
-    "AWS最新情報": 566,
+    "AWS最新情報": 571,
     "Google Cloud最新情報": 357,
     "働き方/業務改革": 47,
     "さくらのクラウド最新情報": 152,
@@ -25219,7 +25420,7 @@
     "調達/契約": 14,
     "プロジェクト管理": 26,
     "行政DX事例": 1,
-    "財務省": 33
+    "財務省": 36
   },
-  "updated_at": "2026-11-20T22:05:30.618Z"
+  "updated_at": "2026-11-21T20:44:04.377Z"
 }
