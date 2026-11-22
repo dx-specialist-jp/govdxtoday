@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-11-23",
+      "summary_short": "Anthropicの数学者、AI「Claude」と共同で…など10件",
+      "article_count": 10,
+      "has_security_alert": false
+    },
+    {
       "date": "2026-11-22",
       "summary_short": "財務省再生プロジェクトについて…など2件",
       "article_count": 13,
@@ -532,12 +538,6 @@
       "date": "2026-08-26",
       "summary_short": "マイナポータルのパスポート申請がもっと便利になりました（20…など2件",
       "article_count": 10,
-      "has_security_alert": true
-    },
-    {
-      "date": "2026-08-25",
-      "summary_short": "AIガバナンスの重要性が増す中、国内外で関連サービスやガ…など9件",
-      "article_count": 9,
       "has_security_alert": true
     }
   ]
