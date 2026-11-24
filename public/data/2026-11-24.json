@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-24",
+  "date_ja": "2026年11月24日（火）",
+  "news_summary": [
+    "財務省、政府調達制度変更や入札に関する最新情報の随時確認をPMO/PjMO担当者に要請",
+    "2027年、自治体向けOSSのAI導入支援環境（エージェント作成・高度構築）が公開予定",
+    "AIガバナンス確立へ、ISO/IEC42001実装・プライバシー影響評価・国連主導枠組み構築が進む",
+    "Microsoft 365 Copilot、PowerPointテンプレート登録で会社仕様資料のAI作成が可能に",
+    "AWS CEO、AI安全性は「キルスイッチ」より設計段階の制約・監視に注力すべきと提言",
+    "Anthropic、Claude Codeにベストプラクティス公開・表計算・ホワイトボード機能追加",
+    "NVIDIA CEO復帰、米政府意見考慮も「禁輸破り」疑惑でAI投資ブームに影響の可能性",
+    "ガバメントクラウド、欧州で「クラウド主権」広がるも米国3社が市場支配継続"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": {
+    "section_name": "行政DXトピックス",
+    "title": "政府調達情報",
+    "summary": "政府調達情報について\n\n▶ PMO/PjMO担当者は、調達制度変更や入札に関する最新情報を随時確認し、プロジェクトへの影響を評価してください。",
+    "source_name": "財務省 新着情報",
+    "source_url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+    "pub_date": "2026-11-24"
+  },
+  "sub_articles": [
+    {
+      "section_name": "行政DXトピックス",
+      "title": "チェコとの新租税条約が署名されました",
+      "summary": "チェコとの新租税条約が署名されました\n\n▶ 関係部署は、新租税条約の内容確認と、現行システム・業務プロセスへの影響を評価してください。",
+      "source_name": "財務省 新着情報",
+      "source_url": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20261124cz.html",
+      "pub_date": "2026-11-24"
+    }
+  ],
+  "news_topics": [
+    {
+      "title": "自治体向けOSSのAI導入支援環境、2027年公開へ - エージェント作成や高度構築に対応",
+      "summary": "自治体でのAI導入を支援するOSS（オープンソースソフトウェア）が、2027年までに公開される予定です。エージェント作成環境と高度な構築環境の2種類が提供されます。",
+      "relevance": "OSSのAI導入支援環境の公開動向について、先行事例や活用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/sn/sotokoto-ai-dx-20261124-05/"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/14787/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "AIガバナンス確立への動き - ISO/IEC42001、プライバシー影響評価、国連主導の枠組み構築",
+      "summary": "ISO/IEC42001に基づくAIガバナンスの実装や、プライバシーリスクを抑えつつAI活用を進めるためのプライバシー影響評価、国連主導によるAI安全会合での危機管理枠組み構築などが報じられています。",
+      "relevance": "AIガバナンス確立に向けた国際的な動向や、ISO規格・プライバシー影響評価の必要性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000009.000127670.html"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000489.000027964.html"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25524"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2670uk31/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/1d5b16624172e11ed2223906b696f3bc5c639f59/images/000"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/452/4452470/"
+        },
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2104895"
+        },
+        {
+          "name": "japan.zdnet.com",
+          "url": "https://japan.zdnet.com/article/35255217/"
+        },
+        {
+          "name": "minpo.jp",
+          "url": "https://www.minpo.jp/articles/-/282119"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/a7133cbb-bcee-4f81-961a-a298f86addc0"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2611/24/2000003364/"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00950/112000003/"
+        },
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/32fd4a1a-8001-4b5b-80fb-e55ccf9223b2"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/11/16/06552/?i_cid=nbpnxta_sied_newarticles"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "Microsoft 365 Copilotで会社仕様のPowerPoint資料を「Brand」機能で作成",
+      "summary": "Microsoft 365 Copilotの「作成」機能にPowerPointテンプレートを登録し、「Brand」から利用することで、会社仕様のプレゼン資料をAIで作成する方法が紹介されています。",
+      "relevance": "Microsoft 365 Copilotを活用した資料作成業務の効率化について、社内展開の可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00390/100200187/?i_cid=nbpnxta_sied_newarticles"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AWS CEO、AIの安全性は「キルスイッチ」より優れた設計に重点",
+      "summary": "アマゾン・ウェブ・サービス（AWS）のCEOは、AIの安全性について「キルスイッチ」のような事後措置よりも、設計段階での権限制約や継続的な監視といった優れた設計に重点を置くべきだと提言しています。",
+      "relevance": "AWS CEOの提言するAIの安全性に関する設計思想について、既存システムのガバナンス強化の観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "newsweekjapan.jp",
+          "url": "https://www.newsweekjapan.jp/articles/-/341004"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Anthropic、Claude Codeのベストプラクティス公開と機能拡張",
+      "summary": "Anthropicは、AIにプログラミングや作業をさせるツール「Claude Code」の公式ガイドに「ベストプラクティス」を掲載し、トークン爆発を防ぐ実践ノウハウを提供しています。また、Claudeに表計算とホワイトボード機能が追加されました。",
+      "relevance": "Claude Codeのベストプラクティスや新機能について、行政文書作成や業務効率化への応用可能性をご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "london3.jp",
+          "url": "https://london3.jp/2026/11/claude-code-bestpractice/"
+        },
+        {
+          "name": "xtech.nikkei.com",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03832/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20022540?news_ref=watch_20_nw19989472"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "NVIDIA CEOの復帰と「禁輸破り」疑惑、AIブームへの影響",
+      "summary": "NVIDIAのCEOが取締役会に復帰しましたが、取締役会は米政府の意見を踏まえたとしています。また、NVIDIAの「禁輸破り」疑惑が報じられ、AI投資ブームにブレーキがかかる可能性も指摘されています。",
+      "relevance": "NVIDIAのCEO復帰とその背景、およびAI半導体供給に関する懸念について、国の調達方針やサプライチェーンリスクの観点からご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "gori.me",
+          "url": "https://gori.me/it/173003"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/gen/19/00685/112300089/?i_cid=nbpnb_arc"
+        },
+        {
+          "name": "business.nikkei.com",
+          "url": "https://business.nikkei.com/atcl/NBD/19/world/00838/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "ガバメントクラウド、欧州での進展と米3社の市場支配",
+      "summary": "欧州での「クラウド主権」の動きが拡散する中、米国3社（AWS、Microsoft Azure、Google Cloud）が70%以上のシェアを掌握し、域内シェアは15%で停滞しています。ガバメントクラウドは、国や自治体の情報システム共通利用環境としてデジタル庁が整備を進めています。",
+      "relevance": "ガバメントクラウドの進展状況と、米国大手クラウドベンダーの動向について、将来的なシステム調達やインフラ戦略の観点からご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/324fd800-0ac2-4da0-a094-cff7380ab71d"
+        },
+        {
+          "name": "digital-supporter.net",
+          "url": "https://digital-supporter.net/mirai-ai/dxplan/yougo-gov-cloud.html"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "ガバメントクラウドファンディング、自治体による文化財保存や災害支援に活用",
+      "summary": "佐渡市が文化財保存修理のため、神戸市がルミナリエ開催のため、奈良県のおてらおやつクラブがひとり親家庭支援のため、それぞれふるさと納税を活用したガバメントクラウドファンディングを実施しています。",
+      "relevance": "ガバメントクラウドファンディングの事例から、地方創生や地域課題解決への活用可能性についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.at-s.com",
+          "url": "https://news.at-s.com/article/2104771"
+        },
+        {
+          "name": "kobe-journal.com",
+          "url": "https://kobe-journal.com/archives/9529652567.html"
+        },
+        {
+          "name": "niigata-nippo.co.jp",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/948032"
+        },
+        {
+          "name": "dxmagazine.jp",
+          "url": "https://dxmagazine.jp/news/2664ko678-3/"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/1164b16ab857010b312921b4cdc0a318c5bf9899"
+        },
+        {
+          "name": "topics.smt.docomo.ne.jp",
+          "url": "https://topics.smt.docomo.ne.jp/amp/article/sankei/life/sankei-_life_trend_JJC5SBLRYNIW7FDHOUJD7ZLFAQ"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "1 つのスタックで VCF 全体を: EVS Deployment Orchestrator を使用して Amazon EVS へ VMware Cloud Foundation 9 をデプロイ",
+          "url": "https://aws.amazon.com/jp/blogs/news/one-stack-full-vcf-deploying-vmware-cloud-foundation-9-on-amazon-evs-with-the-evs-deployment-orchestrator/",
+          "pub_date": "2026-11-23T09:33:31.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon WorkSpaces を使用した AI エージェントの迅速なセットアップ、接続、管理",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern",
+          "pub_date": "2026-11-16T18:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS KMS が AWS Resource Access Manager とのキー共有のサポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
+          "pub_date": "2026-11-16T18:00:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS Marketplace Metering Service で小数点数値の使用量のサポートを開始",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
+          "pub_date": "2026-11-16T17:39:00.000Z",
+          "source": "AWS 新着情報"
+        },
+        {
+          "title": "AWS WAF の高度なレートベースのルールが AWS GovCloud (米国)、タイ、メキシコで利用できるようになりました",
+          "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+          "pub_date": "2026-11-16T08:00:00.000Z",
+          "source": "AWS 新着情報"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 23, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_23_2026",
+          "pub_date": "2026-11-23T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-24T01:59:16.959Z"
+}

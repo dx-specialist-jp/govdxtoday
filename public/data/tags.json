@@ -4015,6 +4015,24 @@
     ],
     "行政DX": [
       {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "チェコとの新租税条約が署名されました",
+        "summary": "チェコとの新租税条約が署名されました\n\n▶ 関係部署は、新租税条約の内容確認と、現行システム・業務プロセスへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20261124cz.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "政府調達情報",
+        "summary": "政府調達情報について\n\n▶ PMO/PjMO担当者は、調達制度変更や入札に関する最新情報を随時確認し、プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+        "type": "government"
+      },
+      {
         "date": "2026-11-22",
         "date_ja": "2026年11月22日（日）",
         "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
@@ -4485,6 +4503,66 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "NVIDIA CEOの復帰と「禁輸破り」疑惑、AIブームへの影響",
+        "summary": "NVIDIAのCEOが取締役会に復帰しましたが、取締役会は米政府の意見を踏まえたとしています。また、NVIDIAの「禁輸破り」疑惑が報じられ、AI投資ブームにブレーキがかかる可能性も指摘されています。",
+        "source": "gori.me",
+        "url": "https://gori.me/it/173003",
+        "relevance": "NVIDIAのCEO復帰とその背景、およびAI半導体供給に関する懸念について、国の調達方針やサプライチェーンリスクの観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "Anthropic、Claude Codeのベストプラクティス公開と機能拡張",
+        "summary": "Anthropicは、AIにプログラミングや作業をさせるツール「Claude Code」の公式ガイドに「ベストプラクティス」を掲載し、トークン爆発を防ぐ実践ノウハウを提供しています。また、Claudeに表計算とホワイトボード機能が追加されました。",
+        "source": "london3.jp",
+        "url": "https://london3.jp/2026/11/claude-code-bestpractice/",
+        "relevance": "Claude Codeのベストプラクティスや新機能について、行政文書作成や業務効率化への応用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "AWS CEO、AIの安全性は「キルスイッチ」より優れた設計に重点",
+        "summary": "アマゾン・ウェブ・サービス（AWS）のCEOは、AIの安全性について「キルスイッチ」のような事後措置よりも、設計段階での権限制約や継続的な監視といった優れた設計に重点を置くべきだと提言しています。",
+        "source": "newsweekjapan.jp",
+        "url": "https://www.newsweekjapan.jp/articles/-/341004",
+        "relevance": "AWS CEOの提言するAIの安全性に関する設計思想について、既存システムのガバナンス強化の観点からご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "Microsoft 365 Copilotで会社仕様のPowerPoint資料を「Brand」機能で作成",
+        "summary": "Microsoft 365 Copilotの「作成」機能にPowerPointテンプレートを登録し、「Brand」から利用することで、会社仕様のプレゼン資料をAIで作成する方法が紹介されています。",
+        "source": "active.nikkeibp.co.jp",
+        "url": "https://active.nikkeibp.co.jp/atcl/act/19/00390/100200187/?i_cid=nbpnxta_sied_newarticles",
+        "relevance": "Microsoft 365 Copilotを活用した資料作成業務の効率化について、社内展開の可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "AIガバナンス確立への動き - ISO/IEC42001、プライバシー影響評価、国連主導の枠組み構築",
+        "summary": "ISO/IEC42001に基づくAIガバナンスの実装や、プライバシーリスクを抑えつつAI活用を進めるためのプライバシー影響評価、国連主導によるAI安全会合での危機管理枠組み構築などが報じられています。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000009.000127670.html",
+        "relevance": "AIガバナンス確立に向けた国際的な動向や、ISO規格・プライバシー影響評価の必要性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "自治体向けOSSのAI導入支援環境、2027年公開へ - エージェント作成や高度構築に対応",
+        "summary": "自治体でのAI導入を支援するOSS（オープンソースソフトウェア）が、2027年までに公開される予定です。エージェント作成環境と高度な構築環境の2種類が提供されます。",
+        "source": "dxmagazine.jp",
+        "url": "https://dxmagazine.jp/sn/sotokoto-ai-dx-20261124-05/",
+        "relevance": "OSSのAI導入支援環境の公開動向について、先行事例や活用可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
@@ -9938,6 +10016,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "ガバメントクラウド、欧州での進展と米3社の市場支配",
+        "summary": "欧州での「クラウド主権」の動きが拡散する中、米国3社（AWS、Microsoft Azure、Google Cloud）が70%以上のシェアを掌握し、域内シェアは15%で停滞しています。ガバメントクラウドは、国や自治体の情報システム共通利用環境としてデジタル庁が整備を進めています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/324fd800-0ac2-4da0-a094-cff7380ab71d",
+        "relevance": "ガバメントクラウドの進展状況と、米国大手クラウドベンダーの動向について、将来的なシステム調達やインフラ戦略の観点からご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
         "title": "2030年に向けデジタル主権が各国国家安全保障戦略の中核へ、ガバメントクラウドと経済安保の交差",
@@ -12732,6 +12820,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "ガバメントクラウドファンディング、自治体による文化財保存や災害支援に活用",
+        "summary": "佐渡市が文化財保存修理のため、神戸市がルミナリエ開催のため、奈良県のおてらおやつクラブがひとり親家庭支援のため、それぞれふるさと納税を活用したガバメントクラウドファンディングを実施しています。",
+        "source": "news.at-s.com",
+        "url": "https://news.at-s.com/article/2104771",
+        "relevance": "ガバメントクラウドファンディングの事例から、地方創生や地域課題解決への活用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
         "title": "SaaS型SCMシステム「PlanNEL」、総務省後援ASPIC AI・クラウドアワードでDX貢献賞受賞",
@@ -13793,6 +13891,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "AWS WAF の高度なレートベースのルールが AWS GovCloud (米国)、タイ、メキシコで利用できるようになりました",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "AWS Marketplace Metering Service で小数点数値の使用量のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "AWS KMS が AWS Resource Access Manager とのキー共有のサポートを開始",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "Amazon WorkSpaces を使用した AI エージェントの迅速なセットアップ、接続、管理",
+        "summary": "",
+        "source": "AWS 新着情報",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "1 つのスタックで VCF 全体を: EVS Deployment Orchestrator を使用して Amazon EVS へ VMware Cloud Foundation 9 をデプロイ",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/one-stack-full-vcf-deploying-vmware-cloud-foundation-9-on-amazon-evs-with-the-evs-deployment-orchestrator/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
@@ -18979,6 +19122,15 @@
       }
     ],
     "Google Cloud最新情報": [
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "November 23, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_23_2026",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
@@ -25201,6 +25353,24 @@
     ],
     "財務省": [
       {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "チェコとの新租税条約が署名されました",
+        "summary": "チェコとの新租税条約が署名されました\n\n▶ 関係部署は、新租税条約の内容確認と、現行システム・業務プロセスへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20261124cz.html",
+        "type": "government"
+      },
+      {
+        "date": "2026-11-24",
+        "date_ja": "2026年11月24日（火）",
+        "title": "政府調達情報",
+        "summary": "政府調達情報について\n\n▶ PMO/PjMO担当者は、調達制度変更や入札に関する最新情報を随時確認し、プロジェクトへの影響を評価してください。",
+        "source": "財務省 新着情報",
+        "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+        "type": "government"
+      },
+      {
         "date": "2026-11-22",
         "date_ja": "2026年11月22日（日）",
         "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
@@ -25549,13 +25719,13 @@
     "セキュリティ": 170,
     "その他": 198,
     "行政AI": 40,
-    "行政DX": 50,
-    "AI活用": 545,
-    "クラウド/インフラ": 150,
+    "行政DX": 52,
+    "AI活用": 551,
+    "クラウド/インフラ": 151,
     "制度/ガイドライン": 129,
-    "自治体DX事例": 106,
-    "AWS最新情報": 576,
-    "Google Cloud最新情報": 357,
+    "自治体DX事例": 107,
+    "AWS最新情報": 581,
+    "Google Cloud最新情報": 358,
     "働き方/業務改革": 47,
     "さくらのクラウド最新情報": 152,
     "AIガバナンス": 35,
@@ -25565,7 +25735,7 @@
     "調達/契約": 14,
     "プロジェクト管理": 26,
     "行政DX事例": 1,
-    "財務省": 36
+    "財務省": 38
   },
-  "updated_at": "2026-11-22T20:54:38.423Z"
+  "updated_at": "2026-11-24T01:59:16.972Z"
 }
