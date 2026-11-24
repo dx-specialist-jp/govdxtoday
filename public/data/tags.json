@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "チェック・ポイント、Microsoft Azure上でSASEプラットフォームを展開し協業を拡大",
+        "summary": "チェック・ポイントは、Microsoftとの協業を拡大し、Microsoft Azure上でSASEプラットフォームを展開。サイバーセキュリティソリューションの提供を強化。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw20026519?news_ref=60_60",
+        "relevance": "主要クラウドプラットフォーム上でのサイバーセキュリティソリューションの提供拡大について、既存システムとの連携やセキュリティ対策の強化策をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "政府システムおよびMicrosoft Azureの脆弱性・情報流出事案とAIの安全性に関する議論",
+        "summary": "Microsoft Azure APIMの脆弱性悪用による情報流出を受け、政府システムでは脆弱性発見時の「一時停止」も検討。AWS CEOはAIの安全性について、緊急停止よりシステム設計を重視すべきと提言。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17979762/?ref=pickstream_1002",
+        "relevance": "政府システムにおけるセキュリティインシデント発生時の対応方針や、AIの安全性設計に関する最新動向について、プロジェクトガバナンスへの影響をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-22",
         "date_ja": "2026年11月22日（日）",
         "title": "IPAによる「セキュリティ・キャンプ2027コネクト」のエントリー受付",
@@ -4503,6 +4523,36 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "Amazon、AI技術取得でNVIDIA依存度低減とAI処理コスト削減を目指す",
+        "summary": "Amazonは、デカートのAI技術取得により、半導体からソフトウェア、クラウドまでの垂直統合でNVIDIAへの依存度を下げ、AI処理コストを削減することを目指す。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17973277/",
+        "relevance": "AI技術の垂直統合によるコスト削減と競争力強化の動きについて、調達戦略や技術選定における将来的な影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "Google、複雑な開発・業務処理向けAIモデル「Gemini 4 Neon」を提供開始",
+        "summary": "Googleは、複雑なソフトウェア開発や分析、企業の業務処理を想定したAIモデル「Gemini 4 Neon」を発表。ChatGPTやGeminiなどのAIが実行可能なテロ計画を生成する可能性も指摘。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/gemini-neon-model-launch/",
+        "relevance": "AIモデルの進化と、それに伴うリスク（テロ計画生成等）について、AI導入におけるセキュリティおよび倫理的側面からの検討をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "Anthropic、AIエージェントがプルリクエストのレビュー・修正・承認を行う新機能「Claude Ship」を発表",
+        "summary": "Anthropicは、AIエージェントがプルリクエストのレビュー、修正、承認を支援する新機能「Claude Ship」をベータ版として公開。開発者のコードリリースを効率化。",
+        "source": "japan.zdnet.com",
+        "url": "https://japan.zdnet.com/article/35255314/",
+        "relevance": "AIによる開発支援ツールの進化について、プロジェクトの効率化や開発プロセスの変革の可能性をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-24",
         "date_ja": "2026年11月24日（火）",
@@ -10016,6 +10066,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "AWSのAIエージェント時代に向けたインフラ投資と法人向け学習プラン",
+        "summary": "AWSはAIエージェントが自律的に業務を遂行する時代に向け、2000億ドル規模のインフラ投資を加速。法人向けには、クラウド移行後の運用担当育成を支援する学習プランを提供。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/c83cb6d8-c097-4f91-8388-c4eaa50c9d29",
+        "relevance": "AIエージェントの活用を見据えたクラウドインフラ戦略の動向と、IT人材育成のための学習支援策について、プロジェクトの技術選定や人材育成計画への応用をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-24",
         "date_ja": "2026年11月24日（火）",
         "title": "ガバメントクラウド、欧州での進展と米3社の市場支配",
@@ -11528,6 +11588,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "ルクセンブルク、自動運転開発における新たな定石を示す",
+        "summary": "「米国はイノベーション、中国は模倣、欧州は規制」というミームに対し、ルクセンブルクが自動運転開発で新たな定石を示す。",
+        "source": "newspicks.com",
+        "url": "https://newspicks.com/news/17976467/",
+        "relevance": "海外における技術開発と規制のバランスに関する動向について、国内の技術開発戦略や規制整備の参考となる点をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "政府、AI社会実装に向けた規制改革を議論する専門調査会を初開催",
+        "summary": "政府は、人工知能（AI）の社会実装に向け、規制改革について議論する専門調査会の初会合をデジタル庁で開催。",
+        "source": "miyazaki.keizai.biz",
+        "url": "https://miyazaki.keizai.biz/gpnews/1779319/",
+        "relevance": "AIの社会実装に向けた政府の規制改革の動きについて、将来的な法制度やガイドラインの変更を見据えた情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
         "title": "財務省、国債トークン化の実機検証をブロックチェーンで実施へ",
@@ -12820,6 +12900,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "地域DX推進に向けた「地域AX」議論と政府クラウドの活用",
+        "summary": "鈴木英敬総務副大臣らがGoogle Cloud、SMBCグループと「地域AX」を議論。政府は2026年7月「日本成長戦略」を発表。自治体向け「公示送達のインターネット掲載」マニュアル対策を標準装備。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000387.000032735&g=prt",
+        "relevance": "地域DX推進における産官学連携の動向や、政府クラウドの活用事例について、自組織のDX推進計画への示唆をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-24",
         "date_ja": "2026年11月24日（火）",
         "title": "ガバメントクラウドファンディング、自治体による文化財保存や災害支援に活用",
@@ -13891,6 +13981,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "AWS と SAP のエージェント間（Agent-to-Agent）相互運用性",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/a2a-interoperability-between-aws-and-sap/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "週刊AWS – 2026/11/16週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20261116/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "何日も動き続けるエージェントに、Kiro CLI がついていけるようになりました",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/agents-run-for-days/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "【開催報告】地方自治情報化推進フェア2026 AWS 出展報告",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/jlis-fair-2026-aws-exhibition-report/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "週刊生成AI with AWS – 2026/11/16 週",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261116/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-24",
         "date_ja": "2026年11月24日（火）",
@@ -19123,6 +19258,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "Gemini でパートナー マーケティングをよりスマートに",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/helping-our-partners-market-smarter-together-with-gemini/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "Lumen と Partner Cross-Cloud Interconnect が実現するラスト ワンマイルのクラウド接続の簡素化",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "AI にプロンプトを入力するだけではなく、AI を設計する - Professional Agentic Architect 認定資格のご紹介",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "ロッテ:「作業」は AI に、「価値創造」は人に。AI エージェントの活用で挑む「モノづくり改革」の最前線",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/lotte-takes-on-manufacturing-reform-through-the-use-of-ai-agents/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "November 24, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_24_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-24",
         "date_ja": "2026年11月24日（火）",
         "title": "November 23, 2026",
@@ -22819,6 +22999,24 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "さくらインターネット、「IDC MarketScape: Japan Accelerated Compute as a Service 2026 Vendor Assessment」において「リーダー」に選出",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/24/1968226362/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "【さくらのクラウド】オブジェクトストレージコントロールパネル リニューアル実施のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/24/1968226324/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "[メンテナンス] [緊急]さくらのレンタルサーバ・マネージドサーバ・リセール向けサービス",
@@ -24188,6 +24386,16 @@
       }
     ],
     "AIガバナンス": [
+      {
+        "date": "2026-11-25",
+        "date_ja": "2026年11月25日（水）",
+        "title": "AIガバナンスとAIエージェントの管理・統制に関する動向",
+        "summary": "規制の厳しい業界でのAIエージェント導入支援や、AIガバナンスに不可欠な5つの評価軸と11の実装策が提示。AIエージェントの暴走を防ぐデータガバナンス構築の勘所も解説。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/itmedia_enterprise_20261117015/",
+        "relevance": "AIガバナンスの構築と、AIエージェントの適切な管理・統制の重要性について、組織内でのAI利用ポリシー策定やリスク管理体制の強化をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-23",
         "date_ja": "2026年11月23日（月）",
@@ -25716,19 +25924,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 170,
+    "セキュリティ": 172,
     "その他": 198,
     "行政AI": 40,
     "行政DX": 52,
-    "AI活用": 551,
-    "クラウド/インフラ": 151,
-    "制度/ガイドライン": 129,
-    "自治体DX事例": 107,
-    "AWS最新情報": 581,
-    "Google Cloud最新情報": 358,
+    "AI活用": 554,
+    "クラウド/インフラ": 152,
+    "制度/ガイドライン": 131,
+    "自治体DX事例": 108,
+    "AWS最新情報": 586,
+    "Google Cloud最新情報": 363,
     "働き方/業務改革": 47,
-    "さくらのクラウド最新情報": 152,
-    "AIガバナンス": 35,
+    "さくらのクラウド最新情報": 154,
+    "AIガバナンス": 36,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
@@ -25737,5 +25945,5 @@
     "行政DX事例": 1,
     "財務省": 38
   },
-  "updated_at": "2026-11-24T01:59:16.972Z"
+  "updated_at": "2026-11-24T23:44:25.529Z"
 }
