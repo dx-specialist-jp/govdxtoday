@@ -1,0 +1,305 @@
+{
+  "date": "2026-11-26",
+  "date_ja": "2026年11月26日（木）",
+  "news_summary": [
+    "デジタル庁が18万職員向け生成AI共通基盤「ガバメントAI源内」の試験提供を開始しました。",
+    "AI技術が米国FinCENシステム障害対応や災害情報共有、学術研究支援で活用されています。",
+    "富士フイルムBIがMicrosoft Copilot連携で紙文書のAI活用構造化データ変換を進めます。",
+    "三菱重工とさくらインターネットが国産AI基盤とモジュール型データセンター協業を検討します。",
+    "FortiGate VMとAzure Local統合でAIエージェント実行支援、ベライゾンはAWSとAI契約締結。",
+    "大阪府は行政AIエージェントコンソーシアム、磐梯町はaXモデル共創・実証を実施中です。"
+  ],
+  "security_alerts": [
+    {
+      "title": "JVN: Apache Tomcatにおける複数の脆弱性（2026年11月19日）",
+      "url": "https://jvn.jp/vu/JVNVU92527429/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: 源内Webにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "url": "https://jvn.jp/jp/JVN78929433/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Siemens製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU98354779/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: OpenSSLにおける脆弱性に対するアップデート（2026年11月24日）",
+      "url": "https://jvn.jp/vu/JVNVU95723901/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年11月24日）",
+      "url": "https://jvn.jp/vu/JVNVU93291989/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "政府、18万人が利用する生成AI共通基盤「ガバメントAI源内」を試験提供開始",
+      "summary": "デジタル庁は、国会答弁作成支援AIアプリを搭載した生成AI共通基盤「ガバメントAI源内」の試験提供を開始しました。約18万人の政府職員が利用可能です。",
+      "relevance": "ガバメントAI源内の活用状況や、コストに関する工夫についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jbpress.ismedia.jp",
+          "url": "https://jbpress.ismedia.jp/articles/-/98149"
+        },
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000026_000158873/"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "title": "AI技術の行政・社会課題解決への活用事例（FinCENシステム障害、熊本地震、リーマン予想証明支援）",
+      "summary": "米FinCENシステム障害、熊本地震での掲示板サイト、リーマン予想証明支援など、AI技術が行政システムや災害対応、学術分野で活用されています。",
+      "relevance": "AI技術の行政・社会課題解決への応用可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "finance.biggo.jp",
+          "url": "https://finance.biggo.jp/news/90f8fb81-0573-4e53-a85e-055540d020fd"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00817/100500001/?i_cid=nbpnxta_sied_pickup"
+        },
+        {
+          "name": "tokyonewsmedia.com",
+          "url": "https://tokyonewsmedia.com/archives/30861"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "富士フイルムBI、Microsoft Copilot活用で紙文書のAI活用を強化",
+      "summary": "富士フイルムBIはマイクロソフトと連携を強化し、電子化した紙文書をMicrosoft Copilotで活用可能にするため、AIが活用しやすい構造化データへの変換を進めます。",
+      "relevance": "生成AIと既存文書データとの連携による業務効率化についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "dempa-digital.com",
+          "url": "https://dempa-digital.com/article/731845"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "三菱重工とさくらインターネット、国産AI基盤とモジュール型データセンター構想で協業検討",
+      "summary": "三菱重工とさくらインターネットは、ソブリンAI実現に向けた協業を検討する覚書を締結し、国産AI基盤とモジュール型データセンターの構想を掲げています。",
+      "relevance": "国産AI基盤とデータセンターの戦略的アライアンスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "novaist.jp",
+          "url": "https://novaist.jp/articles/mitsubishi-sakura-ai-alliance/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "複数企業、Google Cloud Partner Top Engineer / All-stars を多数受賞",
+      "summary": "MBKデジタル、KDDIアイレット、クラウドエース、吉積情報から多数のエンジニアがGoogle Cloud Partner Top EngineerやAll-starsを受賞し、高い技術力を評価されています。",
+      "relevance": "Google Cloud領域における技術力認定と、人材育成・活用についてご検討ください。",
+      "category": "プロジェクト管理",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000037_000160977/"
+        },
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000479.000009999&g=prt"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20029281?news_ref=60_60"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20029338?news_ref=60_60"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20029342?news_ref=60_60"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "自治体向けクラウドサービスとAWS共催セミナー開催、ISMAP登録クラウドの活用",
+      "summary": "さくらのクラウドがISMAP登録クラウドとして提供され、大阪・兵庫の自治体向けにAWSと共催セミナーが開催されました。QommonsAIエージェント版や「Qommons ONE」も紹介されました。",
+      "relevance": "ISMAP登録クラウドの活用状況と、自治体向けAIエージェントの導入についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000189942/"
+        },
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000825.000088829.html"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "FortiGate VMとAzure Localの統合、AWSとAI関連契約",
+      "summary": "FortiGate VMとMicrosoft Azure Localの統合によりAIエージェント実行を支援する検証が進んでおり、米ベライゾンはAWSとAI関連で大型契約を締結しました。",
+      "relevance": "クラウドプラットフォームとAIエージェント実行環境の統合、および政府システムにおけるセキュリティ対策についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/453/4453959/"
+        },
+        {
+          "name": "newspicks.com",
+          "url": "https://newspicks.com/news/17978787/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "大阪府、福島県磐梯町における行政AIエージェント・aXモデルの共創・実証",
+      "summary": "大阪府は行政AIエージェントコンソーシアムに参画し、福島県磐梯町はデル・テクノロジーズと行政・地域のaXモデルを共創・実証しています。",
+      "relevance": "自治体におけるAIエージェントの活用や、aXモデルの概念実証・共同開発についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20031656?news_ref=20_20"
+        },
+        {
+          "name": "enterprisezine.jp",
+          "url": "https://enterprisezine.jp/article/detail/25575"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "広島市、電子契約サービス「クラウドサイン」導入で行政と市民・企業の連携強化",
+      "summary": "広島市は電子契約サービス「クラウドサイン」を導入し、全国の自治体での導入数が400を超え、行政と市民・企業の情報活用連携を強化します。",
+      "relevance": "電子契約サービスの導入による行政手続きの効率化と、市民・企業との連携強化についてご検討ください。",
+      "category": "働き方/業務改革",
+      "sources": [
+        {
+          "name": "news.infoseek.co.jp",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000616_000044347/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスとリスク管理、データ基盤設計・利用ガイドライン策定の重要性",
+      "summary": "生成AI利用におけるリスク評価、利用ガイドライン、AIガバナンスの策定、データ基盤設計、シャドーIT対策の重要性が指摘されています。AIパスポート試験ではAIガバナンスも問われます。",
+      "relevance": "AI活用に伴うリスク評価、利用ガイドライン、AIガバナンスの策定についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "url": "https://prtimes.jp/main/html/rd/p/000000141.000034549.html"
+        },
+        {
+          "name": "booklog.jp",
+          "url": "https://booklog.jp/item/1/4814401906"
+        },
+        {
+          "name": "active.nikkeibp.co.jp",
+          "url": "https://active.nikkeibp.co.jp/atcl/act/19/00317/111000058/?i_cid=nbpnxta_sied_newarticles"
+        },
+        {
+          "name": "bizdev-tech.jp",
+          "url": "https://bizdev-tech.jp/job/security-m1a2123f8da6fdd34-61g126/"
+        },
+        {
+          "name": "itmedia.co.jp",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html"
+        },
+        {
+          "name": "news.yahoo.co.jp",
+          "url": "https://news.yahoo.co.jp/articles/014d8501774e0cf2ca5032b1c0deae8b6b599cd4"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "タグエディタが AWS Resource Explorer に移行: 複数のリージョンにまたがるリソースにタグを一括付与可能に",
+          "url": "https://aws.amazon.com/jp/blogs/news/tag-editor-moves-to-aws-resource-explorer-bulk-tag-resources-across-regions/",
+          "pub_date": "2026-11-25T08:49:40.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "Amazon Bedrock のコストを一連の流れで管理する：FinOps チームとプラットフォームチーム向けのプレイブック",
+          "url": "https://aws.amazon.com/jp/blogs/news/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+          "pub_date": "2026-11-25T08:49:33.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS DMS Schema Conversion のエージェンティック AI でデータベースモダナイゼーションを加速する",
+          "url": "https://aws.amazon.com/jp/blogs/news/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/",
+          "pub_date": "2026-11-25T07:47:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS STS GetScopedCredentials で既存セッションの権限をスコープダウン",
+          "url": "https://aws.amazon.com/jp/blogs/news/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
+          "pub_date": "2026-11-25T00:15:24.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS Security Incident Response がセキュリティの検出結果をトリアージする仕組み",
+          "url": "https://aws.amazon.com/jp/blogs/news/how-aws-security-incident-response-triages-your-security-findings/",
+          "pub_date": "2026-11-25T00:13:06.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "ヨーロッパにおけるソブリン AI: AI スタックを制御する新しい方法",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+          "pub_date": "2026-11-25T01:30:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud Partner Top Engineer 2027 アワード プログラム 受賞者発表",
+          "url": "https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2027-award-program/",
+          "pub_date": "2026-11-25T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "ヨーロッパで、ヨーロッパとともに創るソブリン AI: 新しいスタートアップ アクセラレータ",
+          "url": "https://cloud.google.com/blog/ja/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+          "pub_date": "2026-11-25T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "【パートナー制度】2026年10月掲載分 新規ソリューションパートナー企業",
+          "url": "https://www.sakura.ad.jp/corporate/information/alliance/2026/11/25/1968226340/",
+          "pub_date": "2026-11-25T06:00:03.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-25T23:27:15.406Z"
+}

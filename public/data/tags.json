@@ -4524,6 +4524,46 @@
     ],
     "AI活用": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "三菱重工とさくらインターネット、国産AI基盤とモジュール型データセンター構想で協業検討",
+        "summary": "三菱重工とさくらインターネットは、ソブリンAI実現に向けた協業を検討する覚書を締結し、国産AI基盤とモジュール型データセンターの構想を掲げています。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/mitsubishi-sakura-ai-alliance/",
+        "relevance": "国産AI基盤とデータセンターの戦略的アライアンスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "富士フイルムBI、Microsoft Copilot活用で紙文書のAI活用を強化",
+        "summary": "富士フイルムBIはマイクロソフトと連携を強化し、電子化した紙文書をMicrosoft Copilotで活用可能にするため、AIが活用しやすい構造化データへの変換を進めます。",
+        "source": "dempa-digital.com",
+        "url": "https://dempa-digital.com/article/731845",
+        "relevance": "生成AIと既存文書データとの連携による業務効率化についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "AI技術の行政・社会課題解決への活用事例（FinCENシステム障害、熊本地震、リーマン予想証明支援）",
+        "summary": "米FinCENシステム障害、熊本地震での掲示板サイト、リーマン予想証明支援など、AI技術が行政システムや災害対応、学術分野で活用されています。",
+        "source": "finance.biggo.jp",
+        "url": "https://finance.biggo.jp/news/90f8fb81-0573-4e53-a85e-055540d020fd",
+        "relevance": "AI技術の行政・社会課題解決への応用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "政府、18万人が利用する生成AI共通基盤「ガバメントAI源内」を試験提供開始",
+        "summary": "デジタル庁は、国会答弁作成支援AIアプリを搭載した生成AI共通基盤「ガバメントAI源内」の試験提供を開始しました。約18万人の政府職員が利用可能です。",
+        "source": "jbpress.ismedia.jp",
+        "url": "https://jbpress.ismedia.jp/articles/-/98149",
+        "relevance": "ガバメントAI源内の活用状況や、コストに関する工夫についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "Amazon、AI技術取得でNVIDIA依存度低減とAI処理コスト削減を目指す",
@@ -10066,6 +10106,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "FortiGate VMとAzure Localの統合、AWSとAI関連契約",
+        "summary": "FortiGate VMとMicrosoft Azure Localの統合によりAIエージェント実行を支援する検証が進んでおり、米ベライゾンはAWSとAI関連で大型契約を締結しました。",
+        "source": "ascii.jp",
+        "url": "https://ascii.jp/elem/000/004/453/4453959/",
+        "relevance": "クラウドプラットフォームとAIエージェント実行環境の統合、および政府システムにおけるセキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "自治体向けクラウドサービスとAWS共催セミナー開催、ISMAP登録クラウドの活用",
+        "summary": "さくらのクラウドがISMAP登録クラウドとして提供され、大阪・兵庫の自治体向けにAWSと共催セミナーが開催されました。QommonsAIエージェント版や「Qommons ONE」も紹介されました。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000189942/",
+        "relevance": "ISMAP登録クラウドの活用状況と、自治体向けAIエージェントの導入についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "AWSのAIエージェント時代に向けたインフラ投資と法人向け学習プラン",
@@ -12900,6 +12960,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "大阪府、福島県磐梯町における行政AIエージェント・aXモデルの共創・実証",
+        "summary": "大阪府は行政AIエージェントコンソーシアムに参画し、福島県磐梯町はデル・テクノロジーズと行政・地域のaXモデルを共創・実証しています。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw20031656?news_ref=20_20",
+        "relevance": "自治体におけるAIエージェントの活用や、aXモデルの概念実証・共同開発についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "地域DX推進に向けた「地域AX」議論と政府クラウドの活用",
@@ -13981,6 +14051,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "AWS Security Incident Response がセキュリティの検出結果をトリアージする仕組み",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/how-aws-security-incident-response-triages-your-security-findings/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "AWS STS GetScopedCredentials で既存セッションの権限をスコープダウン",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "AWS DMS Schema Conversion のエージェンティック AI でデータベースモダナイゼーションを加速する",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "Amazon Bedrock のコストを一連の流れで管理する：FinOps チームとプラットフォームチーム向けのプレイブック",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "タグエディタが AWS Resource Explorer に移行: 複数のリージョンにまたがるリソースにタグを一括付与可能に",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/tag-editor-moves-to-aws-resource-explorer-bulk-tag-resources-across-regions/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
@@ -19258,6 +19373,33 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "ヨーロッパで、ヨーロッパとともに創るソブリン AI: 新しいスタートアップ アクセラレータ",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "Google Cloud Partner Top Engineer 2027 アワード プログラム 受賞者発表",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2027-award-program/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "ヨーロッパにおけるソブリン AI: AI スタックを制御する新しい方法",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "Gemini でパートナー マーケティングをよりスマートに",
@@ -22527,6 +22669,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "広島市、電子契約サービス「クラウドサイン」導入で行政と市民・企業の連携強化",
+        "summary": "広島市は電子契約サービス「クラウドサイン」を導入し、全国の自治体での導入数が400を超え、行政と市民・企業の情報活用連携を強化します。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000616_000044347/",
+        "relevance": "電子契約サービスの導入による行政手続きの効率化と、市民・企業との連携強化についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-21",
         "date_ja": "2026年11月21日（土）",
         "title": "IPA、セキュリティ・キャンプ2027コネクト開催。AI活用セミナーでCopilot Studio活用",
@@ -22998,6 +23150,15 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "【パートナー制度】2026年10月掲載分 新規ソリューションパートナー企業",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/alliance/2026/11/25/1968226340/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
@@ -24387,6 +24548,16 @@
     ],
     "AIガバナンス": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "AIガバナンスとリスク管理、データ基盤設計・利用ガイドライン策定の重要性",
+        "summary": "生成AI利用におけるリスク評価、利用ガイドライン、AIガバナンスの策定、データ基盤設計、シャドーIT対策の重要性が指摘されています。AIパスポート試験ではAIガバナンスも問われます。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000141.000034549.html",
+        "relevance": "AI活用に伴うリスク評価、利用ガイドライン、AIガバナンスの策定についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "AIガバナンスとAIエージェントの管理・統制に関する動向",
@@ -25287,6 +25458,16 @@
     ],
     "プロジェクト管理": [
       {
+        "date": "2026-11-26",
+        "date_ja": "2026年11月26日（木）",
+        "title": "複数企業、Google Cloud Partner Top Engineer / All-stars を多数受賞",
+        "summary": "MBKデジタル、KDDIアイレット、クラウドエース、吉積情報から多数のエンジニアがGoogle Cloud Partner Top EngineerやAll-starsを受賞し、高い技術力を評価されています。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000037_000160977/",
+        "relevance": "Google Cloud領域における技術力認定と、人材育成・活用についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-15",
         "date_ja": "2026年11月15日（日）",
         "title": "AIガバナンス推進プロジェクトマネージャーの募集、デジタルスキル標準との連携",
@@ -25928,22 +26109,22 @@
     "その他": 198,
     "行政AI": 40,
     "行政DX": 52,
-    "AI活用": 554,
-    "クラウド/インフラ": 152,
+    "AI活用": 558,
+    "クラウド/インフラ": 154,
     "制度/ガイドライン": 131,
-    "自治体DX事例": 108,
-    "AWS最新情報": 586,
-    "Google Cloud最新情報": 363,
-    "働き方/業務改革": 47,
-    "さくらのクラウド最新情報": 154,
-    "AIガバナンス": 36,
+    "自治体DX事例": 109,
+    "AWS最新情報": 591,
+    "Google Cloud最新情報": 366,
+    "働き方/業務改革": 48,
+    "さくらのクラウド最新情報": 155,
+    "AIガバナンス": 37,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
     "調達/契約": 14,
-    "プロジェクト管理": 26,
+    "プロジェクト管理": 27,
     "行政DX事例": 1,
     "財務省": 38
   },
-  "updated_at": "2026-11-24T23:44:25.529Z"
+  "updated_at": "2026-11-25T23:27:15.419Z"
 }
