@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-27",
+  "date_ja": "2026年11月27日（金）",
+  "news_summary": [
+    "Amazon SSM Agentに、管理者IAMロール認証情報を不正取得される脆弱性（CVE-2026-134069）が公表されました。",
+    "AnthropicのAIアシスタント「Claude」がアプリ化・API連携を進展させ、Rust移行での生成・検証難しさも判明しました。",
+    "大阪・兵庫の自治体で行政向け生成AI「QommonsAI」が展開され、AI検索無料診断も開始されました。",
+    "Microsoft 365 Copilotの「Vision」機能やAIエージェントによる業務・カルチャー変革支援が紹介されています。",
+    "AI在庫管理システム「zaico」はClaude公式コネクタを公開し、地域事業者のAI活用・人材育成を推進します。",
+    "福島県磐梯町が最高AI責任者（CAIO）を設置し、ローカルLLMによる行政業務変革のAI戦略を進めています。"
+  ],
+  "security_alerts": [
+    {
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#1",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#2",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#3",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: IBM Guardium Data Protectionに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#4",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: UniFi Access Applicationに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#5",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Rubyに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#6",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Drupal coreに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#7",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#8",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のASUS製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#9",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のF5製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#10",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ILIASに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#11",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Firefoxに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#12",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: プリザンターに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#13",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: AutoSys Workload Automationに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#14",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#15",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#16",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#17",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#18",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: ONLYOFFICE Docsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#19",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: Apache Shiroに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#20",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: nginxにおける複数の脆弱性（CVE-2026-123007など）について",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#21",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "Weekly Report: 認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#22",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: Androidアプリ「東京消防庁公式アプリ」におけるパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/jp/JVN16383801/",
+      "source": "JPCERT/CC 注意喚起"
+    },
+    {
+      "title": "JVN: baserCMSにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN25972114/",
+      "source": "JPCERT/CC 注意喚起"
+    }
+  ],
+  "hero_article": null,
+  "sub_articles": [],
+  "news_topics": [
+    {
+      "title": "AWSのAmazon SSM Agentに脆弱性（CVE-2026-134069）が公表",
+      "summary": "AWSのAmazon SSM AgentにCVE-2026-134069の脆弱性が公表され、Windows Server AMIの登録鍵に起因して、非管理者が管理用IAMロールの認証情報を取得するおそれがあることが示されました。",
+      "relevance": "AWS環境における脆弱性情報とその影響、およびセキュリティ対策についてご検討ください。",
+      "category": "セキュリティ",
+      "sources": [
+        {
+          "name": "rocket-boys.co.jp",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/aws-ssm-agent-cve-2026-134069-windows-ami-2026/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AnthropicのAIアシスタント「Claude」の新機能と進化、アプリ化やAPI連携の進展",
+      "summary": "Anthropicは、AIアシスタント「Claude」の成果物をmacOS・Windowsアプリとして導入できる新機能や、APIのRust移行における生成と検証の難しさ、Claude Duetの登場などを発表しました。",
+      "relevance": "AIアシスタントの業務ツールとしての活用可能性や、API連携における検証体制の構築についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/14944/"
+        },
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188798"
+        },
+        {
+          "name": "hashout.jp",
+          "url": "https://hashout.jp/ai/14922/"
+        },
+        {
+          "name": "london3.jp",
+          "url": "https://london3.jp/2026/11/claudeduet-arrived/"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "title": "行政・自治体向けAIサービスとAI検索診断の展開",
+      "summary": "大阪・兵庫の自治体向けに提供される行政向け生成AI「QommonsAI」や、AI社員「引用寺 正介」による「AI検索 無料診断」の開始が報じられています。また、Gemini Notebookへのパンフレット取り込みも紹介されています。",
+      "relevance": "行政・自治体におけるAI導入事例や、AI検索の活用・診断サービスについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "jiji.com",
+          "url": "https://www.jiji.com/jc/article?k=000000825.000088829&g=prt"
+        },
+        {
+          "name": "news.tv-asahi.co.jp",
+          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900205291.html"
+        },
+        {
+          "name": "internet.watch.impress.co.jp",
+          "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2158748.html"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20034042?news_ref=tag"
+        },
+        {
+          "name": "minpo.jp",
+          "url": "https://www.minpo.jp/ud/prtimes/6b07c0cd7079c8cc5a000009"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "Microsoft CopilotとAIエージェントによる業務変革支援",
+      "summary": "Microsoft 365 Copilotの「Vision」機能による業務効率化の可能性や、AIエージェントを活用した業務・カルチャー変革支援の事例が紹介されています。",
+      "relevance": "Microsoft CopilotやAIエージェントによる業務効率化・変革支援の可能性についてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "sbbit.jp",
+          "url": "https://www.sbbit.jp/article/cont1/188343"
+        },
+        {
+          "name": "sannichi.co.jp",
+          "url": "https://www.sannichi.co.jp/prtimes/others/c108375_r14"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "AI在庫管理システム「zaico」とClaude公式コネクタの連携",
+      "summary": "AI在庫管理システム「zaico」がAnthropic社の「Claude」の公式コネクタを公開し、地域事業者とのAI活用・人材育成を推進しています。",
+      "relevance": "AI在庫管理システムと大規模言語モデルとの連携による業務効率化や、地域におけるAI人材育成の取り組みについてご検討ください。",
+      "category": "AI活用",
+      "sources": [
+        {
+          "name": "the-miyanichi.co.jp",
+          "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1288616.html"
+        },
+        {
+          "name": "yamagata-np.jp",
+          "url": "https://www.yamagata-np.jp/prtimes/index_pr.php?id=c38326_r125"
+        },
+        {
+          "name": "minpo.jp",
+          "url": "https://www.minpo.jp/ud/prtimes/6b07ced17079c83fce000004"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "さくらのクラウドとBacklogの連携による国産クラウド活用支援",
+      "summary": "ヌーラボがさくらインターネットと連携し、国産クラウド「さくらのクラウド」での「Backlogオンプレミス」の導入支援を開始しました。これは政府共通のクラウドサービスの利用環境にも関連します。",
+      "relevance": "国産クラウドサービスとプロジェクト管理ツールの連携による、政府システムへの適用可能性についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "publickey1.jp",
+          "url": "https://www.publickey1.jp/blog/26/aiai_1.html"
+        },
+        {
+          "name": "voix.jp",
+          "url": "https://voix.jp/biz/news-analysis/182831/"
+        },
+        {
+          "name": "ascii.jp",
+          "url": "https://ascii.jp/elem/000/004/455/4455382/"
+        },
+        {
+          "name": "news.dellows.jp",
+          "url": "https://news.dellows.jp/1378752/"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "AWS re:Invent 2026 現地レポート：注目の新サービス・最新技術解説",
+      "summary": "米国ラスベガスで開催されたAWS re:Invent 2026では、世界最大級のイベントとして注目の新サービスや最新技術がスペシャリストによって解説されました。",
+      "relevance": "AWSの最新技術動向や、政府システムへの応用可能性についてご検討ください。",
+      "category": "クラウド/インフラ",
+      "sources": [
+        {
+          "name": "excite.co.jp",
+          "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-26-54842-6152/"
+        },
+        {
+          "name": "news.nicovideo.jp",
+          "url": "https://news.nicovideo.jp/watch/nw20033115?news_ref=60_60"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "title": "福島県磐梯町におけるローカルLLMを活用した行政業務変革とAI戦略",
+      "summary": "人口約3000人の福島県磐梯町が、全国の自治体で初めて最高AI責任者（CAIO）を設置し、ローカルLLMで行政業務を変革するAI戦略を進めています。",
+      "relevance": "地方自治体におけるAI活用推進体制の構築や、ローカルLLMの行政業務への適用についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261126-5413182/"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "title": "アルティウスリンクによるDXとBPOを活用した自治体業務改革支援",
+      "summary": "アルティウスリンクが、DXとBPO（ビジネス・プロセス・アウトソーシング）を通じて、自治体の窓口からバックオフィスまで、行政手続き全体を最適化し業務改革を支援しています。",
+      "relevance": "DXとBPOを活用した行政手続きの最適化や、自治体業務改革の支援策についてご検討ください。",
+      "category": "自治体DX事例",
+      "sources": [
+        {
+          "name": "news.mynavi.jp",
+          "url": "https://news.mynavi.jp/techplus/article/20261126-5413975/"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "title": "AIガバナンスの重要性と実践的アプローチ、およびAI投資競争過熱への対応",
+      "summary": "AI時代の運用における「予測不能な挙動」と「コスト増」が課題となる中、AIガバナンスの構築とAIデプロイ戦略への組み込みが急務となっています。また、AI投資競争過熱が招く金利高への対応も示唆されています。",
+      "relevance": "AI活用におけるリスク管理、ガバナンス体制の構築、およびAI投資のコスト管理についてご検討ください。",
+      "category": "AIガバナンス",
+      "sources": [
+        {
+          "name": "cloud.watch.impress.co.jp",
+          "url": "https://cloud.watch.impress.co.jp/docs/news/2159587.html"
+        },
+        {
+          "name": "kankeijinko.jp",
+          "url": "https://kankeijinko.jp/dictionary/ai-governance/"
+        },
+        {
+          "name": "officenomikata.jp",
+          "url": "https://officenomikata.jp/coverage/18426/"
+        },
+        {
+          "name": "atmarkit.itmedia.co.jp",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news002.html"
+        },
+        {
+          "name": "techtarget.itmedia.co.jp",
+          "url": "https://techtarget.itmedia.co.jp/tt/article/2611/27/2000003496/"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "cloud_updates": [
+    {
+      "provider": "AWS",
+      "items": [
+        {
+          "title": "開発者が Kiro に持ち込む作業で、コーディングエージェントをベンチマークする",
+          "url": "https://aws.amazon.com/jp/blogs/news/kirobench/",
+          "pub_date": "2026-11-26T13:42:52.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "人の注意を中心にソフトウェアファクトリーを作る",
+          "url": "https://aws.amazon.com/jp/blogs/news/software-factory-human-attention/",
+          "pub_date": "2026-11-26T05:52:18.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS WAF のシンプルで予測しやすい新しい料金体系のご紹介",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-aws-waf-simplified-pricing/",
+          "pub_date": "2026-11-26T04:26:40.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "新しい AWS WAF セキュリティ分析ダッシュボードのご紹介: すべての保護パックのトラフィックを単一ページで調査・対処",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-new-aws-waf-security-analytics-dashboard/",
+          "pub_date": "2026-11-26T04:25:01.000Z",
+          "source": "AWS 公式ブログ"
+        },
+        {
+          "title": "AWS WAF Bot Control のターゲットを絞った検査レベルでオンボーディングを簡素化",
+          "url": "https://aws.amazon.com/jp/blogs/news/introducing-simplified-onboarding-for-aws-waf-bot-control-at-the-targeted-inspection-level/",
+          "pub_date": "2026-11-26T04:23:29.000Z",
+          "source": "AWS 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "Google Cloud",
+      "items": [
+        {
+          "title": "November 26, 2026",
+          "url": "https://docs.cloud.google.com/release-notes#November_26_2026",
+          "pub_date": "2026-11-26T08:00:00.000Z",
+          "source": "Google Cloud リリースノート"
+        },
+        {
+          "title": "Google、2026 年 Gartner® Magic Quadrant™ クラウド オペレーショナル データベース管理システム部門においてリーダーに選出",
+          "url": "https://cloud.google.com/blog/ja/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+          "pub_date": "2026-11-26T01:10:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Sashiko: Linux 向けエージェント型コードレビュー システムの構築から得られた教訓",
+          "url": "https://cloud.google.com/blog/ja/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/",
+          "pub_date": "2026-11-26T01:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        },
+        {
+          "title": "Google Cloud Data Boundary の新しいエクスペリエンスについて",
+          "url": "https://cloud.google.com/blog/ja/products/identity-security/inside-the-new-data-boundary-experience/",
+          "pub_date": "2026-11-26T00:00:00.000Z",
+          "source": "Google Cloud 公式ブログ"
+        }
+      ]
+    },
+    {
+      "provider": "さくらのクラウド",
+      "items": [
+        {
+          "title": "[メンテナンス] [代官山データセンター]送風機定期メンテナンスのお知らせ",
+          "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=40199",
+          "pub_date": "2026-11-26T13:42:02.000Z",
+          "source": "さくらインターネット メンテナンス情報"
+        },
+        {
+          "title": "「さくらインターネット パートナーアワード 2026」受賞企業を発表",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/26/1968226342/",
+          "pub_date": "2026-11-26T05:00:50.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのクラウド】「ネットワークスイート」CR版提供終了および正式サービス開始のお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226371/",
+          "pub_date": "2026-11-26T04:00:03.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "【さくらのレンタルサーバ】セキュリティ強化に伴うコンパイル・ビルド関連コマンド等の停止に関するお知らせ",
+          "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/",
+          "pub_date": "2026-11-26T02:00:40.000Z",
+          "source": "さくらインターネット ニュース"
+        },
+        {
+          "title": "ALSIとさくらインターネット、パブリッククラウド分野における協業を開始​",
+          "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/26/1968226384/",
+          "pub_date": "2026-11-26T01:00:14.000Z",
+          "source": "さくらインターネット ニュース"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-26T23:26:16.898Z"
+}

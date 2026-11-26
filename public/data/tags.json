@@ -2,6 +2,16 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AWSのAmazon SSM Agentに脆弱性（CVE-2026-134069）が公表",
+        "summary": "AWSのAmazon SSM AgentにCVE-2026-134069の脆弱性が公表され、Windows Server AMIの登録鍵に起因して、非管理者が管理用IAMロールの認証情報を取得するおそれがあることが示されました。",
+        "source": "rocket-boys.co.jp",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/aws-ssm-agent-cve-2026-134069-windows-ami-2026/",
+        "relevance": "AWS環境における脆弱性情報とその影響、およびセキュリティ対策についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "チェック・ポイント、Microsoft Azure上でSASEプラットフォームを展開し協業を拡大",
@@ -4523,6 +4533,46 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AI在庫管理システム「zaico」とClaude公式コネクタの連携",
+        "summary": "AI在庫管理システム「zaico」がAnthropic社の「Claude」の公式コネクタを公開し、地域事業者とのAI活用・人材育成を推進しています。",
+        "source": "the-miyanichi.co.jp",
+        "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1288616.html",
+        "relevance": "AI在庫管理システムと大規模言語モデルとの連携による業務効率化や、地域におけるAI人材育成の取り組みについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "Microsoft CopilotとAIエージェントによる業務変革支援",
+        "summary": "Microsoft 365 Copilotの「Vision」機能による業務効率化の可能性や、AIエージェントを活用した業務・カルチャー変革支援の事例が紹介されています。",
+        "source": "sbbit.jp",
+        "url": "https://www.sbbit.jp/article/cont1/188343",
+        "relevance": "Microsoft CopilotやAIエージェントによる業務効率化・変革支援の可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "行政・自治体向けAIサービスとAI検索診断の展開",
+        "summary": "大阪・兵庫の自治体向けに提供される行政向け生成AI「QommonsAI」や、AI社員「引用寺 正介」による「AI検索 無料診断」の開始が報じられています。また、Gemini Notebookへのパンフレット取り込みも紹介されています。",
+        "source": "jiji.com",
+        "url": "https://www.jiji.com/jc/article?k=000000825.000088829&g=prt",
+        "relevance": "行政・自治体におけるAI導入事例や、AI検索の活用・診断サービスについてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AnthropicのAIアシスタント「Claude」の新機能と進化、アプリ化やAPI連携の進展",
+        "summary": "Anthropicは、AIアシスタント「Claude」の成果物をmacOS・Windowsアプリとして導入できる新機能や、APIのRust移行における生成と検証の難しさ、Claude Duetの登場などを発表しました。",
+        "source": "hashout.jp",
+        "url": "https://hashout.jp/ai/14944/",
+        "relevance": "AIアシスタントの業務ツールとしての活用可能性や、API連携における検証体制の構築についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
@@ -10106,6 +10156,26 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AWS re:Invent 2026 現地レポート：注目の新サービス・最新技術解説",
+        "summary": "米国ラスベガスで開催されたAWS re:Invent 2026では、世界最大級のイベントとして注目の新サービスや最新技術がスペシャリストによって解説されました。",
+        "source": "excite.co.jp",
+        "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-26-54842-6152/",
+        "relevance": "AWSの最新技術動向や、政府システムへの応用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "さくらのクラウドとBacklogの連携による国産クラウド活用支援",
+        "summary": "ヌーラボがさくらインターネットと連携し、国産クラウド「さくらのクラウド」での「Backlogオンプレミス」の導入支援を開始しました。これは政府共通のクラウドサービスの利用環境にも関連します。",
+        "source": "publickey1.jp",
+        "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
+        "relevance": "国産クラウドサービスとプロジェクト管理ツールの連携による、政府システムへの適用可能性についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
         "title": "FortiGate VMとAzure Localの統合、AWSとAI関連契約",
@@ -12960,6 +13030,26 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "アルティウスリンクによるDXとBPOを活用した自治体業務改革支援",
+        "summary": "アルティウスリンクが、DXとBPO（ビジネス・プロセス・アウトソーシング）を通じて、自治体の窓口からバックオフィスまで、行政手続き全体を最適化し業務改革を支援しています。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20261126-5413975/",
+        "relevance": "DXとBPOを活用した行政手続きの最適化や、自治体業務改革の支援策についてご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "福島県磐梯町におけるローカルLLMを活用した行政業務変革とAI戦略",
+        "summary": "人口約3000人の福島県磐梯町が、全国の自治体で初めて最高AI責任者（CAIO）を設置し、ローカルLLMで行政業務を変革するAI戦略を進めています。",
+        "source": "news.mynavi.jp",
+        "url": "https://news.mynavi.jp/techplus/article/20261126-5413182/",
+        "relevance": "地方自治体におけるAI活用推進体制の構築や、ローカルLLMの行政業務への適用についてご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
         "title": "大阪府、福島県磐梯町における行政AIエージェント・aXモデルの共創・実証",
@@ -14051,6 +14141,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AWS WAF Bot Control のターゲットを絞った検査レベルでオンボーディングを簡素化",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-simplified-onboarding-for-aws-waf-bot-control-at-the-targeted-inspection-level/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "新しい AWS WAF セキュリティ分析ダッシュボードのご紹介: すべての保護パックのトラフィックを単一ページで調査・対処",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-new-aws-waf-security-analytics-dashboard/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AWS WAF のシンプルで予測しやすい新しい料金体系のご紹介",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-aws-waf-simplified-pricing/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "人の注意を中心にソフトウェアファクトリーを作る",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/software-factory-human-attention/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "開発者が Kiro に持ち込む作業で、コーディングエージェントをベンチマークする",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/kirobench/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
@@ -19373,6 +19508,42 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "Google Cloud Data Boundary の新しいエクスペリエンスについて",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/identity-security/inside-the-new-data-boundary-experience/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "Sashiko: Linux 向けエージェント型コードレビュー システムの構築から得られた教訓",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "Google、2026 年 Gartner® Magic Quadrant™ クラウド オペレーショナル データベース管理システム部門においてリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "November 26, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_26_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
         "title": "ヨーロッパで、ヨーロッパとともに創るソブリン AI: 新しいスタートアップ アクセラレータ",
@@ -23151,6 +23322,51 @@
     ],
     "さくらのクラウド最新情報": [
       {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "ALSIとさくらインターネット、パブリッククラウド分野における協業を開始​",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/26/1968226384/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "【さくらのレンタルサーバ】セキュリティ強化に伴うコンパイル・ビルド関連コマンド等の停止に関するお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "【さくらのクラウド】「ネットワークスイート」CR版提供終了および正式サービス開始のお知らせ",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226371/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "「さくらインターネット パートナーアワード 2026」受賞企業を発表",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/11/26/1968226342/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "[メンテナンス] [代官山データセンター]送風機定期メンテナンスのお知らせ",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=40199",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
         "title": "【パートナー制度】2026年10月掲載分 新規ソリューションパートナー企業",
@@ -24547,6 +24763,16 @@
       }
     ],
     "AIガバナンス": [
+      {
+        "date": "2026-11-27",
+        "date_ja": "2026年11月27日（金）",
+        "title": "AIガバナンスの重要性と実践的アプローチ、およびAI投資競争過熱への対応",
+        "summary": "AI時代の運用における「予測不能な挙動」と「コスト増」が課題となる中、AIガバナンスの構築とAIデプロイ戦略への組み込みが急務となっています。また、AI投資競争過熱が招く金利高への対応も示唆されています。",
+        "source": "cloud.watch.impress.co.jp",
+        "url": "https://cloud.watch.impress.co.jp/docs/news/2159587.html",
+        "relevance": "AI活用におけるリスク管理、ガバナンス体制の構築、およびAI投資のコスト管理についてご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
@@ -26105,19 +26331,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 172,
+    "セキュリティ": 173,
     "その他": 198,
     "行政AI": 40,
     "行政DX": 52,
-    "AI活用": 558,
-    "クラウド/インフラ": 154,
+    "AI活用": 562,
+    "クラウド/インフラ": 156,
     "制度/ガイドライン": 131,
-    "自治体DX事例": 109,
-    "AWS最新情報": 591,
-    "Google Cloud最新情報": 366,
+    "自治体DX事例": 111,
+    "AWS最新情報": 596,
+    "Google Cloud最新情報": 370,
     "働き方/業務改革": 48,
-    "さくらのクラウド最新情報": 155,
-    "AIガバナンス": 37,
+    "さくらのクラウド最新情報": 160,
+    "AIガバナンス": 38,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
@@ -26126,5 +26352,5 @@
     "行政DX事例": 1,
     "財務省": 38
   },
-  "updated_at": "2026-11-25T23:27:15.419Z"
+  "updated_at": "2026-11-26T23:26:16.908Z"
 }
