@@ -2,6 +2,26 @@
   "tags": {
     "セキュリティ": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "政府、サイバー攻撃対策で「アウトリーチ・チーム」発足",
+        "summary": "サイバー攻撃の兆候を把握した政府が、被害のおそれがある企業などに自ら連絡し、対策を促す新たな支援体制「アウトリーチ・チーム」が始動した。",
+        "source": "novaist.jp",
+        "url": "https://novaist.jp/articles/japan-cyber-outreach-team/",
+        "relevance": "政府によるサイバー攻撃対策の新たな支援体制の動向について、情報収集と自組織への影響をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "米国、重要インフラ防護を省庁横断で強化",
+        "summary": "米大統領府は、重要インフラの防護に向けた「政府一体」の取り組みに関する発表を2本公表した。サイバーセキュリティ分野の強化も含まれる。",
+        "source": "sustainablejapan.jp",
+        "url": "https://sustainablejapan.jp/2026/11/27/usa-critical-infrastructure/132857",
+        "relevance": "政府機関における重要インフラのサイバーセキュリティ対策強化の動向について、情報収集とリスク評価をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
         "title": "AWSのAmazon SSM Agentに脆弱性（CVE-2026-134069）が公表",
@@ -4533,6 +4553,26 @@
       }
     ],
     "AI活用": [
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "Google Cloud、Gemini Enterpriseの新機能やAPIプレビューを提供開始",
+        "summary": "Google Cloudは、Gemini Enterpriseで「Google 10Xクイズ」を公開。また、Gemini APIのInteractions APIでTool Retrievalのプレビュー提供や、Gemini 4 Hydrogenによる試作品作成機能などを発表した。",
+        "source": "prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000028.000160192.html",
+        "relevance": "Google CloudのGemini関連の新機能やAPIの動向について、業務への応用可能性や情報収集をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "AnthropicのAIエージェント「Claude Duet」が日本でも提供開始、業務効率化への活用",
+        "summary": "Anthropicの能動型AIエージェント「Claude Duet」の研究プレビュー提供地域に日本が追加された。メールや予定をAIが先回りして確認するなど、業務効率化への活用が期待される。",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.nicovideo.jp/watch/nw20041797?news_ref=media274_media274",
+        "relevance": "AIエージェント（Claude Duet等）の業務効率化への活用可能性について、利用シーンや導入効果をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
@@ -10156,6 +10196,16 @@
     ],
     "クラウド/インフラ": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "国産クラウド「さくらのクラウド」で「Backlogオンプレミス」導入支援開始",
+        "summary": "ヌーラボとさくらインターネットが連携し、国産クラウド「さくらのクラウド」を活用した「Backlogオンプレミス」の導入支援を開始した。政府情報システムでの利用を想定。",
+        "source": "tv-tokyo.co.jp",
+        "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/326804.html",
+        "relevance": "国産クラウドやオンプレミス環境でのプロジェクト管理ツールの導入・運用に関する検討をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
         "title": "AWS re:Invent 2026 現地レポート：注目の新サービス・最新技術解説",
@@ -11718,6 +11768,26 @@
     ],
     "制度/ガイドライン": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "JQA、AIマネジメントシステムの国際規格「ISO/IEC 42001」認証機関として認定",
+        "summary": "JQA（日本品質保証機構）が、AIマネジメントシステムの国際規格である「ISO/IEC 42001」の認証機関として認定された。",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000474_000003627/",
+        "relevance": "AIマネジメントシステムの国際規格（ISO/IEC 42001）の動向について、認証取得のメリットや適用可能性をご検討ください。",
+        "type": "news"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "内閣府、高性能AIサービス提供事業者に安全確保措置と重大な悪影響の国への報告を義務付け",
+        "summary": "内閣府は、高性能AIサービスを提供する事業者に、安全確保措置と重大な悪影響が発生した場合の国への報告を義務付ける方針を示している。",
+        "source": "code.shojihomu.jp",
+        "url": "https://code.shojihomu.jp/document/01a21caa9d058766d10be44c",
+        "relevance": "AIサービス提供事業者に対する安全確保措置や報告義務化の動向について、情報収集とリスク管理をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-25",
         "date_ja": "2026年11月25日（水）",
         "title": "ルクセンブルク、自動運転開発における新たな定石を示す",
@@ -13030,6 +13100,16 @@
     ],
     "自治体DX事例": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "マッセOSAKA、自治体業務に即した生成AI研修を実施",
+        "summary": "マッセOSAKAは、自治体職員向けに、生成AIの得意・不得意の見極めから担当業務での活用案づくりまでを学ぶ研修を実施し、行政DX・地域DXを支援している。",
+        "source": "mainichi.jp",
+        "url": "https://mainichi.jp/articles/20261127/pr2/00m/020/122000c",
+        "relevance": "自治体における生成AI研修の実施事例について、職員のAIリテラシー向上や活用推進の参考にご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
         "title": "アルティウスリンクによるDXとBPOを活用した自治体業務改革支援",
@@ -14141,6 +14221,51 @@
       }
     ],
     "AWS最新情報": [
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "AWS Network Firewall のコンテキスト対応ルールのご紹介: IP アドレスではなく AWS リソースに基づくトラフィック照合",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-context-aware-rules-for-aws-network-firewall/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "AWS Network Firewall で自動インターネットファイアウォールモード (プレビュー) の提供を開始",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-network-firewall-introduces-automated-internet-firewall-mode-preview/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "Enterprise-Managed Authorization で実現する AI エージェントによる AWS への安全なアクセス",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/secure-agentic-access-to-aws-with-enterprise-managed-authorization/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/introducing-api-and-ai-security-on-aws-from-discovery-to-protection/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "AI の安全性は緊急ブレーキ頼みではなく、より優れたエンジニアリングで実現",
+        "summary": "",
+        "source": "AWS 公式ブログ",
+        "url": "https://aws.amazon.com/jp/blogs/news/aws-ceo-ai-safety-engineering/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
@@ -19508,6 +19633,51 @@
     ],
     "Google Cloud最新情報": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "日立グループが ChromeOS 端末で描く、新しい働き方",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/the-hitachi-groups-vision-for-a-new-way-of-working-with-chrome-os-devices/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エージェントの社会実装と「循環型イノベーション」への挑戦",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/kddi-and-google-cloud-host-kddi-ai-agent-day-again-in-2026/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "Google Antigravity で耐久性の高いエージェント システムを構築する方法: 指示からループまで",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/developers-practitioners/how-to-build-durable-agentic-systems-with-google-antigravity-from-instructions-to-loops/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "Google Cloud、2026 年 Gartner Magic Quadrant の AI アプリケーション開発プラットフォーム部門でリーダーに選出",
+        "summary": "",
+        "source": "Google Cloud 公式ブログ",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "November 27, 2026",
+        "summary": "",
+        "source": "Google Cloud リリースノート",
+        "url": "https://docs.cloud.google.com/release-notes#November_27_2026",
+        "type": "cloud"
+      },
+      {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
         "title": "Google Cloud Data Boundary の新しいエクスペリエンスについて",
@@ -22840,6 +23010,16 @@
     ],
     "働き方/業務改革": [
       {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "行政手続きのDX支援やCopilot活用促進の動き",
+        "summary": "アルティウスリンクは行政手続きをDXとBPOで支援するサービスを提供開始。また、Copilotの全社活用を促すウェビナー開催や、Copilotの「Vision」機能による業務効率化が報じられている。",
+        "source": "cloud.watch.impress.co.jp",
+        "url": "https://cloud.watch.impress.co.jp/docs/news/2159188.html",
+        "relevance": "行政手続きのDX推進や、生成AIツール（Copilot等）の組織内での活用促進・効果測定に関する検討をご検討ください。",
+        "type": "news"
+      },
+      {
         "date": "2026-11-26",
         "date_ja": "2026年11月26日（木）",
         "title": "広島市、電子契約サービス「クラウドサイン」導入で行政と市民・企業の連携強化",
@@ -23321,6 +23501,24 @@
       }
     ],
     "さくらのクラウド最新情報": [
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "[障害] さくらのクラウド イベントログの一部",
+        "summary": "",
+        "source": "さくらインターネット メンテナンス情報",
+        "url": "http://support.sakura.ad.jp/mainte/mainteentry.php?id=40207",
+        "type": "cloud"
+      },
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "「これからの社会人に必要な『AIを仕事に活かす視点』とは？ ～さくらのAI検定で学ぶ実践力～」を開催いたします",
+        "summary": "",
+        "source": "さくらインターネット ニュース",
+        "url": "https://www.sakura.ad.jp/corporate/information/events/2026/11/27/1968226429/",
+        "type": "cloud"
+      },
       {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
@@ -24763,6 +24961,16 @@
       }
     ],
     "AIガバナンス": [
+      {
+        "date": "2026-11-28",
+        "date_ja": "2026年11月28日（土）",
+        "title": "防衛省、AI活用の新指針で人間が最終判断と責任を担うAIガバナンスを明記",
+        "summary": "防衛省が公表したAI活用の新指針「ディフェンスAIビジョン」は、AIの本格導入を前に、人間が最終判断と責任を担うとするAIガバナンスの重要性を強調している。",
+        "source": "sp.m.jiji.com",
+        "url": "https://sp.m.jiji.com/article/show/3921137",
+        "relevance": "AI導入における人間中心のガバナンス体制構築について、防衛省の事例を参考に検討をご検討ください。",
+        "type": "news"
+      },
       {
         "date": "2026-11-27",
         "date_ja": "2026年11月27日（金）",
@@ -26331,19 +26539,19 @@
     ]
   },
   "tag_counts": {
-    "セキュリティ": 173,
+    "セキュリティ": 175,
     "その他": 198,
     "行政AI": 40,
     "行政DX": 52,
-    "AI活用": 562,
-    "クラウド/インフラ": 156,
-    "制度/ガイドライン": 131,
-    "自治体DX事例": 111,
-    "AWS最新情報": 596,
-    "Google Cloud最新情報": 370,
-    "働き方/業務改革": 48,
-    "さくらのクラウド最新情報": 160,
-    "AIガバナンス": 38,
+    "AI活用": 564,
+    "クラウド/インフラ": 157,
+    "制度/ガイドライン": 133,
+    "自治体DX事例": 112,
+    "AWS最新情報": 601,
+    "Google Cloud最新情報": 375,
+    "働き方/業務改革": 49,
+    "さくらのクラウド最新情報": 162,
+    "AIガバナンス": 39,
     "ガバメントクラウド": 8,
     "調達・契約": 28,
     "デジタル庁": 3,
@@ -26352,5 +26560,5 @@
     "行政DX事例": 1,
     "財務省": 38
   },
-  "updated_at": "2026-11-26T23:26:16.908Z"
+  "updated_at": "2026-11-27T23:10:06.285Z"
 }
